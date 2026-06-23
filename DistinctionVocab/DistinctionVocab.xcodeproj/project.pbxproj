@@ -1,0 +1,526 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BSW0000 /* DependencyContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0000 /* DependencyContainer.swift */; };
+		BSW0001 /* DistinctionVocabApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0001 /* DistinctionVocabApp.swift */; };
+		BSW0002 /* ExampleSentenceDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0002 /* ExampleSentenceDTO.swift */; };
+		BSW0003 /* VocabularyCatalogDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0003 /* VocabularyCatalogDTO.swift */; };
+		BSW0004 /* BundleVocabularyDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0004 /* BundleVocabularyDataSource.swift */; };
+		BSW0005 /* VocabularyMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0005 /* VocabularyMapper.swift */; };
+		BSW0006 /* BundleAudioResourceRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0006 /* BundleAudioResourceRepository.swift */; };
+		BSW0007 /* BundleVocabularyRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0007 /* BundleVocabularyRepository.swift */; };
+		BSW0008 /* FileTranscriptionCacheRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0008 /* FileTranscriptionCacheRepository.swift */; };
+		BSW0009 /* AudioResourceReference.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0009 /* AudioResourceReference.swift */; };
+		BSW0010 /* ExampleSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0010 /* ExampleSentence.swift */; };
+		BSW0011 /* StudySessionState.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0011 /* StudySessionState.swift */; };
+		BSW0012 /* VocabularyBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0012 /* VocabularyBook.swift */; };
+		BSW0013 /* VocabularySearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0013 /* VocabularySearchResult.swift */; };
+		BSW0014 /* VocabularyWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0014 /* VocabularyWord.swift */; };
+		BSW0015 /* TranscriptionError.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0015 /* TranscriptionError.swift */; };
+		BSW0016 /* AudioResourceRepositoryProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0016 /* AudioResourceRepositoryProtocol.swift */; };
+		BSW0017 /* TranscriptionCacheRepositoryProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0017 /* TranscriptionCacheRepositoryProtocol.swift */; };
+		BSW0018 /* VocabularyRepositoryProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0018 /* VocabularyRepositoryProtocol.swift */; };
+		BSW0019 /* LoadVocabularyUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0019 /* LoadVocabularyUseCase.swift */; };
+		BSW0020 /* ManageStudySessionUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0020 /* ManageStudySessionUseCase.swift */; };
+		BSW0021 /* ResolveExampleSentenceTextsUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0021 /* ResolveExampleSentenceTextsUseCase.swift */; };
+		BSW0022 /* SearchVocabularyUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0022 /* SearchVocabularyUseCase.swift */; };
+		BSW0023 /* TranscribeAudioUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0023 /* TranscribeAudioUseCase.swift */; };
+		BSW0024 /* AVAudioPlaybackService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0024 /* AVAudioPlaybackService.swift */; };
+		BSW0025 /* AudioPlaybackManaging.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0025 /* AudioPlaybackManaging.swift */; };
+		BSW0026 /* SpeechAudioTranscriptionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0026 /* SpeechAudioTranscriptionService.swift */; };
+		BSW0027 /* BookListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0027 /* BookListView.swift */; };
+		BSW0028 /* WordListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0028 /* WordListView.swift */; };
+		BSW0029 /* AudioPlayButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0029 /* AudioPlayButton.swift */; };
+		BSW0030 /* ExampleSentenceCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0030 /* ExampleSentenceCard.swift */; };
+		BSW0031 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0031 /* ContentView.swift */; };
+		BSW0032 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0032 /* SearchView.swift */; };
+		BSW0033 /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0033 /* SearchViewModel.swift */; };
+		BSW0034 /* StudyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0034 /* StudyView.swift */; };
+		BSW0035 /* StudyViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0035 /* StudyViewModel.swift */; };
+		BSW0036 /* VocabularyCatalogViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0036 /* VocabularyCatalogViewModel.swift */; };
+		BSW0037 /* WordDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0037 /* WordDetailView.swift */; };
+		BSW0038 /* WordDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0038 /* WordDetailViewModel.swift */; };
+		BSW0039 /* QuizMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0039 /* QuizMode.swift */; };
+		BSW0040 /* QuizQuestion.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0040 /* QuizQuestion.swift */; };
+		BSW0041 /* GenerateQuizQuestionsUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0041 /* GenerateQuizQuestionsUseCase.swift */; };
+		BSW0042 /* QuizViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0042 /* QuizViewModel.swift */; };
+		BSW0043 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0043 /* QuizView.swift */; };
+		BSW0044 /* PhoneticText.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0044 /* PhoneticText.swift */; };
+		BSW0045 /* HeadwordDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0045 /* HeadwordDisplay.swift */; };
+		BSW0046 /* DistinctionTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0046 /* DistinctionTheme.swift */; };
+		BSW0047 /* DistinctionExampleRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0047 /* DistinctionExampleRow.swift */; };
+		BSW0048 /* DistinctionWordPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0048 /* DistinctionWordPanel.swift */; };
+		BSW0049 /* StudyRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0049 /* StudyRating.swift */; };
+		BRES01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FRES01 /* Assets.xcassets */; };
+		BRES02 /* vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = FRES02 /* vocabulary.json */; };
+		BRES03 /* Audio in Resources */ = {isa = PBXBuildFile; fileRef = FRES03 /* Audio */; };
+		BFRM0001 /* Speech.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFRM0001 /* Speech.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FSW0000 /* DependencyContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyContainer.swift; sourceTree = "<group>"; };
+		FSW0001 /* DistinctionVocabApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctionVocabApp.swift; sourceTree = "<group>"; };
+		FSW0002 /* ExampleSentenceDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleSentenceDTO.swift; sourceTree = "<group>"; };
+		FSW0003 /* VocabularyCatalogDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyCatalogDTO.swift; sourceTree = "<group>"; };
+		FSW0004 /* BundleVocabularyDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleVocabularyDataSource.swift; sourceTree = "<group>"; };
+		FSW0005 /* VocabularyMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyMapper.swift; sourceTree = "<group>"; };
+		FSW0006 /* BundleAudioResourceRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleAudioResourceRepository.swift; sourceTree = "<group>"; };
+		FSW0007 /* BundleVocabularyRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleVocabularyRepository.swift; sourceTree = "<group>"; };
+		FSW0008 /* FileTranscriptionCacheRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileTranscriptionCacheRepository.swift; sourceTree = "<group>"; };
+		FSW0009 /* AudioResourceReference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioResourceReference.swift; sourceTree = "<group>"; };
+		FSW0010 /* ExampleSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleSentence.swift; sourceTree = "<group>"; };
+		FSW0011 /* StudySessionState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudySessionState.swift; sourceTree = "<group>"; };
+		FSW0012 /* VocabularyBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyBook.swift; sourceTree = "<group>"; };
+		FSW0013 /* VocabularySearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularySearchResult.swift; sourceTree = "<group>"; };
+		FSW0014 /* VocabularyWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyWord.swift; sourceTree = "<group>"; };
+		FSW0015 /* TranscriptionError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranscriptionError.swift; sourceTree = "<group>"; };
+		FSW0016 /* AudioResourceRepositoryProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioResourceRepositoryProtocol.swift; sourceTree = "<group>"; };
+		FSW0017 /* TranscriptionCacheRepositoryProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranscriptionCacheRepositoryProtocol.swift; sourceTree = "<group>"; };
+		FSW0018 /* VocabularyRepositoryProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyRepositoryProtocol.swift; sourceTree = "<group>"; };
+		FSW0019 /* LoadVocabularyUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadVocabularyUseCase.swift; sourceTree = "<group>"; };
+		FSW0020 /* ManageStudySessionUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManageStudySessionUseCase.swift; sourceTree = "<group>"; };
+		FSW0021 /* ResolveExampleSentenceTextsUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResolveExampleSentenceTextsUseCase.swift; sourceTree = "<group>"; };
+		FSW0022 /* SearchVocabularyUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVocabularyUseCase.swift; sourceTree = "<group>"; };
+		FSW0023 /* TranscribeAudioUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranscribeAudioUseCase.swift; sourceTree = "<group>"; };
+		FSW0024 /* AVAudioPlaybackService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVAudioPlaybackService.swift; sourceTree = "<group>"; };
+		FSW0025 /* AudioPlaybackManaging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlaybackManaging.swift; sourceTree = "<group>"; };
+		FSW0026 /* SpeechAudioTranscriptionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechAudioTranscriptionService.swift; sourceTree = "<group>"; };
+		FSW0027 /* BookListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookListView.swift; sourceTree = "<group>"; };
+		FSW0028 /* WordListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordListView.swift; sourceTree = "<group>"; };
+		FSW0029 /* AudioPlayButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayButton.swift; sourceTree = "<group>"; };
+		FSW0030 /* ExampleSentenceCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleSentenceCard.swift; sourceTree = "<group>"; };
+		FSW0031 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FSW0032 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		FSW0033 /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
+		FSW0034 /* StudyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyView.swift; sourceTree = "<group>"; };
+		FSW0035 /* StudyViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyViewModel.swift; sourceTree = "<group>"; };
+		FSW0036 /* VocabularyCatalogViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyCatalogViewModel.swift; sourceTree = "<group>"; };
+		FSW0037 /* WordDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordDetailView.swift; sourceTree = "<group>"; };
+		FSW0038 /* WordDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordDetailViewModel.swift; sourceTree = "<group>"; };
+		FSW0039 /* QuizMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizMode.swift; sourceTree = "<group>"; };
+		FSW0040 /* QuizQuestion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizQuestion.swift; sourceTree = "<group>"; };
+		FSW0041 /* GenerateQuizQuestionsUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerateQuizQuestionsUseCase.swift; sourceTree = "<group>"; };
+		FSW0042 /* QuizViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewModel.swift; sourceTree = "<group>"; };
+		FSW0043 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		FSW0044 /* PhoneticText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneticText.swift; sourceTree = "<group>"; };
+		FSW0045 /* HeadwordDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadwordDisplay.swift; sourceTree = "<group>"; };
+		FSW0046 /* DistinctionTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctionTheme.swift; sourceTree = "<group>"; };
+		FSW0047 /* DistinctionExampleRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctionExampleRow.swift; sourceTree = "<group>"; };
+		FSW0048 /* DistinctionWordPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctionWordPanel.swift; sourceTree = "<group>"; };
+		FSW0049 /* StudyRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyRating.swift; sourceTree = "<group>"; };
+		FRES01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FRES02 /* vocabulary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
+		FRES03 /* Audio */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Audio; sourceTree = "<group>"; };
+		FFRM0001 /* Speech.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Speech.framework; path = System/Library/Frameworks/Speech.framework; sourceTree = SDKROOT; };
+		PAPP0001 /* DistinctionVocab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DistinctionVocab.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FW000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BFRM0001 /* Speech.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		GRPRES /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FRES02 /* vocabulary.json */,
+				FRES03 /* Audio */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		GRPDOMAIN /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				GRPDOMAIN_USECASES /* UseCases */,
+				GRPDOMAIN_ENTITIES /* Entities */,
+				GRPDOMAIN_REPOSITORIES /* Repositories */,
+				GRPDOMAIN_ERRORS /* Errors */
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		GRPINFRASTRUCTURE /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+				GRPINFRASTRUCTURE_AUDIO /* Audio */,
+				GRPINFRASTRUCTURE_SPEECH /* Speech */
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				GRPPRESENTATION_VOCABULARY /* Vocabulary */,
+				GRPPRESENTATION_BOOKS /* Books */,
+				GRPPRESENTATION_WORDDETAIL /* WordDetail */,
+				GRPPRESENTATION_SEARCH /* Search */,
+				GRPPRESENTATION_STUDY /* Study */,
+				GRPPRESENTATION_QUIZ /* Quiz */,
+				GRPPRESENTATION_THEME /* Theme */,
+				GRPPRESENTATION_COMPONENTS /* Components */,
+				GRPPRESENTATION_ROOT /* Root */
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		GRPDATA /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				GRPDATA_REPOSITORIES /* Repositories */,
+				GRPDATA_DTOS /* DTOs */,
+				GRPDATA_MAPPERS /* Mappers */,
+				GRPDATA_DATASOURCES /* DataSources */
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		GRPAPP /* App */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0000 /* DependencyContainer.swift */,
+				FSW0001 /* DistinctionVocabApp.swift */
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_VOCABULARY /* Vocabulary */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0036 /* VocabularyCatalogViewModel.swift */
+			);
+			path = Vocabulary;
+			sourceTree = "<group>";
+		};
+		GRPINFRASTRUCTURE_AUDIO /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0024 /* AVAudioPlaybackService.swift */,
+				FSW0025 /* AudioPlaybackManaging.swift */
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		GRPDOMAIN_USECASES /* UseCases */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0019 /* LoadVocabularyUseCase.swift */,
+				FSW0020 /* ManageStudySessionUseCase.swift */,
+				FSW0021 /* ResolveExampleSentenceTextsUseCase.swift */,
+				FSW0022 /* SearchVocabularyUseCase.swift */,
+				FSW0023 /* TranscribeAudioUseCase.swift */,
+				FSW0041 /* GenerateQuizQuestionsUseCase.swift */
+			);
+			path = UseCases;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_BOOKS /* Books */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0027 /* BookListView.swift */,
+				FSW0028 /* WordListView.swift */
+			);
+			path = Books;
+			sourceTree = "<group>";
+		};
+		GRPINFRASTRUCTURE_SPEECH /* Speech */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0026 /* SpeechAudioTranscriptionService.swift */
+			);
+			path = Speech;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_WORDDETAIL /* WordDetail */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0037 /* WordDetailView.swift */,
+				FSW0038 /* WordDetailViewModel.swift */
+			);
+			path = WordDetail;
+			sourceTree = "<group>";
+		};
+		GRPDOMAIN_ENTITIES /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0009 /* AudioResourceReference.swift */,
+				FSW0010 /* ExampleSentence.swift */,
+				FSW0039 /* QuizMode.swift */,
+				FSW0040 /* QuizQuestion.swift */,
+				FSW0049 /* StudyRating.swift */,
+				FSW0011 /* StudySessionState.swift */,
+				FSW0012 /* VocabularyBook.swift */,
+				FSW0013 /* VocabularySearchResult.swift */,
+				FSW0014 /* VocabularyWord.swift */
+			);
+			path = Entities;
+			sourceTree = "<group>";
+		};
+		GRPDATA_REPOSITORIES /* Repositories */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0006 /* BundleAudioResourceRepository.swift */,
+				FSW0007 /* BundleVocabularyRepository.swift */,
+				FSW0008 /* FileTranscriptionCacheRepository.swift */
+			);
+			path = Repositories;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_SEARCH /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0032 /* SearchView.swift */,
+				FSW0033 /* SearchViewModel.swift */
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		GRPDATA_DTOS /* DTOs */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0002 /* ExampleSentenceDTO.swift */,
+				FSW0003 /* VocabularyCatalogDTO.swift */
+			);
+			path = DTOs;
+			sourceTree = "<group>";
+		};
+		GRPDOMAIN_REPOSITORIES /* Repositories */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0016 /* AudioResourceRepositoryProtocol.swift */,
+				FSW0017 /* TranscriptionCacheRepositoryProtocol.swift */,
+				FSW0018 /* VocabularyRepositoryProtocol.swift */
+			);
+			path = Repositories;
+			sourceTree = "<group>";
+		};
+		GRPDATA_MAPPERS /* Mappers */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0005 /* VocabularyMapper.swift */
+			);
+			path = Mappers;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_STUDY /* Study */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0034 /* StudyView.swift */,
+				FSW0035 /* StudyViewModel.swift */
+			);
+			path = Study;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_COMPONENTS /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0029 /* AudioPlayButton.swift */,
+				FSW0030 /* ExampleSentenceCard.swift */,
+				FSW0044 /* PhoneticText.swift */,
+				FSW0045 /* HeadwordDisplay.swift */,
+				FSW0047 /* DistinctionExampleRow.swift */,
+				FSW0048 /* DistinctionWordPanel.swift */
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_THEME /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0046 /* DistinctionTheme.swift */
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_QUIZ /* Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0043 /* QuizView.swift */,
+				FSW0042 /* QuizViewModel.swift */
+			);
+			path = Quiz;
+			sourceTree = "<group>";
+		};
+		GRPDATA_DATASOURCES /* DataSources */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0004 /* BundleVocabularyDataSource.swift */
+			);
+			path = DataSources;
+			sourceTree = "<group>";
+		};
+		GRPDOMAIN_ERRORS /* Errors */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0015 /* TranscriptionError.swift */
+			);
+			path = Errors;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_ROOT /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0031 /* ContentView.swift */
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		GRPDVCB /* DistinctionVocab */ = {
+			isa = PBXGroup;
+			children = (
+				GRPAPP /* App */,
+				GRPDATA /* Data */,
+				GRPDOMAIN /* Domain */,
+				GRPINFRASTRUCTURE /* Infrastructure */,
+				GRPPRESENTATION /* Presentation */,
+				FRES01 /* Assets.xcassets */,
+				GRPRES /* Resources */
+			);
+			path = DistinctionVocab;
+			sourceTree = "<group>";
+		};
+		GRPPROD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				PAPP0001 /* DistinctionVocab.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		GRPMAIN /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				GRPDVCB /* DistinctionVocab */,
+				GRPPROD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		TGT00001 /* DistinctionVocab */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BLDTGT01;
+			buildPhases = (SRC00001, FW000001, RES00001);
+			buildRules = ();
+			dependencies = ();
+			name = DistinctionVocab;
+			productName = DistinctionVocab;
+			productReference = PAPP0001;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		PRJ00001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {BuildIndependentTargetsInParallel = 1; LastSwiftUpdateCheck = 2600; LastUpgradeCheck = 2600;};
+			buildConfigurationList = BLDP0001;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = ja;
+			hasScannedForEncodings = 0;
+			knownRegions = (en, ja, Base);
+			mainGroup = GRPMAIN;
+			productRefGroup = GRPPROD;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (TGT00001);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		RES00001 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (BRES01, BRES02, BRES03);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		SRC00001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BSW0000 /* DependencyContainer.swift in Sources */,
+				BSW0001 /* DistinctionVocabApp.swift in Sources */,
+				BSW0002 /* ExampleSentenceDTO.swift in Sources */,
+				BSW0003 /* VocabularyCatalogDTO.swift in Sources */,
+				BSW0004 /* BundleVocabularyDataSource.swift in Sources */,
+				BSW0005 /* VocabularyMapper.swift in Sources */,
+				BSW0006 /* BundleAudioResourceRepository.swift in Sources */,
+				BSW0007 /* BundleVocabularyRepository.swift in Sources */,
+				BSW0008 /* FileTranscriptionCacheRepository.swift in Sources */,
+				BSW0009 /* AudioResourceReference.swift in Sources */,
+				BSW0010 /* ExampleSentence.swift in Sources */,
+				BSW0011 /* StudySessionState.swift in Sources */,
+				BSW0012 /* VocabularyBook.swift in Sources */,
+				BSW0013 /* VocabularySearchResult.swift in Sources */,
+				BSW0014 /* VocabularyWord.swift in Sources */,
+				BSW0015 /* TranscriptionError.swift in Sources */,
+				BSW0016 /* AudioResourceRepositoryProtocol.swift in Sources */,
+				BSW0017 /* TranscriptionCacheRepositoryProtocol.swift in Sources */,
+				BSW0018 /* VocabularyRepositoryProtocol.swift in Sources */,
+				BSW0019 /* LoadVocabularyUseCase.swift in Sources */,
+				BSW0020 /* ManageStudySessionUseCase.swift in Sources */,
+				BSW0021 /* ResolveExampleSentenceTextsUseCase.swift in Sources */,
+				BSW0022 /* SearchVocabularyUseCase.swift in Sources */,
+				BSW0023 /* TranscribeAudioUseCase.swift in Sources */,
+				BSW0024 /* AVAudioPlaybackService.swift in Sources */,
+				BSW0025 /* AudioPlaybackManaging.swift in Sources */,
+				BSW0026 /* SpeechAudioTranscriptionService.swift in Sources */,
+				BSW0027 /* BookListView.swift in Sources */,
+				BSW0028 /* WordListView.swift in Sources */,
+				BSW0029 /* AudioPlayButton.swift in Sources */,
+				BSW0030 /* ExampleSentenceCard.swift in Sources */,
+				BSW0031 /* ContentView.swift in Sources */,
+				BSW0032 /* SearchView.swift in Sources */,
+				BSW0033 /* SearchViewModel.swift in Sources */,
+				BSW0034 /* StudyView.swift in Sources */,
+				BSW0035 /* StudyViewModel.swift in Sources */,
+				BSW0036 /* VocabularyCatalogViewModel.swift in Sources */,
+				BSW0037 /* WordDetailView.swift in Sources */,
+				BSW0038 /* WordDetailViewModel.swift in Sources */,
+				BSW0039 /* QuizMode.swift in Sources */,
+				BSW0040 /* QuizQuestion.swift in Sources */,
+				BSW0041 /* GenerateQuizQuestionsUseCase.swift in Sources */,
+				BSW0042 /* QuizViewModel.swift in Sources */,
+				BSW0043 /* QuizView.swift in Sources */,
+				BSW0044 /* PhoneticText.swift in Sources */,
+				BSW0045 /* HeadwordDisplay.swift in Sources */,
+				BSW0046 /* DistinctionTheme.swift in Sources */,
+				BSW0047 /* DistinctionExampleRow.swift in Sources */,
+				BSW0048 /* DistinctionWordPanel.swift in Sources */,
+				BSW0049 /* StudyRating.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		CFGDB001 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {ALWAYS_SEARCH_USER_PATHS = NO; CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; COPY_PHASE_STRIP = NO; DEBUG_INFORMATION_FORMAT = dwarf; ENABLE_TESTABILITY = YES; GCC_DYNAMIC_NO_PIC = NO; GCC_OPTIMIZATION_LEVEL = 0; GCC_PREPROCESSOR_DEFINITIONS = ("DEBUG=1", "$(inherited)"); IPHONEOS_DEPLOYMENT_TARGET = 17.0; MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE; ONLY_ACTIVE_ARCH = YES; SDKROOT = iphoneos; SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)"; SWIFT_OPTIMIZATION_LEVEL = "-Onone";}; name = Debug;};
+		CFGRB001 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {ALWAYS_SEARCH_USER_PATHS = NO; CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; COPY_PHASE_STRIP = NO; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; ENABLE_NS_ASSERTIONS = NO; IPHONEOS_DEPLOYMENT_TARGET = 17.0; MTL_ENABLE_DEBUG_INFO = NO; SDKROOT = iphoneos; SWIFT_COMPILATION_MODE = wholemodule; VALIDATE_PRODUCT = YES;}; name = Release;};
+		CFGD0001 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; DEVELOPMENT_TEAM = ""; ENABLE_PREVIEWS = YES; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "Distinction Vocab"; INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "例文の音声を文字起こしして表示するために使用します。"; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait; LD_RUNPATH_SEARCH_PATHS = ("$(inherited)", "@executable_path/Frameworks"); MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = com.gamechanger.DistinctionVocab; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_VERSION = 5.0; TARGETED_DEVICE_FAMILY = "1,2";}; name = Debug;};
+		CFGR0001 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; DEVELOPMENT_TEAM = ""; ENABLE_PREVIEWS = YES; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "Distinction Vocab"; INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "例文の音声を文字起こしして表示するために使用します。"; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait; LD_RUNPATH_SEARCH_PATHS = ("$(inherited)", "@executable_path/Frameworks"); MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = com.gamechanger.DistinctionVocab; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_VERSION = 5.0; TARGETED_DEVICE_FAMILY = "1,2";}; name = Release;};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BLDP0001 = {isa = XCConfigurationList; buildConfigurations = (CFGDB001, CFGRB001); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;};
+		BLDTGT01 = {isa = XCConfigurationList; buildConfigurations = (CFGD0001, CFGR0001); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;};
+/* End XCConfigurationList section */
+	};
+	rootObject = PRJ00001;
+}
