@@ -1,0 +1,2 @@
+DistinctionVocab/DistinctionVocab/Resources/Audio/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+DistinctionVocab/DistinctionVocab/Resources/Audio/**/*.wav filter=lfs diff=lfs merge=lfs -text

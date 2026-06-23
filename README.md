@@ -11,10 +11,24 @@
 
 ## セットアップ
 
-1. `DistinctionVocab.xcodeproj` を Xcode で開く
+### クローン（音声データ含む）
+
+音声ファイル（約 1.1GB）は Git LFS で管理しています。
+
+```bash
+git clone https://github.com/kosukesh34/DistinctionVocab.git
+cd DistinctionVocab
+git lfs pull
+```
+
+### Xcode でビルド
+
+1. `DistinctionVocab/DistinctionVocab.xcodeproj` を Xcode で開く
 2. シミュレータまたは実機で Run
 
-音声データは `~/Downloads/` の ZIP から `scripts/generate_catalog.py` で展開済みです。ZIP を更新した場合:
+### 音声データの再生成（ZIP から展開する場合）
+
+`~/Downloads/` に ZIP を置いて実行:
 
 ```bash
 python3 scripts/generate_catalog.py

@@ -14,6 +14,3 @@ xcuserdata/
 
 # Logs
 scripts/*.log
-
-# Audio assets (~1.1GB) — extract from ZIPs via scripts/generate_catalog.py
-DistinctionVocab/DistinctionVocab/Resources/Audio/
