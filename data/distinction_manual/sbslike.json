@@ -1,0 +1,1822 @@
+[
+  {
+    "number": 1,
+    "headword": "sb's like, /.../",
+    "nativeDefinition": "A casual filler used to introduce what someone said or thought, often before a direct quote.",
+    "japaneseMeaning": "「〜って」「〜みたいに」（口語で誰かの発言を引用する際の言い淀み）",
+    "etymology": "like の引用用法。カジュアルな会話で「彼女が言ったんだけど」の代わりに she was like と言う現代口語表現。",
+    "examples": {
+      "B": "グレーが仕事のあと行くイベントに誘ってくれたんだ。フリードリンクがあるって言うから、俺は「二つ返事で行くよ」って言っちゃった。",
+      "C": "兄弟がナスの切り方で盛り上がってた。俺は「とにかく切れよ、ただのナスだろ」って思った。",
+      "D": "誰かが言った、または考えた",
+      "E": "昨日妻のいびきについて文句言ってたら、彼女が「あんたこそ言えないでしょ。私は可愛い子猫みたいにいびくのに、あんたはライオンみたい」って言われた。",
+      "F": "誰かが言った、または考えた"
+    }
+  },
+  {
+    "number": 2,
+    "headword": "it's just that ...",
+    "nativeDefinition": "Used to explain or clarify the real reason behind something, as a mild correction or addition.",
+    "japaneseMeaning": "ただ〜なだけ／単に〜というだけ（本当の理由を補足する）",
+    "etymology": "just（ただ）と that の組み合わせで、「理由はこれだけ」と焦点を当てる表現。",
+    "examples": {
+      "B": "普段は卓球なんかしない。ただ、しばらく雨が降り続くらしいから、今は野球したくないだけなんだ。",
+      "C": "飛行機が怖いとかじゃない。ただ電車の方がずっと快適だから、そっちを選ぶってだけ。",
+      "D": "しかし／でも",
+      "E": "ハンバーガーは大好き。ただ昨夜3個食べたから、今はあんまり食べたい気分じゃないんだ。",
+      "F": "しかし／でも"
+    }
+  },
+  {
+    "number": 3,
+    "headword": "it's not that ...",
+    "nativeDefinition": "Used to deny a simplistic or incorrect interpretation while offering a more nuanced explanation.",
+    "japaneseMeaning": "〜というわけではない（誤解を否定して本当の理由を述べる）",
+    "etymology": "not that で「そういう意味ではない」と前置きし、後半で本音や本当の理由を述べる構文。",
+    "examples": {
+      "B": "勉強が嫌いなわけじゃない。ただ試験勉強が好きじゃないだけ。",
+      "C": "コーヒーを飲まないわけじゃない。ただ昼食後は控えるようにしてるだけ。",
+      "D": "そう言うのは正確ではない",
+      "E": "オンライン授業に反対なわけじゃない。ただ、先生が生徒の顔を直接見られないと、せいぜいを引き出すのがずっと難しくなると思う。",
+      "F": "そう言うのは正確ではない"
+    }
+  },
+  {
+    "number": 4,
+    "headword": "it's not like ...",
+    "nativeDefinition": "Used to reject an assumption or exaggeration, emphasizing that something is not actually the case.",
+    "japaneseMeaning": "〜というわけじゃない（相手の思い込みや大げさな解釈を否定する）",
+    "etymology": "not like で「まるで〜かのように」と否定し、実際の状況とのギャップを示す。",
+    "examples": {
+      "B": "なんで彼女はいつも俺に時間を聞くの？俺の方がスマホを見るのが上手いわけじゃないのに。",
+      "C": "俺がエクストリームスポーツが大好きだって人に言うのやめて。スカイダイビングは一度だけ。毎週末クレイジーなことしてるわけじゃない。",
+      "D": "〜という状況ではない",
+      "E": "ミスを心配しなくていいよ。ミスしたからって死ぬわけじゃないでしょ。",
+      "F": "〜という状況ではない"
+    }
+  },
+  {
+    "number": 5,
+    "headword": "it's more like ...",
+    "nativeDefinition": "Used to reframe or correct a description, suggesting a more accurate way to characterize something.",
+    "japaneseMeaning": "というより〜に近い（表現を修正・言い換える）",
+    "etymology": "more like で「A というより B に近い」と、より正確な言い方へ修正する。",
+    "examples": {
+      "B": "元カノと別れたというより、時間とともに自然と離れていった感じ。",
+      "C": "彼のアイデアを盗んだわけじゃない。借りて自分なりにアレンジしたって感じ。",
+      "D": "そう言う方が正確だ",
+      "E": "ミスは必ずしもネガティブなことじゃない。新しいことを学ぶチャンスって感じの方が近い。",
+      "F": "そう言う方が正確だ"
+    }
+  },
+  {
+    "number": 6,
+    "headword": "it's adj how ...",
+    "nativeDefinition": "Used to comment on how surprising, odd, or noteworthy something is.",
+    "japaneseMeaning": "〜って（形容詞）よね／〜なのが（形容詞）",
+    "etymology": "it's + 形容詞 + how の構文で、ある事柄の性質や程度に対する感想を述べる。",
+    "examples": {
+      "B": "夜にコーヒー飲むとすごく眠くなるなんて、ちょっと変だよね。",
+      "C": "匂いでこんなに記憶が蘇るなんて、面白くない？",
+      "D": "それは〜だ",
+      "E": "人生が一瞬で変わるなんて本当に面白いよね。去年までコンビニで働いてた人が、今は政治家になってる。",
+      "F": "それは〜だ"
+    }
+  },
+  {
+    "number": 7,
+    "headword": "it's adj because ...",
+    "nativeDefinition": "Used to express a feeling or judgment about something, followed by the reason.",
+    "japaneseMeaning": "〜だから（形容詞）／〜で（形容詞）なのは",
+    "etymology": "it's + 形容詞 + because で、理由付きの評価・感情を述べる口語表現。",
+    "examples": {
+      "B": "昨夜、暗号通貨の仕組みを調べまくった。イライラするのは、どれだけ読んでも理解できないから。",
+      "C": "ウィルはタクシー代が払えないから帰らないって言う。変なのは、いつも高級な服を着てるのに。",
+      "D": "何が形容詞なの？",
+      "E": "この株に投資すべきだよ。今はまだ安いし、みんな気づいたら今後数年でめちゃくちゃ伸びる。最高だよ。",
+      "F": "何が形容詞なの？"
+    }
+  },
+  {
+    "number": 8,
+    "headword": "I like/love how ...",
+    "nativeDefinition": "Used to express appreciation for a particular quality or aspect of something.",
+    "japaneseMeaning": "〜なところが好き／〜なのが好き",
+    "etymology": "like/love + how で、ある点や様子への好意的な評価を表す。",
+    "examples": {
+      "B": "同僚が突然上司の真似をするのが面白くて好きなんだ。",
+      "C": "初めて会ったときのこと、もちろん覚えてるよ。すぐに意気投合できたのが本当に良かった。",
+      "D": "それが好き／それが大好き",
+      "E": "フランクがずっと遅れてることは全部教えてくれるのがいい。問題を抱え込んで助けを求めないのって最悪だから。",
+      "F": "それが好き／それが大好き"
+    }
+  },
+  {
+    "number": 9,
+    "headword": "this is/that's how ...",
+    "nativeDefinition": "Used to explain the method or process by which something is achieved.",
+    "japaneseMeaning": "そうやって〜する／そういうやり方で",
+    "etymology": "this/that's how で「こういう方法で」と手段・プロセスを説明する。",
+    "examples": {
+      "B": "目標を立てて、努力して、達成して、それを繰り返す。自信はそうやって築いていくものだ。",
+      "C": "後ろの人のためにいつもドアを開けてあげる。そう育てられたから。",
+      "D": "そういう方法だ／そういうやり方だ",
+      "E": "子供の頃、兄がよくカラオケに連れていってくれた。歌い始めたきっかけはそれなんだ。",
+      "F": "そういう方法だ／そういうやり方だ"
+    }
+  },
+  {
+    "number": 10,
+    "headword": "this/these sth/sb",
+    "nativeDefinition": "Used to introduce something you are about to talk about, often vaguely or emphatically.",
+    "japaneseMeaning": "こういう〜／ああいう〜（これから詳しく話す話題を導入する）",
+    "etymology": "this/these + 名詞 で、聞き手と共有する話題を「こういうやつ」と導入する口語表現。",
+    "examples": {
+      "B": "真夜中に裏庭を走り回ってる何かがいたんだ。リスだったみたいだけど、確認しないと安心できなくて。",
+      "C": "昨日 Tinder でめちゃくちゃ可愛い子を見つけたんだ。レベル高すぎたけど、勇気出していいね押したらマッチした。",
+      "D": "これから詳しく話す話題",
+      "E": "今の気持ちをぴったり表す言葉があるんだけど、思い出せない。舌の先まで来てるのに。",
+      "F": "これから詳しく話す話題"
+    }
+  },
+  {
+    "number": 11,
+    "headword": "how about ...",
+    "nativeDefinition": "Used to make a suggestion or propose an idea.",
+    "japaneseMeaning": "〜はどう？／〜してみない？",
+    "etymology": "how about で提案・勧誘を柔らかく行う口語表現。",
+    "examples": {
+      "B": "会議の時間を節約するために、資料は事前に配布するのはどう？",
+      "C": "もう一ヶ月くらい待って、このマーケ施策の結果を見てから判断するのはどう？変更するには早すぎると思う。",
+      "D": "提案する",
+      "E": "本当に顔のシミが気になるなら、皮膚科に行ってみたら？行った人みんな気に入ってるみたい。",
+      "F": "提案する"
+    }
+  },
+  {
+    "number": 12,
+    "headword": "how adj is sth/sb",
+    "nativeDefinition": "A rhetorical exclamation emphasizing how adjective something is.",
+    "japaneseMeaning": "〜って（形容詞）よね！／めちゃくちゃ（形容詞）じゃない？",
+    "etymology": "How + 形容詞 + is it? の倒置的な感嘆で、程度の高さを強調する。",
+    "examples": {
+      "B": "首相が握手しようとしてる人にフィストバンプしてる写真、見た？めちゃくちゃ面白くない？",
+      "C": "オーストラリア人はピーマンのことを Capsicum って呼ぶんだって。可愛くない？ラテン語みたい。",
+      "D": "とても形容詞な",
+      "E": "このジャケットめちゃくちゃいいよね？中古で買ったの信じられる？",
+      "F": "とても形容詞な"
+    }
+  },
+  {
+    "number": 13,
+    "headword": "it's like sth/doing",
+    "nativeDefinition": "Used to compare something to another thing, saying it is similar in nature.",
+    "japaneseMeaning": "〜みたいなもの／〜のようなもの",
+    "etymology": "it's like + 名詞/動名詞 で類似性を説明する比喩表現。",
+    "examples": {
+      "B": "やっとスケボーに慣れてきた。陸上サーフィンみたいなものだ。",
+      "C": "ディズニーCに行ったことがあるなら、大人向けのディズニーランドみたいなものだよ。",
+      "D": "何かに似ている",
+      "E": "季節によって違うって話の続きだけど、同じ意味の言葉が違う場合がある。フライの代わりにチップスって言うみたいな。",
+      "F": "何かに似ている"
+    }
+  },
+  {
+    "number": 14,
+    "headword": "it's like ...",
+    "nativeDefinition": "Used to suggest that something seems or feels as though a certain situation were true.",
+    "japaneseMeaning": "まるで〜みたい／〜かのようだ",
+    "etymology": "it's like + 節 で、推測や印象を「まるで〜のように」と表す。",
+    "examples": {
+      "B": "話しかけたいときいつも超忙しそうなんだ。まるでわざと避けてるみたい。",
+      "C": "先週買った株が全部急騰してる。まるで未来が見えてるみたいだよ。",
+      "D": "まるで〜のように",
+      "E": "それを読むの本当に難しい。まるで彼女は俺のこと好きなのに、直接会いたくないみたい。",
+      "F": "まるで〜のように"
+    }
+  },
+  {
+    "number": 15,
+    "headword": "it's kind of like sth/doing",
+    "nativeDefinition": "Used to describe something in approximate terms, comparing it loosely to something else.",
+    "japaneseMeaning": "なんていうか〜みたいな／ちょっと〜っぽい",
+    "etymology": "kind of like で、はっきりした分類ではなく「なんとなく〜に似てる」と述べる。",
+    "examples": {
+      "B": "コンブチャ、初めて飲んだんだけど、甘いお茶みたいな感じで、思ったよりマシだった。",
+      "C": "基本文法を理解せずに語学を勉強するのは良くない。ルールを知らずにスポーツをするようなものだ。",
+      "D": "〜と言えばそういうもの",
+      "E": "デザートにもらったこのケーキ、別格だよ。なんていうかチョコレートケーキみたいだけど、中にムースの層がある。",
+      "F": "〜と言えばそういうもの"
+    }
+  },
+  {
+    "number": 16,
+    "headword": "it's kind of like ...",
+    "nativeDefinition": "Used to express that something feels or seems a certain way, with a sense of approximation.",
+    "japaneseMeaning": "なんか〜みたい／ちょっと〜な感じ",
+    "etymology": "kind of like + 節 で、印象や感覚をやわらかく「なんとなく〜みたい」と表現する。",
+    "examples": {
+      "B": "お酒を飲むと、なんか本当の自分が出てくる感じ。",
+      "C": "ディズランド行ったことないの？アトラクションも建築もすごく綺麗なんだよ。別次元にいるみたい。",
+      "D": "まるで〜のように",
+      "E": "部屋が暑すぎる。なんかオーブンの中に住んでるみたい。",
+      "F": "まるで〜のように"
+    }
+  },
+  {
+    "number": 17,
+    "headword": "it's almost like sth/doing",
+    "nativeDefinition": "Used to compare something closely to another thing, emphasizing strong similarity.",
+    "japaneseMeaning": "ほとんど〜みたいな／もう〜に近い",
+    "etymology": "almost like + 名詞/動名詞 で、非常に近い類似性を強調する。",
+    "examples": {
+      "B": "このアルバムで一曲選ぶの、ほとんど好きな子を選べって言われてるみたいで無理。全部良いんだもん。",
+      "C": "F1 車を運転するの楽しい？最高だよ。地上でスカイダイビングしてるみたい。",
+      "D": "ほぼ〜のようなもの",
+      "E": "みんな自分はどの暗号通貨に賭ける価値があるか知ってるふりしてるけど、俺に言わせればコインを投げるのとほぼ同じだと思う。",
+      "F": "ほぼ〜のようなもの"
+    }
+  },
+  {
+    "number": 18,
+    "headword": "it's almost like ...",
+    "nativeDefinition": "Used to express that a situation or feeling is very close to a certain state.",
+    "japaneseMeaning": "もう〜も同然／まるで〜みたい",
+    "etymology": "almost like + 節 で、状態や感覚が「もう〜も同然」とほぼ一致することを表す。",
+    "examples": {
+      "B": "今ベッドで豚肉とナッツ食べてる。死なずに天国に行ってるみたい。",
+      "C": "この靴めちゃくちゃ履き心地いい。足に何も履いてないみたい。",
+      "D": "ほとんど〜のような気がする",
+      "E": "クリスから電話かかってくるの嫌なんだよね。なんか俺に何か必要なときだけ連絡してくるみたい。",
+      "F": "ほとんど〜のような気がする"
+    }
+  },
+  {
+    "number": 19,
+    "headword": "like ...",
+    "nativeDefinition": "Used as a discourse marker meaning 'as I said' or to draw a comparison ('as').",
+    "japaneseMeaning": "〜みたいに／前にも言ったように",
+    "etymology": "like は比較（〜のように）と引用・言及（前にも言ったように）の両方の用法がある。",
+    "examples": {
+      "B": "彼の言うことを鵜呑みにしちゃダメ。いつもみたいに大げさに言ってるだけだよ。",
+      "C": "ランニングの人みたいにボールを蹴ろうとしてるけど、全然速く飛んでかない。",
+      "D": "〜のように",
+      "E": "よく言うでしょ、走る前に歩き方を覚えなきゃいけないって。自分のスタイルを見つける前に、まずデザインの基礎を学ぶべきだ。",
+      "F": "〜のように"
+    }
+  },
+  {
+    "number": 20,
+    "headword": "it feels like ...",
+    "nativeDefinition": "Used to express a subjective impression or sense that something is the case.",
+    "japaneseMeaning": "〜な気がする／〜みたいな感じがする",
+    "etymology": "feel like + 節 で、確信ではなく主観的な印象・感覚を述べる。",
+    "examples": {
+      "B": "Netflix で見る良い作品は全部見ちゃった気がする。他に時間つぶすものがない。",
+      "C": "最近スティーブはなんか適当にやってる感じ。以前はもっと情熱的だったのに。",
+      "D": "〜だと思う",
+      "E": "俺たち、いつもバカみたいなことで喧嘩してる気がする。",
+      "F": "〜だと思う"
+    }
+  },
+  {
+    "number": 21,
+    "headword": "this is the kind/sort of thing",
+    "nativeDefinition": "Used to characterize something as a particular type of thing that has a certain quality.",
+    "japaneseMeaning": "まさにそういうこと／そういう種類のもの",
+    "etymology": "this is the kind/sort of thing that で、特定の性質を持つ典型例として紹介する。",
+    "examples": {
+      "B": "昔教えた生徒から試験に合格したって連絡が来た。こういうのが本当に嬉しい。",
+      "C": "地球の生命史についての新しいドキュメンタリー、めちゃくちゃ面白い。まさにこういうのにワクワクする。",
+      "D": "そういうタイプのもの",
+      "E": "ほら、親友が送ってくるこういうやつ。昨日はスニーカー履いて走ってるニワトリの動画。めちゃくちゃバカ。",
+      "F": "そういうタイプのもの"
+    }
+  },
+  {
+    "number": 22,
+    "headword": "a sth kind/sort of thing",
+    "nativeDefinition": "Used to describe something vaguely when you cannot think of a precise term.",
+    "japaneseMeaning": "なんていうか〜みたいなもの／〜っぽいもの",
+    "etymology": "a ... kind/sort of thing で、正確な名称が思い浮かばないときの曖昧な言い方。",
+    "examples": {
+      "B": "クオリッツみたいなリスと熊の中間みたいな感じ。他に言い方が思いつかない。",
+      "C": "この新しい携帯、折りたたみ式っぽいんだけどタッチスクリーン付き。",
+      "D": "〜とかそういうタイプのもの",
+      "E": "ジラートが何なのか実はよくわからないけど、なんていうかアイスクリームっぽいもの。",
+      "F": "〜とかそういうタイプのもの"
+    }
+  },
+  {
+    "number": 23,
+    "headword": "sth thing",
+    "nativeDefinition": "Used to refer to a trend, activity, or concept in a casual, sometimes dismissive way.",
+    "japaneseMeaning": "〜というやつ／〜ブーム",
+    "etymology": "sth + thing で、流行や概念を「〜というやつ」とカジュアルに指す。",
+    "examples": {
+      "B": "ファストファッションって環境に良くないから、もっと質の良い服を買うようにしてる。",
+      "C": "今夜 Uber Eats 試してみる。楽しみ。",
+      "D": "よくわからないけどそういうもの",
+      "E": "この Nintendo Ring Fit Adventure ってやつすごい。筋肉痛がきてる。",
+      "F": "よくわからないけどそういうもの"
+    }
+  },
+  {
+    "number": 24,
+    "headword": "..., I guess",
+    "nativeDefinition": "Added at the end of a sentence to express uncertainty or a tentative conclusion.",
+    "japaneseMeaning": "〜かな／〜だと思う（自信なさげに）",
+    "etymology": "I guess を文末に付け、推測や不確かさをやわらかく示すタグ用法。",
+    "examples": {
+      "B": "最近忙しくて仕事以外の時間が全然ない。忙しいとき用の右腕が必要かな。",
+      "C": "意識が現実を作ると思う。ある見方をすれば、俺たちの世界はほぼ VR みたいなものかな。",
+      "D": "たぶん",
+      "E": "今年ボーナスはもらえなかったけど、昇給はあった。プラス材料かな。",
+      "F": "たぶん"
+    }
+  },
+  {
+    "number": 25,
+    "headword": "..., I think",
+    "nativeDefinition": "Added at the end of a sentence to express a personal opinion or belief.",
+    "japaneseMeaning": "〜だと思う（個人的な見解を添える）",
+    "etymology": "I think を文末に付け、主観的な意見であることを示すタグ用法。",
+    "examples": {
+      "B": "このプロジェクトは順調だと思う。だから今夜は少し早めに帰るつもり。",
+      "C": "今夜楽しみ。映画も良さそうだと思う。",
+      "D": "私の意見では",
+      "E": "もう課題出しちゃいなよ。これ以上良くなるわけないと思う。",
+      "F": "私の意見では"
+    }
+  },
+  {
+    "number": 26,
+    "headword": "..., I think, ...",
+    "nativeDefinition": "I think inserted mid-sentence to qualify a statement as personal opinion.",
+    "japaneseMeaning": "〜だと思うけど（文中に挿入して意見であることを示す）",
+    "etymology": "I think を文中に挟み、述べる内容が個人的見解であると明示する。",
+    "examples": {
+      "B": "君の英語、I think ヨーロッパっぽいアクセントがあるけど、どこで習ったの？",
+      "C": "はっきり言うと、昨日の彼のプレゼンは I think 今までで最悪だった。形だけで誰にも響いてなかった。",
+      "D": "これはただの私見",
+      "E": "これが I think 今残ってる唯一の CD。他は全部 eBay で売っちゃった。",
+      "F": "これはただの私見"
+    }
+  },
+  {
+    "number": 27,
+    "headword": "..., doing",
+    "nativeDefinition": "A participial phrase describing what you were doing when something else happened.",
+    "japaneseMeaning": "〜している最中に／〜しながら",
+    "etymology": "現在分詞を文頭・文中に置き、主な出来事と同時進行の背景動作を描写する。",
+    "examples": {
+      "B": "昨夜電車を待ってる間、一日の出来事をぼんやり考えてたら、新商品のアイデアがひらめいた。",
+      "C": "晴れた週末は、特に目的地もなくぶらぶら歩くのが好き。",
+      "D": "〜している間に、誰かが〜していた",
+      "E": "トレッドミルで走りながら好きな映画のサントラを聞いてた。映画の主役になった気分だった。",
+      "F": "〜している間に、誰かが〜していた"
+    }
+  },
+  {
+    "number": 28,
+    "headword": "sb/sth doing",
+    "nativeDefinition": "A participial phrase commenting on someone's habitual or typical behavior.",
+    "japaneseMeaning": "〜するのは（評価・コメントを添える）",
+    "etymology": "sb/sth + doing で、主語の行動に対する評価や感想を前置きする口語構文。",
+    "examples": {
+      "B": "彼女の言葉を深読みしすぎるのは普通。彼女の言うことはいつも曖昧で優柔不断だから。",
+      "C": "うちの犬があんな吠え方するのは変だね。すごくお腹空いてるに違いない。",
+      "D": "誰かが〜しているという事実",
+      "E": "イタリアにいたとき、知らない単語に出会うたびにメモした。それが自分だけのイタリア語単語帳を作り始めたきっかけ。",
+      "F": "誰かが〜しているという事実"
+    }
+  },
+  {
+    "number": 29,
+    "headword": "sb/sth doing",
+    "nativeDefinition": "A participial phrase pointing out someone or something doing an action, often with surprise.",
+    "japaneseMeaning": "〜してる（人／物）（驚きや注目を伴う）",
+    "etymology": "sb/sth + doing で、目の前の光景や状況を「あの〜してるやつ」と指し示す。",
+    "examples": {
+      "B": "尻尾を追いかけ回ってるあの猫、面白いね。犬だけだと思ってた。",
+      "C": "32 個のビッグマックを一気に食べてる男の動画を見た。狂ってる。",
+      "D": "〜している人／物",
+      "E": "あのバイオリン弾いてる子、まだ13歳なんだ。自分があの年齢で何してたか思い出そうとしてる。",
+      "F": "〜している人／物"
+    }
+  },
+  {
+    "number": 30,
+    "headword": "this is sb/sth doing",
+    "nativeDefinition": "Used when showing a photo or video of yourself or someone doing something.",
+    "japaneseMeaning": "これが〜してるところ（写真・動画を見せながら）",
+    "etymology": "this is + doing で、映像や写真の内容を説明する際の定番表現。",
+    "examples": {
+      "B": "これが前回の誕生日パーティーで友達と楽しんでるところ。いい写真でしょ？",
+      "C": "ほら、うちの犬が床に落としたアイスクリーム食べてるとこ。可愛くない？",
+      "D": "誰かが〜している場面",
+      "E": "これが初めて日本語を話そうとしてるところ。ひどいでしょ？19歳のとき YouTube に上げたら、日本人からコメントめちゃくちゃもらった。",
+      "F": "誰かが〜している場面"
+    }
+  },
+  {
+    "number": 31,
+    "headword": "(sb/sth) doing, that's adj/sth",
+    "nativeDefinition": "Commenting on an action, then evaluating it with 'that's adj/sth'.",
+    "japaneseMeaning": "〜するのは〜だ（行為に対する評価を述べる）",
+    "etymology": "doing, that's ... の構文で、ある行為と別の行為を対比し評価を下す。",
+    "examples": {
+      "B": "このラーメン屋、スープに生クリーム入れるの？キモい。誰が注文するんだ。",
+      "C": "一緒にジングルやりたがるのは構わない。でも「人生楽しめ」って言われるのはキツい。",
+      "D": "誰かが〜しているのは形容詞",
+      "E": "デートの数日前にキャンセルするのは別にいいと思う。でも突然連絡を完全に断つのは、それはかなり失礼だよ。",
+      "F": "誰かが〜しているのは形容詞"
+    }
+  },
+  {
+    "number": 32,
+    "headword": "(sb/sth) doing, that'd be adj/s",
+    "nativeDefinition": "Commenting on a hypothetical action and saying it would be a certain way.",
+    "japaneseMeaning": "〜したら〜だろうな（仮定の行為に対する評価）",
+    "etymology": "doing, that'd be ... で、もしそうなったらどうなるかを評価する。",
+    "examples": {
+      "B": "アパートの隣にスタバができるなんて、最高じゃん。ほぼ毎日そこで勉強してる。",
+      "C": "ニューオーリンズに数日行くの、結構楽しそうじゃない？",
+      "D": "誰かが〜するのは形容詞だろう",
+      "E": "俺が新しい言語を学ぶのは、この年齢だと結構大変だろうな。それでも遅くないに越したことはないけど。",
+      "F": "誰かが〜するのは形容詞だろう"
+    }
+  },
+  {
+    "number": 33,
+    "headword": "have sb doing",
+    "nativeDefinition": "To cause or require someone to do something, often repeatedly or against their preference.",
+    "japaneseMeaning": "（人に）〜させる／（人に）〜させられている",
+    "etymology": "have + 人 + doing で、使役・継続的な要求を表す。have sb do より進行・反復のニュアンス。",
+    "examples": {
+      "B": "子供の頃、読書が好きだったのに親は勉強させられた。小説家になるなんて思ってなかっただろうね。",
+      "C": "上司にイライラさせられてる。仕事を断るたびに誰も興味ない細かい話を始める。",
+      "D": "（人に）〜させる",
+      "E": "明日 FIFA 数戦しに寄ってかない？母が昼過ぎまで雑用させるから、そのあとなら。",
+      "F": "（人に）〜させる"
+    }
+  },
+  {
+    "number": 34,
+    "headword": "get sb doing",
+    "nativeDefinition": "To cause someone to start doing or feeling something, often as a reaction.",
+    "japaneseMeaning": "（人を）〜させる／（人を）〜な気分にさせる",
+    "etymology": "get + 人 + doing で、何かの影響で自然とその状態・行動に至ることを表す。",
+    "examples": {
+      "B": "ジブリ映画ばかり見てて、なんでジブリの料理はあんなに美味しそうに見えるんだろうって考えさせられる。",
+      "C": "暑さのせいで毎朝超早く目が覚めるようになった。仕事着く頃には結構疲れてる。今夜は早く寝よう。",
+      "D": "（人に）〜させる原因になる",
+      "E": "この動画見て、めちゃくちゃ爆笑しちゃった。",
+      "F": "（人に）〜させる原因になる"
+    }
+  },
+  {
+    "number": 35,
+    "headword": "get to do",
+    "nativeDefinition": "To have the opportunity or permission to do something.",
+    "japaneseMeaning": "〜できる／〜する機会がある",
+    "etymology": "get to do は機会・許可・特権を得て何かができることを表す口語。",
+    "examples": {
+      "B": "バーで働いてるのが好きなのは、好きなものを無料で飲めるから。最高だよ。",
+      "C": "昨日は人生最高の日。ジャック・メンバーと話せた。夢が叶った。",
+      "D": "〜する機会がある",
+      "E": "仕事のせいで、昔ほど運動できなくなったから、50分のエクササイズを始めて元のリズムに戻そうと思ってる。",
+      "F": "〜する機会がある"
+    }
+  },
+  {
+    "number": 36,
+    "headword": "get doing",
+    "nativeDefinition": "To start doing something, often with energy or urgency.",
+    "japaneseMeaning": "〜し始める／さあ〜しよう",
+    "etymology": "get + 動名詞/動詞原形 で「さあ始めよう」と行動開始を促す口語。",
+    "examples": {
+      "B": "ダニエル昨夜めちゃくちゃぎこちなかった。みんな政治の話してるのに、ニュース読まない俺でもなんとか乗り切った。",
+      "C": "その通り、急がないと遅刻する。頼りになるね。",
+      "D": "〜し始める",
+      "E": "今日は肉と野菜のパイの作り方を50分で紹介する。さあ、料理始めよう！",
+      "F": "〜し始める"
+    }
+  },
+  {
+    "number": 37,
+    "headword": "be going to have to do",
+    "nativeDefinition": "Expressing that someone will inevitably need to do something in the future.",
+    "japaneseMeaning": "〜しなきゃいけなくなる／〜せざるを得ない",
+    "etymology": "be going to have to do で、将来避けられない義務・必要を述べる。",
+    "examples": {
+      "B": "日本で無料医療があれば最高だけど、誰かが払わなきゃいけないでしょ？非現実的な話。",
+      "C": "フランス語の勉強どう？俺もそろそろスペイン語を復習しなきゃ。使わないと忘れるよね。",
+      "D": "いずれ誰かが〜しなければならない",
+      "E": "すみません、もうすぐ閉店するので、お帰りいただかなきゃいけません。",
+      "F": "いずれ誰かが〜しなければならない"
+    }
+  },
+  {
+    "number": 38,
+    "headword": "be going to need to do",
+    "nativeDefinition": "Expressing that someone will need to do something, often as a requirement.",
+    "japaneseMeaning": "〜する必要がある／〜しなきゃ",
+    "etymology": "be going to need to do で、今後必要になる行動を述べる。",
+    "examples": {
+      "B": "ネイティブが使うフレーズを早く覚えたいなら、Distinction みたいな良い教材が必要だよ。",
+      "C": "いずれ運転免許取らなきゃ。いつかアメリカに移住したいから。",
+      "D": "いずれ誰かが〜する必要がある",
+      "E": "元カノのことまだ引きずってるのはわかるけど、本当に前に進みたいなら、彼とは縁を切る必要があるよ。",
+      "F": "いずれ誰かが〜する必要がある"
+    }
+  },
+  {
+    "number": 39,
+    "headword": "be going to need sth",
+    "nativeDefinition": "Expressing that something will be needed.",
+    "japaneseMeaning": "〜が必要になる",
+    "etymology": "be going to need + 名詞 で、今後必要になるものを述べる。",
+    "examples": {
+      "B": "週末に投稿したいなら、明日の朝までにこの動画の初稿が必要だよ。",
+      "C": "忙しいのはわかるけど、これ手伝ってほしい。",
+      "D": "いずれ何かが必要になる",
+      "E": "そろそろ新しい仕事が必要かも。この仕事も悪くないけど、ちょっと行き詰まってる感じ。",
+      "F": "いずれ何かが必要になる"
+    }
+  },
+  {
+    "number": 40,
+    "headword": "be going to be doing",
+    "nativeDefinition": "Used to describe a planned or ongoing future activity over a period of time.",
+    "japaneseMeaning": "〜することになる／（これから）〜する予定",
+    "etymology": "be going to be doing で、将来の継続的な活動や予定を述べる。",
+    "examples": {
+      "B": "火曜に試験があるから、午後ずっと図書館で勉強する予定。",
+      "C": "今日の動画では、最高のスイカジュースの作り方について話していく。",
+      "D": "〜する予定だ",
+      "E": "Apple が数日以内に新製品を発表する予定だから、注目しておいた方がいい。間違いなくエピックになるよ。",
+      "F": "〜する予定だ"
+    }
+  },
+  {
+    "number": 41,
+    "headword": "go do",
+    "nativeDefinition": "Used to suggest going somewhere to do something.",
+    "japaneseMeaning": "〜に行こう／〜しに行く",
+    "etymology": "go + 動詞原形 は口語で「〜しに行く」という提案・行動を表す。",
+    "examples": {
+      "B": "ランチ行かない？いい店知ってるよ。",
+      "C": "お気持ちはわかりますが、こちらでは対応できません。店長に話しに行ってみます。",
+      "D": "行って〜する",
+      "E": "彼氏がプレゼント買ってくれないとか文句言ってる女の子の話を聞いた。俺は「黙って自分で買えよ」って思った。",
+      "F": "行って〜する"
+    }
+  },
+  {
+    "number": 42,
+    "headword": "come do",
+    "nativeDefinition": "An invitation to come and do something or visit somewhere.",
+    "japaneseMeaning": "〜しに来て／〜に来て",
+    "etymology": "come + 動詞原形 で「来て〜しよう」という招待・勧誘を表す。",
+    "examples": {
+      "B": "サンフランシスコに新店舗をオープンしたから、ぜひ来てね。",
+      "C": "彼女が会いに来てくれたらいいのに。今忙しいから無理なんだけど。",
+      "D": "来て〜する",
+      "E": "ノリ殺しすぎ。仕事のあと一緒に飲みに来てよ。",
+      "F": "来て〜する"
+    }
+  },
+  {
+    "number": 43,
+    "headword": "won't do/wouldn't do",
+    "nativeDefinition": "Something refuses to work, function, or cooperate.",
+    "japaneseMeaning": "〜してくれない／どうしても〜しない",
+    "etymology": "won't/wouldn't do で、物や人が意図通りに動作・協力しないことを擬人化して表す。",
+    "examples": {
+      "B": "アプリが開かない。何度も入れ直したけどダメ。",
+      "C": "高校の頃、親は9時過ぎて外に出させてくれなかった。過保護すぎた？",
+      "D": "〜しない／〜しなかった",
+      "E": "はしご貸してくれる？うちの猫が木から降りてこないんだ。",
+      "F": "〜しない／〜しなかった"
+    }
+  },
+  {
+    "number": 44,
+    "headword": "turns out (that) ...",
+    "nativeDefinition": "Used to reveal an unexpected fact or outcome.",
+    "japaneseMeaning": "〜だったらしい／〜だとわかった",
+    "etymology": "turns out で、後から判明した事実を「実は〜だった」と述べる。",
+    "examples": {
+      "B": "猫がアヒルと踊ってる動画に感動してたんだけど、全部フェイクだったらしい。",
+      "C": "Twitter でステーキの焼き方で議論してた相手、シェフだったらしい。最初から間違ってるのわかってたのに。",
+      "D": "驚くべきことに",
+      "E": "5歳の娘、もうサンタがいないって知ってたらしい。衝撃だよね。",
+      "F": "驚くべきことに"
+    }
+  },
+  {
+    "number": 45,
+    "headword": "find oneself doing",
+    "nativeDefinition": "To realize you are doing something, often unintentionally or habitually.",
+    "japaneseMeaning": "（気づいたら）〜している／〜してしまう",
+    "etymology": "find oneself doing で、意図せず・不知不識にその行動に至ったことを表す。",
+    "examples": {
+      "B": "最近なんもせずダラダラしてる自分に気づいた。早く切り替えないと。",
+      "C": "ここ数ヶ月、気づいたらマネージャーの役割を引き受けてた。自分を誇りに思う。",
+      "D": "なんとなく〜している",
+      "E": "よく気づいたら株価をチェックしてる。次の大きなチャンスを逃したくないから。",
+      "F": "なんとなく〜している"
+    }
+  },
+  {
+    "number": 46,
+    "headword": "let's say ...",
+    "nativeDefinition": "Used to introduce a hypothetical scenario for discussion.",
+    "japaneseMeaning": "仮に〜だとしたら／例えば〜なら",
+    "etymology": "let's say で仮定の状況を設定し、議論や思考実験を始める。",
+    "examples": {
+      "B": "仮に先週の婚活パーティーに行ったとして、本当に理想の女性に出会えたと思う？無理でしょ。だから行かないんだ。",
+      "C": "仮に奥さんが家計を支えて、今ほど働かなくていいとしたら、幸せ？",
+      "D": "仮定する",
+      "E": "仮に20代で、親がすごく寛大で1万ドルくれて、何に使う？",
+      "F": "仮定する"
+    }
+  },
+  {
+    "number": 47,
+    "headword": "I say ...",
+    "nativeDefinition": "Used to propose what you think should be done.",
+    "japaneseMeaning": "〜すべきだ／〜しよう",
+    "etymology": "I say + 節 で、強めの提案・意見を述べる口語表現。",
+    "examples": {
+      "B": "リズが彼女になるか決めるのに時間かかりすぎ。保険として扱ってるだけだと思う。もうはっきりさせた方がいい。",
+      "C": "長いエッセイで説明するより図を描こう。百聞は一見に如かずだ。",
+      "D": "〜すべきだと思う",
+      "E": "本当にそのコートが好きなら、考えすぎるのやめて買っちゃえ。背中をかき切っても、あんなにぴったりのは二度と見つからない。",
+      "F": "〜すべきだと思う"
+    }
+  },
+  {
+    "number": 48,
+    "headword": "I'd say ...",
+    "nativeDefinition": "Used to give a personal estimate or opinion.",
+    "japaneseMeaning": "〜だと思う（個人的な見積もり・評価）",
+    "etymology": "I'd say で、控えめながらも自分の意見・推測を述べる。",
+    "examples": {
+      "B": "洗濯はまとめてやる方が、毎日少しずつより効率的だと思う。",
+      "C": "経済学者は未来を予測できるかのように振る舞うけど、科学というより芸術に近いと思う。",
+      "D": "私の意見では",
+      "E": "大富豪はみんな、すごく賢くて勤勉だったから稼げたみたいに話すけど、成功にはかなり大きな運の要素があると思う。",
+      "F": "私の意見では"
+    }
+  },
+  {
+    "number": 49,
+    "headword": "... and say, /.../",
+    "nativeDefinition": "Used to describe what people would say in reaction to something.",
+    "japaneseMeaning": "〜って言うだろう／〜と言われる",
+    "etymology": "and say で、他者の反応・評価を引用形式で予測する。",
+    "examples": {
+      "B": "孫が今のフォンデを見て「こんなのすごいと思ってたなんて信じられない」って言うだろうね。",
+      "C": "このキュウリにハチミツ、試して食べたら「メロンみたい」って言うよ。",
+      "D": "〜と言うだろう",
+      "E": "人に僕の製品を見てもらって、未来から来たみたいだって言ってほしい。",
+      "F": "〜と言うだろう"
+    }
+  },
+  {
+    "number": 50,
+    "headword": "... and think, /.../",
+    "nativeDefinition": "Used to describe what people would think in reaction to something.",
+    "japaneseMeaning": "〜と思うだろう／〜と思われる",
+    "etymology": "and think で、他者の内心の反応を予測する。",
+    "examples": {
+      "B": "半分剃った頭を見た人は「わざとやったの？」と思うだろう。",
+      "C": "森を歩いてると、たまに立ち止まって「木たちが話せたら何を言うだろう」と考える。",
+      "D": "〜と思う／〜と気づく",
+      "E": "フェラーリを見て「この人お金持ちすぎ」って思われたくない。何年かかって貯めたんだから。",
+      "F": "〜と思う／〜と気づく"
+    }
+  },
+  {
+    "number": 51,
+    "headword": "sb/sth would do",
+    "nativeDefinition": "Used to predict how someone would react or behave in a situation.",
+    "japaneseMeaning": "〜するだろう（相手の反応を予測する）",
+    "etymology": "would do で、仮定の状況での相手の反応を推測する。",
+    "examples": {
+      "B": "新しい車買いたいけど、奥さんは許してくれないだろうね。先月こっそり時計買ったら激怒されたし。",
+      "C": "引っ越し手伝ってくれない？200 ドルは払うよ。",
+      "D": "〜するだろうと思う",
+      "E": "ジョンに会ったことないでしょ。でっかいアフロでいつも赤いジャケット着てるから、すぐわかるよ。",
+      "F": "〜するだろうと思う"
+    }
+  },
+  {
+    "number": 52,
+    "headword": "sb/sth would do",
+    "nativeDefinition": "Used to describe typical or habitual behavior, or what is generally done.",
+    "japaneseMeaning": "〜するものだ／（普通）〜する",
+    "etymology": "would do で、一般的な傾向・習慣・典型例を述べる。",
+    "examples": {
+      "B": "アメリカ人は center の t を消すけど、イギリス人は普通発音する。",
+      "C": "ローカライズの良い例は日本のスタバ。桜フラペチーノとか焙じ茶ラテとか。",
+      "D": "〜するものだと思う",
+      "E": "このデータの私の解釈だと、競争に勝つには戦略を完全に変えなきゃいけないことになる。",
+      "F": "〜するものだと思う"
+    }
+  },
+  {
+    "number": 53,
+    "headword": "I'd suggest/recommend (that) ..",
+    "nativeDefinition": "Used to give advice or a recommendation.",
+    "japaneseMeaning": "〜することをお勧めする",
+    "etymology": "I'd suggest/recommend + that で、助言・推薦を述べる丁寧な表現。",
+    "examples": {
+      "B": "授業中メモ取った方がいいよ。スライドは学生サイトにアップされないから。",
+      "C": "週末は睡眠取った方がいい。すごく疲れて見える。",
+      "D": "提案する／お勧めする",
+      "E": "ヨーロッパには最低4週間は滞在した方がいいと思う。見るものがたくさんあるから。",
+      "F": "提案する／お勧めする"
+    }
+  },
+  {
+    "number": 54,
+    "headword": "sb would do",
+    "nativeDefinition": "Used to describe past habitual actions.",
+    "japaneseMeaning": "（昔は）よく〜したものだ",
+    "etymology": "would do で過去の習慣・反復的行動を表す（used to に近い）。",
+    "examples": {
+      "B": "この番組懐かしい。放課後テレビの前に何時間も座って見てたもんだ。",
+      "C": "大学時代は大変だった。授業前にレストラン、夜はバーかクラブで働く日が多かった。",
+      "D": "（昔）よく〜した",
+      "E": "練習のたびにコーチは、チームメイトを手の平のように知ることの大切さを強調してた。",
+      "F": "（昔）よく〜した"
+    }
+  },
+  {
+    "number": 55,
+    "headword": "I'd do",
+    "nativeDefinition": "Used to say what you would do in someone's situation (giving advice).",
+    "japaneseMeaning": "（私なら）〜する／〜した方がいい",
+    "etymology": "I'd do で、助言として「私ならこうする」と述べる。",
+    "examples": {
+      "B": "ランチの予約は早めに確保した方がいい。あそこ超混むから。",
+      "C": "昇進したのに給料上がらない？絶対交渉すべき。同じ給料で仕事増えるなんて。",
+      "D": "〜すべき／私なら〜する",
+      "E": "テスラの前では真面目に振る舞うべきだと思う。すごく厳しい人だから。",
+      "F": "〜すべき／私なら〜する"
+    }
+  },
+  {
+    "number": 56,
+    "headword": "sb/sth would've done",
+    "nativeDefinition": "Used to express what would have happened in a hypothetical past situation.",
+    "japaneseMeaning": "（仮定の過去なら）〜しただろう",
+    "etymology": "would've done で、過去の仮定条件での結果を述べる。",
+    "examples": {
+      "B": "10 代の頃 YouTube があれば、めちゃくちゃ稼げたのに。",
+      "C": "NBA の試合退屈だなんて。チケット譲ってくれれば、最高に楽しめたのに。",
+      "D": "仮定の状況なら〜しただろう",
+      "E": "フランクを切り札としてチームに入れたと思ってた。なんで試合中ずっとベンチにいたの？俺ならハーフタイムまでには出す。",
+      "F": "仮定の状況なら〜しただろう"
+    }
+  },
+  {
+    "number": 57,
+    "headword": "sb/sth would've done",
+    "nativeDefinition": "Used to infer that something probably happened or existed in the past.",
+    "japaneseMeaning": "〜したはずだ／〜していただろう",
+    "etymology": "would've done で、過去の状況からの推定・推測を表す。",
+    "examples": {
+      "B": "祖父母が子供の頃、この古いレコードプレーヤーで音楽を聴いてた。",
+      "C": "この壺は古代エジプト人が食料や水を保存するのに使ってたはず。",
+      "D": "おそらく〜した",
+      "E": "この会社2001年に始めたんでしょ。つまり君が起業したとき、俺は5、6歳くらいだったってことだ。",
+      "F": "おそらく〜した"
+    }
+  },
+  {
+    "number": 58,
+    "headword": "I would've thought (that) ...",
+    "nativeDefinition": "Used to express surprise that something is not as expected.",
+    "japaneseMeaning": "〜だと思っていた（実際は違った）",
+    "etymology": "I would've thought that で、当然そうだと思っていたが違った、という驚きを表す。",
+    "examples": {
+      "B": "すごく楽しそうだね。クラブで踊るの嫌がると思ってたのに。",
+      "C": "自分で食事代払ったの？上司とランチなら会社持ちだと思ってた。",
+      "D": "そうだと思ったが、実際は違った",
+      "E": "サウスパークのカートマンに似てるって誰も言わなかったの？よく言われると思ってたのに。",
+      "F": "そうだと思ったが、実際は違った"
+    }
+  },
+  {
+    "number": 59,
+    "headword": "I'd think (that) ...",
+    "nativeDefinition": "Used to express a tentative assumption or guess.",
+    "japaneseMeaning": "〜だと思う（推測・仮定）",
+    "etymology": "I'd think that で、控えめな推測・想定を述べる。",
+    "examples": {
+      "B": "10 月のオーストラリア行き航空券はそこそこ安いと思う。あの時期はどこもセールが多い。",
+      "C": "何歳に見える？難しい質問。20 代前半かな。",
+      "D": "〜だと想定する",
+      "E": "ヒョウ柄のテーブルはシンプルなリビングには浮きそうだけど、とりあえず試してみよう。",
+      "F": "〜だと想定する"
+    }
+  },
+  {
+    "number": 60,
+    "headword": "you'd think (that) ...",
+    "nativeDefinition": "Used when something is surprisingly not as one would expect.",
+    "japaneseMeaning": "〜だと思うけど（実際は違う）",
+    "etymology": "you'd think that で「普通はそう思うよね」という期待と現実のギャップを示す。",
+    "examples": {
+      "B": "日本はすごく技術先進国だと思うけど、先日クレカ申込みで ID のコピーを印刷して糊付けして郵送しろって言われた。",
+      "C": "この青いロボキャラ、ラaccoon かと思うけど、実は猫なんだ。",
+      "D": "そう思うのも無理はないが、実際は違う",
+      "E": "大企業で働いてるから金持ちだと思うでしょ。でも違う。上層部が儲けてる金の奴隷みたいなもんだ。",
+      "F": "そう思うのも無理はないが、実際は違う"
+    }
+  },
+  {
+    "number": 61,
+    "headword": "sb/sth could do",
+    "nativeDefinition": "Used to express possibility that something might happen.",
+    "japaneseMeaning": "〜かもしれない／〜する可能性がある",
+    "etymology": "could do で将来の可能性・不確実性を表す。",
+    "examples": {
+      "B": "彼女の誕生日プレゼント早めに注文した。届くまで6週間かかるかもしれないって。",
+      "C": "マネージャーが昇進を後押ししてくれるかもしれないけど、わからない。",
+      "D": "〜するかもしれない",
+      "E": "20年以内にみんな電気自動車を使ってるかもしれない。確実じゃないけど、可能性はゼロじゃない。",
+      "F": "〜するかもしれない"
+    }
+  },
+  {
+    "number": 62,
+    "headword": "sb/sth could do",
+    "nativeDefinition": "Used to say that something is capable of happening or being done.",
+    "japaneseMeaning": "〜できる／〜があり得る",
+    "etymology": "could do で能力・可能性を表す（can より控えめ）。",
+    "examples": {
+      "B": "いつか AI が大部分の仕事を置き換えるかもしれないけど、まだ成熟してないと思う。",
+      "C": "イーロン・マスクは10年以内に火星に人類を送れるって言ってる。現実的？",
+      "D": "〜できるかもしれない",
+      "E": "スケジュール確認するね。25日は確実にいける。28日と29日もいけると思うけど、もう一度確認が必要。たぶん大丈夫だと思う。",
+      "F": "〜できるかもしれない"
+    }
+  },
+  {
+    "number": 63,
+    "headword": "sb/sth could do",
+    "nativeDefinition": "Used to suggest something as a possible option.",
+    "japaneseMeaning": "〜してもいい／〜するのもあり",
+    "etymology": "could do で選択肢としての可能性を述べる。",
+    "examples": {
+      "B": "携帯落として画面割っちゃった。新しいの買ってもいいけど、修理したい。新しいの好きじゃない。",
+      "C": "自転車じゃなくて歩いてもいいよ。そんなに遠くないし。",
+      "D": "〜する選択肢がある",
+      "E": "俺の仕事は確実にリモートでできるけど、上司がなぜか反対してる。理解できない。",
+      "F": "〜する選択肢がある"
+    }
+  },
+  {
+    "number": 64,
+    "headword": "it could/might/may be that ...",
+    "nativeDefinition": "Used to suggest a possible explanation or reason.",
+    "japaneseMeaning": "〜かもしれない／〜の可能性がある",
+    "etymology": "it could/might/may be that で、原因や理由の可能性を述べる。",
+    "examples": {
+      "B": "ウェインは生まれつきフィットしてるのかもしれないけど、頻繁に運動してる可能性の方が高い。ノーペイン・ノーゲイン。",
+      "C": "学校をサボる理由はたくさんある。いじめられてるかもしれない。勉強についていけないかもしれない。複合的なことも。",
+      "D": "たぶん",
+      "E": "あ、確認メールまだ届いてない？スパムフォルダに入ってるかもしれない。確認して教えてくれる？",
+      "F": "たぶん"
+    }
+  },
+  {
+    "number": 65,
+    "headword": "sb might as well do",
+    "nativeDefinition": "Used when there is no strong reason not to do something; might as well.",
+    "japaneseMeaning": "〜した方がいい／どうせ〜するなら",
+    "etymology": "might as well do で「どうせなら」「やった方がマシ」と述べる。",
+    "examples": {
+      "B": "もう提出しちゃおう。締切明日だし、この段階でできることは限られてる。",
+      "C": "読者を混乱させる情報なら、記事から省いちゃった方がいい。",
+      "D": "〜した方がいいかも",
+      "E": "自分の YouTube チャンネル始めるべきかな？うん、やってみよう。いい趣味になりそう。",
+      "F": "〜した方がいいかも"
+    }
+  },
+  {
+    "number": 66,
+    "headword": "sb might want to do",
+    "nativeDefinition": "A polite way to suggest that someone should consider doing something.",
+    "japaneseMeaning": "〜した方がいいかも／〜を検討した方が",
+    "etymology": "might want to do で、控えめな助言・提案を述べる。",
+    "examples": {
+      "B": "彼女と仲直り、早めに考えた方がいいよ。時間が経つほど難しくなる。",
+      "C": "昨夜どこにいたか話を統一した方がいい。事実をコロコロ変えると誰も信じない。",
+      "D": "〜した方がいいかも",
+      "E": "プログラミングを学んだ方がいいかも。これからは若い人についていくにはそれが唯一の方法だと思う。",
+      "F": "〜した方がいいかも"
+    }
+  },
+  {
+    "number": 67,
+    "headword": "If sb/sth were to do, sb/sth wo",
+    "nativeDefinition": "Used in formal hypothetical conditions: if someone were to do something, then...",
+    "japaneseMeaning": "もし〜したら／仮に〜するなら",
+    "etymology": "If ... were to do の仮定法で、フォーマルな条件文を構成する。",
+    "examples": {
+      "B": "無人島に一つ持っていくなら、絶対スマホ持っていく。",
+      "C": "留学するなら、1〜2年は行きたい。",
+      "D": "もし誰かが〜するなら、誰かは〜する",
+      "E": "もしディズニーキャラになるなら、シンデレラの王子様かな。かっこいいし。",
+      "F": "もし誰かが〜するなら、誰かは〜する"
+    }
+  },
+  {
+    "number": 68,
+    "headword": "(if sb could do,) sb/sth would",
+    "nativeDefinition": "Used to make a polite request or express what would be nice.",
+    "japaneseMeaning": "〜してくれたら助かる／〜がいい",
+    "etymology": "if you could do, that would be great の丁寧な依頼・希望表現。",
+    "examples": {
+      "B": "忙しいのはわかるけど、今日中に質問に答えてくれたら助かる。",
+      "C": "午後犬の散歩お願いできる？本当に助かる。",
+      "D": "〜してくれれば、〜する",
+      "E": "デザインの草案を始める前に、クライアントがどのスタイルを好むか知れればいいのに。",
+      "F": "〜してくれれば、〜する"
+    }
+  },
+  {
+    "number": 69,
+    "headword": "more of a sth (than a sth)",
+    "nativeDefinition": "Used to say something is closer to one category than another.",
+    "japaneseMeaning": "〜というより〜に近い",
+    "etymology": "more of a ... than a ... で、分類を修正・言い換える。",
+    "examples": {
+      "B": "英国に10年以上住んでるけど、やっぱりコーヒー派。カフェイン効くし。",
+      "C": "マイケル・ジャクソンをミュージシャンと呼ぶのは間違いじゃないけど、エンターテイナーに近い。",
+      "D": "むしろ〜、〜",
+      "E": "人によっては勉強は義務みたいなものだけど、俺にとってはもっと習慣に近い。",
+      "F": "むしろ〜、〜"
+    }
+  },
+  {
+    "number": 70,
+    "headword": "more like sth (than sth)",
+    "nativeDefinition": "Used to recharacterize something as being more similar to one thing than another.",
+    "japaneseMeaning": "〜というより〜に近い",
+    "etymology": "more like ... than ... で、より正確な比較・言い換えを行う。",
+    "examples": {
+      "B": "犬はペットというより友達に近くない？",
+      "C": "科学は特定の科目というより、いろんな分野の総称に近い。",
+      "D": "〜に近い",
+      "E": "昨日初めてカエルを食べたけど、鶏肉の味がするって言われてるけど違った。実際は魚に近い味。",
+      "F": "〜に近い"
+    }
+  },
+  {
+    "number": 71,
+    "headword": "more adj than adj",
+    "nativeDefinition": "Used to compare two adjectives, saying one applies more than the other.",
+    "japaneseMeaning": "〜というより〜",
+    "etymology": "more adj than adj で、2つの形容詞のうちどちらが当てはまるかを比較する。",
+    "examples": {
+      "B": "2時間分の作業が消えた。悲しいというよりイライラする。",
+      "C": "両親は昔厳しかった。大変だったけど、今思えば自分のためだった。",
+      "D": "形容詞 A というより形容詞 B",
+      "E": "飲み物は甘いの好き？このチェリービール試してみて。甘いというより酸っぱいけど、すごく美味しい。",
+      "F": "形容詞 A というより形容詞 B"
+    }
+  },
+  {
+    "number": 72,
+    "headword": "it's more that ...",
+    "nativeDefinition": "Used to reframe the real reason or nature of something.",
+    "japaneseMeaning": "というより〜だ／〜に近い",
+    "etymology": "it's more that ... で、表面的な理由ではなく本質を言い換える。",
+    "examples": {
+      "B": "大学に行きたくなかったわけじゃない。新しいことを学ぶのが面白かっただけ。",
+      "C": "計画を立てれば必ず成功するわけじゃない。成功確率を上げられる、という方が正確。",
+      "D": "そう言う方が正確だ",
+      "E": "彼女は大好きだけど、生きるのに必要じゃない。わかる？一緒にいるのは楽しいからで、そんなに感情的に依存してるわけじゃない。",
+      "F": "そう言う方が正確だ"
+    }
+  },
+  {
+    "number": 73,
+    "headword": "sb/sth doesn't have as much (of",
+    "nativeDefinition": "Used to compare quantities, saying someone/something has less of something.",
+    "japaneseMeaning": "〜ほど〜がない",
+    "etymology": "doesn't have as much (of) ... as で、量の比較を表す。",
+    "examples": {
+      "B": "この候補者どう？他の人ほど経験はないけど、経歴が面白い。会社に新鮮な風を吹かせると思う。",
+      "C": "醤油ラーメンも美味しいけど、味噌が一番。醤油は味が薄い。",
+      "D": "同じ量の〜を持っていない",
+      "E": "ストレスみたいな心理的因子が肌に一番影響するんだと思う。食べるものほど影響はない。",
+      "F": "同じ量の〜を持っていない"
+    }
+  },
+  {
+    "number": 74,
+    "headword": "sb/sth doesn't have as many (of",
+    "nativeDefinition": "Used to compare numbers, saying someone/something has fewer of something.",
+    "japaneseMeaning": "〜ほどたくさん〜がない",
+    "etymology": "doesn't have as many (of) ... で、数の比較を表す。",
+    "examples": {
+      "B": "ジョンの YouTube チャンネル、俺のと似てる。動画数は少ないけど、方向性は同じ。",
+      "C": "残念ながら去年より人数が少ない。分担して賢くやれば間に合う。",
+      "D": "同じ数の〜を持っていない",
+      "E": "この小さなカフェはスターバックスほどドリンクの種類はないけど、雰囲気が別格。",
+      "F": "同じ数の〜を持っていない"
+    }
+  },
+  {
+    "number": 75,
+    "headword": "there's not as much sth (as ...",
+    "nativeDefinition": "Used to say there is less of something than expected or compared to something else.",
+    "japaneseMeaning": "〜ほど〜がない",
+    "etymology": "there's not as much ... as で、量が想定より少ないことを表す。",
+    "examples": {
+      "B": "色が思ったほど出てない。彩度とコントラスト上げられる？",
+      "C": "給料は前の仕事よりずっと少ないけど、プレッシャーもストレスも少ない。ずっと幸せ。",
+      "D": "〜が少ない",
+      "E": "Twitter に入ったのちょっと後悔してる。インスタだけにしておけばよかった。あっちの方がネガティブな投稿が少ない。",
+      "F": "〜が少ない"
+    }
+  },
+  {
+    "number": 76,
+    "headword": "there're not as many sth (as ..",
+    "nativeDefinition": "Used to say there are fewer of something than before or compared to something else.",
+    "japaneseMeaning": "〜ほどたくさん〜がない",
+    "etymology": "there're not as many ... as で、数が以前より少ないことを表す。",
+    "examples": {
+      "B": "日本の野良犬、昔ほどいない。なんでだろう。",
+      "C": "1950年にデトロイトの人口は180万以上だったけど、都市衰退で今は少ない。",
+      "D": "〜が少ない",
+      "E": "この国には起業したい若者が、あるべき数より少ないと思う。",
+      "F": "〜が少ない"
+    }
+  },
+  {
+    "number": 77,
+    "headword": "sb/sth doesn't do as much (as .",
+    "nativeDefinition": "Used to compare frequency or degree of an action.",
+    "japaneseMeaning": "〜ほど〜しない",
+    "etymology": "doesn't do as much (as) ... で、頻度・程度の比較を表す。",
+    "examples": {
+      "B": "最近あまり料理しない。今のプロジェクトが手に負えなくて時間がない。",
+      "C": "人の目を気にする人は多いけど、俺ほどストレスにはならない。変えられることには限界がある。",
+      "D": "あまり〜しない",
+      "E": "牛はメタンガスを大量に出すから環境に悪い。車ですらそんなに汚染しない。",
+      "F": "あまり〜しない"
+    }
+  },
+  {
+    "number": 78,
+    "headword": "some .../ some ...",
+    "nativeDefinition": "Used to contrast two groups: some ... while others ...",
+    "japaneseMeaning": "〜な人もいれば、〜な人もいる",
+    "etymology": "Some ... some ... で、対照的な2つのグループを並列する。",
+    "examples": {
+      "B": "筋肉がすぐつく人もいれば、時間かかる人もいる。頑張って。",
+      "C": "成長したい人もいれば、現状に満足してる人もいる。好みの問題。どちらも正解。",
+      "D": "他にも",
+      "E": "東京がどんなところか説明するの難しい。にぎやかで混んでる場所もあれば、静かで緑の多い場所もある。",
+      "F": "他にも"
+    }
+  },
+  {
+    "number": 79,
+    "headword": "..., which ...",
+    "nativeDefinition": "A non-restrictive relative clause adding extra information about the preceding statement.",
+    "japaneseMeaning": "〜で、（それは）〜",
+    "etymology": "which 節で、前文に付加的な情報を非限定用法で添える。",
+    "examples": {
+      "B": "ジェームズが昨日言った洞察、ビットコインに実用価値がなくても金も同じ、って。的を射てた。",
+      "C": "このブランドは添加物・保存料を一切使わない。それが良い。健康志向ならお勧め。",
+      "D": "そしてそれは",
+      "E": "まだ家計を支えるのは男の仕事だと思ってる人が多いけど、それはすごく時代遅れだと思う。",
+      "F": "そしてそれは"
+    }
+  },
+  {
+    "number": 80,
+    "headword": "in which case, ...",
+    "nativeDefinition": "Used to introduce a consequence that follows if a preceding condition is true.",
+    "japaneseMeaning": "その場合は〜／そうなったら",
+    "etymology": "in which case で、前の条件が成り立つ場合の結果を述べる。",
+    "examples": {
+      "B": "明日のプレゼンまでに売上データが確定しないかも。その場合は概算で話す。",
+      "C": "発送前なら注文キャンセルできる。そうなったらこのフォームに記入してこのメールに送って。",
+      "D": "その場合",
+      "E": "英語圏に住んでない限り、毎日勉強しないと英語は上達しない。その場合は自然に身につくかもしれないけど。",
+      "F": "その場合"
+    }
+  },
+  {
+    "number": 81,
+    "headword": "speaking of which, ...",
+    "nativeDefinition": "Used to shift to a related topic that was just mentioned or implied.",
+    "japaneseMeaning": "そういえば／それに関連して",
+    "etymology": "speaking of which で、直前の話題に関連する新しい話題へ移る。",
+    "examples": {
+      "B": "時間あるから散歩して頭を空にしよう。そういえば、この辺に散策できる良い公園ある？",
+      "C": "最近ゲーム全然できてない。そういえば昨夜 Wii の Luigi's Mansion 3 のトレーラー見た。最高だった。",
+      "D": "その話題について",
+      "E": "来週末ずっと天気良さそう。そういえば、そのときバーベキュー空いてる？空いてたら予定入れとく。",
+      "F": "その話題について"
+    }
+  },
+  {
+    "number": 82,
+    "headword": "the extent/degree to which ...",
+    "nativeDefinition": "Used to refer to the degree or extent of something.",
+    "japaneseMeaning": "〜の程度／〜の限界",
+    "etymology": "the extent/degree to which ... で、程度・範囲を表す名詞句。",
+    "examples": {
+      "B": "毎日少しずつ努力するだけで人生が大きく変わる、という程度を以前は理解してなかった。",
+      "C": "自分を愛する程度が、他人を愛する程度を決める。誰の言葉かわからないけど、素晴らしい。",
+      "D": "どのくらい",
+      "E": "論理で人の考えを変えられる程度はかなり限られてる。",
+      "F": "どのくらい"
+    }
+  },
+  {
+    "number": 83,
+    "headword": "sth where ...",
+    "nativeDefinition": "A relative clause describing a place, stage, or situation where something happens.",
+    "japaneseMeaning": "〜な段階／〜なところ",
+    "etymology": "sth where ... で、場所や状況を関係代名詞 where で修飾する。",
+    "examples": {
+      "B": "今は経験より物質に金を使いたい人生の段階にいる。",
+      "C": "インサイド・アウトでサドネスが泣き玉を渡すシーン、あのシーン大好き。",
+      "D": "〜な状況",
+      "E": "オンラインで金のなる木を築く方法について話してる面白い YouTube 動画がある。ぜひ見てみて。",
+      "F": "〜な状況"
+    }
+  },
+  {
+    "number": 84,
+    "headword": "to the point where ...",
+    "nativeDefinition": "Used to describe reaching such an extreme degree that a certain state results.",
+    "japaneseMeaning": "〜な程度まで／〜も同然",
+    "etymology": "to the point where ... で、極端な程度に達することを表す。",
+    "examples": {
+      "B": "ランチで寿司食べすぎて動けなくなるまで食べた。もうお腹空いてる。",
+      "C": "英語が上手くなるには、文法を考えなくていいくらい練習する必要がある。",
+      "D": "〜な段階まで",
+      "E": "昔オンラインゲームにハマりすぎて、父にプレイ禁止されたくらいだった。本当に中毒性ある。",
+      "F": "〜な段階まで"
+    }
+  },
+  {
+    "number": 85,
+    "headword": "this is something (that) ...",
+    "nativeDefinition": "Used to introduce something that many people overlook or that is noteworthy.",
+    "japaneseMeaning": "〜ということ（多くの人が考えない点）",
+    "etymology": "this is something (that) ... で、見落とされがちな点を指摘する。",
+    "examples": {
+      "B": "売上が大きいから儲かるとは限らない。利益率ゼロだったら？多くの人が考えない点。",
+      "C": "寒くなったとき暖かくするために着るやつ。ダサいけど機能する。",
+      "D": "これは〜ということ",
+      "E": "これはずっと前にギリシャで買ったもの。何なのかよくわからないけど、なんか可愛いでしょ？",
+      "F": "これは〜ということ"
+    }
+  },
+  {
+    "number": 86,
+    "headword": "sth/sb that I think ...",
+    "nativeDefinition": "A relative clause expressing personal opinion about something.",
+    "japaneseMeaning": "〜だと思う〜（個人的評価を添える）",
+    "etymology": "that I think ... で、関係節の中に個人的意見を挿入する。",
+    "examples": {
+      "B": "マフィア映画の古典的な例だと思うのはゴッドファーザー。",
+      "C": "美しいと思う曲は全部90年代のもの。良き時代だった。",
+      "D": "私が信じる〜",
+      "E": "この仕事に向いてると思う人は、情熱と粘り強さがある人たち。",
+      "F": "私が信じる〜"
+    }
+  },
+  {
+    "number": 87,
+    "headword": "in a way that ...",
+    "nativeDefinition": "Used to describe the manner or method in which something is done.",
+    "japaneseMeaning": "〜なやり方で／〜な方法で",
+    "etymology": "in a way that ... で、方法・様態を関係節で修飾する。",
+    "examples": {
+      "B": "従業員が幸せになるようなビジネス設計が本当に大事。",
+      "C": "メンタルヘルスを害さない働き方を常に心がけてる。自分にとってすごく大事。",
+      "D": "〜な方法で",
+      "E": "わざとそう振る舞ってるわけじゃないと思うけど、人からウザいと思われるやり方で行動する。",
+      "F": "〜な方法で"
+    }
+  },
+  {
+    "number": 88,
+    "headword": "there're times when ...",
+    "nativeDefinition": "Used to describe occasions when a certain feeling or situation occurs.",
+    "japaneseMeaning": "〜なときがある",
+    "etymology": "there're times when ... で、時折起こる状況や感情を述べる。",
+    "examples": {
+      "B": "スタバのフラペチーノがめちゃくちゃ飲みたくなるときがある。うちの町にスタバがない。悲しい。",
+      "C": "農場で暮らしたいと思うときもある。でも仕事量を考えると…。隣の芝生は青い。",
+      "D": "時々",
+      "E": "なんで妻に新しいゴルフクラブ買ったって言う必要あったの？あなたと彼女が友達じゃなかったらいいのにって思うときがある。",
+      "F": "時々"
+    }
+  },
+  {
+    "number": 89,
+    "headword": "it's the fact that ...",
+    "nativeDefinition": "Used to emphasize the true reason or key factor behind something.",
+    "japaneseMeaning": "〜という事実（本当の理由・核心）",
+    "etymology": "it's the fact that ... で、表面的な理由ではなく核心を強調する。",
+    "examples": {
+      "B": "NY が特別なのは大きさじゃない。多様性という事実。どこ歩いても異なる背景の人が話して協力してる。",
+      "C": "YouTube で稼ぎたいわけじゃない。色々な人と交流できるという事実がモチベーション。",
+      "D": "〜だから",
+      "E": "キッチンエイドのミキサーは全部好き。多分あのキツネのエンブレムが本当に可愛いから。",
+      "F": "〜だから"
+    }
+  },
+  {
+    "number": 90,
+    "headword": "it's not the fact that ...",
+    "nativeDefinition": "Used to deny that the stated reason is the real one.",
+    "japaneseMeaning": "〜というわけではない（その理由が本当ではない）",
+    "etymology": "it's not the fact that ... で、誤解されがちな理由を否定する。",
+    "examples": {
+      "B": "退屈だから嫌いなわけじゃない。2時間誰かの話を聞き続けるのが無理なだけ。",
+      "C": "給料が良いからここで働きたいわけじゃない。スキルと経験を積めるから。",
+      "D": "〜だからではない",
+      "E": "毎週末クラブ行くけど、クラブが好きだから行ってるわけじゃない。たまに気を紛らわすため。",
+      "F": "〜だからではない"
+    }
+  },
+  {
+    "number": 91,
+    "headword": "it's not just the fact that ...",
+    "nativeDefinition": "Used to say the reason is not only the stated one but also something else.",
+    "japaneseMeaning": "〜だけじゃない（他にも理由がある）",
+    "etymology": "it's not just the fact that ... で、理由が一つだけではないことを強調する。",
+    "examples": {
+      "B": "会議中に電話してきただけじゃない。メッセージ送った後もかけ続けた。だから怒ってる。",
+      "C": "美人なだけじゃない。機知に富んでて面白くて気さく。理想の女性。",
+      "D": "〜だけが理由ではない",
+      "E": "仕事辞めてすごくホッとしてる。上司と関わらなくなっただけじゃなく、いつどこにいて何をしなきゃいけないか誰にも期待されないから。",
+      "F": "〜だけが理由ではない"
+    }
+  },
+  {
+    "number": 92,
+    "headword": "that I do",
+    "nativeDefinition": "Used to single out one thing among many that you do or don't understand/agree with.",
+    "japaneseMeaning": "それだけは（理解できる／同意できる）",
+    "etymology": "that I do で、他はダメでも「それだけは」と特定の点を強調する。",
+    "examples": {
+      "B": "グレグの話の大半はわからない。でもそれだけは理解できる。",
+      "C": "揚げたバッタ？無理。変な食べ物は平気だけど、それだけは絶対無理。虫が嫌い。",
+      "D": "それはそうだ",
+      "E": "うん、出費を減らす必要がある。それだけは同意する。",
+      "F": "それはそうだ"
+    }
+  },
+  {
+    "number": 93,
+    "headword": "this adj",
+    "nativeDefinition": "Used to emphasize the surprising degree of an adjective in the current situation.",
+    "japaneseMeaning": "こんなに〜／ここまで〜",
+    "etymology": "this + 形容詞 で、今の状況の程度の高さに驚きを表す。",
+    "examples": {
+      "B": "新しい言語を学ぶのがこんなに難しいなんて知らなかった。子供の頃フランス語習ったときはこんなに時間かからなかった。",
+      "C": "IKEA の家具組み立て、こんなに大変なの？説明書通りにやってるのに。",
+      "D": "こんなに形容詞",
+      "E": "こんなに大きな犬をこんなに小さい家で飼うべきじゃない。もっと広いところに住ませる必要がある。",
+      "F": "こんなに形容詞"
+    }
+  },
+  {
+    "number": 94,
+    "headword": "that adj",
+    "nativeDefinition": "Used to downplay or question the degree of an adjective.",
+    "japaneseMeaning": "そんなに〜じゃない／そこまで〜ではない",
+    "etymology": "that + 形容詞 で、期待ほど程度が高くないことを表す。",
+    "examples": {
+      "B": "あのカフェ、なんであんなに話題？看板パンケーキ食べたけど、そんなに美味しくなかった。",
+      "C": "本当にそんなに具合悪いの？インスタは一日中更新してるけど。",
+      "D": "想像ほど形容詞ではない",
+      "E": "好きな女の子に話しかけるの、そんなに難しくないと思う。友達だと思えばいいだけ。",
+      "F": "想像ほど形容詞ではない"
+    }
+  },
+  {
+    "number": 95,
+    "headword": "... at all",
+    "nativeDefinition": "Used to ask if something applies even slightly, or to emphasize 'in any way'.",
+    "japaneseMeaning": "（少しでも）〜？／全く〜ない",
+    "etymology": "at all で、疑問文では「少しでも」、否定文では「全く」を強調する。",
+    "examples": {
+      "B": "政治に興味ある？",
+      "C": "少しでもこの動画が良かったら、いいね押してもらえると嬉しい。",
+      "D": "少しでも／全く",
+      "E": "大学中退の計画、両親に話した？",
+      "F": "少しでも／全く"
+    }
+  },
+  {
+    "number": 96,
+    "headword": "a bit of a sth",
+    "nativeDefinition": "Used to describe something as somewhat or to a certain degree a particular thing.",
+    "japaneseMeaning": "ちょっと〜な／多少〜な",
+    "etymology": "a bit of a + 名詞 で、程度を控えめに「多少〜な」と述べる。",
+    "examples": {
+      "B": "辞める決心してたけど、今は二の足。今の環境だとリスクがあるよね。",
+      "C": "香港にいた頃、ちょっと仕事中毒だった。毎日朝まで働いて何も問題ないと思ってた。",
+      "D": "なんとなく〜な",
+      "E": "付き合い始めの頃から喧嘩が多いのは、うまくいかなさそうって少し警告してる感じ。",
+      "F": "なんとなく〜な"
+    }
+  },
+  {
+    "number": 97,
+    "headword": "all this/these sth",
+    "nativeDefinition": "Used to refer to a large amount of something present or accumulated.",
+    "japaneseMeaning": "こんなにたくさんの〜／こういう〜",
+    "etymology": "all this/these + 名詞 で、目の前にある大量のものを指す。",
+    "examples": {
+      "B": "SNS のコメント欄の怒ってる人たち、落ち着けよ。読んでも「知ったこっちゃない」って感じ。",
+      "C": "猫をこんなにたくさん飼っておいて、散らかすの文句言うなよ。両方は無理。",
+      "D": "たくさんの〜",
+      "E": "パーティー誘ってくれてありがとう。今回はパスするわ。今夜終わらせなきゃいけない宿題があるから。",
+      "F": "たくさんの〜"
+    }
+  },
+  {
+    "number": 98,
+    "headword": "we/you/they/these/those all ...",
+    "nativeDefinition": "Used with all to mean everyone or everything in a group.",
+    "japaneseMeaning": "みんな〜／全部〜",
+    "etymology": "we/you/they/these/those all + 動詞 で、グループ全体を強調する。",
+    "examples": {
+      "B": "若者を理解したいなら TikTok 入った方がいい。みんなハマってる。",
+      "C": "気候変動は少数の人では解決できない。みんなで協力する必要がある。",
+      "D": "みんな／全部",
+      "E": "なんで食器が洗濯機の中にあるの？ここ出る前にきれいになってなきゃ。",
+      "F": "みんな／全部"
+    }
+  },
+  {
+    "number": 99,
+    "headword": "a whole other sth",
+    "nativeDefinition": "Used to say something is an entirely separate issue or problem.",
+    "japaneseMeaning": "全く別の問題／別の話",
+    "etymology": "a whole other + 名詞 で、別次元の問題であることを強調する。",
+    "examples": {
+      "B": "今日は家の漏れのほとんど直した。床板は明日に回す。それは全く別の問題。",
+      "C": "日本語勉強してたから中国語も簡単だろうと思ったけど、全く別物だった。",
+      "D": "全く別の〜",
+      "E": "留学したいけど、親が許すかどうかは全く別の話。",
+      "F": "全く別の〜"
+    }
+  },
+  {
+    "number": 100,
+    "headword": "that's not to say (that) ...",
+    "nativeDefinition": "Used to clarify that what was said should not be taken as an absolute statement.",
+    "japaneseMeaning": "〜というわけではない（但し書き）",
+    "etymology": "that's not to say that ... で、前の発言を絶対視しない但し書きを添える。",
+    "examples": {
+      "B": "ビジネスコンサルタントになるなら学位取った方がいいと思う。無理ってわけじゃないけど、雇い主は普通求める。",
+      "C": "この面接は割と余裕。何も失うわけじゃないけど、ダメなら他にも候補ある。",
+      "D": "それは意味しない",
+      "E": "寿司の方がハンバーガーより好きだけど、ハンバーガーを全然食べないってわけじゃない。",
+      "F": "それは意味しない"
+    }
+  },
+  {
+    "number": 101,
+    "headword": "the word 'sth'",
+    "nativeDefinition": "Used when discussing the meaning, usage, or connotations of a particular word.",
+    "japaneseMeaning": "「〜」という言葉",
+    "etymology": "the word + 名詞 で、特定の語の意味や使い方について議論する際の表現。",
+    "examples": {
+      "B": "risk という言葉、人によって意味が全然違うの面白くない？機会と呼ぶ人もいる。",
+      "C": "maid は今ポリティカルに正しくない。House Helper を使うべき。",
+      "D": "〜という用語",
+      "E": "bi-weekly という言葉、イライラする。2週間に1回なの？週2回なの？超わかりにくい。",
+      "F": "〜という用語"
+    }
+  },
+  {
+    "number": 102,
+    "headword": "thank God ...",
+    "nativeDefinition": "An exclamation expressing relief or gratitude about something.",
+    "japaneseMeaning": "よかった〜／神に感謝",
+    "etymology": "Thank God ... で、安堵や感謝を表す感嘆。宗教的でなく口語的な用法も多い。",
+    "examples": {
+      "B": "もうバッテリー残り少ない。よかった、充電器持ってきた。",
+      "C": "よかった、もうすぐ冬。スノーボード行きたくて待ちきれない。",
+      "D": "よかった",
+      "E": "よかった、彼女の両親のところに手ぶらで行かなかった。マナーとかすごく厳しいなんて知らなかった。",
+      "F": "よかった"
+    }
+  },
+  {
+    "number": 103,
+    "headword": "you know how ...",
+    "nativeDefinition": "Used to refer to something the listener likely already knows about.",
+    "japaneseMeaning": "〜でしょ？／〜だよね？",
+    "etymology": "you know how ... で、聞き手と共有の話題を「知ってるでしょ？」と導入する。",
+    "examples": {
+      "B": "トラビスいつも超ハッピーに見えるでしょ？秘密聞いたら、本人もわかってないって。",
+      "C": "キャシーとリチャードずっと仲悪いでしょ？理由知ってる人いる？",
+      "D": "〜だと知ってるでしょ",
+      "E": "新しいテレビ探してるの、ずっと続いてるでしょ？最新モデルにするか、数年後に買い替えられるもう少し安いのにするか、まだ迷ってる。",
+      "F": "〜だと知ってるでしょ"
+    }
+  },
+  {
+    "number": 104,
+    "headword": "you know sb/sth",
+    "nativeDefinition": "Used to remind the listener of a person or thing they should know.",
+    "japaneseMeaning": "あの〜（知ってるでしょ）",
+    "etymology": "you know + 名詞 で、聞き手が知っているはずの人・物を「あの〜」と指す。",
+    "examples": {
+      "B": "先週チームに入ったあの子、知ってる？もう辞めようとしてるらしい。",
+      "C": "金曜に話してた Nike のスニーカー、今めちゃくちゃ売れてる。",
+      "D": "〜を覚えてる",
+      "E": "先週話してたあの新しいキットカット、知ってる？もうどこでも売り切れ。悲しい。",
+      "F": "〜を覚えてる"
+    }
+  },
+  {
+    "number": 105,
+    "headword": "..., you know",
+    "nativeDefinition": "A tag question seeking agreement, often used for empathy or confirmation.",
+    "japaneseMeaning": "〜でしょ？／わかるでしょ？",
+    "etymology": "you know を文末に付け、共感や同意を求めるタグ用法。",
+    "examples": {
+      "B": "正直、今週末の社内イベント行きたくない。でも人間関係のために嫌なこともやらなきゃいけない、でしょ？",
+      "C": "紫のギターじゃなくて良かったけど、プレゼントだから文句言えない、でしょ？気持ちが大事。",
+      "D": "そうでしょ？",
+      "E": "どんなに混んでても、お客さんにそんな扱いするべきじゃないでしょ？",
+      "F": "そうでしょ？"
+    }
+  },
+  {
+    "number": 106,
+    "headword": "you know sb/sth, right",
+    "nativeDefinition": "Used to check if the listener is familiar with someone or something.",
+    "japaneseMeaning": "〜知ってる？／〜わかる？",
+    "etymology": "you know ..., right? で、聞き手の了解を確認してから話を進める。",
+    "examples": {
+      "B": "スティーヴン・スピルバーグ知ってる？来月また新作出る。",
+      "C": "マーク知ってる？仕事終わりに飲み行くんだけど、来る？",
+      "D": "〜に詳しい？",
+      "E": "名前は覚えてないけど、去年行ったあのバーすごく良かった。言ってるのわかる？街の屋上にあるあそこ？",
+      "F": "〜に詳しい？"
+    }
+  },
+  {
+    "number": 107,
+    "headword": "what is it that ...",
+    "nativeDefinition": "A cleft sentence emphasizing what aspect of something is being asked about.",
+    "japaneseMeaning": "一体何が〜なの？／何が〜なの？",
+    "etymology": "What is it that ...? の分裂文で、焦点を当てた疑問を構成する。",
+    "examples": {
+      "B": "50 歳までに退職するには一体何をすればいい？いくつか考えてるけど、届くかわからない。",
+      "C": "このアパート、何が気に入らないの？完璧に見えるけど。",
+      "D": "一体何が〜なの？",
+      "E": "夜になるとなんで甘いものが食べたくなるの？",
+      "F": "一体何が〜なの？"
+    }
+  },
+  {
+    "number": 108,
+    "headword": "what can sb do that ...",
+    "nativeDefinition": "A question asking what action would achieve a certain result.",
+    "japaneseMeaning": "〜するには何ができる？",
+    "etymology": "What can sb do that ...? で、目的達成のための手段を問う。",
+    "examples": {
+      "B": "よりバランスの取れたバスケ選手になるには何ができる？",
+      "C": "従業員が意見を言いやすくするには何ができる？",
+      "D": "〜できることはある？",
+      "E": "誰もこれまで作ったことのないものを、俺は何が作れる？",
+      "F": "〜できることはある？"
+    }
+  },
+  {
+    "number": 109,
+    "headword": "how can/could sb do",
+    "nativeDefinition": "An exclamation expressing shock, disapproval, or disbelief at someone's action.",
+    "japaneseMeaning": "どうして〜できるの？／よくも〜",
+    "etymology": "How can/could sb do? で、非難・驚き・失望を表す強い疑問。",
+    "examples": {
+      "B": "どうしてダレンに週末の仕事が無駄だって言えたの？平手打ちも同然でしょ。",
+      "C": "どうして結婚記念日を3年連続で忘れるの？奥さん怒るのも無理ない。",
+      "D": "〜するなんてひどい",
+      "E": "なんでチケット持ってくるの忘れたの？思い出さなくていいよう、昨夜バックパックに入れたのに。",
+      "F": "〜するなんてひどい"
+    }
+  },
+  {
+    "number": 110,
+    "headword": "how can/could sb/sth do",
+    "nativeDefinition": "Expressing disbelief that something is possible or can be done.",
+    "japaneseMeaning": "どうやって〜できるの？",
+    "etymology": "How can ... do? で、可能性への疑問・非難を表す。",
+    "examples": {
+      "B": "ヘンリーがプレゼンにもっと追加しろって。締切に間に合うの？やりすぎ。",
+      "C": "宇宙は巨大だ。一人きりだなんて信じられる？",
+      "D": "〜できるとは思えない",
+      "E": "同じカラスに3日連続で襲われた。どうしてこんなことが？",
+      "F": "〜できるとは思えない"
+    }
+  },
+  {
+    "number": 111,
+    "headword": "who would do",
+    "nativeDefinition": "Expressing disbelief that anyone would do something.",
+    "japaneseMeaning": "誰が〜する？／そんなことする人いる？",
+    "etymology": "Who would do? で、行為の不可思議さ・非現実性を強調する。",
+    "examples": {
+      "B": "C 級のコレクション売ろうとしてるの？そんなの買う人いる？",
+      "C": "信じられない、自転車のサドル盗まれた。何に使うの？",
+      "D": "〜する人がいるとは驚き",
+      "E": "動画で教育を完全自動化できると思ってる人は多いけど、そんな学校に行きたい人なんている？全然楽しくないでしょ。",
+      "F": "〜する人がいるとは驚き"
+    }
+  },
+  {
+    "number": 112,
+    "headword": "why would sb do",
+    "nativeDefinition": "Asking why someone would do something, expressing confusion or disapproval.",
+    "japaneseMeaning": "なんで〜するの？",
+    "etymology": "Why would sb do? で、動機の不可解さを問う。",
+    "examples": {
+      "B": "他人の結婚式でプロポーズする人許せない。なんで新郎新婦の晴れ舞台を奪うの？",
+      "C": "金メダル噛んだの？なんで？チョコのメダルだと思った？",
+      "D": "〜する理由がわからない",
+      "E": "すごく傷ついた。なんでそんな冗談言うの？",
+      "F": "〜する理由がわからない"
+    }
+  },
+  {
+    "number": 113,
+    "headword": "why do",
+    "nativeDefinition": "A rhetorical question questioning the point or logic of doing something.",
+    "japaneseMeaning": "なんでわざわざ〜するの？",
+    "etymology": "Why do ...? で、非効率・不合理な行為への疑問を表す。",
+    "examples": {
+      "B": "嫌いなことを無理してやるなよ。時間は有限だから無駄にするな。",
+      "C": "時間ないのに約束するなよ。期待値管理を学べ。",
+      "D": "〜する意味は？",
+      "E": "なんでタクシー乗るの？天気いいし、歩いた方が早いよ。",
+      "F": "〜する意味は？"
+    }
+  },
+  {
+    "number": 114,
+    "headword": "why not do",
+    "nativeDefinition": "A suggestion to do something, often implying it is obvious or better.",
+    "japaneseMeaning": "〜したら？／〜してみたら？",
+    "etymology": "Why not do? で「〜したらどう？」と提案する。Why don't you do? に近い。",
+    "examples": {
+      "B": "バカな質問で時間無駄にするな。Google すれば？",
+      "C": "カード知ってるでしょ。もう少し金額上乗せして交渉したら？彼らの方が君を必要としてる。",
+      "D": "〜したらどう？",
+      "E": "本当に自分が正しいと思うなら、信念を曲げずに、はっきり理由を説明すればいいじゃん。",
+      "F": "〜したらどう？"
+    }
+  },
+  {
+    "number": 115,
+    "headword": "why sth/sb",
+    "nativeDefinition": "Questioning why a particular choice was made.",
+    "japaneseMeaning": "なんで〜？（選択への疑問）",
+    "etymology": "Why + 名詞? で、特定の選択に対する疑問を表す。",
+    "examples": {
+      "B": "留学したいのはわかる。でもなんでマルタ？そこ英語話すの？",
+      "C": "選べる人は何百万人もいるのに。なんで俺？",
+      "D": "なぜ〜を選んだ？",
+      "E": "なんでバイク？まだ安全じゃないよ。知ってるバイクに乗ってる人は、全員何かしら怪我してる。",
+      "F": "なぜ〜を選んだ？"
+    }
+  },
+  {
+    "number": 116,
+    "headword": "why not sth/sb",
+    "nativeDefinition": "Suggesting something as an alternative choice.",
+    "japaneseMeaning": "〜はどう？／〜にしたら？",
+    "etymology": "Why not + 名詞? で、代替案を提案する。",
+    "examples": {
+      "B": "デニスはどう？10年以上の経験あるし、この仕事にぴったり。",
+      "C": "白い T シャツ探してる？ユニクロはどう？安くて丈夫。",
+      "D": "〜はどう？",
+      "E": "ストロベリーとバニラで迷ってるなら、両方はどう？",
+      "F": "〜はどう？"
+    }
+  },
+  {
+    "number": 117,
+    "headword": "there's sth",
+    "nativeDefinition": "Used to introduce the existence of something, often as a problem or desire.",
+    "japaneseMeaning": "〜がある／〜があるんだ",
+    "etymology": "there's + 名詞 で、存在・問題・願望を導入する。",
+    "examples": {
+      "B": "彼女は本当にノリを壊す人。今夜一緒に行きたい新しいバーがあるのに、課題手伝えってうるさい。",
+      "C": "人生で達成したいことがたくさんある。",
+      "D": "〜がある",
+      "E": "スマブラにはキャラがめちゃくちゃ多い。いろんな任天堂ゲームのキャラがごちゃ混ぜになってる感じ。",
+      "F": "〜がある"
+    }
+  },
+  {
+    "number": 118,
+    "headword": "but ... though",
+    "nativeDefinition": "Used to concede a point while adding a contrasting positive opinion.",
+    "japaneseMeaning": "〜だけど、（それは）〜だよ",
+    "etymology": "but ... though で、譲歩しつつ反対の意見を though で添える口語。",
+    "examples": {
+      "B": "今までで最高ってわけじゃないけど、コスパはいいよ。",
+      "C": "このマッキントッシュのジャケット、シンプルだけど好き。",
+      "D": "〜だけど",
+      "E": "オーウェンと働くのが嫌な理由はわかるけど、ジョージの言うことは正しいよ。二人の方が一人よりマシだから、プロジェクトが終わるまで我慢して。",
+      "F": "〜だけど"
+    }
+  },
+  {
+    "number": 119,
+    "headword": "do adj",
+    "nativeDefinition": "Used when someone does something while in a certain state or condition.",
+    "japaneseMeaning": "〜な状態で〜する",
+    "etymology": "do + 形容詞 で、特定の状態で何かをすることを表す口語（do hungry = 空腹のまま等）。",
+    "examples": {
+      "B": "昨日空腹のまま運動して、その後気分最悪。お勧めしない。",
+      "C": "ルームメイト昨夜酔っ払って靴なしで帰ってきた。どこ行ったか知らない。",
+      "D": "形容詞な状態で〜する",
+      "E": "祖父と父は76歳で若くして亡くなったけど、母方の祖母は103歳でもまだ元気。",
+      "F": "形容詞な状態で〜する"
+    }
+  },
+  {
+    "number": 120,
+    "headword": "one of the more adj sth",
+    "nativeDefinition": "Used to rank something among the more adjective items in a group.",
+    "japaneseMeaning": "より〜な〜の一つ",
+    "etymology": "one of the more + 形容詞 + 名詞 で、グループ内での相対的評価を表す。",
+    "examples": {
+      "B": "今夜オフィス向かいのステーキハウス行こう。この辺でより良いレストランの一つだと思う。",
+      "C": "ナンシーはよりうっとうしい友達の一人。少し常識外れ。",
+      "D": "かなり形容詞な〜の一つ",
+      "E": "君の犬が骨と皮っぽいとは言わないけど、見た中で一番痩せてる部類だね。",
+      "F": "かなり形容詞な〜の一つ"
+    }
+  },
+  {
+    "number": 121,
+    "headword": "if sb/sth would've done, sb/sth",
+    "nativeDefinition": "A hypothetical past condition and its result (non-standard would have).",
+    "japaneseMeaning": "もし〜していたら、〜しただろう",
+    "etymology": "If ... would have done の口語的仮定法（標準的には had done + would have done）。",
+    "examples": {
+      "B": "高校の頃医者になりたいって言ったら、成績がひどかったからクラスメイトも先生も笑っただろう。",
+      "C": "同じ町にいたら人生退屈なままだった。思い切って国の反対側に引っ越した。",
+      "D": "もし〜していたら、〜しただろう",
+      "E": "この情報をもっと早く知ってたら、フランス語の学習はずっと楽だったのに。",
+      "F": "もし〜していたら、〜しただろう"
+    }
+  },
+  {
+    "number": 122,
+    "headword": "if sb did, sb would've done",
+    "nativeDefinition": "A standard past hypothetical: if someone did, someone would have done.",
+    "japaneseMeaning": "もし〜していたら、〜しただろうに",
+    "etymology": "If + 過去形, would have done の仮定法過去で、反事实の条件と結果を表す。",
+    "examples": {
+      "B": "面接でそう言ってたら、結果は全然違ってた。もう遅い。",
+      "C": "お金の問題じゃなければ、大学の留学プログラムに参加してた。",
+      "D": "もし〜していたら、〜しただろう",
+      "E": "学生の頃もっと勉強してなかったら、人生どうなってたか想像してみて。怖くない？",
+      "F": "もし〜していたら、〜しただろう"
+    }
+  },
+  {
+    "number": 123,
+    "headword": "do, do, and do",
+    "nativeDefinition": "Listing multiple actions in sequence, often as essential steps.",
+    "japaneseMeaning": "〜して、〜して、〜する",
+    "etymology": "do, do, and do の並列で、必要な複数の行動を列挙する。",
+    "examples": {
+      "B": "英語学習の基礎を築くには3つだけ。語彙を覚える、文法を理解する、発音を学ぶ。",
+      "C": "サッカーが上手くなるには、走る、トラップ、パス、ヘディング、シュート。プロは自分のスタイルで組み合わせる。",
+      "D": "〜すること、〜すること、そして〜すること",
+      "E": "まだ先の話だけど、退職する前に学びたいことがいくつかある。ゴルフ、楽器、中国語。",
+      "F": "〜すること、〜すること、そして〜すること"
+    }
+  },
+  {
+    "number": 124,
+    "headword": "sth is do",
+    "nativeDefinition": "Identifying what the essential or required action is.",
+    "japaneseMeaning": "〜すべきことは〜だ／やることは〜",
+    "etymology": "sth is (to) do で、本質的・必要な行動を特定する。",
+    "examples": {
+      "B": "親は良い大学行って良い仕事つかめって言っただろう。忘れろ。世の中は彼らの世代から変わった。",
+      "C": "YouTube 始めたばかりなら、やることは動画をどんどん作り続けること。それだけ。分析とか気にしすぎないで。",
+      "D": "〜することだ",
+      "E": "東京に着いた最初にしたことは、渋谷のスクランブル交差点を見に行ったこと。テレビで見たことがあったけど、行ったことなかったから。",
+      "F": "〜することだ"
+    }
+  },
+  {
+    "number": 125,
+    "headword": "do, /direct question//",
+    "nativeDefinition": "Embedding a direct question within a statement.",
+    "japaneseMeaning": "〜か？（間接疑問／引用疑問）",
+    "etymology": "do, 直接疑問文 の構文で、疑問文を文中に埋め込む。",
+    "examples": {
+      "B": "よく聞かれる、ゴルフ上達にどれくらいかかる？わかるけど、糸の長さを聞いてるようなもの。",
+      "C": "解決しようとしてる問題は、国際旅行をもっと環境に優しく持続可能にするにはどうすればいいか？",
+      "D": "間接疑問",
+      "E": "この本をまとめた理由は、学生が統計学って何だろうって理解できるようにするため。",
+      "F": "間接疑問"
+    }
+  },
+  {
+    "number": 126,
+    "headword": "do what sb wants",
+    "nativeDefinition": "To do whatever one wants or desires.",
+    "japaneseMeaning": "好きなことをする",
+    "etymology": "do what sb wants で、自分の望むことを自由に行う。",
+    "examples": {
+      "B": "人生一度きり。好きなことやって楽しめ。",
+      "C": "大学の一般教養、なんで必修なの？学びたいこと学かせろよ。",
+      "D": "望むことをする",
+      "E": "週末好きなものを食べるために、平日ずっと運動してる。",
+      "F": "望むことをする"
+    }
+  },
+  {
+    "number": 127,
+    "headword": "with sth",
+    "nativeDefinition": "When it comes to a particular topic or area.",
+    "japaneseMeaning": "〜に関しては／〜については",
+    "etymology": "With + 名詞 で「〜に関しては」と話題を導入する（when it comes to に近い）。",
+    "examples": {
+      "B": "ダイエットに関しては、現実的であることが鍵。初心者がよく失敗するのは非現実的な目標を立てること。",
+      "C": "グリーンランドとアイスランド、多くの人はアイスランドの方が寒いと思うけど、実は逆。",
+      "D": "〜に関しては",
+      "E": "子供に関しては、いつも勉強してると期待できない。楽しみたいのは人間の本性だし、特にあの年齢は。",
+      "F": "〜に関しては"
+    }
+  },
+  {
+    "number": 128,
+    "headword": "it takes doing",
+    "nativeDefinition": "Something requires a certain action or process to achieve.",
+    "japaneseMeaning": "〜には〜が必要だ",
+    "etymology": "it takes + doing で、達成に必要な行動・プロセスを表す。",
+    "examples": {
+      "B": "ジョンが仕事早いのを落ち込むな。彼みたいに全部熟知するには、ここで何年も働く必要がある。",
+      "C": "誰でも起業家になれる。でも失敗から学び、それを繰り返す必要がある。",
+      "D": "〜には〜が必要",
+      "E": "安定して再生数を稼ぐには、YouTube のアルゴリズムを最大限活用する方法を理解する必要がある。",
+      "F": "〜には〜が必要"
+    }
+  },
+  {
+    "number": 129,
+    "headword": "the best sb can",
+    "nativeDefinition": "To do something as well as one is able.",
+    "japaneseMeaning": "精一杯〜する／できる限り〜する",
+    "etymology": "the best sb can で、能力の限りを尽くすことを表す。",
+    "examples": {
+      "B": "試合負けたけど、精一杯やった。後悔なし。",
+      "C": "ロゴデザイン、精一杯調整したけど、まだ改善余地ある。これ以上は無理。",
+      "D": "できる限り〜",
+      "E": "投資に関しては、100%確実なものはないから、できる限りリスクを抑えることが大事。",
+      "F": "できる限り〜"
+    }
+  },
+  {
+    "number": 130,
+    "headword": "the best sb can do",
+    "nativeDefinition": "The maximum that someone can offer or achieve in a situation.",
+    "japaneseMeaning": "これ以上はできない／精一杯のこと",
+    "etymology": "the best sb can do で、限界まで努力した結果・提供できる最大限を表す。",
+    "examples": {
+      "B": "地球だけに生命があるか100%確実じゃないけど、可能性はある。今のところ言えるのはそれだけ。",
+      "C": "返金はできないけど、別の商品と交換はできる。申し訳ないけど、これ以上はできない。",
+      "D": "精一杯できること",
+      "E": "新しい Samsung Galaxy のカメラすごい。今一番いいのはこれだと思う。",
+      "F": "精一杯できること"
+    }
+  }
+]

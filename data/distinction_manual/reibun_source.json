@@ -1,0 +1,4392 @@
+[
+  {
+    "number": 1,
+    "headword": "I'm down"
+  },
+  {
+    "number": 2,
+    "headword": "it's up to you"
+  },
+  {
+    "number": 3,
+    "headword": "after you"
+  },
+  {
+    "number": 4,
+    "headword": "ring a bell"
+  },
+  {
+    "number": 5,
+    "headword": "mind-blowing"
+  },
+  {
+    "number": 6,
+    "headword": "fun sponge"
+  },
+  {
+    "number": 7,
+    "headword": "on point"
+  },
+  {
+    "number": 8,
+    "headword": "pull an all-nighter"
+  },
+  {
+    "number": 9,
+    "headword": "out of my league"
+  },
+  {
+    "number": 10,
+    "headword": "wish washy"
+  },
+  {
+    "number": 11,
+    "headword": "social butterfly"
+  },
+  {
+    "number": 12,
+    "headword": "weirdo"
+  },
+  {
+    "number": 13,
+    "headword": "legit"
+  },
+  {
+    "number": 14,
+    "headword": "bucket list"
+  },
+  {
+    "number": 15,
+    "headword": "turn off"
+  },
+  {
+    "number": 16,
+    "headword": "I'm hyped"
+  },
+  {
+    "number": 17,
+    "headword": "I dig it"
+  },
+  {
+    "number": 18,
+    "headword": "it's on me"
+  },
+  {
+    "number": 19,
+    "headword": "crystal clear"
+  },
+  {
+    "number": 20,
+    "headword": "my heart skip a beat"
+  },
+  {
+    "number": 21,
+    "headword": "don't get cocky"
+  },
+  {
+    "number": 22,
+    "headword": "are you with me?"
+  },
+  {
+    "number": 23,
+    "headword": "enough is enough"
+  },
+  {
+    "number": 24,
+    "headword": "go bananas"
+  },
+  {
+    "number": 25,
+    "headword": "hit me up"
+  },
+  {
+    "number": 26,
+    "headword": "spilt the bill"
+  },
+  {
+    "number": 27,
+    "headword": "scooch over"
+  },
+  {
+    "number": 28,
+    "headword": "butter up"
+  },
+  {
+    "number": 29,
+    "headword": "sluggish"
+  },
+  {
+    "number": 30,
+    "headword": "eye candy"
+  },
+  {
+    "number": 31,
+    "headword": "in a nutshell"
+  },
+  {
+    "number": 32,
+    "headword": "friendzone"
+  },
+  {
+    "number": 33,
+    "headword": "right on"
+  },
+  {
+    "number": 34,
+    "headword": "I'm on a roll"
+  },
+  {
+    "number": 35,
+    "headword": "how's life?"
+  },
+  {
+    "number": 36,
+    "headword": "whatever"
+  },
+  {
+    "number": 37,
+    "headword": "I have a lot on my plate"
+  },
+  {
+    "number": 38,
+    "headword": "no idea"
+  },
+  {
+    "number": 39,
+    "headword": "fair enough"
+  },
+  {
+    "number": 40,
+    "headword": "sloppy"
+  },
+  {
+    "number": 41,
+    "headword": "what was it?"
+  },
+  {
+    "number": 42,
+    "headword": "I messed up"
+  },
+  {
+    "number": 43,
+    "headword": "could be"
+  },
+  {
+    "number": 44,
+    "headword": "by the way"
+  },
+  {
+    "number": 45,
+    "headword": "from now on"
+  },
+  {
+    "number": 46,
+    "headword": "muggy"
+  },
+  {
+    "number": 47,
+    "headword": "I'm dead"
+  },
+  {
+    "number": 48,
+    "headword": "I'm parched"
+  },
+  {
+    "number": 49,
+    "headword": "you never know"
+  },
+  {
+    "number": 50,
+    "headword": "I'm pissed off"
+  },
+  {
+    "number": 51,
+    "headword": "I'm broke"
+  },
+  {
+    "number": 52,
+    "headword": "for real?"
+  },
+  {
+    "number": 53,
+    "headword": "suck it up"
+  },
+  {
+    "number": 54,
+    "headword": "out of line"
+  },
+  {
+    "number": 55,
+    "headword": "chill out"
+  },
+  {
+    "number": 56,
+    "headword": "you rock"
+  },
+  {
+    "number": 57,
+    "headword": "way to go"
+  },
+  {
+    "number": 58,
+    "headword": "tense up"
+  },
+  {
+    "number": 59,
+    "headword": "zone out"
+  },
+  {
+    "number": 60,
+    "headword": "speaking of"
+  },
+  {
+    "number": 61,
+    "headword": "spit it out"
+  },
+  {
+    "number": 62,
+    "headword": "big mouth"
+  },
+  {
+    "number": 63,
+    "headword": "cutting corners"
+  },
+  {
+    "number": 64,
+    "headword": "why not?"
+  },
+  {
+    "number": 65,
+    "headword": "into"
+  },
+  {
+    "number": 66,
+    "headword": "my bad"
+  },
+  {
+    "number": 67,
+    "headword": "annoying"
+  },
+  {
+    "number": 68,
+    "headword": "you're kidding"
+  },
+  {
+    "number": 69,
+    "headword": "no-brainer"
+  },
+  {
+    "number": 70,
+    "headword": "stinks"
+  },
+  {
+    "number": 71,
+    "headword": "nailed it"
+  },
+  {
+    "number": 72,
+    "headword": "low-key"
+  },
+  {
+    "number": 73,
+    "headword": "go for it"
+  },
+  {
+    "number": 74,
+    "headword": "chicken out"
+  },
+  {
+    "number": 75,
+    "headword": "ripoff"
+  },
+  {
+    "number": 76,
+    "headword": "chilly"
+  },
+  {
+    "number": 77,
+    "headword": "freak out"
+  },
+  {
+    "number": 78,
+    "headword": "cheap"
+  },
+  {
+    "number": 79,
+    "headword": "count on me"
+  },
+  {
+    "number": 80,
+    "headword": "I appreciate"
+  },
+  {
+    "number": 81,
+    "headword": "me neither"
+  },
+  {
+    "number": 82,
+    "headword": "It's confusing"
+  },
+  {
+    "number": 83,
+    "headword": "tend to"
+  },
+  {
+    "number": 84,
+    "headword": "nauseous"
+  },
+  {
+    "number": 85,
+    "headword": "smug face"
+  },
+  {
+    "number": 86,
+    "headword": "get caught"
+  },
+  {
+    "number": 87,
+    "headword": "show off"
+  },
+  {
+    "number": 88,
+    "headword": "I'm afraid"
+  },
+  {
+    "number": 89,
+    "headword": "roast"
+  },
+  {
+    "number": 90,
+    "headword": "so what?"
+  },
+  {
+    "number": 91,
+    "headword": "airhead"
+  },
+  {
+    "number": 92,
+    "headword": "not again"
+  },
+  {
+    "number": 93,
+    "headword": "on purpose"
+  },
+  {
+    "number": 94,
+    "headword": "after all"
+  },
+  {
+    "number": 95,
+    "headword": "little by little"
+  },
+  {
+    "number": 96,
+    "headword": "oh well"
+  },
+  {
+    "number": 97,
+    "headword": "take care"
+  },
+  {
+    "number": 98,
+    "headword": "to begin with"
+  },
+  {
+    "number": 99,
+    "headword": "clumsy"
+  },
+  {
+    "number": 100,
+    "headword": "in advance"
+  },
+  {
+    "number": 101,
+    "headword": "can't read the room"
+  },
+  {
+    "number": 102,
+    "headword": "bossy"
+  },
+  {
+    "number": 103,
+    "headword": "pet peeves"
+  },
+  {
+    "number": 104,
+    "headword": "reach out"
+  },
+  {
+    "number": 105,
+    "headword": "lose my touch"
+  },
+  {
+    "number": 106,
+    "headword": "hang it there"
+  },
+  {
+    "number": 107,
+    "headword": "let you off the hook"
+  },
+  {
+    "number": 108,
+    "headword": "down to earth"
+  },
+  {
+    "number": 109,
+    "headword": "miss out"
+  },
+  {
+    "number": 110,
+    "headword": "come across"
+  },
+  {
+    "number": 111,
+    "headword": "get cold feet"
+  },
+  {
+    "number": 112,
+    "headword": "wing it"
+  },
+  {
+    "number": 113,
+    "headword": "spooky"
+  },
+  {
+    "number": 114,
+    "headword": "open book"
+  },
+  {
+    "number": 115,
+    "headword": "what a bummer"
+  },
+  {
+    "number": 116,
+    "headword": "no clue"
+  },
+  {
+    "number": 117,
+    "headword": "go with the flow"
+  },
+  {
+    "number": 118,
+    "headword": "so far so good"
+  },
+  {
+    "number": 119,
+    "headword": "in the way"
+  },
+  {
+    "number": 120,
+    "headword": "for good"
+  },
+  {
+    "number": 121,
+    "headword": "have a blast"
+  },
+  {
+    "number": 122,
+    "headword": "ditch"
+  },
+  {
+    "number": 123,
+    "headword": "or what?"
+  },
+  {
+    "number": 124,
+    "headword": "crappy"
+  },
+  {
+    "number": 125,
+    "headword": "for some reason"
+  },
+  {
+    "number": 126,
+    "headword": "point out"
+  },
+  {
+    "number": 127,
+    "headword": "I'm beat"
+  },
+  {
+    "number": 128,
+    "headword": "let's it go"
+  },
+  {
+    "number": 129,
+    "headword": "the thing is"
+  },
+  {
+    "number": 130,
+    "headword": "go through"
+  },
+  {
+    "number": 131,
+    "headword": "hookded on"
+  },
+  {
+    "number": 132,
+    "headword": "no offence"
+  },
+  {
+    "number": 133,
+    "headword": "pull it off"
+  },
+  {
+    "number": 134,
+    "headword": "make up"
+  },
+  {
+    "number": 135,
+    "headword": "crack up"
+  },
+  {
+    "number": 136,
+    "headword": "sassy"
+  },
+  {
+    "number": 137,
+    "headword": "will do"
+  },
+  {
+    "number": 138,
+    "headword": "count me in"
+  },
+  {
+    "number": 139,
+    "headword": "favor"
+  },
+  {
+    "number": 140,
+    "headword": "try me"
+  },
+  {
+    "number": 141,
+    "headword": "get out"
+  },
+  {
+    "number": 142,
+    "headword": "come up with"
+  },
+  {
+    "number": 143,
+    "headword": "It happens"
+  },
+  {
+    "number": 144,
+    "headword": "worn out"
+  },
+  {
+    "number": 145,
+    "headword": "ever since"
+  },
+  {
+    "number": 146,
+    "headword": "drop by"
+  },
+  {
+    "number": 147,
+    "headword": "run into"
+  },
+  {
+    "number": 148,
+    "headword": "root for"
+  },
+  {
+    "number": 149,
+    "headword": "hop on"
+  },
+  {
+    "number": 150,
+    "headword": "let down"
+  },
+  {
+    "number": 151,
+    "headword": "set up"
+  },
+  {
+    "number": 152,
+    "headword": "take it back"
+  },
+  {
+    "number": 153,
+    "headword": "grow out of"
+  },
+  {
+    "number": 154,
+    "headword": "shout-out"
+  },
+  {
+    "number": 155,
+    "headword": "good to go"
+  },
+  {
+    "number": 156,
+    "headword": "better off"
+  },
+  {
+    "number": 157,
+    "headword": "I'm on it"
+  },
+  {
+    "number": 158,
+    "headword": "drive me nuts"
+  },
+  {
+    "number": 159,
+    "headword": "call it a day"
+  },
+  {
+    "number": 160,
+    "headword": "needy"
+  },
+  {
+    "number": 161,
+    "headword": "24-Jul"
+  },
+  {
+    "number": 162,
+    "headword": "take place"
+  },
+  {
+    "number": 163,
+    "headword": "rain or shine"
+  },
+  {
+    "number": 164,
+    "headword": "up in the air"
+  },
+  {
+    "number": 165,
+    "headword": "break a leg"
+  },
+  {
+    "number": 166,
+    "headword": "out of shapes"
+  },
+  {
+    "number": 167,
+    "headword": "iffy"
+  },
+  {
+    "number": 168,
+    "headword": "the more the merrier"
+  },
+  {
+    "number": 169,
+    "headword": "have a ball"
+  },
+  {
+    "number": 170,
+    "headword": "you got me"
+  },
+  {
+    "number": 171,
+    "headword": "get under skin"
+  },
+  {
+    "number": 172,
+    "headword": "ish"
+  },
+  {
+    "number": 173,
+    "headword": "cloud 9"
+  },
+  {
+    "number": 174,
+    "headword": "I'm all ears"
+  },
+  {
+    "number": 175,
+    "headword": "not about to"
+  },
+  {
+    "number": 176,
+    "headword": "new year's resolution"
+  },
+  {
+    "number": 177,
+    "headword": "flaky"
+  },
+  {
+    "number": 178,
+    "headword": "couch potato"
+  },
+  {
+    "number": 179,
+    "headword": "up to something"
+  },
+  {
+    "number": 180,
+    "headword": "hangry"
+  },
+  {
+    "number": 181,
+    "headword": "out of the blue"
+  },
+  {
+    "number": 182,
+    "headword": "beef"
+  },
+  {
+    "number": 183,
+    "headword": "kicks"
+  },
+  {
+    "number": 184,
+    "headword": "go-to"
+  },
+  {
+    "number": 185,
+    "headword": "bomb"
+  },
+  {
+    "number": 186,
+    "headword": "suck"
+  },
+  {
+    "number": 187,
+    "headword": "cheesy"
+  },
+  {
+    "number": 188,
+    "headword": "handy"
+  },
+  {
+    "number": 189,
+    "headword": "ain't"
+  },
+  {
+    "number": 190,
+    "headword": "salty"
+  },
+  {
+    "number": 191,
+    "headword": "nosy"
+  },
+  {
+    "number": 192,
+    "headword": "kinda"
+  },
+  {
+    "number": 193,
+    "headword": "sup"
+  },
+  {
+    "number": 194,
+    "headword": "no cap"
+  },
+  {
+    "number": 195,
+    "headword": "vibe"
+  },
+  {
+    "number": 196,
+    "headword": "extra"
+  },
+  {
+    "number": 197,
+    "headword": "pushy"
+  },
+  {
+    "number": 198,
+    "headword": "oops"
+  },
+  {
+    "number": 199,
+    "headword": "chubby"
+  },
+  {
+    "number": 200,
+    "headword": "wannabe"
+  },
+  {
+    "number": 201,
+    "headword": "sick"
+  },
+  {
+    "number": 202,
+    "headword": "nerve"
+  },
+  {
+    "number": 203,
+    "headword": "grab"
+  },
+  {
+    "number": 204,
+    "headword": "fire"
+  },
+  {
+    "number": 205,
+    "headword": "walk the talk"
+  },
+  {
+    "number": 206,
+    "headword": "outing"
+  },
+  {
+    "number": 207,
+    "headword": "know-it-all"
+  },
+  {
+    "number": 208,
+    "headword": "make it up"
+  },
+  {
+    "number": 209,
+    "headword": "punch in"
+  },
+  {
+    "number": 210,
+    "headword": "picky"
+  },
+  {
+    "number": 211,
+    "headword": "I feel you"
+  },
+  {
+    "number": 212,
+    "headword": "catch-22"
+  },
+  {
+    "number": 213,
+    "headword": "night owl"
+  },
+  {
+    "number": 214,
+    "headword": "savege"
+  },
+  {
+    "number": 215,
+    "headword": "spoil"
+  },
+  {
+    "number": 216,
+    "headword": "touchy"
+  },
+  {
+    "number": 217,
+    "headword": "very funny"
+  },
+  {
+    "number": 218,
+    "headword": "on the fence"
+  },
+  {
+    "number": 219,
+    "headword": "basic"
+  },
+  {
+    "number": 220,
+    "headword": "told ya"
+  },
+  {
+    "number": 221,
+    "headword": "you're telling me"
+  },
+  {
+    "number": 222,
+    "headword": "no wonder"
+  },
+  {
+    "number": 223,
+    "headword": "All thumbs"
+  },
+  {
+    "number": 224,
+    "headword": "whatnot"
+  },
+  {
+    "number": 225,
+    "headword": "not a chance"
+  },
+  {
+    "number": 226,
+    "headword": "truce"
+  },
+  {
+    "number": 227,
+    "headword": "taken"
+  },
+  {
+    "number": 228,
+    "headword": "depends"
+  },
+  {
+    "number": 229,
+    "headword": "guns"
+  },
+  {
+    "number": 230,
+    "headword": "typo"
+  },
+  {
+    "number": 231,
+    "headword": "who cares"
+  },
+  {
+    "number": 232,
+    "headword": "copy cat"
+  },
+  {
+    "number": 233,
+    "headword": "holy cow"
+  },
+  {
+    "number": 234,
+    "headword": "wasted"
+  },
+  {
+    "number": 235,
+    "headword": "fly"
+  },
+  {
+    "number": 236,
+    "headword": "bottom line"
+  },
+  {
+    "number": 237,
+    "headword": "or else"
+  },
+  {
+    "number": 238,
+    "headword": "goosehumps"
+  },
+  {
+    "number": 239,
+    "headword": "hook up"
+  },
+  {
+    "number": 240,
+    "headword": "I'm sold"
+  },
+  {
+    "number": 241,
+    "headword": "I know right"
+  },
+  {
+    "number": 242,
+    "headword": "lemon"
+  },
+  {
+    "number": 243,
+    "headword": "I'm moved"
+  },
+  {
+    "number": 244,
+    "headword": "screw up"
+  },
+  {
+    "number": 245,
+    "headword": "mess"
+  },
+  {
+    "number": 246,
+    "headword": "comfy"
+  },
+  {
+    "number": 247,
+    "headword": "tea"
+  },
+  {
+    "number": 248,
+    "headword": "go viral"
+  },
+  {
+    "number": 249,
+    "headword": "bee"
+  },
+  {
+    "number": 250,
+    "headword": "blow it"
+  },
+  {
+    "number": 251,
+    "headword": "on read"
+  },
+  {
+    "number": 252,
+    "headword": "classic"
+  },
+  {
+    "number": 253,
+    "headword": "chillax"
+  },
+  {
+    "number": 254,
+    "headword": "sweet"
+  },
+  {
+    "number": 255,
+    "headword": "pet"
+  },
+  {
+    "number": 256,
+    "headword": "bear"
+  },
+  {
+    "number": 257,
+    "headword": "good taste"
+  },
+  {
+    "number": 258,
+    "headword": "kill time"
+  },
+  {
+    "number": 259,
+    "headword": "crash out"
+  },
+  {
+    "number": 260,
+    "headword": "hot potato"
+  },
+  {
+    "number": 261,
+    "headword": "TRUE"
+  },
+  {
+    "number": 262,
+    "headword": "heads up"
+  },
+  {
+    "number": 263,
+    "headword": "you know what"
+  },
+  {
+    "number": 264,
+    "headword": "AC"
+  },
+  {
+    "number": 265,
+    "headword": "second-hand"
+  },
+  {
+    "number": 266,
+    "headword": "same page"
+  },
+  {
+    "number": 267,
+    "headword": "jam"
+  },
+  {
+    "number": 268,
+    "headword": "old school"
+  },
+  {
+    "number": 269,
+    "headword": "I mean it"
+  },
+  {
+    "number": 270,
+    "headword": "I can't"
+  },
+  {
+    "number": 271,
+    "headword": "white lie"
+  },
+  {
+    "number": 272,
+    "headword": "yeah right"
+  },
+  {
+    "number": 273,
+    "headword": "tell you what"
+  },
+  {
+    "number": 274,
+    "headword": "I bet"
+  },
+  {
+    "number": 275,
+    "headword": "fishy"
+  },
+  {
+    "number": 276,
+    "headword": "hands down"
+  },
+  {
+    "number": 277,
+    "headword": "poor you"
+  },
+  {
+    "number": 278,
+    "headword": "pull your leg"
+  },
+  {
+    "number": 279,
+    "headword": "take 5"
+  },
+  {
+    "number": 280,
+    "headword": "keep your word"
+  },
+  {
+    "number": 281,
+    "headword": "you name it"
+  },
+  {
+    "number": 282,
+    "headword": "have a thing"
+  },
+  {
+    "number": 283,
+    "headword": "top dog"
+  },
+  {
+    "number": 284,
+    "headword": "in the know"
+  },
+  {
+    "number": 285,
+    "headword": "cup of tea"
+  },
+  {
+    "number": 286,
+    "headword": "hot water"
+  },
+  {
+    "number": 287,
+    "headword": "cut the cheese"
+  },
+  {
+    "number": 288,
+    "headword": "hit the books"
+  },
+  {
+    "number": 289,
+    "headword": "out of hand"
+  },
+  {
+    "number": 290,
+    "headword": "play games"
+  },
+  {
+    "number": 291,
+    "headword": "peach"
+  },
+  {
+    "number": 292,
+    "headword": "nuts"
+  },
+  {
+    "number": 293,
+    "headword": "good for you"
+  },
+  {
+    "number": 294,
+    "headword": "you wish"
+  },
+  {
+    "number": 295,
+    "headword": "homebody"
+  },
+  {
+    "number": 296,
+    "headword": "stone cold"
+  },
+  {
+    "number": 297,
+    "headword": "you know"
+  },
+  {
+    "number": 298,
+    "headword": "make a face"
+  },
+  {
+    "number": 299,
+    "headword": "or something"
+  },
+  {
+    "number": 300,
+    "headword": "pretty",
+    "examples": {
+      "B": "I'm pretty good at cooking."
+    }
+  },
+  {
+    "number": 301,
+    "headword": "so you",
+    "examples": {
+      "B": "I over slept again. / That's so you."
+    }
+  },
+  {
+    "number": 302,
+    "headword": "I'm off",
+    "examples": {
+      "B": "I'm off. I'll see you tonighit."
+    }
+  },
+  {
+    "number": 303,
+    "headword": "oh yeah",
+    "examples": {
+      "B": "I'm going to get up early tomorrow. / Oh yeah?"
+    }
+  },
+  {
+    "number": 304,
+    "headword": "say what",
+    "examples": {
+      "B": "I dropped your phone. / Say what?"
+    }
+  },
+  {
+    "number": 305,
+    "headword": "great",
+    "examples": {
+      "B": "I'll be 2 hours late. / Great!"
+    }
+  },
+  {
+    "number": 306,
+    "headword": "time files",
+    "examples": {
+      "B": "I gotta go. TIme filies."
+    }
+  },
+  {
+    "number": 307,
+    "headword": "in your face",
+    "examples": {
+      "B": "I finally beat you! In your face!"
+    }
+  },
+  {
+    "number": 308,
+    "headword": "thanks to you",
+    "examples": {
+      "B": "Thanks to you# this place is a mess."
+    }
+  },
+  {
+    "number": 309,
+    "headword": "buy time",
+    "examples": {
+      "B": "She said she's comng now. I need to buy time."
+    }
+  },
+  {
+    "number": 310,
+    "headword": "nice try",
+    "examples": {
+      "B": "You thoght I fail the calss? Nice try!"
+    }
+  },
+  {
+    "number": 311,
+    "headword": "old hand",
+    "examples": {
+      "B": "Let's ask her about that since she's an old hand."
+    }
+  },
+  {
+    "number": 312,
+    "headword": "what on earth",
+    "examples": {
+      "B": "What on earth are talking about?"
+    }
+  },
+  {
+    "number": 313,
+    "headword": "A to Z",
+    "examples": {
+      "B": "He knows everything about Japanese history#  from A to Z"
+    }
+  },
+  {
+    "number": 314,
+    "headword": "here you go",
+    "examples": {
+      "B": "You want cady#right? Here you go!"
+    }
+  },
+  {
+    "number": 315,
+    "headword": "my thing",
+    "examples": {
+      "B": "Watching a horror movie is my thing."
+    }
+  },
+  {
+    "number": 316,
+    "headword": "take it",
+    "examples": {
+      "B": "Stop it! I can't take it."
+    }
+  },
+  {
+    "number": 317,
+    "headword": "I'm good",
+    "examples": {
+      "B": "Would you like a bag? / I'm good."
+    }
+  },
+  {
+    "number": 318,
+    "headword": "hair-do",
+    "examples": {
+      "B": "I love your new hair -do."
+    }
+  },
+  {
+    "number": 319,
+    "headword": "dead end",
+    "examples": {
+      "B": "You can't go threre. It's a dead end."
+    }
+  },
+  {
+    "number": 320,
+    "headword": "bring it on",
+    "examples": {
+      "B": "Let's play games together. / Bring it on."
+    }
+  },
+  {
+    "number": 321,
+    "headword": "way off",
+    "examples": {
+      "B": "I  thought I got a full score on the test# I was way off# though."
+    }
+  },
+  {
+    "number": 322,
+    "headword": "on the table",
+    "examples": {
+      "B": "His offer is stll on the table"
+    }
+  },
+  {
+    "number": 323,
+    "headword": "keep it up",
+    "examples": {
+      "B": "I'm super tired from running. / Keep it up!"
+    }
+  },
+  {
+    "number": 324,
+    "headword": "kill it",
+    "examples": {
+      "B": "Your speech was amazing. You killed it."
+    }
+  },
+  {
+    "number": 325,
+    "headword": "buy it",
+    "examples": {
+      "B": "That's too good to be true. I don't buy it."
+    }
+  },
+  {
+    "number": 326,
+    "headword": "I'm over you",
+    "examples": {
+      "B": "I don't mind if Emma comes tomorrow since I'm over her."
+    }
+  },
+  {
+    "number": 327,
+    "headword": "back off",
+    "examples": {
+      "B": "You're being annoying# back off!"
+    }
+  },
+  {
+    "number": 328,
+    "headword": "done with you",
+    "examples": {
+      "B": "Please don't leave. / No# I'm done with you."
+    }
+  },
+  {
+    "number": 329,
+    "headword": "thanks a lot",
+    "examples": {
+      "B": "I talked to your ex to come to the party. / Thanks a lot."
+    }
+  },
+  {
+    "number": 330,
+    "headword": "I'm out",
+    "examples": {
+      "B": "She's not coming? I'm out then."
+    }
+  },
+  {
+    "number": 331,
+    "headword": "in the bag",
+    "examples": {
+      "B": "Your presentation is coming up. / Yeah# it 's in the bag."
+    }
+  },
+  {
+    "number": 332,
+    "headword": "catfish",
+    "examples": {
+      "B": "He's a catfish. That's picture of an actor."
+    }
+  },
+  {
+    "number": 333,
+    "headword": "tell on",
+    "examples": {
+      "B": "Don't tell on me! Mom's gonna get mad."
+    }
+  },
+  {
+    "number": 334,
+    "headword": "up and coming",
+    "examples": {
+      "B": "Look! She's an up and coming model."
+    }
+  },
+  {
+    "number": 335,
+    "headword": "small talk",
+    "examples": {
+      "B": "Let's have a small talk."
+    }
+  },
+  {
+    "number": 336,
+    "headword": "off the wall",
+    "examples": {
+      "B": "She always comes up with an off the wall idea."
+    }
+  },
+  {
+    "number": 337,
+    "headword": "make it big",
+    "examples": {
+      "B": "Did you know that Ken made it big ?"
+    }
+  },
+  {
+    "number": 338,
+    "headword": "not at all",
+    "examples": {
+      "B": "Thanks for coming！Not at all."
+    }
+  },
+  {
+    "number": 339,
+    "headword": "first-hand",
+    "examples": {
+      "B": "Go ask her#  she is a frist-hand observer."
+    }
+  },
+  {
+    "number": 340,
+    "headword": "hello?",
+    "examples": {
+      "B": "Hello? Wait# are you sleeping?"
+    }
+  },
+  {
+    "number": 341,
+    "headword": "fruit",
+    "examples": {
+      "B": "If you're being lazy everday# you will bear no fruit."
+    }
+  },
+  {
+    "number": 342,
+    "headword": "cute",
+    "examples": {
+      "B": "I heard that new guy is so cute."
+    }
+  },
+  {
+    "number": 343,
+    "headword": "big time",
+    "examples": {
+      "B": "I owe you big time."
+    }
+  },
+  {
+    "number": 344,
+    "headword": "hot",
+    "examples": {
+      "B": "I'm not good at eating hot food."
+    }
+  },
+  {
+    "number": 345,
+    "headword": "excuse me?",
+    "examples": {
+      "B": "You lool tired. / Excuse me?"
+    }
+  },
+  {
+    "number": 346,
+    "headword": "good sport",
+    "examples": {
+      "B": "She won't care because she's a good sport."
+    }
+  },
+  {
+    "number": 347,
+    "headword": "so bad",
+    "examples": {
+      "B": "I want a Gucci purse so bad."
+    }
+  },
+  {
+    "number": 348,
+    "headword": "use up",
+    "examples": {
+      "B": "Be carefuk when you're gambling. Don't use up your money!"
+    }
+  },
+  {
+    "number": 349,
+    "headword": "by the book",
+    "examples": {
+      "B": "You need to do this by the book."
+    }
+  },
+  {
+    "number": 350,
+    "headword": "cry baby",
+    "examples": {
+      "B": "I'm so done with him because he is a cry baby."
+    }
+  },
+  {
+    "number": 351,
+    "headword": "beef up",
+    "examples": {
+      "B": "Use these data to beef up your report."
+    }
+  },
+  {
+    "number": 352,
+    "headword": "fancy",
+    "examples": {
+      "B": "Cool shoes. They're really fancy!"
+    }
+  },
+  {
+    "number": 353,
+    "headword": "see red",
+    "examples": {
+      "B": "When someone leaves trash on the table# I see red."
+    }
+  },
+  {
+    "number": 354,
+    "headword": "vanilla",
+    "examples": {
+      "B": "This movie is vanilla. There's nothing special about it."
+    }
+  },
+  {
+    "number": 355,
+    "headword": "word of mouth",
+    "examples": {
+      "B": "I heard about it by word of mouth."
+    }
+  },
+  {
+    "number": 356,
+    "headword": "inside out",
+    "examples": {
+      "B": "Oh no! I'm wearing my shirt inside out."
+    }
+  },
+  {
+    "number": 357,
+    "headword": "work out",
+    "examples": {
+      "B": "I hope everything works out!"
+    }
+  },
+  {
+    "number": 358,
+    "headword": "see",
+    "examples": {
+      "B": "Is she seeing anyone?"
+    }
+  },
+  {
+    "number": 359,
+    "headword": "kick back",
+    "examples": {
+      "B": "This is a great place to kick back and relax with your family."
+    }
+  },
+  {
+    "number": 360,
+    "headword": "trip",
+    "examples": {
+      "B": "I tripped over my sisiter."
+    }
+  },
+  {
+    "number": 361,
+    "headword": "stand up",
+    "examples": {
+      "B": "What happend?/ My frined stood me up."
+    }
+  },
+  {
+    "number": 362,
+    "headword": "no picnic",
+    "examples": {
+      "B": "It's no picnic going to school in this weather."
+    }
+  },
+  {
+    "number": 363,
+    "headword": "get the picture",
+    "examples": {
+      "B": "Thanks for explaining. I get the picture."
+    }
+  },
+  {
+    "number": 364,
+    "headword": "sleep on",
+    "examples": {
+      "B": "I can't decide now. Can I sleep on it?"
+    }
+  },
+  {
+    "number": 365,
+    "headword": "about time",
+    "examples": {
+      "B": "It's about time you study for exams."
+    }
+  },
+  {
+    "number": 366,
+    "headword": "put down",
+    "examples": {
+      "B": "He always puts down his brother."
+    }
+  },
+  {
+    "number": 367,
+    "headword": "green light",
+    "examples": {
+      "B": "My boss gave me the green light to worl on the project."
+    }
+  },
+  {
+    "number": 368,
+    "headword": "the you go",
+    "examples": {
+      "B": "I got acceted to Keio! / There you go!"
+    }
+  },
+  {
+    "number": 369,
+    "headword": "class",
+    "examples": {
+      "B": "I like Andrey Hepburn. She has class."
+    }
+  },
+  {
+    "number": 370,
+    "headword": "party animal",
+    "examples": {
+      "B": "He's always drunk. / Yeah# he's a party animal."
+    }
+  },
+  {
+    "number": 371,
+    "headword": "in my book",
+    "examples": {
+      "B": "She's a trustworthy frined#I in my book."
+    }
+  },
+  {
+    "number": 372,
+    "headword": "piece of work",
+    "examples": {
+      "B": "He's a real piece of work."
+    }
+  },
+  {
+    "number": 373,
+    "headword": "I knew it",
+    "examples": {
+      "B": "His birthday is today? I knew it!"
+    }
+  },
+  {
+    "number": 374,
+    "headword": "It's no use",
+    "examples": {
+      "B": "It's no use arguing. He's too stubborn."
+    }
+  },
+  {
+    "number": 375,
+    "headword": "already",
+    "examples": {
+      "B": "Get down to work# already."
+    }
+  },
+  {
+    "number": 376,
+    "headword": "that's life",
+    "examples": {
+      "B": "I failed English class. / That's life."
+    }
+  },
+  {
+    "number": 377,
+    "headword": "man",
+    "examples": {
+      "B": "Man# I can't believe they broke up!"
+    }
+  },
+  {
+    "number": 378,
+    "headword": "It's not like",
+    "examples": {
+      "B": "It's not like him. Or do you?"
+    }
+  },
+  {
+    "number": 379,
+    "headword": "so-called",
+    "examples": {
+      "B": "Is this so-called healty food good for you?"
+    }
+  },
+  {
+    "number": 380,
+    "headword": "I hear you",
+    "examples": {
+      "B": "I hear you# but you still have to go to school."
+    }
+  },
+  {
+    "number": 381,
+    "headword": "minutes",
+    "examples": {
+      "B": "Who's in charger of talking the minutes today?"
+    }
+  },
+  {
+    "number": 382,
+    "headword": "ghost",
+    "examples": {
+      "B": "We've been texting everyday for 3months# but I think he's trying to ghost me now."
+    }
+  },
+  {
+    "number": 383,
+    "headword": "fly",
+    "examples": {
+      "B": "Your fly is open. / Oops!"
+    }
+  },
+  {
+    "number": 384,
+    "headword": "you bet",
+    "examples": {
+      "B": "Are you going to his wedding? / You bet!"
+    }
+  },
+  {
+    "number": 385,
+    "headword": "fit",
+    "examples": {
+      "B": "You go to the gym? No wonder you look fit!"
+    }
+  },
+  {
+    "number": 386,
+    "headword": "well then",
+    "examples": {
+      "B": "Can I stay home? / Well then# please do the dishes."
+    }
+  },
+  {
+    "number": 387,
+    "headword": "news to me",
+    "examples": {
+      "B": "Mr.Tanaka's wife is…./ He got married!? That's news to me."
+    }
+  },
+  {
+    "number": 388,
+    "headword": "that said",
+    "examples": {
+      "B": "I’m a terrible cook That said# I make really good miso soup."
+    }
+  },
+  {
+    "number": 389,
+    "headword": "fat chance",
+    "examples": {
+      "B": "I'm gonna win the lottery this time. / Fat chance."
+    }
+  },
+  {
+    "number": 390,
+    "headword": "go south",
+    "examples": {
+      "B": "I stopped going to classes and that's when my grades started to go south."
+    }
+  },
+  {
+    "number": 391,
+    "headword": "chin up",
+    "examples": {
+      "B": "Chin up! No need to cry over a jerk."
+    }
+  },
+  {
+    "number": 392,
+    "headword": "in the mood",
+    "examples": {
+      "B": "For some reason# I'm in the mood to study."
+    }
+  },
+  {
+    "number": 393,
+    "headword": "fox",
+    "examples": {
+      "B": "She's quite the fox."
+    }
+  },
+  {
+    "number": 394,
+    "headword": "yada yada yada",
+    "examples": {
+      "B": "Mom told me the usual stuff{} don't stay out late#call her when we're done# yada yada yada."
+    }
+  },
+  {
+    "number": 395,
+    "headword": "la-la land",
+    "examples": {
+      "B": "If he keeps saying that nonsense# he's in la-la-land."
+    }
+  },
+  {
+    "number": 396,
+    "headword": "beauty mark",
+    "examples": {
+      "B": "I love your beauty mark undder your eye."
+    }
+  },
+  {
+    "number": 397,
+    "headword": "let's say",
+    "examples": {
+      "B": "Let's say you lost. What would you do?"
+    }
+  },
+  {
+    "number": 398,
+    "headword": "you don't say",
+    "examples": {
+      "B": "The ground is wet ... I think it rained last night! / You don't say."
+    }
+  },
+  {
+    "number": 399,
+    "headword": "hear me out",
+    "examples": {
+      "B": "I know you have quesitons# but hear me out."
+    }
+  },
+  {
+    "number": 400,
+    "headword": "bucks",
+    "examples": {
+      "B": "Taylor Swift's new album is 20 bucks."
+    }
+  },
+  {
+    "number": 401,
+    "headword": "on my way",
+    "examples": {
+      "B": "Is he coming? /  Yea# he's on his way."
+    }
+  },
+  {
+    "number": 402,
+    "headword": "go on",
+    "examples": {
+      "B": "That's what I thoght. But anyway# go on."
+    }
+  },
+  {
+    "number": 403,
+    "headword": "in a way",
+    "examples": {
+      "B": "Don't you thinkl this is a stupid idea?/ Yeah# in a way."
+    }
+  },
+  {
+    "number": 404,
+    "headword": "hit it off",
+    "examples": {
+      "B": "I knew you guys would hit it off!"
+    }
+  },
+  {
+    "number": 405,
+    "headword": "something else",
+    "examples": {
+      "B": "I've experineced some breakups but this one was something else."
+    }
+  },
+  {
+    "number": 406,
+    "headword": "on the go",
+    "examples": {
+      "B": "She's always on the go."
+    }
+  },
+  {
+    "number": 407,
+    "headword": "hit on",
+    "examples": {
+      "B": "Are you hitting on me?"
+    }
+  },
+  {
+    "number": 408,
+    "headword": "we'll see",
+    "examples": {
+      "B": "Come to my party tonight! / We'll see."
+    }
+  },
+  {
+    "number": 409,
+    "headword": "last resort",
+    "examples": {
+      "B": "I'm gonna go to the plice as a last resort."
+    }
+  },
+  {
+    "number": 410,
+    "headword": "in the way",
+    "examples": {
+      "B": "You're in the way."
+    }
+  },
+  {
+    "number": 411,
+    "headword": "pretty please",
+    "examples": {
+      "B": "Dad# will you buy me a car? Pretty please！"
+    }
+  },
+  {
+    "number": 412,
+    "headword": "hit the road",
+    "examples": {
+      "B": "I have a curfew. Let's  hit the road."
+    }
+  },
+  {
+    "number": 413,
+    "headword": "thick skin",
+    "examples": {
+      "B": "You need to have a thiclk skin to be a CEO."
+    }
+  },
+  {
+    "number": 414,
+    "headword": "look at you",
+    "examples": {
+      "B": "Look at you!  I knew you would look great in green!"
+    }
+  },
+  {
+    "number": 415,
+    "headword": "turn down",
+    "examples": {
+      "B": "No# don't do it . If you propose to her right now# she will turn you down."
+    }
+  },
+  {
+    "number": 416,
+    "headword": "you'll see",
+    "examples": {
+      "B": "Why is everone here? / You'll see."
+    }
+  },
+  {
+    "number": 417,
+    "headword": "what do you say",
+    "examples": {
+      "B": "Let's go to Shizuoka for our summer break. What do you say?"
+    }
+  },
+  {
+    "number": 418,
+    "headword": "catch you later",
+    "examples": {
+      "B": "Let's meet at 7. / Alright# I'll catch you later."
+    }
+  },
+  {
+    "number": 419,
+    "headword": "I can tell",
+    "examples": {
+      "B": "I got a haircut. / Yeah# I can tell."
+    }
+  },
+  {
+    "number": 420,
+    "headword": "okay",
+    "examples": {
+      "B": "How was the movie? It was okey."
+    }
+  },
+  {
+    "number": 421,
+    "headword": "click",
+    "examples": {
+      "B": "Everything clicked in that moment."
+    }
+  },
+  {
+    "number": 422,
+    "headword": "I swear",
+    "examples": {
+      "B": "I swear I just saw a UFO!"
+    }
+  },
+  {
+    "number": 423,
+    "headword": "full of beans",
+    "examples": {
+      "B": "Ken is full of beans after a  long nap."
+    }
+  },
+  {
+    "number": 424,
+    "headword": "gum",
+    "examples": {
+      "B": "Your gums are so pink."
+    }
+  },
+  {
+    "number": 425,
+    "headword": "like what?",
+    "examples": {
+      "B": "She's was saying stuff about you. / Like what?"
+    }
+  },
+  {
+    "number": 426,
+    "headword": "picture perfect",
+    "examples": {
+      "B": "It's a picture perfect dream house."
+    }
+  },
+  {
+    "number": 427,
+    "headword": "bad apple",
+    "examples": {
+      "B": "He's a bad apple. Don't hang out with him."
+    }
+  },
+  {
+    "number": 428,
+    "headword": "clean cut",
+    "examples": {
+      "B": "He's a plite#  clean-cut young man."
+    }
+  },
+  {
+    "number": 429,
+    "headword": "lucky you",
+    "examples": {
+      "B": "You won the lottery? Lucky you!"
+    }
+  },
+  {
+    "number": 430,
+    "headword": "tag along",
+    "examples": {
+      "B": "You can tag along if you promise to stay quiet."
+    }
+  },
+  {
+    "number": 431,
+    "headword": "whatchamacallit",
+    "examples": {
+      "B": "Can you go get me the ... Whatchamacallit?"
+    }
+  },
+  {
+    "number": 432,
+    "headword": "duh",
+    "examples": {
+      "B": "The ground is wet. / It was raining 5 minitutes ago. Duh."
+    }
+  },
+  {
+    "number": 433,
+    "headword": "in the cards",
+    "examples": {
+      "B": "Her winning the award is in the cards."
+    }
+  },
+  {
+    "number": 434,
+    "headword": "retweet",
+    "examples": {
+      "B": "I don't feel like doing anything today. / Retweet."
+    }
+  },
+  {
+    "number": 435,
+    "headword": "top banana",
+    "examples": {
+      "B": "He's trying to be the top banana of this branch.",
+      "C": "no problem"
+    }
+  },
+  {
+    "number": 436,
+    "headword": "get this",
+    "examples": {
+      "B": "Get this# the concert is actually tonight!"
+    }
+  },
+  {
+    "number": 437,
+    "headword": "saga",
+    "examples": {
+      "B": "And the saga continues...."
+    }
+  },
+  {
+    "number": 438,
+    "headword": "food baby",
+    "examples": {
+      "B": "Look at my food baby."
+    }
+  },
+  {
+    "number": 439,
+    "headword": "over the moon",
+    "examples": {
+      "B": "He's over the moon about his new job."
+    }
+  },
+  {
+    "number": 440,
+    "headword": "social chameleon",
+    "examples": {
+      "B": "She's quite a social chameleon."
+    }
+  },
+  {
+    "number": 441,
+    "headword": "long shot",
+    "examples": {
+      "B": "It's a long shot# but I know we can do it."
+    }
+  },
+  {
+    "number": 442,
+    "headword": "that's that",
+    "examples": {
+      "B": "I'm going to marry him# and that's that."
+    }
+  },
+  {
+    "number": 443,
+    "headword": "drag",
+    "examples": {
+      "B": "Studying English is a drag. / No# it's fun!"
+    }
+  },
+  {
+    "number": 444,
+    "headword": "GOAT",
+    "examples": {
+      "B": "She will forever be rememberd as the GOAT."
+    }
+  },
+  {
+    "number": 445,
+    "headword": "sorta",
+    "examples": {
+      "B": "Are you hungry? / Sorta."
+    }
+  },
+  {
+    "number": 446,
+    "headword": "goofy",
+    "examples": {
+      "B": "He's a goofy kid."
+    }
+  },
+  {
+    "number": 447,
+    "headword": "do you feel me?",
+    "examples": {
+      "B": "It's too hot to go eat Nabe. Do you feel me ?"
+    }
+  },
+  {
+    "number": 448,
+    "headword": "long face",
+    "examples": {
+      "B": "Ken came to me with a  long face."
+    }
+  },
+  {
+    "number": 449,
+    "headword": "curve",
+    "examples": {
+      "B": "I always get curved by Ken."
+    }
+  },
+  {
+    "number": 450,
+    "headword": "wrap up",
+    "examples": {
+      "B": "Wrap it up guys!"
+    }
+  },
+  {
+    "number": 451,
+    "headword": "like I care",
+    "examples": {
+      "B": "I'm gonna tell mom. / Like I care!"
+    }
+  },
+  {
+    "number": 452,
+    "headword": "word?",
+    "examples": {
+      "B": "I won the lottery! / Word?"
+    }
+  },
+  {
+    "number": 453,
+    "headword": "crash",
+    "examples": {
+      "B": "I'm gonna crash."
+    }
+  },
+  {
+    "number": 454,
+    "headword": "deep water",
+    "examples": {
+      "B": "He lost his phone and now he's in deep water."
+    }
+  },
+  {
+    "number": 455,
+    "headword": "milk it",
+    "examples": {
+      "B": "You're milking it."
+    }
+  },
+  {
+    "number": 456,
+    "headword": "no end",
+    "examples": {
+      "B": "The news of their breakup surprised me no end."
+    }
+  },
+  {
+    "number": 457,
+    "headword": "by all means",
+    "examples": {
+      "B": "Can I sing here? / By all means."
+    }
+  },
+  {
+    "number": 458,
+    "headword": "anyhoo",
+    "examples": {
+      "B": "Anyhoo# what happened to your dog?"
+    }
+  },
+  {
+    "number": 459,
+    "headword": "let's bounce",
+    "examples": {
+      "B": "Our ride is here. / Aright# let's bounce."
+    }
+  },
+  {
+    "number": 460,
+    "headword": "fed up",
+    "examples": {
+      "B": "She's fed up w.ith him"
+    }
+  },
+  {
+    "number": 461,
+    "headword": "at it again",
+    "examples": {
+      "B": "I stopped their fight# but they're at it again."
+    }
+  },
+  {
+    "number": 462,
+    "headword": "what do I know?",
+    "examples": {
+      "B": "Maybe she's right# but what do I know?"
+    }
+  },
+  {
+    "number": 463,
+    "headword": "toasty",
+    "examples": {
+      "B": "It's cold outside the cottage but I'm nice and toasty by the fire."
+    }
+  },
+  {
+    "number": 464,
+    "headword": "just because",
+    "examples": {
+      "B": "Why did you get me chocolate? / Just because."
+    }
+  },
+  {
+    "number": 465,
+    "headword": "slap",
+    "examples": {
+      "B": "Justin's new song slaps!"
+    }
+  },
+  {
+    "number": 466,
+    "headword": "you tell me",
+    "examples": {
+      "B": "You tell me. You're the teacher."
+    }
+  },
+  {
+    "number": 467,
+    "headword": "sus",
+    "examples": {
+      "B": "He didn't come in to work? That's sus."
+    }
+  },
+  {
+    "number": 468,
+    "headword": "count me out",
+    "examples": {
+      "B": "We're going hiking tomorrow. / Then count me out."
+    }
+  },
+  {
+    "number": 469,
+    "headword": "sleep in",
+    "examples": {
+      "B": "I slept in this mornig and I feel great!"
+    }
+  },
+  {
+    "number": 470,
+    "headword": "keep company",
+    "examples": {
+      "B": "I'll keep you company."
+    }
+  },
+  {
+    "number": 471,
+    "headword": "now we're talking",
+    "examples": {
+      "B": "Now we're taking! Going to the movies sounds great!"
+    }
+  },
+  {
+    "number": 472,
+    "headword": "play it by ear",
+    "examples": {
+      "B": "Let's play it by ear and see what happens."
+    }
+  },
+  {
+    "number": 473,
+    "headword": "up-front",
+    "examples": {
+      "B": "He's up-front about his feelings."
+    }
+  },
+  {
+    "number": 474,
+    "headword": "cringey",
+    "examples": {
+      "B": "Look at this photo of me acting all cool in midde school. It's so cringey!"
+    }
+  },
+  {
+    "number": 475,
+    "headword": "think twice",
+    "examples": {
+      "B": "You better think twice before quitting."
+    }
+  },
+  {
+    "number": 476,
+    "headword": "flex",
+    "examples": {
+      "B": "He's flexing has girlfriends on Instagram."
+    }
+  },
+  {
+    "number": 477,
+    "headword": "shook",
+    "examples": {
+      "B": "I just found out my favorite celebrity couple has broken up and I'm shook."
+    }
+  },
+  {
+    "number": 478,
+    "headword": "pig out",
+    "examples": {
+      "B": "People usually pig out at a buffet."
+    }
+  },
+  {
+    "number": 479,
+    "headword": "that's nothing",
+    "examples": {
+      "B": "You ran a marathon is an hour? That's nothing. I can run in 30 minutes."
+    }
+  },
+  {
+    "number": 480,
+    "headword": "it hit me",
+    "examples": {
+      "B": "I thought about what's most important to me# and it suddenly hit me."
+    }
+  },
+  {
+    "number": 481,
+    "headword": "in no time",
+    "examples": {
+      "B": "She finished her assignment in no time."
+    }
+  },
+  {
+    "number": 482,
+    "headword": "more or less",
+    "examples": {
+      "B": "He more or less finished the book."
+    }
+  },
+  {
+    "number": 483,
+    "headword": "lose it",
+    "examples": {
+      "B": "I just lost it. I couldn't hold it in."
+    }
+  },
+  {
+    "number": 484,
+    "headword": "never better",
+    "examples": {
+      "B": "How's your business? / Never better."
+    }
+  },
+  {
+    "number": 485,
+    "headword": "join the club",
+    "examples": {
+      "B": "Are you lost? Join the club."
+    }
+  },
+  {
+    "number": 486,
+    "headword": "bug",
+    "examples": {
+      "B": "Flies bug me a lot."
+    }
+  },
+  {
+    "number": 487,
+    "headword": "natural",
+    "examples": {
+      "B": "She's a natural. She's only 5 and can sing this well."
+    }
+  },
+  {
+    "number": 488,
+    "headword": "vice versa",
+    "examples": {
+      "B": "The boys didn't want to play with the girls and vice versa"
+    }
+  },
+  {
+    "number": 489,
+    "headword": "get real",
+    "examples": {
+      "B": "Get real. He's never gonna give you the car"
+    }
+  },
+  {
+    "number": 490,
+    "headword": "so long",
+    "examples": {
+      "B": "So long# my frined."
+    }
+  },
+  {
+    "number": 491,
+    "headword": "sue me",
+    "examples": {
+      "B": "You don't like me being here?　Sue me# then."
+    }
+  },
+  {
+    "number": 492,
+    "headword": "it's your funeral",
+    "examples": {
+      "B": "Do it then. It's your funeral."
+    }
+  },
+  {
+    "number": 493,
+    "headword": "No.1",
+    "examples": {
+      "B": "I need to go to the bathroom. / Is it no.1 or no.2?"
+    }
+  },
+  {
+    "number": 494,
+    "headword": "you do you",
+    "examples": {
+      "B": "I'm not sure talking to your dog will solve the problem# but you do you."
+    }
+  },
+  {
+    "number": 495,
+    "headword": "over the top",
+    "examples": {
+      "B": "Her reaction is always so over the top."
+    }
+  },
+  {
+    "number": 496,
+    "headword": "fix",
+    "examples": {
+      "B": "She fixed her own meal."
+    }
+  },
+  {
+    "number": 497,
+    "headword": "downtime",
+    "examples": {
+      "B": "I haven't have that much downtime lately."
+    }
+  },
+  {
+    "number": 498,
+    "headword": "pretty much",
+    "examples": {
+      "B": "Those photos pretty much look the same."
+    }
+  },
+  {
+    "number": 499,
+    "headword": "that way",
+    "examples": {
+      "B": "Put it in the bag. That way no one will notice."
+    }
+  },
+  {
+    "number": 500,
+    "headword": "spot",
+    "examples": {
+      "B": "Can you spot the swan in the photo?"
+    }
+  },
+  {
+    "number": 501,
+    "headword": "under the table",
+    "examples": {
+      "B": "The deal was made under the table."
+    }
+  },
+  {
+    "number": 502,
+    "headword": "jump the gum",
+    "examples": {
+      "B": "Don't jump the gun. We don't have enough information."
+    }
+  },
+  {
+    "number": 503,
+    "headword": "on the dot",
+    "examples": {
+      "B": "The bus arrived at 10 on the dot."
+    }
+  },
+  {
+    "number": 504,
+    "headword": "rusty",
+    "examples": {
+      "B": "My driving is little rusty."
+    }
+  },
+  {
+    "number": 505,
+    "headword": "stretch",
+    "examples": {
+      "B": "It's a stretch that we need to achive this goal in a year."
+    }
+  },
+  {
+    "number": 506,
+    "headword": "loaded",
+    "examples": {
+      "B": "That lady lools like she's loaded"
+    }
+  },
+  {
+    "number": 507,
+    "headword": "on second thought",
+    "examples": {
+      "B": "But on second thought# I decided not to go."
+    }
+  },
+  {
+    "number": 508,
+    "headword": "or so",
+    "examples": {
+      "B": "There were 10 people or so."
+    }
+  },
+  {
+    "number": 509,
+    "headword": "chop chop",
+    "examples": {
+      "B": "You're so slow. Chop chop!"
+    }
+  },
+  {
+    "number": 510,
+    "headword": "cut out",
+    "examples": {
+      "B": "You're not cut out to be a nurse."
+    }
+  },
+  {
+    "number": 511,
+    "headword": "could care less",
+    "examples": {
+      "B": "Ken wants to talk to you./ I could care less."
+    }
+  },
+  {
+    "number": 512,
+    "headword": "hang on",
+    "examples": {
+      "B": "Hang on# What did he just say?"
+    }
+  },
+  {
+    "number": 513,
+    "headword": "tart",
+    "examples": {
+      "B": "This cake is very tart."
+    }
+  },
+  {
+    "number": 514,
+    "headword": "speak of the devil",
+    "examples": {
+      "B": "Speak of the devil# here he comes."
+    }
+  },
+  {
+    "number": 515,
+    "headword": "knock it off",
+    "examples": {
+      "B": "Kids#knock it off! Stop fighting."
+    }
+  },
+  {
+    "number": 516,
+    "headword": "laid-back",
+    "examples": {
+      "B": "Jade is so laid-back that nothing irritates her."
+    }
+  },
+  {
+    "number": 517,
+    "headword": "ballin'",
+    "examples": {
+      "B": "Looke at that jacket. She ballin'."
+    }
+  },
+  {
+    "number": 518,
+    "headword": "sketchy",
+    "examples": {
+      "B": "Don't go near sletchy places."
+    }
+  },
+  {
+    "number": 519,
+    "headword": "puzzled",
+    "examples": {
+      "B": "I am puzzled by his reply."
+    }
+  },
+  {
+    "number": 520,
+    "headword": "cut it out",
+    "examples": {
+      "B": "Cut it out# I'm trying to study."
+    }
+  },
+  {
+    "number": 521,
+    "headword": "come again",
+    "examples": {
+      "B": "Come again? I couldn't hear you."
+    }
+  },
+  {
+    "number": 522,
+    "headword": "long story short",
+    "examples": {
+      "B": "Long story short# we've become close."
+    }
+  },
+  {
+    "number": 523,
+    "headword": "pain in the neck",
+    "examples": {
+      "B": "Tom is such a pain in the neck."
+    }
+  },
+  {
+    "number": 524,
+    "headword": "chit-chat",
+    "examples": {
+      "B": "I enjoyed our chit-chat!"
+    }
+  },
+  {
+    "number": 525,
+    "headword": "crave",
+    "examples": {
+      "B": "I'm craving for love."
+    }
+  },
+  {
+    "number": 526,
+    "headword": "TGIF",
+    "examples": {
+      "B": "TGIF! I can't wait for the weekend!"
+    }
+  },
+  {
+    "number": 527,
+    "headword": "ASAP",
+    "examples": {
+      "B": "Please get back to me ASPA."
+    }
+  },
+  {
+    "number": 528,
+    "headword": "dream on",
+    "examples": {
+      "B": "I wish I could be Tom Cruise. / Dream on."
+    }
+  },
+  {
+    "number": 529,
+    "headword": "binge-watch",
+    "examples": {
+      "B": "My favorite leisure activities is to binge-watch K-dramas."
+    }
+  },
+  {
+    "number": 530,
+    "headword": "call it even",
+    "examples": {
+      "B": "Let's call it even!"
+    }
+  },
+  {
+    "number": 531,
+    "headword": "get over",
+    "examples": {
+      "B": "You'll get over him in no time."
+    }
+  },
+  {
+    "number": 532,
+    "headword": "turn the tables",
+    "examples": {
+      "B": "I guess he wanted to turn the tables on others."
+    }
+  },
+  {
+    "number": 533,
+    "headword": "man up",
+    "examples": {
+      "B": "Man up! What are you waiting for?"
+    }
+  },
+  {
+    "number": 534,
+    "headword": "but me no buts",
+    "examples": {
+      "B": "But# mom! / But me no buts!"
+    }
+  },
+  {
+    "number": 535,
+    "headword": "doze off",
+    "examples": {
+      "B": "I dozed off during class."
+    }
+  },
+  {
+    "number": 536,
+    "headword": "jack up",
+    "examples": {
+      "B": "Airlines jack up the fares during New Years holidays."
+    }
+  },
+  {
+    "number": 537,
+    "headword": "trick",
+    "examples": {
+      "B": "There's actually a trick."
+    }
+  },
+  {
+    "number": 538,
+    "headword": "we're square",
+    "examples": {
+      "B": "Buy me an ice cream and we're square# ok?"
+    }
+  },
+  {
+    "number": 539,
+    "headword": "tips",
+    "examples": {
+      "B": "Can you give me some tips for traveling to LA?"
+    }
+  },
+  {
+    "number": 540,
+    "headword": "smart cookie",
+    "examples": {
+      "B": "That little boy# he's a smart cookie."
+    }
+  },
+  {
+    "number": 541,
+    "headword": "in a pickle",
+    "examples": {
+      "B": "I forget my textbook! I'm in the pickle!"
+    }
+  },
+  {
+    "number": 542,
+    "headword": "boo",
+    "examples": {
+      "B": "Hey# boo# where do you wanaa go tomorrow?"
+    }
+  },
+  {
+    "number": 543,
+    "headword": "off my face",
+    "examples": {
+      "B": "He was off his face."
+    }
+  },
+  {
+    "number": 544,
+    "headword": "out of style",
+    "examples": {
+      "B": "He was a no-show."
+    }
+  },
+  {
+    "number": 545,
+    "headword": "no-show",
+    "examples": {
+      "B": "Mary always spill the beans."
+    }
+  },
+  {
+    "number": 546,
+    "headword": "spill the beans",
+    "examples": {
+      "B": "That's the last straw. I don't accept your apology."
+    }
+  },
+  {
+    "number": 547,
+    "headword": "the last straw",
+    "examples": {
+      "B": "I'm bad at keeping a straight face."
+    }
+  },
+  {
+    "number": 548,
+    "headword": "straight face",
+    "examples": {
+      "B": "He is always thinking out loud."
+    }
+  },
+  {
+    "number": 549,
+    "headword": "bite my tongue",
+    "examples": {
+      "B": "Sometimes it's better to bite my tongue."
+    }
+  },
+  {
+    "number": 550,
+    "headword": "busybody",
+    "examples": {
+      "B": "Don't be a busybody."
+    }
+  },
+  {
+    "number": 551,
+    "headword": "find my feet",
+    "examples": {
+      "B": "It makes time for me to find my feet at new places."
+    }
+  },
+  {
+    "number": 552,
+    "headword": "blow up",
+    "examples": {
+      "B": "That YouTube video is blowing up"
+    }
+  },
+  {
+    "number": 553,
+    "headword": "come around",
+    "examples": {
+      "B": "After knowing more about him# I came around eventually."
+    }
+  },
+  {
+    "number": 554,
+    "headword": "lose face",
+    "examples": {
+      "B": "I lost face in front of the whole class."
+    }
+  },
+  {
+    "number": 555,
+    "headword": "over my head",
+    "examples": {
+      "B": "Unbelieveable! He's over my head!"
+    }
+  },
+  {
+    "number": 556,
+    "headword": "keep it real",
+    "examples": {
+      "B": "I respect someone who is keeping it real."
+    }
+  },
+  {
+    "number": 557,
+    "headword": "runner-up",
+    "examples": {
+      "B": "She was runner-up in the beauty pageant."
+    }
+  },
+  {
+    "number": 558,
+    "headword": "round up",
+    "examples": {
+      "B": "Let's round up and have a slumber party!"
+    }
+  },
+  {
+    "number": 559,
+    "headword": "kiss teeth",
+    "examples": {
+      "B": "He thinks it's cool to kiss his teeth."
+    }
+  },
+  {
+    "number": 560,
+    "headword": "keen on",
+    "examples": {
+      "B": "He's been keen on video games lately."
+    }
+  },
+  {
+    "number": 561,
+    "headword": "hit the spot",
+    "examples": {
+      "B": "That wine really hit the spot."
+    }
+  },
+  {
+    "number": 562,
+    "headword": "the one",
+    "examples": {
+      "B": "No one else# but you are the one for me.",
+      "C": "in your dreams"
+    }
+  },
+  {
+    "number": 563,
+    "headword": "watch it",
+    "examples": {
+      "B": "Watch it! You were about to get injured."
+    }
+  },
+  {
+    "number": 564,
+    "headword": "meant to be",
+    "examples": {
+      "B": "I believe that Tom and I are meant to be."
+    }
+  },
+  {
+    "number": 565,
+    "headword": "jaded",
+    "examples": {
+      "B": "I’m kinda jaded by this work."
+    }
+  },
+  {
+    "number": 566,
+    "headword": "glow up",
+    "examples": {
+      "B": "She really glowed up after she graduated high school."
+    }
+  },
+  {
+    "number": 567,
+    "headword": "change of pace",
+    "examples": {
+      "B": "Let's go hiking for a chance of pace."
+    }
+  },
+  {
+    "number": 568,
+    "headword": "dull",
+    "examples": {
+      "B": "There's never a dull moment when I’m with you."
+    }
+  },
+  {
+    "number": 569,
+    "headword": "come what may",
+    "examples": {
+      "B": "I will stay by your side# come what may."
+    }
+  },
+  {
+    "number": 570,
+    "headword": "dig in",
+    "examples": {
+      "B": "It looks super delicious! Let’s dig in!"
+    }
+  },
+  {
+    "number": 571,
+    "headword": "promise the moon",
+    "examples": {
+      "B": "Be careful with guys who promise the moon."
+    }
+  },
+  {
+    "number": 572,
+    "headword": "cramp",
+    "examples": {
+      "B": "Drawing for hours caused a cramp in my hand."
+    }
+  },
+  {
+    "number": 573,
+    "headword": "come upon",
+    "examples": {
+      "B": "I can upon my first grade teacher the other day."
+    }
+  },
+  {
+    "number": 574,
+    "headword": "no time flat",
+    "examples": {
+      "B": "I was done with the exam in no time flat."
+    }
+  },
+  {
+    "number": 575,
+    "headword": "have a cow",
+    "examples": {
+      "B": "He's gonna have a cow if I don’t do this now."
+    }
+  },
+  {
+    "number": 576,
+    "headword": "rocket science",
+    "examples": {
+      "B": "It's not rocket science setting up a Zoom meeting."
+    }
+  },
+  {
+    "number": 577,
+    "headword": "piggyback",
+    "examples": {
+      "B": "Let me piggyback on what Tom said."
+    }
+  },
+  {
+    "number": 578,
+    "headword": "drop-dead",
+    "examples": {
+      "B": "All of the dancers were drop-dead gorgeous."
+    }
+  },
+  {
+    "number": 579,
+    "headword": "rock bottom",
+    "examples": {
+      "B": "That’s when I knew I had hit rock bottom."
+    }
+  },
+  {
+    "number": 580,
+    "headword": "stuffy nose",
+    "examples": {
+      "B": "I have a stuffy nose because of the allergy."
+    }
+  },
+  {
+    "number": 581,
+    "headword": "impossible",
+    "examples": {
+      "B": "He’s an impossible person to work with."
+    }
+  },
+  {
+    "number": 582,
+    "headword": "word up",
+    "examples": {
+      "B": "Ichiro is the best baseball player ever.Word up!"
+    }
+  },
+  {
+    "number": 583,
+    "headword": "crush",
+    "examples": {
+      "B": "My crunch is handsome# smart# and good at sports."
+    }
+  },
+  {
+    "number": 584,
+    "headword": "gucci",
+    "examples": {
+      "B": "Let's go to the mall first./Sounds gucci."
+    }
+  },
+  {
+    "number": 585,
+    "headword": "glitch",
+    "examples": {
+      "B": "I apologize for the technical glitch."
+    }
+  },
+  {
+    "number": 586,
+    "headword": "sing the blues",
+    "examples": {
+      "B": "After he got fired# he’s been singing the blues every day."
+    }
+  },
+  {
+    "number": 587,
+    "headword": "epic",
+    "examples": {
+      "B": "Did you see his performance? That’s was epic!"
+    }
+  },
+  {
+    "number": 588,
+    "headword": "apple of my eye",
+    "examples": {
+      "B": "My grandson is the apple of my eye."
+    }
+  },
+  {
+    "number": 589,
+    "headword": "I'm in",
+    "examples": {
+      "B": "Anybody wanna go driving this weekend?/I’m in!"
+    }
+  },
+  {
+    "number": 590,
+    "headword": "pull off",
+    "examples": {
+      "B": "Becoming a doctor is difficult to pull off."
+    }
+  },
+  {
+    "number": 591,
+    "headword": "if anything",
+    "examples": {
+      "B": "She was# if anything# a smart one in class."
+    }
+  },
+  {
+    "number": 592,
+    "headword": "takeaway",
+    "examples": {
+      "B": "The takeaway from this is# it’s okay to not be okay."
+    }
+  },
+  {
+    "number": 593,
+    "headword": "per se",
+    "examples": {
+      "B": "I'm not saying I don’t like it per se# but …"
+    }
+  },
+  {
+    "number": 594,
+    "headword": "jazz up",
+    "examples": {
+      "B": "Let's jazz up this cupcake with sprinkle!"
+    }
+  },
+  {
+    "number": 595,
+    "headword": "touch base",
+    "examples": {
+      "B": "I’d like to touch base with you about the event."
+    }
+  },
+  {
+    "number": 596,
+    "headword": "tame",
+    "examples": {
+      "B": "My cat is really difficult to tame."
+    }
+  },
+  {
+    "number": 597,
+    "headword": "calling",
+    "examples": {
+      "B": "He dedicated his life to his calling as a teacher."
+    }
+  },
+  {
+    "number": 598,
+    "headword": "square one",
+    "examples": {
+      "B": "It looks like I’m back to square one."
+    }
+  },
+  {
+    "number": 599,
+    "headword": "no biggie",
+    "examples": {
+      "B": "No biggie# I have time."
+    }
+  },
+  {
+    "number": 600,
+    "headword": "fill in",
+    "examples": {
+      "B": "Did Ken fill you in about the new assignment?"
+    }
+  },
+  {
+    "number": 601,
+    "headword": "scaredy cat",
+    "examples": {
+      "B": "You are such a scaredy cat!"
+    }
+  },
+  {
+    "number": 602,
+    "headword": "straight up",
+    "examples": {
+      "B": "The new movie was straight up awesome!"
+    }
+  },
+  {
+    "number": 603,
+    "headword": "get a clue",
+    "examples": {
+      "B": "It was so obvious. Get a clue!"
+    }
+  },
+  {
+    "number": 604,
+    "headword": "eat it up",
+    "examples": {
+      "B": "I told him a fake story and he ate it up."
+    }
+  },
+  {
+    "number": 605,
+    "headword": "corny",
+    "examples": {
+      "B": "Dad thinks he’s funny but his jokes are really corny."
+    }
+  },
+  {
+    "number": 606,
+    "headword": "crush it",
+    "examples": {
+      "B": "How did it go? / I crushed it."
+    }
+  },
+  {
+    "number": 607,
+    "headword": "bloody",
+    "examples": {
+      "B": "That was bloody good pasta!"
+    }
+  },
+  {
+    "number": 608,
+    "headword": "keeper",
+    "examples": {
+      "B": "She’s a keeper. You’d better not lose her!"
+    }
+  },
+  {
+    "number": 609,
+    "headword": "props",
+    "examples": {
+      "B": "Props to her for standing up for herself."
+    }
+  },
+  {
+    "number": 610,
+    "headword": "cliché",
+    "examples": {
+      "B": "It’s a cliché# but everything happens for a reason."
+    }
+  },
+  {
+    "number": 611,
+    "headword": "ditto",
+    "examples": {
+      "B": "I'm tired. I’m ready to go home./Ditto."
+    }
+  },
+  {
+    "number": 612,
+    "headword": "wear the pants",
+    "examples": {
+      "B": "Who wears the pants in the relationship?"
+    }
+  },
+  {
+    "number": 613,
+    "headword": "cooped up",
+    "examples": {
+      "B": "I don't like to be cooped up in an office all day long."
+    }
+  },
+  {
+    "number": 614,
+    "headword": "take a hint",
+    "examples": {
+      "B": "I wanted to go home! Take a hint!"
+    }
+  },
+  {
+    "number": 615,
+    "headword": "bop",
+    "examples": {
+      "B": "Ed Sheeran only makes bops."
+    }
+  },
+  {
+    "number": 616,
+    "headword": "flop",
+    "examples": {
+      "B": "That movie was flop."
+    }
+  },
+  {
+    "number": 617,
+    "headword": "stunning",
+    "examples": {
+      "B": "You look stunning in the red dress."
+    }
+  },
+  {
+    "number": 618,
+    "headword": "stocked",
+    "examples": {
+      "B": "The little boy is stoked to be a big brother."
+    }
+  },
+  {
+    "number": 619,
+    "headword": "all mouth",
+    "examples": {
+      "B": "Don't be scared of him. He’s all mouth."
+    }
+  },
+  {
+    "number": 620,
+    "headword": "book smart",
+    "examples": {
+      "B": "He's a book smart."
+    }
+  },
+  {
+    "number": 621,
+    "headword": "All wet",
+    "examples": {
+      "B": "You are all we! Why can’t you understand?"
+    }
+  },
+  {
+    "number": 622,
+    "headword": "itchy",
+    "examples": {
+      "B": "This sweater is itchy."
+    }
+  },
+  {
+    "number": 623,
+    "headword": "easy-going",
+    "examples": {
+      "B": "I'm very easy-going and easy to get along with."
+    }
+  },
+  {
+    "number": 624,
+    "headword": "can you not",
+    "examples": {
+      "B": "Can you not? That’s so distracting."
+    }
+  },
+  {
+    "number": 625,
+    "headword": "same here",
+    "examples": {
+      "B": "I’ll get a coffee. / Same here."
+    }
+  },
+  {
+    "number": 626,
+    "headword": "excel",
+    "examples": {
+      "B": "He excel in many sports."
+    }
+  },
+  {
+    "number": 627,
+    "headword": "override",
+    "examples": {
+      "B": "The new regulations override the old ones."
+    }
+  },
+  {
+    "number": 628,
+    "headword": "be smitten",
+    "examples": {
+      "B": "You can see she’s smitten with husband."
+    }
+  },
+  {
+    "number": 629,
+    "headword": "green",
+    "examples": {
+      "B": "He was a very green# young man."
+    }
+  },
+  {
+    "number": 630,
+    "headword": "too forward",
+    "examples": {
+      "B": "Be careful. You’re being too forward."
+    }
+  },
+  {
+    "number": 631,
+    "headword": "as if",
+    "examples": {
+      "B": "Have you finished your homework? / As if! It’s too much!"
+    }
+  },
+  {
+    "number": 632,
+    "headword": "not that",
+    "examples": {
+      "B": "Not that it was easy but the test wasn’t so hard."
+    }
+  },
+  {
+    "number": 633,
+    "headword": "carried away",
+    "examples": {
+      "B": "Don’t get carried away by your success."
+    }
+  },
+  {
+    "number": 634,
+    "headword": "slay",
+    "examples": {
+      "B": "Your outfit is slaying# girl!"
+    }
+  },
+  {
+    "number": 635,
+    "headword": "catch some Zs",
+    "examples": {
+      "B": "I'm gonna go home and catch some Zs."
+    }
+  },
+  {
+    "number": 636,
+    "headword": "weary",
+    "examples": {
+      "B": "His face looked weary."
+    }
+  },
+  {
+    "number": 637,
+    "headword": "heart of gold",
+    "examples": {
+      "B": "He causes trouble but he has heart of gold."
+    }
+  },
+  {
+    "number": 638,
+    "headword": "see the elephant",
+    "examples": {
+      "B": "Son# I’ve seen the elephant in my day."
+    }
+  },
+  {
+    "number": 639,
+    "headword": "All set",
+    "examples": {
+      "B": "Ready? Let’s go. / Yep# all set."
+    }
+  },
+  {
+    "number": 640,
+    "headword": "sit well",
+    "examples": {
+      "B": "His explanation didn’t sit well with me."
+    }
+  },
+  {
+    "number": 641,
+    "headword": "flying colors",
+    "examples": {
+      "B": "Tom finished the program with flying colors."
+    }
+  },
+  {
+    "number": 642,
+    "headword": "live it up",
+    "examples": {
+      "B": "Sometimes you need to free yourself from work and live it up."
+    }
+  },
+  {
+    "number": 643,
+    "headword": "wicked",
+    "examples": {
+      "B": "That’s wicked! How did you the backflip from there?"
+    }
+  },
+  {
+    "number": 644,
+    "headword": "bags",
+    "examples": {
+      "B": "Look at the bags under my eyes。"
+    }
+  },
+  {
+    "number": 645,
+    "headword": "XYZ",
+    "examples": {
+      "B": "Hey# XYZ! / Huh? Oh no!!"
+    }
+  },
+  {
+    "number": 646,
+    "headword": "chow down",
+    "examples": {
+      "B": "We were so hungry　we chowed down on the pasta."
+    }
+  },
+  {
+    "number": 647,
+    "headword": "zip it",
+    "examples": {
+      "B": "Zip it! I can’t hear the announcement!"
+    }
+  },
+  {
+    "number": 648,
+    "headword": "minted",
+    "examples": {
+      "B": "All these CEOs are absolutely minted."
+    }
+  },
+  {
+    "number": 649,
+    "headword": "take a rain check",
+    "examples": {
+      "B": "I’ll have to take a rain check. I’ve got plans."
+    }
+  },
+  {
+    "number": 650,
+    "headword": "veg out",
+    "examples": {
+      "B": "I wanna veg out in front of the TV tonight."
+    }
+  },
+  {
+    "number": 651,
+    "headword": "take a hike",
+    "examples": {
+      "B": "Take a hike! I don’t wanna see your face."
+    }
+  },
+  {
+    "number": 652,
+    "headword": "looker",
+    "examples": {
+      "B": "Ken’s brother is a real looker."
+    }
+  },
+  {
+    "number": 653,
+    "headword": "damp",
+    "examples": {
+      "B": "My shirt is still damp."
+    }
+  },
+  {
+    "number": 654,
+    "headword": "move on",
+    "examples": {
+      "B": "Before moving on# does anyone have any questions?"
+    }
+  },
+  {
+    "number": 655,
+    "headword": "sulk",
+    "examples": {
+      "B": "My son is sulking because I took away his phone."
+    }
+  },
+  {
+    "number": 656,
+    "headword": "peek",
+    "examples": {
+      "B": "Close your eyes and don’t peek!"
+    }
+  },
+  {
+    "number": 657,
+    "headword": "baggy",
+    "examples": {
+      "B": "She's wearing skinny jeans and a baggy T shirt."
+    }
+  },
+  {
+    "number": 658,
+    "headword": "errand",
+    "examples": {
+      "B": "He had some errands to run."
+    }
+  },
+  {
+    "number": 659,
+    "headword": "in that",
+    "examples": {
+      "B": "The program is perfect in that there is no flaw."
+    }
+  },
+  {
+    "number": 660,
+    "headword": "besides",
+    "examples": {
+      "B": "Besides# you weren’t even there."
+    }
+  },
+  {
+    "number": 661,
+    "headword": "by any chance",
+    "examples": {
+      "B": "Did see my mom by any chance?"
+    }
+  },
+  {
+    "number": 662,
+    "headword": "which means",
+    "examples": {
+      "B": "So? / Which means# you are to blame."
+    }
+  },
+  {
+    "number": 663,
+    "headword": "aka",
+    "examples": {
+      "B": "I'm from New York# aka “The Big Apple”"
+    }
+  },
+  {
+    "number": 664,
+    "headword": "bingo",
+    "examples": {
+      "B": "Bingo# you got it."
+    }
+  },
+  {
+    "number": 665,
+    "headword": "give in",
+    "examples": {
+      "B": "She begged so much that I eventually gave in."
+    }
+  },
+  {
+    "number": 666,
+    "headword": "tackle",
+    "examples": {
+      "B": "Let's tackle this problem first."
+    }
+  },
+  {
+    "number": 667,
+    "headword": "brush off",
+    "examples": {
+      "B": "She tried to tell him# but hi just brushed her off."
+    }
+  },
+  {
+    "number": 668,
+    "headword": "go cold turkey",
+    "examples": {
+      "B": "He went cold turkey on his smoking habit."
+    }
+  },
+  {
+    "number": 669,
+    "headword": "tall order",
+    "examples": {
+      "B": "My boss told me to finish it today. / That’s a tall order."
+    }
+  },
+  {
+    "number": 670,
+    "headword": "pull strings",
+    "examples": {
+      "B": "He doesn’t want me to pull strings."
+    }
+  },
+  {
+    "number": 671,
+    "headword": "epic fail",
+    "examples": {
+      "B": "What an epic fail!"
+    }
+  },
+  {
+    "number": 672,
+    "headword": "go overboard",
+    "examples": {
+      "B": "She went overboard on the eye makeup."
+    }
+  },
+  {
+    "number": 673,
+    "headword": "bigwig",
+    "examples": {
+      "B": "I had a meeting with the bigwigs."
+    }
+  },
+  {
+    "number": 674,
+    "headword": "crew",
+    "examples": {
+      "B": "There’s your crew."
+    }
+  },
+  {
+    "number": 675,
+    "headword": "judge",
+    "examples": {
+      "B": "I'm not judging you# I’m just saying."
+    }
+  },
+  {
+    "number": 676,
+    "headword": "big head",
+    "examples": {
+      "B": "I don’t want you to get a big head."
+    }
+  },
+  {
+    "number": 677,
+    "headword": "so to speak",
+    "examples": {
+      "B": "It's like an entrance exams to speak."
+    }
+  },
+  {
+    "number": 678,
+    "headword": "great",
+    "examples": {
+      "B": "She's gonna be 3 hours late. / Great."
+    }
+  },
+  {
+    "number": 679,
+    "headword": "I'm out",
+    "examples": {
+      "B": "I’m out. I can’t go to the park in this heat."
+    }
+  },
+  {
+    "number": 680,
+    "headword": "no picnic",
+    "examples": {
+      "B": "It's no picnic being a high school teacher."
+    }
+  },
+  {
+    "number": 681,
+    "headword": "work out",
+    "examples": {
+      "B": "It worked out in the end."
+    }
+  },
+  {
+    "number": 682,
+    "headword": "already",
+    "examples": {
+      "B": "Go to bed already."
+    }
+  },
+  {
+    "number": 683,
+    "headword": "ghost",
+    "examples": {
+      "B": "My ex suddenly ghosted me last summer."
+    }
+  },
+  {
+    "number": 684,
+    "headword": "nice try",
+    "examples": {
+      "B": "Nice try. You can’t fool me anymore."
+    }
+  },
+  {
+    "number": 685,
+    "headword": "try on",
+    "examples": {
+      "B": "May I try on these pants and shoes?"
+    }
+  },
+  {
+    "number": 686,
+    "headword": "All along",
+    "examples": {
+      "B": "He knew all along that she wasn’t telling the truth."
+    }
+  },
+  {
+    "number": 687,
+    "headword": "back to back",
+    "examples": {
+      "B": "They had basketball games back to back."
+    }
+  },
+  {
+    "number": 688,
+    "headword": "let's roll",
+    "examples": {
+      "B": "Okay# I’m all set. Let’s roll!"
+    }
+  },
+  {
+    "number": 689,
+    "headword": "by way of",
+    "examples": {
+      "B": "They travelled to Spain by way of Dubai."
+    }
+  },
+  {
+    "number": 690,
+    "headword": "ask for it",
+    "examples": {
+      "B": "Don’t blame me. You asked for it."
+    }
+  },
+  {
+    "number": 691,
+    "headword": "ish",
+    "examples": {
+      "B": "I usually leave home at 9-ish."
+    }
+  },
+  {
+    "number": 692,
+    "headword": "cloud 9",
+    "examples": {
+      "B": "He was on cloud 9 when he met his favorite singer."
+    }
+  },
+  {
+    "number": 693,
+    "headword": "drive me nuts",
+    "examples": {
+      "B": "Sometimes my kids drive me nuts."
+    }
+  },
+  {
+    "number": 694,
+    "headword": "smell a rat",
+    "examples": {
+      "B": "I am starting to smell a rat"
+    }
+  },
+  {
+    "number": 695,
+    "headword": "drama queen",
+    "examples": {
+      "B": "Don’t be such a drama queen."
+    }
+  },
+  {
+    "number": 696,
+    "headword": "put off",
+    "examples": {
+      "B": "Our school trip was put off due to the bad weather."
+    }
+  },
+  {
+    "number": 697,
+    "headword": "muffin top",
+    "examples": {
+      "B": "It's hard to lose your muffin top more than you think."
+    }
+  },
+  {
+    "number": 698,
+    "headword": "marvel",
+    "examples": {
+      "B": "She marveled at the beautiful scenery."
+    }
+  },
+  {
+    "number": 699,
+    "headword": "birthday suit",
+    "examples": {
+      "B": "I usually sleep in birthday suit."
+    }
+  },
+  {
+    "number": 700,
+    "headword": "tell off",
+    "examples": {
+      "B": "She was told off for being late."
+    }
+  },
+  {
+    "number": 701,
+    "headword": "break a leg",
+    "examples": {
+      "B": "Hey# break a leg!"
+    }
+  },
+  {
+    "number": 702,
+    "headword": "apples and oranges",
+    "examples": {
+      "B": "That’s apples and oranges. You can’t compare French food with Japanese food."
+    }
+  },
+  {
+    "number": 703,
+    "headword": "finsta",
+    "examples": {
+      "B": "I made a fiesta just for my closest friends."
+    }
+  },
+  {
+    "number": 704,
+    "headword": "tired of",
+    "examples": {
+      "B": "I’m tired of all these strict rules"
+    }
+  },
+  {
+    "number": 705,
+    "headword": "double standard",
+    "examples": {
+      "B": "It’s a double standard that the parents let their son date but not there daughter."
+    }
+  },
+  {
+    "number": 706,
+    "headword": "see eye to eye",
+    "examples": {
+      "B": "We don’t see eye to eye when it comes to politics."
+    }
+  },
+  {
+    "number": 707,
+    "headword": "backfire",
+    "examples": {
+      "B": "I just wanted to be nice# but it backfired."
+    }
+  },
+  {
+    "number": 708,
+    "headword": "crooked",
+    "examples": {
+      "B": "He has crooked smile."
+    }
+  },
+  {
+    "number": 709,
+    "headword": "catch feelings",
+    "examples": {
+      "B": "I can’t catch feelings for him."
+    }
+  },
+  {
+    "number": 710,
+    "headword": "pay off",
+    "examples": {
+      "B": "All those weeks of studying will pay off."
+    }
+  },
+  {
+    "number": 711,
+    "headword": "a thing",
+    "examples": {
+      "B": "You have to believe me# it’s actually a thing!"
+    }
+  },
+  {
+    "number": 712,
+    "headword": "banger",
+    "examples": {
+      "B": "Their new song is total banger!"
+    }
+  },
+  {
+    "number": 713,
+    "headword": "in a huff",
+    "examples": {
+      "B": "She was in a huff about what I’d said"
+    }
+  },
+  {
+    "number": 714,
+    "headword": "walk in the park",
+    "examples": {
+      "B": "Waking up early is a walk in the park for him."
+    }
+  },
+  {
+    "number": 715,
+    "headword": "puffy",
+    "examples": {
+      "B": "My eyes are still puffy from crying.D716:D722"
+    }
+  },
+  {
+    "number": 716,
+    "headword": "sink in",
+    "examples": {
+      "B": "It’s finally sinking in."
+    }
+  },
+  {
+    "number": 717,
+    "headword": "sit on the fence",
+    "examples": {
+      "B": "I was sitting on the fence about it."
+    }
+  },
+  {
+    "number": 718,
+    "headword": "serves you right",
+    "examples": {
+      "B": "Serves you right! That’s what you get when you cheat on me!"
+    }
+  },
+  {
+    "number": 719,
+    "headword": "geek out",
+    "examples": {
+      "B": "He was geeking out over the new Apple product."
+    }
+  },
+  {
+    "number": 720,
+    "headword": "peace out",
+    "examples": {
+      "B": "Gotta go. Peace out!"
+    }
+  },
+  {
+    "number": 721,
+    "headword": "it's a plan",
+    "examples": {
+      "B": "Let’s go to karaoke this weekend. / It’s plan"
+    }
+  },
+  {
+    "number": 722,
+    "headword": "in the long run",
+    "examples": {
+      "B": "It’s cheaper to buy quality goods in the long run."
+    }
+  },
+  {
+    "number": 723,
+    "headword": "piggy bank",
+    "examples": {
+      "B": "I saved a lot in my piggy bank."
+    }
+  },
+  {
+    "number": 724,
+    "headword": "step up",
+    "examples": {
+      "B": "They really stepped up their performance."
+    }
+  },
+  {
+    "number": 725,
+    "headword": "still",
+    "examples": {
+      "B": "Sit still so I can tie your shoelaces.",
+      "C": "Oh my gosh' I can’t believe your here!",
+      "D": "He was lying still on the bed.",
+      "E": "I got bitten on my belly by a mosquito."
+    }
+  },
+  {
+    "number": 726,
+    "headword": "tiptoe",
+    "examples": {
+      "B": "She sneaked into the room on tiptop.",
+      "C": "I’m fully aware of the problem.",
+      "D": "His hand reaches the roof.",
+      "E": "My arms and legs are long but my torso is rather shorter."
+    }
+  },
+  {
+    "number": 727,
+    "headword": "feel blue",
+    "examples": {
+      "B": "Don't feel blue about your failure.",
+      "C": "What's the matter? You look like a zombie.",
+      "D": "You didn’t notice my new hair?",
+      "E": "You got your bike stolen again? Poor you."
+    }
+  },
+  {
+    "number": 728,
+    "headword": "eons ago",
+    "examples": {
+      "B": "The last time I saw him was eons ago.",
+      "C": "Beyond’s new song is such a bop.",
+      "D": "Oh gosh# that dog is so cute!",
+      "E": "I forgot to do this dishes# my bad!"
+    }
+  },
+  {
+    "number": 729,
+    "headword": "out of it",
+    "examples": {
+      "B": "He was completely out of it last night.",
+      "C": "She must be happy to hear the news.",
+      "D": "It’s not gonna work./ What makes you think so?",
+      "E": "I cannot take him seriously."
+    }
+  },
+  {
+    "number": 730,
+    "headword": "pass out",
+    "examples": {
+      "B": "He passed out from heat stroke.",
+      "C": "What’s up with that boy? He looks like he’s crying.",
+      "D": "The　rainy season makes me feel down.",
+      "E": "Make sure to stay hydrated when it’s hot outside!"
+    }
+  },
+  {
+    "number": 731,
+    "headword": "read into",
+    "examples": {
+      "B": "He reads too much into what other people say.",
+      "C": "I heard he cheated on his girlfriend./ Oh no he didn't!",
+      "D": "He 's totally being friendzoned by her.",
+      "E": "She was scolded for making a typo in a business email."
+    }
+  },
+  {
+    "number": 732,
+    "headword": "can't help it",
+    "examples": {
+      "B": "I shouldn't read the spoilers before I watch a movie# but I can't help it.",
+      "C": "He goes to the gym to lose weight",
+      "D": "Isn't Ariana Grande's new song great?/ Yes# it totally is!",
+      "E": "That supermarket sells daily necessities such as toilet paper and towels."
+    }
+  },
+  {
+    "number": 733,
+    "headword": "itch to",
+    "examples": {
+      "B": "I'm itching yo open the presents under the Chiristmas tree.",
+      "C": "I heard some good news. Final exams are canceled!",
+      "D": "You won frist place in the marathon' right? Congrats!",
+      "E": "How long have you been living here?/ Three years."
+    }
+  },
+  {
+    "number": 734,
+    "headword": "wear off",
+    "examples": {
+      "B": "In Cinderella's fairytale# her magic effects wear off at midnight.",
+      "C": "I feel bad for her. She was dumped by her fiancé.",
+      "D": "I had a headache# so I took some painkillers.",
+      "E": "I'm scared of eating raw fish."
+    }
+  },
+  {
+    "number": 735,
+    "headword": "dump",
+    "examples": {
+      "B": "Apparently she just got dumped.",
+      "C": "That's it. I'm going home.",
+      "D": "I can't believe you think cheating is okay for guys!",
+      "E": "I can't eat that fast."
+    }
+  },
+  {
+    "number": 736,
+    "headword": "small talk",
+    "examples": {
+      "B": "I'm not good at small talk.",
+      "C": "OK' let's get down to business.",
+      "D": "What's wrong with your hair?/ It's a longstory",
+      "E": "Hey! Enough with the attitude."
+    }
+  },
+  {
+    "number": 737,
+    "headword": "bring it on",
+    "examples": {
+      "B": "They wanna play us?/ Bring it on!",
+      "C": "I bet she's still sleeping.",
+      "D": "Our school has a huge gym.",
+      "E": "I was banned from driving for a year."
+    }
+  },
+  {
+    "number": 738,
+    "headword": "kill it",
+    "examples": {
+      "B": "You're killing it!",
+      "C": "I don't want to go./ Why not?",
+      "D": "It'snot like it's pouring. We can still go hiking.",
+      "E": "Is she lip-syncing?"
+    }
+  },
+  {
+    "number": 739,
+    "headword": "jam",
+    "examples": {
+      "B": "Don't change the song. This is my jam!",
+      "C": "Are you playing Imagine\"? Good one.\"",
+      "D": "You're amazing./ I know right?",
+      "E": "I wanna play Animal Crossing today."
+    }
+  },
+  {
+    "number": 740,
+    "headword": "cop of tea",
+    "examples": {
+      "B": "Hiking is not my cop of tea.",
+      "C": "I can't forget about my ex.",
+      "D": "I want you to take the lead in this project.",
+      "E": "As I recall' she was the one who chose the color."
+    }
+  },
+  {
+    "number": 741,
+    "headword": "social chameleon",
+    "examples": {
+      "B": "She's quite  a social chameleon.",
+      "C": "Let's hang out this weekend.",
+      "D": "It's ture love.",
+      "E": "Are you hungry?/ I guess so"
+    }
+  },
+  {
+    "number": 742,
+    "headword": "check up on",
+    "examples": {
+      "B": "Thanks for checking up on me.",
+      "C": "You shold go to bed now.",
+      "D": "You looked tired last night. How you feeling?",
+      "E": "Get some rest while you can."
+    }
+  },
+  {
+    "number": 743,
+    "headword": "wear out",
+    "examples": {
+      "B": "My favorite shirt is worn out.",
+      "C": "We can't fky with JAL. We're on a badget.",
+      "D": "Then you do the dishes.",
+      "E": "I do wanna to  go to the after party.  I'm just tired"
+    }
+  },
+  {
+    "number": 744,
+    "headword": "shape up",
+    "examples": {
+      "B": "If you don't shape up# they're gonna fire you",
+      "C": "Ugh# not another test!",
+      "D": "He ran away from the prison.",
+      "E": "He was kicked out of the team."
+    }
+  },
+  {
+    "number": 745,
+    "headword": "yeet",
+    "examples": {
+      "B": "He grabbed my water bottle and yeeted it into the trash can.",
+      "C": "what the heck!? Who made this mess!",
+      "D": "You're kidding. That's a huge amount of money.",
+      "E": "I really hate bugs."
+    }
+  },
+  {
+    "number": 746,
+    "headword": "dilly-dally",
+    "examples": {
+      "B": "Shop dilly-dallying and let's go already."
+    }
+  }
+]

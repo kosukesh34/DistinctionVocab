@@ -1,11 +1,16 @@
 // !$*UTF8*$!
 {
 	archiveVersion = 1;
-	classes = {};
+	classes = {
+	};
 	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BFRM0001 /* Speech.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFRM0001 /* Speech.framework */; };
+		BRES01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FRES01 /* Assets.xcassets */; };
+		BRES02 /* vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = FRES02 /* vocabulary.json */; };
+		BRES03 /* Audio in Resources */ = {isa = PBXBuildFile; fileRef = FRES03 /* Audio */; };
 		BSW0000 /* DependencyContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0000 /* DependencyContainer.swift */; };
 		BSW0001 /* DistinctionVocabApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0001 /* DistinctionVocabApp.swift */; };
 		BSW0002 /* ExampleSentenceDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0002 /* ExampleSentenceDTO.swift */; };
@@ -56,13 +61,18 @@
 		BSW0047 /* DistinctionExampleRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0047 /* DistinctionExampleRow.swift */; };
 		BSW0048 /* DistinctionWordPanel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0048 /* DistinctionWordPanel.swift */; };
 		BSW0049 /* StudyRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0049 /* StudyRating.swift */; };
-		BRES01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FRES01 /* Assets.xcassets */; };
-		BRES02 /* vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = FRES02 /* vocabulary.json */; };
-		BRES03 /* Audio in Resources */ = {isa = PBXBuildFile; fileRef = FRES03 /* Audio */; };
-		BFRM0001 /* Speech.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFRM0001 /* Speech.framework */; };
+		BSW0050 /* BookCoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0050 /* BookCoverView.swift */; };
+		BSW0051 /* StudyBottomToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0051 /* StudyBottomToolbar.swift */; };
+		BSW0052 /* DistinctionRatingBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0052 /* DistinctionRatingBar.swift */; };
+		BSW0053 /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0053 /* TodayView.swift */; };
+		BSW0054 /* StudySessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FSW0054 /* StudySessionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FFRM0001 /* Speech.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Speech.framework; path = System/Library/Frameworks/Speech.framework; sourceTree = SDKROOT; };
+		FRES01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FRES02 /* vocabulary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
+		FRES03 /* Audio */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Audio; sourceTree = "<group>"; };
 		FSW0000 /* DependencyContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyContainer.swift; sourceTree = "<group>"; };
 		FSW0001 /* DistinctionVocabApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctionVocabApp.swift; sourceTree = "<group>"; };
 		FSW0002 /* ExampleSentenceDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleSentenceDTO.swift; sourceTree = "<group>"; };
@@ -113,10 +123,11 @@
 		FSW0047 /* DistinctionExampleRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctionExampleRow.swift; sourceTree = "<group>"; };
 		FSW0048 /* DistinctionWordPanel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctionWordPanel.swift; sourceTree = "<group>"; };
 		FSW0049 /* StudyRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyRating.swift; sourceTree = "<group>"; };
-		FRES01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FRES02 /* vocabulary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
-		FRES03 /* Audio */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Audio; sourceTree = "<group>"; };
-		FFRM0001 /* Speech.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Speech.framework; path = System/Library/Frameworks/Speech.framework; sourceTree = SDKROOT; };
+		FSW0050 /* BookCoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookCoverView.swift; sourceTree = "<group>"; };
+		FSW0051 /* StudyBottomToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyBottomToolbar.swift; sourceTree = "<group>"; };
+		FSW0052 /* DistinctionRatingBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctionRatingBar.swift; sourceTree = "<group>"; };
+		FSW0053 /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayView.swift; sourceTree = "<group>"; };
+		FSW0054 /* StudySessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudySessionView.swift; sourceTree = "<group>"; };
 		PAPP0001 /* DistinctionVocab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DistinctionVocab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -132,49 +143,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		GRPRES /* Resources */ = {
+		B096D2FE2FEB41A900215466 /* Recovered References */ = {
 			isa = PBXGroup;
 			children = (
-				FRES02 /* vocabulary.json */,
-				FRES03 /* Audio */,
+				FFRM0001 /* Speech.framework */,
 			);
-			path = Resources;
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
-		GRPDOMAIN /* Domain */ = {
+		GRPAPP /* App */ = {
 			isa = PBXGroup;
 			children = (
-				GRPDOMAIN_USECASES /* UseCases */,
-				GRPDOMAIN_ENTITIES /* Entities */,
-				GRPDOMAIN_REPOSITORIES /* Repositories */,
-				GRPDOMAIN_ERRORS /* Errors */
+				FSW0000 /* DependencyContainer.swift */,
+				FSW0001 /* DistinctionVocabApp.swift */,
 			);
-			path = Domain;
-			sourceTree = "<group>";
-		};
-		GRPINFRASTRUCTURE /* Infrastructure */ = {
-			isa = PBXGroup;
-			children = (
-				GRPINFRASTRUCTURE_AUDIO /* Audio */,
-				GRPINFRASTRUCTURE_SPEECH /* Speech */
-			);
-			path = Infrastructure;
-			sourceTree = "<group>";
-		};
-		GRPPRESENTATION /* Presentation */ = {
-			isa = PBXGroup;
-			children = (
-				GRPPRESENTATION_VOCABULARY /* Vocabulary */,
-				GRPPRESENTATION_BOOKS /* Books */,
-				GRPPRESENTATION_WORDDETAIL /* WordDetail */,
-				GRPPRESENTATION_SEARCH /* Search */,
-				GRPPRESENTATION_STUDY /* Study */,
-				GRPPRESENTATION_QUIZ /* Quiz */,
-				GRPPRESENTATION_THEME /* Theme */,
-				GRPPRESENTATION_COMPONENTS /* Components */,
-				GRPPRESENTATION_ROOT /* Root */
-			);
-			path = Presentation;
+			path = App;
 			sourceTree = "<group>";
 		};
 		GRPDATA /* Data */ = {
@@ -183,74 +166,55 @@
 				GRPDATA_REPOSITORIES /* Repositories */,
 				GRPDATA_DTOS /* DTOs */,
 				GRPDATA_MAPPERS /* Mappers */,
-				GRPDATA_DATASOURCES /* DataSources */
+				GRPDATA_DATASOURCES /* DataSources */,
 			);
 			path = Data;
 			sourceTree = "<group>";
 		};
-		GRPAPP /* App */ = {
+		GRPDATA_DATASOURCES /* DataSources */ = {
 			isa = PBXGroup;
 			children = (
-				FSW0000 /* DependencyContainer.swift */,
-				FSW0001 /* DistinctionVocabApp.swift */
+				FSW0004 /* BundleVocabularyDataSource.swift */,
 			);
-			path = App;
+			path = DataSources;
 			sourceTree = "<group>";
 		};
-		GRPPRESENTATION_VOCABULARY /* Vocabulary */ = {
+		GRPDATA_DTOS /* DTOs */ = {
 			isa = PBXGroup;
 			children = (
-				FSW0036 /* VocabularyCatalogViewModel.swift */
+				FSW0002 /* ExampleSentenceDTO.swift */,
+				FSW0003 /* VocabularyCatalogDTO.swift */,
 			);
-			path = Vocabulary;
+			path = DTOs;
 			sourceTree = "<group>";
 		};
-		GRPINFRASTRUCTURE_AUDIO /* Audio */ = {
+		GRPDATA_MAPPERS /* Mappers */ = {
 			isa = PBXGroup;
 			children = (
-				FSW0024 /* AVAudioPlaybackService.swift */,
-				FSW0025 /* AudioPlaybackManaging.swift */
+				FSW0005 /* VocabularyMapper.swift */,
 			);
-			path = Audio;
+			path = Mappers;
 			sourceTree = "<group>";
 		};
-		GRPDOMAIN_USECASES /* UseCases */ = {
+		GRPDATA_REPOSITORIES /* Repositories */ = {
 			isa = PBXGroup;
 			children = (
-				FSW0019 /* LoadVocabularyUseCase.swift */,
-				FSW0020 /* ManageStudySessionUseCase.swift */,
-				FSW0021 /* ResolveExampleSentenceTextsUseCase.swift */,
-				FSW0022 /* SearchVocabularyUseCase.swift */,
-				FSW0023 /* TranscribeAudioUseCase.swift */,
-				FSW0041 /* GenerateQuizQuestionsUseCase.swift */
+				FSW0006 /* BundleAudioResourceRepository.swift */,
+				FSW0007 /* BundleVocabularyRepository.swift */,
+				FSW0008 /* FileTranscriptionCacheRepository.swift */,
 			);
-			path = UseCases;
+			path = Repositories;
 			sourceTree = "<group>";
 		};
-		GRPPRESENTATION_BOOKS /* Books */ = {
+		GRPDOMAIN /* Domain */ = {
 			isa = PBXGroup;
 			children = (
-				FSW0027 /* BookListView.swift */,
-				FSW0028 /* WordListView.swift */
+				GRPDOMAIN_USECASES /* UseCases */,
+				GRPDOMAIN_ENTITIES /* Entities */,
+				GRPDOMAIN_REPOSITORIES /* Repositories */,
+				GRPDOMAIN_ERRORS /* Errors */,
 			);
-			path = Books;
-			sourceTree = "<group>";
-		};
-		GRPINFRASTRUCTURE_SPEECH /* Speech */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0026 /* SpeechAudioTranscriptionService.swift */
-			);
-			path = Speech;
-			sourceTree = "<group>";
-		};
-		GRPPRESENTATION_WORDDETAIL /* WordDetail */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0037 /* WordDetailView.swift */,
-				FSW0038 /* WordDetailViewModel.swift */
-			);
-			path = WordDetail;
+			path = Domain;
 			sourceTree = "<group>";
 		};
 		GRPDOMAIN_ENTITIES /* Entities */ = {
@@ -264,37 +228,17 @@
 				FSW0011 /* StudySessionState.swift */,
 				FSW0012 /* VocabularyBook.swift */,
 				FSW0013 /* VocabularySearchResult.swift */,
-				FSW0014 /* VocabularyWord.swift */
+				FSW0014 /* VocabularyWord.swift */,
 			);
 			path = Entities;
 			sourceTree = "<group>";
 		};
-		GRPDATA_REPOSITORIES /* Repositories */ = {
+		GRPDOMAIN_ERRORS /* Errors */ = {
 			isa = PBXGroup;
 			children = (
-				FSW0006 /* BundleAudioResourceRepository.swift */,
-				FSW0007 /* BundleVocabularyRepository.swift */,
-				FSW0008 /* FileTranscriptionCacheRepository.swift */
+				FSW0015 /* TranscriptionError.swift */,
 			);
-			path = Repositories;
-			sourceTree = "<group>";
-		};
-		GRPPRESENTATION_SEARCH /* Search */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0032 /* SearchView.swift */,
-				FSW0033 /* SearchViewModel.swift */
-			);
-			path = Search;
-			sourceTree = "<group>";
-		};
-		GRPDATA_DTOS /* DTOs */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0002 /* ExampleSentenceDTO.swift */,
-				FSW0003 /* VocabularyCatalogDTO.swift */
-			);
-			path = DTOs;
+			path = Errors;
 			sourceTree = "<group>";
 		};
 		GRPDOMAIN_REPOSITORIES /* Repositories */ = {
@@ -302,80 +246,22 @@
 			children = (
 				FSW0016 /* AudioResourceRepositoryProtocol.swift */,
 				FSW0017 /* TranscriptionCacheRepositoryProtocol.swift */,
-				FSW0018 /* VocabularyRepositoryProtocol.swift */
+				FSW0018 /* VocabularyRepositoryProtocol.swift */,
 			);
 			path = Repositories;
 			sourceTree = "<group>";
 		};
-		GRPDATA_MAPPERS /* Mappers */ = {
+		GRPDOMAIN_USECASES /* UseCases */ = {
 			isa = PBXGroup;
 			children = (
-				FSW0005 /* VocabularyMapper.swift */
+				FSW0019 /* LoadVocabularyUseCase.swift */,
+				FSW0020 /* ManageStudySessionUseCase.swift */,
+				FSW0021 /* ResolveExampleSentenceTextsUseCase.swift */,
+				FSW0022 /* SearchVocabularyUseCase.swift */,
+				FSW0023 /* TranscribeAudioUseCase.swift */,
+				FSW0041 /* GenerateQuizQuestionsUseCase.swift */,
 			);
-			path = Mappers;
-			sourceTree = "<group>";
-		};
-		GRPPRESENTATION_STUDY /* Study */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0034 /* StudyView.swift */,
-				FSW0035 /* StudyViewModel.swift */
-			);
-			path = Study;
-			sourceTree = "<group>";
-		};
-		GRPPRESENTATION_COMPONENTS /* Components */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0029 /* AudioPlayButton.swift */,
-				FSW0030 /* ExampleSentenceCard.swift */,
-				FSW0044 /* PhoneticText.swift */,
-				FSW0045 /* HeadwordDisplay.swift */,
-				FSW0047 /* DistinctionExampleRow.swift */,
-				FSW0048 /* DistinctionWordPanel.swift */
-			);
-			path = Components;
-			sourceTree = "<group>";
-		};
-		GRPPRESENTATION_THEME /* Theme */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0046 /* DistinctionTheme.swift */
-			);
-			path = Theme;
-			sourceTree = "<group>";
-		};
-		GRPPRESENTATION_QUIZ /* Quiz */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0043 /* QuizView.swift */,
-				FSW0042 /* QuizViewModel.swift */
-			);
-			path = Quiz;
-			sourceTree = "<group>";
-		};
-		GRPDATA_DATASOURCES /* DataSources */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0004 /* BundleVocabularyDataSource.swift */
-			);
-			path = DataSources;
-			sourceTree = "<group>";
-		};
-		GRPDOMAIN_ERRORS /* Errors */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0015 /* TranscriptionError.swift */
-			);
-			path = Errors;
-			sourceTree = "<group>";
-		};
-		GRPPRESENTATION_ROOT /* Root */ = {
-			isa = PBXGroup;
-			children = (
-				FSW0031 /* ContentView.swift */
-			);
-			path = Root;
+			path = UseCases;
 			sourceTree = "<group>";
 		};
 		GRPDVCB /* DistinctionVocab */ = {
@@ -387,9 +273,155 @@
 				GRPINFRASTRUCTURE /* Infrastructure */,
 				GRPPRESENTATION /* Presentation */,
 				FRES01 /* Assets.xcassets */,
-				GRPRES /* Resources */
+				GRPRES /* Resources */,
 			);
 			path = DistinctionVocab;
+			sourceTree = "<group>";
+		};
+		GRPINFRASTRUCTURE /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+				GRPINFRASTRUCTURE_AUDIO /* Audio */,
+				GRPINFRASTRUCTURE_SPEECH /* Speech */,
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		GRPINFRASTRUCTURE_AUDIO /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0024 /* AVAudioPlaybackService.swift */,
+				FSW0025 /* AudioPlaybackManaging.swift */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		GRPINFRASTRUCTURE_SPEECH /* Speech */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0026 /* SpeechAudioTranscriptionService.swift */,
+			);
+			path = Speech;
+			sourceTree = "<group>";
+		};
+		GRPMAIN = {
+			isa = PBXGroup;
+			children = (
+				GRPDVCB /* DistinctionVocab */,
+				GRPPROD /* Products */,
+				B096D2FE2FEB41A900215466 /* Recovered References */,
+			);
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				GRPPRESENTATION_VOCABULARY /* Vocabulary */,
+				GRPPRESENTATION_TODAY /* Today */,
+				GRPPRESENTATION_BOOKS /* Books */,
+				GRPPRESENTATION_WORDDETAIL /* WordDetail */,
+				GRPPRESENTATION_SEARCH /* Search */,
+				GRPPRESENTATION_STUDY /* Study */,
+				GRPPRESENTATION_QUIZ /* Quiz */,
+				GRPPRESENTATION_THEME /* Theme */,
+				GRPPRESENTATION_COMPONENTS /* Components */,
+				GRPPRESENTATION_ROOT /* Root */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_BOOKS /* Books */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0027 /* BookListView.swift */,
+				FSW0028 /* WordListView.swift */,
+			);
+			path = Books;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_COMPONENTS /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0029 /* AudioPlayButton.swift */,
+				FSW0050 /* BookCoverView.swift */,
+				FSW0030 /* ExampleSentenceCard.swift */,
+				FSW0044 /* PhoneticText.swift */,
+				FSW0045 /* HeadwordDisplay.swift */,
+				FSW0047 /* DistinctionExampleRow.swift */,
+				FSW0052 /* DistinctionRatingBar.swift */,
+				FSW0048 /* DistinctionWordPanel.swift */,
+				FSW0051 /* StudyBottomToolbar.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_QUIZ /* Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0043 /* QuizView.swift */,
+				FSW0042 /* QuizViewModel.swift */,
+			);
+			path = Quiz;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_ROOT /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0031 /* ContentView.swift */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_SEARCH /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0032 /* SearchView.swift */,
+				FSW0033 /* SearchViewModel.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_STUDY /* Study */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0034 /* StudyView.swift */,
+				FSW0035 /* StudyViewModel.swift */,
+				FSW0054 /* StudySessionView.swift */,
+			);
+			path = Study;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_THEME /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0046 /* DistinctionTheme.swift */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_TODAY /* Today */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0053 /* TodayView.swift */,
+			);
+			path = Today;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_VOCABULARY /* Vocabulary */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0036 /* VocabularyCatalogViewModel.swift */,
+			);
+			path = Vocabulary;
+			sourceTree = "<group>";
+		};
+		GRPPRESENTATION_WORDDETAIL /* WordDetail */ = {
+			isa = PBXGroup;
+			children = (
+				FSW0037 /* WordDetailView.swift */,
+				FSW0038 /* WordDetailViewModel.swift */,
+			);
+			path = WordDetail;
 			sourceTree = "<group>";
 		};
 		GRPPROD /* Products */ = {
@@ -400,12 +432,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		GRPMAIN /* Root */ = {
+		GRPRES /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				GRPDVCB /* DistinctionVocab */,
-				GRPPROD /* Products */,
+				FRES02 /* vocabulary.json */,
+				FRES03 /* Audio */,
 			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -413,13 +446,19 @@
 /* Begin PBXNativeTarget section */
 		TGT00001 /* DistinctionVocab */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BLDTGT01;
-			buildPhases = (SRC00001, FW000001, RES00001);
-			buildRules = ();
-			dependencies = ();
+			buildConfigurationList = BLDTGT01 /* Build configuration list for PBXNativeTarget "DistinctionVocab" */;
+			buildPhases = (
+				SRC00001 /* Sources */,
+				FW000001 /* Frameworks */,
+				RES00001 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
 			name = DistinctionVocab;
 			productName = DistinctionVocab;
-			productReference = PAPP0001;
+			productReference = PAPP0001 /* DistinctionVocab.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -427,17 +466,27 @@
 /* Begin PBXProject section */
 		PRJ00001 /* Project object */ = {
 			isa = PBXProject;
-			attributes = {BuildIndependentTargetsInParallel = 1; LastSwiftUpdateCheck = 2600; LastUpgradeCheck = 2600;};
-			buildConfigurationList = BLDP0001;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+			};
+			buildConfigurationList = BLDP0001 /* Build configuration list for PBXProject "DistinctionVocab" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = ja;
 			hasScannedForEncodings = 0;
-			knownRegions = (en, ja, Base);
+			knownRegions = (
+				en,
+				ja,
+				Base,
+			);
 			mainGroup = GRPMAIN;
-			productRefGroup = GRPPROD;
+			productRefGroup = GRPPROD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
-			targets = (TGT00001);
+			targets = (
+				TGT00001 /* DistinctionVocab */,
+			);
 		};
 /* End PBXProject section */
 
@@ -445,7 +494,11 @@
 		RES00001 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
-			files = (BRES01, BRES02, BRES03);
+			files = (
+				BRES01 /* Assets.xcassets in Resources */,
+				BRES02 /* vocabulary.json in Resources */,
+				BRES03 /* Audio in Resources */,
+			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
@@ -505,22 +558,136 @@
 				BSW0047 /* DistinctionExampleRow.swift in Sources */,
 				BSW0048 /* DistinctionWordPanel.swift in Sources */,
 				BSW0049 /* StudyRating.swift in Sources */,
+				BSW0050 /* BookCoverView.swift in Sources */,
+				BSW0051 /* StudyBottomToolbar.swift in Sources */,
+				BSW0052 /* DistinctionRatingBar.swift in Sources */,
+				BSW0053 /* TodayView.swift in Sources */,
+				BSW0054 /* StudySessionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		CFGDB001 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {ALWAYS_SEARCH_USER_PATHS = NO; CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; COPY_PHASE_STRIP = NO; DEBUG_INFORMATION_FORMAT = dwarf; ENABLE_TESTABILITY = YES; GCC_DYNAMIC_NO_PIC = NO; GCC_OPTIMIZATION_LEVEL = 0; GCC_PREPROCESSOR_DEFINITIONS = ("DEBUG=1", "$(inherited)"); IPHONEOS_DEPLOYMENT_TARGET = 17.0; MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE; ONLY_ACTIVE_ARCH = YES; SDKROOT = iphoneos; SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)"; SWIFT_OPTIMIZATION_LEVEL = "-Onone";}; name = Debug;};
-		CFGRB001 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {ALWAYS_SEARCH_USER_PATHS = NO; CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; COPY_PHASE_STRIP = NO; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; ENABLE_NS_ASSERTIONS = NO; IPHONEOS_DEPLOYMENT_TARGET = 17.0; MTL_ENABLE_DEBUG_INFO = NO; SDKROOT = iphoneos; SWIFT_COMPILATION_MODE = wholemodule; VALIDATE_PRODUCT = YES;}; name = Release;};
-		CFGD0001 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = {ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; DEVELOPMENT_TEAM = ""; ENABLE_PREVIEWS = YES; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "Distinction Vocab"; INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "例文の音声を文字起こしして表示するために使用します。"; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait; LD_RUNPATH_SEARCH_PATHS = ("$(inherited)", "@executable_path/Frameworks"); MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = com.gamechanger.DistinctionVocab; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_VERSION = 5.0; TARGETED_DEVICE_FAMILY = "1,2";}; name = Debug;};
-		CFGR0001 /* Release */ = {isa = XCBuildConfiguration; buildSettings = {ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; DEVELOPMENT_TEAM = ""; ENABLE_PREVIEWS = YES; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "Distinction Vocab"; INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "例文の音声を文字起こしして表示するために使用します。"; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait; LD_RUNPATH_SEARCH_PATHS = ("$(inherited)", "@executable_path/Frameworks"); MARKETING_VERSION = 1.0; PRODUCT_BUNDLE_IDENTIFIER = com.gamechanger.DistinctionVocab; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_EMIT_LOC_STRINGS = YES; SWIFT_VERSION = 5.0; TARGETED_DEVICE_FAMILY = "1,2";}; name = Release;};
+		CFGD0001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T29T2L39T5;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Distinction Vocab";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "例文の音声を文字起こしして表示するために使用します。";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamechanger.DistinctionVocab;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CFGDB001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CFGR0001 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = T29T2L39T5;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Distinction Vocab";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "例文の音声を文字起こしして表示するために使用します。";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamechanger.DistinctionVocab;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		CFGRB001 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BLDP0001 = {isa = XCConfigurationList; buildConfigurations = (CFGDB001, CFGRB001); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;};
-		BLDTGT01 = {isa = XCConfigurationList; buildConfigurations = (CFGD0001, CFGR0001); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;};
+		BLDP0001 /* Build configuration list for PBXProject "DistinctionVocab" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CFGDB001 /* Debug */,
+				CFGRB001 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BLDTGT01 /* Build configuration list for PBXNativeTarget "DistinctionVocab" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CFGD0001 /* Debug */,
+				CFGR0001 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
 	};
-	rootObject = PRJ00001;
+	rootObject = PRJ00001 /* Project object */;
 }

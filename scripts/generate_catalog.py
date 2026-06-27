@@ -70,7 +70,9 @@ def parse_book(book_id: str, title: str, book_dir: Path) -> dict:
                 "headword": normalize_name(text.strip()),
                 "headwordAudio": f"{book_id}/{name}",
                 "phonetic": None,
+                "nativeDefinition": None,
                 "japaneseMeaning": None,
+                "etymology": None,
             }
 
     words = []
@@ -209,6 +211,17 @@ def main() -> None:
     with open(CATALOG_PATH, "w", encoding="utf-8") as f:
         json.dump({"books": catalog_books}, f, ensure_ascii=False, indent=2)
     print(f"Wrote {CATALOG_PATH}")
+
+    import_script = ROOT / "scripts" / "import_custom_vocab.py"
+    if import_script.exists():
+        print("Merging custom vocabulary...")
+        import importlib.util
+
+        spec = importlib.util.spec_from_file_location("import_custom_vocab", import_script)
+        if spec and spec.loader:
+            module = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(module)
+            module.main([])
 
 
 if __name__ == "__main__":

@@ -6,13 +6,13 @@ struct ContentView: View {
 
     var body: some View {
         TabView(selection: $selectedTabIndex) {
-            StudyView(
-                viewModel: dependencyContainer.studyViewModel,
+            TodayView(
+                studyViewModel: dependencyContainer.studyViewModel,
                 vocabularyCatalogViewModel: dependencyContainer.vocabularyCatalogViewModel,
-                quizViewModel: dependencyContainer.quizViewModel
+                dependencyContainer: dependencyContainer
             )
             .tabItem {
-                Label("学習", systemImage: "brain.head.profile")
+                Label("Today", systemImage: "sun.max.fill")
             }
             .tag(0)
 
@@ -21,7 +21,7 @@ struct ContentView: View {
                 dependencyContainer: dependencyContainer
             )
             .tabItem {
-                Label("ブック", systemImage: "books.vertical")
+                Label("見つける", systemImage: "text.book.closed.fill")
             }
             .tag(1)
 

@@ -16,6 +16,8 @@ struct VocabularyWordDTO: Decodable {
     let headword: String
     let headwordAudio: String
     let phonetic: String?
+    let nativeDefinition: String?
     let japaneseMeaning: String?
+    let etymology: String?
     let examples: [ExampleSentenceDTO]
 }

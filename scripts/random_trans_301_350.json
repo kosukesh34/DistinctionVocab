@@ -1,0 +1,502 @@
+{
+  "301": {
+    "nativeDefinition": "Without any more delay.",
+    "japaneseMeaning": "さっそく、長々と言わずに",
+    "etymology": "ado（騒ぎ・世話）の否定形。余計な前置きなしに本題に入る表現。",
+    "examples": {
+      "B": "さっそく、世界最速の男を紹介します。大きな拍手でお迎えください。",
+      "C": "さっそく、最新モデルの機能をお見せします。皆さん、席にお着きください。きっと驚かされますよ。",
+      "D": "これ以上遅らせずに"
+    }
+  },
+  "302": {
+    "nativeDefinition": "To detect something instinctively.",
+    "japaneseMeaning": "（〜を）嗅ぎ分ける、見抜く",
+    "etymology": "sniff out で「嗅ぎ分ける」、直感で見抜くこと。",
+    "examples": {
+      "B": "女性は自信のない男を一瞬で見抜く。",
+      "C": "ティムは明らかに君を騙そうとしてる。嘘つきは見抜くのが得意なんだ。",
+      "D": "何かを探る"
+    }
+  },
+  "303": {
+    "nativeDefinition": "To hear rumors or become aware of something.",
+    "japaneseMeaning": "（〜の）噂を聞く、風の便りに聞く",
+    "etymology": "catch wind of で「風を捕まえる」、噂や情報を耳にすること。",
+    "examples": {
+      "B": "カニエ・ウェストが先月パリにいたのは知ってた。報道が風の便りに聞かなかったのは驚き。",
+      "C": "両親に僕たちのやってることがバレないといいな。気のせいかもしれないけど、母がすごく質問攻めにしてる。",
+      "D": "何かに気づく"
+    }
+  },
+  "304": {
+    "nativeDefinition": "To relax and sleep without worry.",
+    "japaneseMeaning": "安心して眠れる、気が楽になる",
+    "etymology": "sleep easy で「安らかに眠る」、心配なく休めること。",
+    "examples": {
+      "B": "ついにマクロ経済学の期末試験が終わった。きっと合格してる。これで安心して眠れる。",
+      "C": "独り言だけど、警報システムを入れれば安心して眠れるかもしれない。",
+      "D": "リラックスする"
+    }
+  },
+  "305": {
+    "nativeDefinition": "To be motivated by good intentions.",
+    "japaneseMeaning": "善意からだ、良かれと思って",
+    "etymology": "come from a good place で「良い場所から来る」、善意の動機。",
+    "examples": {
+      "B": "誰かのアドバイスを受ける前に、本当に善意から来ているか考えるべきだ。",
+      "C": "善意から言ってるのはわかるけど、独身で全然幸せ。無理に紹介しないで。",
+      "D": "良い意図で動機づけられる"
+    }
+  },
+  "306": {
+    "nativeDefinition": "To intensify negative emotions or conflict.",
+    "japaneseMeaning": "（火に）油を注ぐ、煽る",
+    "etymology": "fan the flames で「炎に扇をする」、対立を激化させる比喩。",
+    "examples": {
+      "B": "今は落ち着かせるのは早すぎる。まだ怒ってるから、油を注ぐだけになるよ。",
+      "C": "この政治家は分断や人種差別に油を注ぐ機会を逃さない。選挙戦略なのはわかるけど、最悪だ。",
+      "D": "ネガティブな感情を増大させる"
+    }
+  },
+  "307": {
+    "nativeDefinition": "To adapt to difficulties without being defeated.",
+    "japaneseMeaning": "（困難に）柔軟に対応する、受け流す",
+    "etymology": "roll with the punches で「パンチと一緒に転がる」、ボクシング用語から転じた。",
+    "examples": {
+      "B": "予想外のことが起きるとすごくストレスだったけど、ある時から柔軟に対応するようになった。",
+      "C": "ツイートに批判コメントがついた？受け流して次に進めばいい。",
+      "D": "困難に適応する"
+    }
+  },
+  "308": {
+    "nativeDefinition": "To keep something secret.",
+    "japaneseMeaning": "（この部屋から）漏らさない、内緒にする",
+    "etymology": "not leave this room で「この部屋を出ない」、秘密を守る表現。",
+    "examples": {
+      "B": "これから兄について話すことは、この部屋から漏らさないでね？",
+      "C": "心配しないで、今の会話は漏らさない。口は堅いよ。",
+      "D": "秘密にされる"
+    }
+  },
+  "309": {
+    "nativeDefinition": "To regain composure and self-control.",
+    "japaneseMeaning": "立ち直る、気を立て直す",
+    "etymology": "pull it together で「まとめて引っ張る」、自分を奮い立たせること。",
+    "examples": {
+      "B": "ここ数日メンタルがボロボロだった。立ち直りつつあるけど、週末が待ち遠しい。",
+      "C": "落ち込んだときは、自分にペップトークして立ち直ることが多い。",
+      "D": "自制を取り戻す"
+    }
+  },
+  "310": {
+    "nativeDefinition": "Someone has good intentions despite mistakes.",
+    "japaneseMeaning": "本心は良い、悪気はない",
+    "etymology": "heart is in the right place で「心が正しい場所にある」、善意の動機。",
+    "examples": {
+      "B": "ジミーは学校でトラブル起こすこともあるけど、本心は良い。まだ8歳だから、大目に見て。",
+      "C": "ナターシャは少し言い過ぎることもあるけど、本心は良い。余計なアドバースは控えてほしいけど。",
+      "D": "誰かが良い意図を持っている"
+    }
+  },
+  "311": {
+    "nativeDefinition": "To accept someone's offer.",
+    "japaneseMeaning": "（申し出を）受ける、乗る",
+    "etymology": "take someone up on an offer で「申し出を受け入れる」。",
+    "examples": {
+      "B": "友達がパーティーに招待してくれたから、申し出を受けた。",
+      "C": "マジで送ってあげられるよ。じゃあ、その申し出受けるね。",
+      "D": "誰かの申し出を受け入れる"
+    }
+  },
+  "312": {
+    "nativeDefinition": "To occupy one's thoughts persistently.",
+    "japaneseMeaning": "（頭から）離れない、ずっと気になる",
+    "etymology": "play on one's mind で「心の上で再生される」、頭から離れないこと。",
+    "examples": {
+      "B": "あの感動映画、ずっと頭から離れない。こういう映画は平気なほうだけど、今回は本当に刺さった。",
+      "C": "祖母の最後の言葉がまだ頭から離れない。「好きなことをしてないなら、時間の無駄よ」って。",
+      "D": "誰かの考えに留まり続ける"
+    }
+  },
+  "313": {
+    "nativeDefinition": "To mention famous names to impress others.",
+    "japaneseMeaning": "有名人の名前を出してアピールする",
+    "etymology": "name-drop で「名前を落とす」、有名人の知り合いアピール。",
+    "examples": {
+      "B": "マークはいつも人前でフランスの有名人の知り合いアピールする。やめてほしい。そんなに有名じゃないし。",
+      "C": "キャリアイベントで会った人の名前を面接で出したら、「ああ、彼すごいって言ってた」って。",
+      "D": "誰かの名前を言う"
+    }
+  },
+  "314": {
+    "nativeDefinition": "To make the best of one's situation.",
+    "japaneseMeaning": "与えられたカードで勝負する、状況を受け入れる",
+    "etymology": "play the cards you're dealt で「配られたカードでプレイする」、状況を受け入れる比喩。",
+    "examples": {
+      "B": "人生はつらいこともあるけど、配られたカードで勝負するしかない。神モードでプレイしたら不幸になるよ。",
+      "C": "貧乏人が金持ちになり、金持ちが貧乏になるのは応援する。結局大事なのは配られたカードでどう勝負するか。",
+      "D": "状況を最大限に活かす"
+    }
+  },
+  "315": {
+    "nativeDefinition": "A gift or gesture to restore peace.",
+    "japaneseMeaning": "仲直りの贈り物、和平の申し出",
+    "etymology": "peace offering で「和平の供物」、関係修復のための贈り物。",
+    "examples": {
+      "B": "別れた後、キャリーに素敵なカードを仲直りの贈り物として送った。最後は悪い形で終わりたくなかった。",
+      "C": "兄と僕はいつも喧嘩するけど、最終的にはどちらかが仲直りの贈り物をする。",
+      "D": "謝罪の贈り物"
+    }
+  },
+  "316": {
+    "nativeDefinition": "To want no involvement with someone.",
+    "japaneseMeaning": "（人と）関わりたくない",
+    "etymology": "not want anything to do with で「関係したくない」、距離を置きたいこと。",
+    "examples": {
+      "B": "ビルとはもう関わりたくない。ゲームに負けるたびに癇癪を起こす。最悪の負け惜しみ。",
+      "C": "あいつとは関わりたくない。悪い噂をたくさん聞いた。",
+      "D": "誰かと関わりたくない"
+    }
+  },
+  "317": {
+    "nativeDefinition": "Forgetful and disorganized.",
+    "japaneseMeaning": "うっかり屋、抜け抜けしている",
+    "etymology": "scatterbrained で「脳が散らばった」、注意散漫なこと。",
+    "examples": {
+      "B": "ごめん、鍵をドアに差したままにしてた。最近すごくうっかり屋。ストレスかな。",
+      "C": "いつも抜け抜けしてて上の空なのはわかってる。それでもパートナーが受け入れてくれて幸せ。",
+      "D": "整理されていない"
+    }
+  },
+  "318": {
+    "nativeDefinition": "An opportunity that unexpectedly arrives.",
+    "japaneseMeaning": "（チャンスが）訪れる、やって来る",
+    "etymology": "come knocking on the door で「ドアをノックして来る」、機会が訪れる比喩。",
+    "examples": {
+      "B": "先日、隣人がドアをノックして焼きたてクッキーをくれた。本当に優しい。",
+      "C": "歌手の夢、まだ諦めないで。将来どんなチャンスが訪れるかわからない。",
+      "D": "訪れる"
+    }
+  },
+  "319": {
+    "nativeDefinition": "To express support without taking action.",
+    "japaneseMeaning": "口先だけの支持をする、建前だけ",
+    "etymology": "pay lip service で「唇の奉仕を払う」、口だけの支持。",
+    "examples": {
+      "B": "マネージャーはワークライフバランスに口先だけの支持をしてる。実際には何もしてない。",
+      "C": "ほとんどの政治家は気候変動政策に口先だけの支持をして、何もしない。",
+      "D": "行動なしで支持を示す"
+    }
+  },
+  "320": {
+    "nativeDefinition": "Disconnected from utilities, internet, or society.",
+    "japaneseMeaning": "（電波や社会から）切断された、オフグリッド",
+    "etymology": "off the grid で「グリッド（電力網）から外れた」、社会インフラから離れた生活。",
+    "examples": {
+      "B": "数週間オフグリッドでキャンプした。リセットボタンを押すのに最高だった。",
+      "C": "いつかSNSアカウント削除して、スマホ壊して、社会から切断された生活をしたい。SNSは便利だけど中毒性もある。",
+      "D": "中央インフラやインターネットから切断する"
+    }
+  },
+  "321": {
+    "nativeDefinition": "To recognize one's mistakes and change.",
+    "japaneseMeaning": "（過ちに）気づく、改心する",
+    "etymology": "see the error of one's ways で「自分のやり方の誤りを見る」、改心すること。",
+    "examples": {
+      "B": "彼女は過ちに気づいて謝った。それで十分じゃない？",
+      "C": "昔は悪い奴だったけど、過ちに気づいて良い方向に変わった。",
+      "D": "自分の間違いを認める"
+    }
+  },
+  "322": {
+    "nativeDefinition": "Someone skilled at only one thing.",
+    "japaneseMeaning": "一芸しかない人、一本足打法",
+    "etymology": "one-trick pony で「一芸のポニー」、一つのことしかできない人。",
+    "examples": {
+      "B": "今週5回目のカレー作り。料理に関しては一本足打法だ。",
+      "C": "歌に関しては一本足打法。マイケル・ジャクソンの「Thriller」しか歌えない。",
+      "D": "一つのことしか得意でない人"
+    }
+  },
+  "323": {
+    "nativeDefinition": "Clear and straightforward; not ambiguous.",
+    "japaneseMeaning": "明確な、はっきりした",
+    "etymology": "cut and dried で「切って乾燥させた」、明確で議論の余地がないこと。",
+    "examples": {
+      "B": "英語の文法ルールになぜこんなに例外があるの？数学みたいにもっとはっきりしてほしい。",
+      "C": "ほとんどの動物がなぜ眠るのか、明確な答えはない。非効率なプロセスだと思わない？",
+      "D": "明確で断定的な"
+    }
+  },
+  "324": {
+    "nativeDefinition": "No conclusion has been reached yet.",
+    "japaneseMeaning": "まだ結論が出ていない、評価が分かれている",
+    "etymology": "the jury's still out で「陪審はまだ評議中」、結論が出ていないこと。",
+    "examples": {
+      "B": "対面学習がオンラインより有益かどうかは、まだ結論が出ていない。",
+      "C": "最適な睡眠時間が6時間か8時間かは、まだ結論が出ていない。",
+      "D": "結論はまだ出ていない"
+    }
+  },
+  "325": {
+    "nativeDefinition": "To have plans or events arranged.",
+    "japaneseMeaning": "（予定が）並んでいる、準備できている",
+    "etymology": "have lined up で「並べてある」、予定が整っていること。",
+    "examples": {
+      "B": "今年はエキサイティングなイベントがたくさん並んでる。参加のチャンスを逃さないで。",
+      "C": "この会社が倒産しない保証はないから、バックアッププランは用意しておいたほうがいい。",
+      "D": "何かが整理されている"
+    }
+  },
+  "326": {
+    "nativeDefinition": "To look extremely ill or exhausted.",
+    "japaneseMeaning": "（顔色が）死んだようだ、ボロボロに見える",
+    "etymology": "look like death で「死んだように見える」、極度に体調が悪い様子。",
+    "examples": {
+      "B": "ペットの金魚が死んでから数ヶ月、ずっと死んだような顔色だった。今はだいぶ良くなったみたいだけど。",
+      "C": "どうしたの？死んだみたいな顔色してる。病気？",
+      "D": "極度に具合が悪そうに見える"
+    }
+  },
+  "327": {
+    "nativeDefinition": "The main motivating force behind something.",
+    "japaneseMeaning": "原動力、推進力",
+    "etymology": "driving force で「推進する力」、物事を動かす主要な要因。",
+    "examples": {
+      "B": "メッシはアルゼンチンのW杯3度目の優勝の大きな原動力だった。",
+      "C": "この本に全財産を投じる決断の原動力は何だった？",
+      "D": "推進力"
+    }
+  },
+  "328": {
+    "nativeDefinition": "To be financially successful.",
+    "japaneseMeaning": "（経済的に）うまくやっている",
+    "etymology": "do well for oneself で「自分のためにうまくやる」、成功していること。",
+    "examples": {
+      "B": "ハロルドは正社員じゃないけど、経済的にはうまくやってるみたい。",
+      "C": "カフェで見かけたボロボロの服の男、実はかなりうまくやってる。見た目は気にしてないだけ。",
+      "D": "経済的に成功する"
+    }
+  },
+  "329": {
+    "nativeDefinition": "To avoid addressing a topic directly.",
+    "japaneseMeaning": "（話題を）迂回する、はぐらかす",
+    "etymology": "dance around the topic で「話題の周りを踊る」、本題を避ける比喩。",
+    "examples": {
+      "B": "話題をはぐらかさないで。10月28日の午後、どこにいたか教えて。",
+      "C": "なんでこの政治家はいつも中国の話題をはぐらかすんだろう。怪しい。",
+      "D": "話題を避ける"
+    }
+  },
+  "330": {
+    "nativeDefinition": "In case; on the small chance that.",
+    "japaneseMeaning": "万が一、念のため",
+    "etymology": "on the off-chance で「可能性が低いが」、万が一の場合。",
+    "examples": {
+      "B": "昨夜キャンパスでスマホをなくした。可能性は低いけど、万が一拾った人がいたらDMください。赤いiPhoneです。",
+      "C": "万が一まだ無料コースをダウンロードしてなければ、下のリンクをクリックして。",
+      "D": "念のため"
+    }
+  },
+  "331": {
+    "nativeDefinition": "A very long list of items or tasks.",
+    "japaneseMeaning": "（やることの）長いリスト、山ほどある",
+    "etymology": "laundry list で「洗濯物リスト」、非常に長いリストの比喩。",
+    "examples": {
+      "B": "ごめん、今日ランチ無理。午後までにやることが山ほどある。",
+      "C": "今日クビになった。実は1ヶ月前に辞めたかったから、理由の長いリストを渡されてもどうでもよかった。",
+      "D": "非常に長いリスト"
+    }
+  },
+  "332": {
+    "nativeDefinition": "To show no surprise or reaction.",
+    "japaneseMeaning": "（まばたきも）しない、動じない",
+    "etymology": "not bat an eye で「まばたきもしない」、驚きを見せないこと。",
+    "examples": {
+      "B": "子どもが暴れたとき、まばたきもしない。エスカレートさせたくないなら無視するのがいい。",
+      "C": "ルークにスケボー壊したってドッキリしたけど、狂うと思ったのに、まばたきもしなかった。",
+      "D": "驚きを見せない"
+    }
+  },
+  "333": {
+    "nativeDefinition": "Money that seems unreal or worthless.",
+    "japaneseMeaning": "モノポリー紙幣、（お金が）リアルに感じない",
+    "etymology": "モノポリーのゲーム用紙幣から、実体のない・価値のないお金の比喩。",
+    "examples": {
+      "B": "資産はUSDで持ったほうがいい。ビットコインがいつモノポリー紙幣になるかわからない。",
+      "C": "Apple Payは便利すぎて、モノポリー紙幣使ってるみたいな感じ。",
+      "D": "価値のない通貨"
+    }
+  },
+  "334": {
+    "nativeDefinition": "To be retained in memory; to adhere.",
+    "japaneseMeaning": "（記憶に）残る、定着する",
+    "etymology": "stick で「くっつく」、記憶や習慣が定着すること。",
+    "examples": {
+      "B": "語彙を暗記するのにすごく時間かけたけど、全然定着しない。",
+      "C": "ウォーレンとよく一緒にいて、いい金銭感覚が伝染した。定着するまで時間はかかったけど。",
+      "D": "記憶に残る"
+    }
+  },
+  "335": {
+    "nativeDefinition": "To act based on an assumption.",
+    "japaneseMeaning": "（〜と）仮定して行動する",
+    "etymology": "work on the assumption that で「〜と仮定して働く」、前提として行動すること。",
+    "examples": {
+      "B": "年金はもらえないと仮定して行動してる。一歩先を行って最悪のケースに備えたい。",
+      "C": "ジャマルは何とかなると仮定してるから、この面接について全然ストレスない。",
+      "D": "〜と信じて行動する"
+    }
+  },
+  "336": {
+    "nativeDefinition": "Beyond one's authority or ability.",
+    "japaneseMeaning": "（自分の）権限外だ、手に負えない",
+    "etymology": "above one's pay grade で「給料グレードの上」、自分の権限を超えたこと。",
+    "examples": {
+      "B": "チーム全員をその場でクビにできると思ってる？それは完全に権限外だよ。",
+      "C": "ごめん、Photoshopは権限外。ベンに聞いて。",
+      "D": "誰かの権限や知識を超えている"
+    }
+  },
+  "337": {
+    "nativeDefinition": "A professional relationship at work.",
+    "japaneseMeaning": "仕事上の関係",
+    "etymology": "working relationship で「仕事上の関係」、職場での協力関係。",
+    "examples": {
+      "B": "ヘンリーとジェーンは仕事上の関係が良いだけじゃなく、親友でもある。",
+      "C": "会社を成功させるには、部下との良好な仕事上の関係が大事。",
+      "D": "職場での関係"
+    }
+  },
+  "338": {
+    "nativeDefinition": "Time spent alone for relaxation.",
+    "japaneseMeaning": "一人の時間、ひとりで過ごす時間",
+    "etymology": "alone time で「一人の時間」、自分だけの時間。",
+    "examples": {
+      "B": "僕は一人の時間でエネルギーを充電するタイプだけど、家族が数日いないとすごく寂しくなる。バランスが大事。",
+      "C": "たまにスマホを1〜2日置いて、一人の時間でリラックスする。すごく効果的。",
+      "D": "他の人から離れた時間"
+    }
+  },
+  "339": {
+    "nativeDefinition": "To forgive and not retaliate.",
+    "japaneseMeaning": "（侮辱に）耐える、許して見逃す",
+    "etymology": "turn the other cheek で「もう一方の頬を向ける」、キリスト教の教えから。",
+    "examples": {
+      "B": "メキシコでスリに遭ったけど、警察に行ったら見逃すように言われた。最悪。",
+      "C": "あいつは僕のキャリアを潰そうとした。見逃すわけない。当然訴える。",
+      "D": "許す"
+    }
+  },
+  "340": {
+    "nativeDefinition": "An informal agreement based on trust.",
+    "japaneseMeaning": "紳士協定、信頼に基づく口約束",
+    "etymology": "gentleman's agreement で「紳士の協定」、書面のない信頼の約束。",
+    "examples": {
+      "B": "親友なのはわかるけど、お金を貸すなら書面が必要。紳士協定じゃ不十分。",
+      "C": "弁護士は呼びたくない？わかった、紳士協定でここで今すぐ解決しよう。",
+      "D": "信頼に基づく非公式な合意"
+    }
+  },
+  "341": {
+    "nativeDefinition": "Moderate; not extreme.",
+    "japaneseMeaning": "中間的な、無難な",
+    "etymology": "middle of the road で「道の真ん中」、極端でない中間的なこと。",
+    "examples": {
+      "B": "バブル期の日本TVはかなり過激だったけど、今は視聴者のクレームを避けるため、ほとんどが無難な内容。",
+      "C": "あの番組、無難すぎる。もっと実験的なことをしてほしい。",
+      "D": "保守的な"
+    }
+  },
+  "342": {
+    "nativeDefinition": "When in a difficult or desperate situation.",
+    "japaneseMeaning": "いざというとき、ピンチのとき",
+    "etymology": "when the chips are down で「チップがなくなったとき」、ピンチのときの比喩。",
+    "examples": {
+      "B": "いざというとき、あいつは信用するな。味方してくれない。",
+      "C": "いざというとき、本当の友達がわかる。",
+      "D": "困難な状況が生じたとき"
+    }
+  },
+  "343": {
+    "nativeDefinition": "To have a close view of something happening.",
+    "japaneseMeaning": "（〜を）間近で見る、最前列で見る",
+    "etymology": "front row seat で「最前列の席」、間近で体験すること。",
+    "examples": {
+      "B": "昨日、学校の外でナイフを持った男が逮捕されるのを間近で見た。ちょっと近すぎて怖かった。",
+      "C": "日本に住んで、少子化が国に深刻な影響を与えているのを間近で見てきた。",
+      "D": "何かのすぐ近くにいる"
+    }
+  },
+  "344": {
+    "nativeDefinition": "To be currently popular or trendy.",
+    "japaneseMeaning": "（今）ブームになっている、注目されている",
+    "etymology": "having a moment で「瞬間を持っている」、今注目を集めていること。",
+    "examples": {
+      "B": "デニムジャケットが今年ブームになってる。どこでも着てる人を見る。",
+      "C": "ニュージーランドが今注目されてる。ロード・オブ・ザ・リングの映画がまた人気になったから？",
+      "D": "今人気がある"
+    }
+  },
+  "345": {
+    "nativeDefinition": "Casual workplace chat.",
+    "japaneseMeaning": "職場のちょっとした雑談、ウォータークーラー・トーク",
+    "etymology": "water cooler conversation で「ウォータークーラーでの会話」、職場の雑談。",
+    "examples": {
+      "B": "カイが友達かって言われたら違う。職場でちょっと雑談する程度の関係。",
+      "C": "在宅勤務は好きだけど、オフィスでのウォータークーラー・トークが恋しい。",
+      "D": "職場での気軽な雑談"
+    }
+  },
+  "346": {
+    "nativeDefinition": "Someone skilled at charming persuasion.",
+    "japaneseMeaning": "口が上手い人、お世辞がうまい人",
+    "etymology": "sweet talker で「甘い言葉を話す人」、口上手な人。",
+    "examples": {
+      "B": "セルがその仕事できるって言ってるけど、信用するな。口が上手いだけ。失敗したら傷物になるよ。",
+      "C": "あのセールスマン、口が上手いだけ。売ってるものはそんなに良くないと思う。",
+      "D": "説得が上手な人"
+    }
+  },
+  "347": {
+    "nativeDefinition": "If the description fits, accept it.",
+    "japaneseMeaning": "当てはまるなら受け入れなさい",
+    "etymology": "if the shoe fits, wear it で「靴が合えば履け」、批判が当てはまるなら認めろ。",
+    "examples": {
+      "B": "同僚に仕事中毒だって言われた？当てはまるなら認めなよ。",
+      "C": "仕事の説明をしてたら「つまんなそう」って。当てはまるなら認めろよ。",
+      "D": "本当なら受け入れなさい"
+    }
+  },
+  "348": {
+    "nativeDefinition": "A definitive test of quality or ability.",
+    "japaneseMeaning": "真の試金石、本当の実力試し",
+    "etymology": "acid test で「酸の試験」、金の純度を試す比喩から、真の試験。",
+    "examples": {
+      "B": "タイソンは前の試合かなり良かったけど、本当の試金石は次の試合だ。",
+      "C": "TOEICのスコアはいいけど、英語をマスターしたかの本当の試金石は、自然に会話できるかどうか。",
+      "D": "決定的な試験"
+    }
+  },
+  "349": {
+    "nativeDefinition": "Highly competitive and driven personality.",
+    "japaneseMeaning": "タイプA、完璧主義で競争心が強い",
+    "etymology": "心理学用語のType A personality から。競争心と完璧主義を表す。",
+    "examples": {
+      "B": "今学期は全科目A取らないと自分を許せない。ごめん、ただのタイプA人間なんだ。",
+      "C": "マイケル・ジョーダンはタイプAの典型。一緒にゲームしても楽しくないらしい。勝つことしか考えてないから。",
+      "D": "意欲的な"
+    }
+  },
+  "350": {
+    "nativeDefinition": "To endure something unpleasant without complaining.",
+    "japaneseMeaning": "歯を食いしばって耐える、我慢する",
+    "etymology": "grin and bear it で「にこりながら耐える」、笑顔で我慢すること。",
+    "examples": {
+      "B": "上司が理不尽な要求をしてきたらどうする？歯を食いしばって耐える？",
+      "C": "人生にはいろんな問題がある。全部は直せないから、時には歯を食いしばって耐えるしかない。",
+      "D": "文句を言わずに受け入れる"
+    }
+  }
+}

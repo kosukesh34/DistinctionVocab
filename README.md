@@ -4,7 +4,7 @@
 
 ## 機能
 
-- **ブック**: Distinction I〜VI の単語一覧（計 2,128 語）
+- **ブック**: Distinction I〜VI の単語一覧（計 2,128 語）+ 例文付き（746 語）
 - **単語詳細**: 見出し語の表示と音声再生、例文（B/C/D）の音声再生
 - **学習モード**: フラッシュカード形式の学習
 - **検索**: 全ブック横断の見出し語検索
@@ -33,6 +33,21 @@ git lfs pull
 ```bash
 python3 scripts/generate_catalog.py
 ```
+
+### 例文付き Numbers / TSV からのインポート
+
+`~/Library/Mobile Documents/com~apple~Numbers/Documents/` 内の複数ファイル（`300まで.numbers`、`例文付き111.numbers` など）を自動マージし、**Distinction I〜VI とは別の独立した単語帳**として追加します。音声はこのブック専用フォルダ（`Audio/reibun/`）に TTS で生成されます。
+
+```bash
+python3 scripts/import_custom_vocab.py
+# または特定ファイルを指定
+python3 scripts/import_custom_vocab.py "/path/to/vocab.numbers"
+python3 scripts/import_custom_vocab.py "/path/to/vocab.tsv"
+```
+
+- 既存の `Audio/reibun/` に音声があれば再利用し、なければ macOS の `say` + `ffmpeg` で TTS 生成します
+- Distinction I〜VI のデータや音声は使用しません
+- `generate_catalog.py` 実行時にも自動でマージされます
 
 ## プロジェクト構成（クリーンアーキテクチャ）
 

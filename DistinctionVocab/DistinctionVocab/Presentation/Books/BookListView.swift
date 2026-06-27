@@ -4,6 +4,11 @@ struct BookListView: View {
     @Bindable var viewModel: VocabularyCatalogViewModel
     let dependencyContainer: DependencyContainer
 
+    private let columns = [
+        GridItem(.flexible(), spacing: 16),
+        GridItem(.flexible(), spacing: 16)
+    ]
+
     var body: some View {
         NavigationStack {
             Group {
@@ -16,15 +21,21 @@ struct BookListView: View {
                 } else if viewModel.availableBooks.isEmpty {
                     ProgressView("読み込み中…")
                 } else {
-                    List(viewModel.availableBooks) { book in
-                        NavigationLink(value: book) {
-                            BookRowView(book: book)
+                    ScrollView {
+                        LazyVGrid(columns: columns, spacing: 16) {
+                            ForEach(viewModel.availableBooks) { book in
+                                NavigationLink(value: book) {
+                                    DiscoverBookCard(book: book)
+                                }
+                                .buttonStyle(.plain)
+                            }
                         }
+                        .padding(16)
                     }
-                    .listStyle(.insetGrouped)
                 }
             }
-            .navigationTitle("ブック")
+            .background(DistinctionTheme.screenBackground)
+            .navigationTitle("見つける")
             .navigationDestination(for: VocabularyBook.self) { book in
                 WordListView(book: book, dependencyContainer: dependencyContainer)
             }
@@ -32,37 +43,27 @@ struct BookListView: View {
     }
 }
 
-private struct BookRowView: View {
+private struct DiscoverBookCard: View {
     let book: VocabularyBook
 
     var body: some View {
-        HStack(spacing: 16) {
-            ZStack {
-                RoundedRectangle(cornerRadius: 12, style: .continuous)
-                    .fill(
-                        LinearGradient(
-                            colors: [
-                                Color.accentColor.opacity(0.8),
-                                Color.accentColor.opacity(0.4)
-                            ],
-                            startPoint: .topLeading,
-                            endPoint: .bottomTrailing
-                        )
-                    )
-                    .frame(width: 52, height: 52)
-                Text("\(book.words.first?.entryNumber ?? 1)")
-                    .font(.headline.bold())
-                    .foregroundStyle(.white)
-            }
+        VStack(alignment: .leading, spacing: DistinctionTheme.Spacing.md) {
+            BookCoverView(book: book, size: .flexible)
+                .frame(maxWidth: .infinity)
 
-            VStack(alignment: .leading, spacing: 4) {
+            VStack(alignment: .leading, spacing: DistinctionTheme.Spacing.xs) {
                 Text(book.title)
-                    .font(.headline)
+                    .font(DistinctionTheme.bookTitleFont)
+                    .foregroundStyle(.primary)
+                    .lineLimit(1)
+
                 Text("\(book.wordCount) 語")
-                    .font(.subheadline)
+                    .font(.caption)
                     .foregroundStyle(.secondary)
             }
         }
-        .padding(.vertical, 4)
+        .padding(DistinctionTheme.Spacing.lg)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .distinctionCard()
     }
 }

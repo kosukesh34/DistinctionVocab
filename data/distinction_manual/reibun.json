@@ -1,0 +1,5138 @@
+[
+  {
+    "number": 1,
+    "headword": "I'm down",
+    "japaneseMeaning": "それ、あり"
+  },
+  {
+    "number": 2,
+    "headword": "it's up to you",
+    "japaneseMeaning": "お任せします"
+  },
+  {
+    "number": 3,
+    "headword": "after you",
+    "japaneseMeaning": "お先にどうぞ"
+  },
+  {
+    "number": 4,
+    "headword": "ring a bell",
+    "japaneseMeaning": "ピンとくる"
+  },
+  {
+    "number": 5,
+    "headword": "mind-blowing",
+    "japaneseMeaning": "衝撃的な"
+  },
+  {
+    "number": 6,
+    "headword": "fun sponge",
+    "japaneseMeaning": "場をしらけさせる人"
+  },
+  {
+    "number": 7,
+    "headword": "on point",
+    "japaneseMeaning": "完璧"
+  },
+  {
+    "number": 8,
+    "headword": "pull an all-nighter",
+    "japaneseMeaning": "徹夜する"
+  },
+  {
+    "number": 9,
+    "headword": "out of my league",
+    "japaneseMeaning": "高嶺の花"
+  },
+  {
+    "number": 10,
+    "headword": "wish washy",
+    "japaneseMeaning": "優柔不断"
+  },
+  {
+    "number": 11,
+    "headword": "social butterfly",
+    "japaneseMeaning": "人付き合いの良い人"
+  },
+  {
+    "number": 12,
+    "headword": "weirdo",
+    "japaneseMeaning": "奇妙な"
+  },
+  {
+    "number": 13,
+    "headword": "legit",
+    "japaneseMeaning": "とても良い"
+  },
+  {
+    "number": 14,
+    "headword": "bucket list",
+    "japaneseMeaning": "やりたい事リスト"
+  },
+  {
+    "number": 15,
+    "headword": "turn off",
+    "japaneseMeaning": "ドン引きする"
+  },
+  {
+    "number": 16,
+    "headword": "I'm hyped",
+    "japaneseMeaning": "ワクワクする"
+  },
+  {
+    "number": 17,
+    "headword": "I dig it",
+    "japaneseMeaning": "それいいね"
+  },
+  {
+    "number": 18,
+    "headword": "it's on me",
+    "japaneseMeaning": "おごるよ"
+  },
+  {
+    "number": 19,
+    "headword": "crystal clear",
+    "japaneseMeaning": "バッチリ"
+  },
+  {
+    "number": 20,
+    "headword": "my heart skip a beat",
+    "japaneseMeaning": "胸キュン"
+  },
+  {
+    "number": 21,
+    "headword": "don't get cocky",
+    "japaneseMeaning": "調子に乗るな"
+  },
+  {
+    "number": 22,
+    "headword": "are you with me?",
+    "japaneseMeaning": "理解できてる？"
+  },
+  {
+    "number": 23,
+    "headword": "enough is enough",
+    "japaneseMeaning": "いい加減にして"
+  },
+  {
+    "number": 24,
+    "headword": "go bananas",
+    "japaneseMeaning": "気が狂う"
+  },
+  {
+    "number": 25,
+    "headword": "hit me up",
+    "japaneseMeaning": "連絡する"
+  },
+  {
+    "number": 26,
+    "headword": "spilt the bill",
+    "japaneseMeaning": "割り勘する"
+  },
+  {
+    "number": 27,
+    "headword": "scooch over",
+    "japaneseMeaning": "ちょっと詰めて"
+  },
+  {
+    "number": 28,
+    "headword": "butter up",
+    "japaneseMeaning": "お世辞を言う"
+  },
+  {
+    "number": 29,
+    "headword": "sluggish",
+    "japaneseMeaning": "だるい"
+  },
+  {
+    "number": 30,
+    "headword": "eye candy",
+    "japaneseMeaning": "目の保養"
+  },
+  {
+    "number": 31,
+    "headword": "in a nutshell",
+    "japaneseMeaning": "一言で言うと"
+  },
+  {
+    "number": 32,
+    "headword": "friendzone",
+    "japaneseMeaning": "友達止まり"
+  },
+  {
+    "number": 33,
+    "headword": "right on",
+    "japaneseMeaning": "その通り"
+  },
+  {
+    "number": 34,
+    "headword": "I'm on a roll",
+    "japaneseMeaning": "調子良い"
+  },
+  {
+    "number": 35,
+    "headword": "how's life?",
+    "japaneseMeaning": "最近どう？"
+  },
+  {
+    "number": 36,
+    "headword": "whatever",
+    "japaneseMeaning": "どうでも（何でも）いいよ"
+  },
+  {
+    "number": 37,
+    "headword": "I have a lot on my plate",
+    "japaneseMeaning": "忙しい"
+  },
+  {
+    "number": 38,
+    "headword": "no idea",
+    "japaneseMeaning": "全然わからない"
+  },
+  {
+    "number": 39,
+    "headword": "fair enough",
+    "japaneseMeaning": "なるほど"
+  },
+  {
+    "number": 40,
+    "headword": "sloppy",
+    "japaneseMeaning": "雑な"
+  },
+  {
+    "number": 41,
+    "headword": "what was it?",
+    "japaneseMeaning": "何だっけ？"
+  },
+  {
+    "number": 42,
+    "headword": "I messed up",
+    "japaneseMeaning": "ヤバい"
+  },
+  {
+    "number": 43,
+    "headword": "could be",
+    "japaneseMeaning": "かもね"
+  },
+  {
+    "number": 44,
+    "headword": "by the way",
+    "japaneseMeaning": "ところで"
+  },
+  {
+    "number": 45,
+    "headword": "from now on",
+    "japaneseMeaning": "これから"
+  },
+  {
+    "number": 46,
+    "headword": "muggy",
+    "japaneseMeaning": "蒸し暑い"
+  },
+  {
+    "number": 47,
+    "headword": "I'm dead",
+    "japaneseMeaning": "爆笑"
+  },
+  {
+    "number": 48,
+    "headword": "I'm parched",
+    "japaneseMeaning": "喉がカラカラ"
+  },
+  {
+    "number": 49,
+    "headword": "you never know",
+    "japaneseMeaning": "誰にもわからないよ"
+  },
+  {
+    "number": 50,
+    "headword": "I'm pissed off",
+    "japaneseMeaning": "ムカつく"
+  },
+  {
+    "number": 51,
+    "headword": "I'm broke",
+    "japaneseMeaning": "金欠"
+  },
+  {
+    "number": 52,
+    "headword": "for real?",
+    "japaneseMeaning": "マジ？"
+  },
+  {
+    "number": 53,
+    "headword": "suck it up",
+    "japaneseMeaning": "我慢する"
+  },
+  {
+    "number": 54,
+    "headword": "out of line",
+    "japaneseMeaning": "やりすぎた"
+  },
+  {
+    "number": 55,
+    "headword": "chill out",
+    "japaneseMeaning": "落ち着く"
+  },
+  {
+    "number": 56,
+    "headword": "you rock",
+    "japaneseMeaning": "ありがとう"
+  },
+  {
+    "number": 57,
+    "headword": "way to go",
+    "japaneseMeaning": "よくやった"
+  },
+  {
+    "number": 58,
+    "headword": "tense up",
+    "japaneseMeaning": "緊張する"
+  },
+  {
+    "number": 59,
+    "headword": "zone out",
+    "japaneseMeaning": "ボーッとする"
+  },
+  {
+    "number": 60,
+    "headword": "speaking of",
+    "japaneseMeaning": "〜といえば"
+  },
+  {
+    "number": 61,
+    "headword": "spit it out",
+    "japaneseMeaning": "早く言ってよ"
+  },
+  {
+    "number": 62,
+    "headword": "big mouth",
+    "japaneseMeaning": "口が軽い"
+  },
+  {
+    "number": 63,
+    "headword": "cutting corners",
+    "japaneseMeaning": "手を抜く"
+  },
+  {
+    "number": 64,
+    "headword": "why not?",
+    "japaneseMeaning": "もちろん"
+  },
+  {
+    "number": 65,
+    "headword": "into",
+    "japaneseMeaning": "ハマってる"
+  },
+  {
+    "number": 66,
+    "headword": "my bad",
+    "japaneseMeaning": "ごめん"
+  },
+  {
+    "number": 67,
+    "headword": "annoying",
+    "japaneseMeaning": "うざい"
+  },
+  {
+    "number": 68,
+    "headword": "you're kidding",
+    "japaneseMeaning": "冗談でしょ"
+  },
+  {
+    "number": 69,
+    "headword": "no-brainer",
+    "japaneseMeaning": "とても簡単なこと"
+  },
+  {
+    "number": 70,
+    "headword": "stinks",
+    "japaneseMeaning": "くさい"
+  },
+  {
+    "number": 71,
+    "headword": "nailed it",
+    "japaneseMeaning": "キマったね"
+  },
+  {
+    "number": 72,
+    "headword": "low-key",
+    "japaneseMeaning": "控えめな"
+  },
+  {
+    "number": 73,
+    "headword": "go for it",
+    "japaneseMeaning": "頑張れ"
+  },
+  {
+    "number": 74,
+    "headword": "chicken out",
+    "japaneseMeaning": "ビビる"
+  },
+  {
+    "number": 75,
+    "headword": "ripoff",
+    "japaneseMeaning": "ぼったくり"
+  },
+  {
+    "number": 76,
+    "headword": "chilly",
+    "japaneseMeaning": "肌寒い"
+  },
+  {
+    "number": 77,
+    "headword": "freak out",
+    "japaneseMeaning": "パニックになる"
+  },
+  {
+    "number": 78,
+    "headword": "cheap",
+    "japaneseMeaning": "ケチ"
+  },
+  {
+    "number": 79,
+    "headword": "count on me",
+    "japaneseMeaning": "頼って"
+  },
+  {
+    "number": 80,
+    "headword": "I appreciate",
+    "japaneseMeaning": "感謝する"
+  },
+  {
+    "number": 81,
+    "headword": "me neither",
+    "japaneseMeaning": "私も（否定的）"
+  },
+  {
+    "number": 82,
+    "headword": "It's confusing",
+    "japaneseMeaning": "ややこしい"
+  },
+  {
+    "number": 83,
+    "headword": "tend to",
+    "japaneseMeaning": "しがち"
+  },
+  {
+    "number": 84,
+    "headword": "nauseous",
+    "japaneseMeaning": "気分が悪い"
+  },
+  {
+    "number": 85,
+    "headword": "smug face",
+    "japaneseMeaning": "ドヤ顔"
+  },
+  {
+    "number": 86,
+    "headword": "get caught",
+    "japaneseMeaning": "バレる"
+  },
+  {
+    "number": 87,
+    "headword": "show off",
+    "japaneseMeaning": "見せびらかす"
+  },
+  {
+    "number": 88,
+    "headword": "I'm afraid",
+    "japaneseMeaning": "恐れいります"
+  },
+  {
+    "number": 89,
+    "headword": "roast",
+    "japaneseMeaning": "イジる"
+  },
+  {
+    "number": 90,
+    "headword": "so what?",
+    "japaneseMeaning": "だから何？"
+  },
+  {
+    "number": 91,
+    "headword": "airhead",
+    "japaneseMeaning": "天然"
+  },
+  {
+    "number": 92,
+    "headword": "not again",
+    "japaneseMeaning": "またかよ"
+  },
+  {
+    "number": 93,
+    "headword": "on purpose",
+    "japaneseMeaning": "わざと"
+  },
+  {
+    "number": 94,
+    "headword": "after all",
+    "japaneseMeaning": "結局"
+  },
+  {
+    "number": 95,
+    "headword": "little by little",
+    "japaneseMeaning": "少しずつ"
+  },
+  {
+    "number": 96,
+    "headword": "oh well",
+    "japaneseMeaning": "しょうがない"
+  },
+  {
+    "number": 97,
+    "headword": "take care",
+    "japaneseMeaning": "またね"
+  },
+  {
+    "number": 98,
+    "headword": "to begin with",
+    "japaneseMeaning": "そもそも"
+  },
+  {
+    "number": 99,
+    "headword": "clumsy",
+    "japaneseMeaning": "不器用な"
+  },
+  {
+    "number": 100,
+    "headword": "in advance",
+    "japaneseMeaning": "前もって"
+  },
+  {
+    "number": 101,
+    "headword": "can't read the room",
+    "japaneseMeaning": "空気が読めない"
+  },
+  {
+    "number": 102,
+    "headword": "bossy",
+    "japaneseMeaning": "偉そう"
+  },
+  {
+    "number": 103,
+    "headword": "pet peeves",
+    "japaneseMeaning": "大っ嫌いなもの"
+  },
+  {
+    "number": 104,
+    "headword": "reach out",
+    "japaneseMeaning": "連絡する"
+  },
+  {
+    "number": 105,
+    "headword": "lose my touch",
+    "japaneseMeaning": "腕が落ちる"
+  },
+  {
+    "number": 106,
+    "headword": "hang it there",
+    "japaneseMeaning": "頑張れ"
+  },
+  {
+    "number": 107,
+    "headword": "let you off the hook",
+    "japaneseMeaning": "見逃す"
+  },
+  {
+    "number": 108,
+    "headword": "down to earth",
+    "japaneseMeaning": "気取らない"
+  },
+  {
+    "number": 109,
+    "headword": "miss out",
+    "japaneseMeaning": "逃す"
+  },
+  {
+    "number": 110,
+    "headword": "come across",
+    "japaneseMeaning": "出くわす"
+  },
+  {
+    "number": 111,
+    "headword": "get cold feet",
+    "japaneseMeaning": "怖気付く"
+  },
+  {
+    "number": 112,
+    "headword": "wing it",
+    "japaneseMeaning": "ぶっつけ本番"
+  },
+  {
+    "number": 113,
+    "headword": "spooky",
+    "japaneseMeaning": "不気味"
+  },
+  {
+    "number": 114,
+    "headword": "open book",
+    "japaneseMeaning": "隠し事がない"
+  },
+  {
+    "number": 115,
+    "headword": "what a bummer",
+    "japaneseMeaning": "残念だ"
+  },
+  {
+    "number": 116,
+    "headword": "no clue",
+    "japaneseMeaning": "見当もつかない"
+  },
+  {
+    "number": 117,
+    "headword": "go with the flow",
+    "japaneseMeaning": "流れに身を任せる"
+  },
+  {
+    "number": 118,
+    "headword": "so far so good",
+    "japaneseMeaning": "今のとこ順調"
+  },
+  {
+    "number": 119,
+    "headword": "in the way",
+    "japaneseMeaning": "ある意味"
+  },
+  {
+    "number": 120,
+    "headword": "for good",
+    "japaneseMeaning": "永遠に"
+  },
+  {
+    "number": 121,
+    "headword": "have a blast",
+    "japaneseMeaning": "むちゃくちゃ楽しむ"
+  },
+  {
+    "number": 122,
+    "headword": "ditch",
+    "japaneseMeaning": "サボる"
+  },
+  {
+    "number": 123,
+    "headword": "or what?",
+    "japaneseMeaning": "か何か？"
+  },
+  {
+    "number": 124,
+    "headword": "crappy",
+    "japaneseMeaning": "ひどい"
+  },
+  {
+    "number": 125,
+    "headword": "for some reason",
+    "japaneseMeaning": "なぜか"
+  },
+  {
+    "number": 126,
+    "headword": "point out",
+    "japaneseMeaning": "指摘する"
+  },
+  {
+    "number": 127,
+    "headword": "I'm beat",
+    "japaneseMeaning": "ヘトヘト"
+  },
+  {
+    "number": 128,
+    "headword": "let's it go",
+    "japaneseMeaning": "受け流す"
+  },
+  {
+    "number": 129,
+    "headword": "the thing is",
+    "japaneseMeaning": "だから"
+  },
+  {
+    "number": 130,
+    "headword": "go through",
+    "japaneseMeaning": "経験する"
+  },
+  {
+    "number": 131,
+    "headword": "hookded on",
+    "japaneseMeaning": "ハマる"
+  },
+  {
+    "number": 132,
+    "headword": "no offence",
+    "japaneseMeaning": "悪気はない"
+  },
+  {
+    "number": 133,
+    "headword": "pull it off",
+    "japaneseMeaning": "着こなす"
+  },
+  {
+    "number": 134,
+    "headword": "make up",
+    "japaneseMeaning": "仲直りする"
+  },
+  {
+    "number": 135,
+    "headword": "crack up",
+    "japaneseMeaning": "大笑いさせる"
+  },
+  {
+    "number": 136,
+    "headword": "sassy",
+    "japaneseMeaning": "生意気"
+  },
+  {
+    "number": 137,
+    "headword": "will do",
+    "japaneseMeaning": "了解"
+  },
+  {
+    "number": 138,
+    "headword": "count me in",
+    "japaneseMeaning": "仲間に入れて"
+  },
+  {
+    "number": 139,
+    "headword": "favor",
+    "japaneseMeaning": "頼み"
+  },
+  {
+    "number": 140,
+    "headword": "try me",
+    "japaneseMeaning": "かかってこい"
+  },
+  {
+    "number": 141,
+    "headword": "get out",
+    "japaneseMeaning": "うそでしょ"
+  },
+  {
+    "number": 142,
+    "headword": "come up with",
+    "japaneseMeaning": "思いつく"
+  },
+  {
+    "number": 143,
+    "headword": "It happens",
+    "japaneseMeaning": "あるある"
+  },
+  {
+    "number": 144,
+    "headword": "worn out",
+    "japaneseMeaning": "くたくた"
+  },
+  {
+    "number": 145,
+    "headword": "ever since",
+    "japaneseMeaning": "以来ずっと"
+  },
+  {
+    "number": 146,
+    "headword": "drop by",
+    "japaneseMeaning": "顔を出す"
+  },
+  {
+    "number": 147,
+    "headword": "run into",
+    "japaneseMeaning": "バッタリ会う"
+  },
+  {
+    "number": 148,
+    "headword": "root for",
+    "japaneseMeaning": "応援する"
+  },
+  {
+    "number": 149,
+    "headword": "hop on",
+    "japaneseMeaning": "飛び乗る"
+  },
+  {
+    "number": 150,
+    "headword": "let down",
+    "japaneseMeaning": "がっかりさせる"
+  },
+  {
+    "number": 151,
+    "headword": "set up",
+    "japaneseMeaning": "はめる"
+  },
+  {
+    "number": 152,
+    "headword": "take it back",
+    "japaneseMeaning": "取り消す"
+  },
+  {
+    "number": 153,
+    "headword": "grow out of",
+    "japaneseMeaning": "卒業する"
+  },
+  {
+    "number": 154,
+    "headword": "shout-out",
+    "japaneseMeaning": "ありがとうを送る"
+  },
+  {
+    "number": 155,
+    "headword": "good to go",
+    "japaneseMeaning": "準備万端"
+  },
+  {
+    "number": 156,
+    "headword": "better off",
+    "japaneseMeaning": "より良くなる"
+  },
+  {
+    "number": 157,
+    "headword": "I'm on it",
+    "japaneseMeaning": "今やってる"
+  },
+  {
+    "number": 158,
+    "headword": "drive me nuts",
+    "japaneseMeaning": "気がおかしくなる"
+  },
+  {
+    "number": 159,
+    "headword": "call it a day",
+    "japaneseMeaning": "おわりにする"
+  },
+  {
+    "number": 160,
+    "headword": "needy",
+    "japaneseMeaning": "かまちょ"
+  },
+  {
+    "number": 161,
+    "headword": "24-Jul",
+    "japaneseMeaning": "いつも"
+  },
+  {
+    "number": 162,
+    "headword": "take place",
+    "japaneseMeaning": "行われる"
+  },
+  {
+    "number": 163,
+    "headword": "rain or shine",
+    "japaneseMeaning": "何があっても"
+  },
+  {
+    "number": 164,
+    "headword": "up in the air",
+    "japaneseMeaning": "未定"
+  },
+  {
+    "number": 165,
+    "headword": "break a leg",
+    "japaneseMeaning": "頑張れ"
+  },
+  {
+    "number": 166,
+    "headword": "out of shapes",
+    "japaneseMeaning": "運動不足"
+  },
+  {
+    "number": 167,
+    "headword": "iffy",
+    "japaneseMeaning": "微妙"
+  },
+  {
+    "number": 168,
+    "headword": "the more the merrier",
+    "japaneseMeaning": "大勢の方が楽しい"
+  },
+  {
+    "number": 169,
+    "headword": "have a ball",
+    "japaneseMeaning": "大いに"
+  },
+  {
+    "number": 170,
+    "headword": "you got me",
+    "japaneseMeaning": "やられた"
+  },
+  {
+    "number": 171,
+    "headword": "get under skin",
+    "japaneseMeaning": "すごくイライラする"
+  },
+  {
+    "number": 172,
+    "headword": "ish",
+    "japaneseMeaning": "頃"
+  },
+  {
+    "number": 173,
+    "headword": "cloud 9",
+    "japaneseMeaning": "有頂天"
+  },
+  {
+    "number": 174,
+    "headword": "I'm all ears",
+    "japaneseMeaning": "聞かせて"
+  },
+  {
+    "number": 175,
+    "headword": "not about to",
+    "japaneseMeaning": "するつもりは一切ない"
+  },
+  {
+    "number": 176,
+    "headword": "new year's resolution",
+    "japaneseMeaning": "新年も抱負"
+  },
+  {
+    "number": 177,
+    "headword": "flaky",
+    "japaneseMeaning": "適当な人"
+  },
+  {
+    "number": 178,
+    "headword": "couch potato",
+    "japaneseMeaning": "怠け者"
+  },
+  {
+    "number": 179,
+    "headword": "up to something",
+    "japaneseMeaning": "企む"
+  },
+  {
+    "number": 180,
+    "headword": "hangry",
+    "japaneseMeaning": "空腹でイライラ"
+  },
+  {
+    "number": 181,
+    "headword": "out of the blue",
+    "japaneseMeaning": "突然に"
+  },
+  {
+    "number": 182,
+    "headword": "beef",
+    "japaneseMeaning": "不満"
+  },
+  {
+    "number": 183,
+    "headword": "kicks",
+    "japaneseMeaning": "靴"
+  },
+  {
+    "number": 184,
+    "headword": "go-to",
+    "japaneseMeaning": "頼りになる"
+  },
+  {
+    "number": 185,
+    "headword": "bomb",
+    "japaneseMeaning": "最高"
+  },
+  {
+    "number": 186,
+    "headword": "suck",
+    "japaneseMeaning": "ひどい"
+  },
+  {
+    "number": 187,
+    "headword": "cheesy",
+    "japaneseMeaning": "イタい"
+  },
+  {
+    "number": 188,
+    "headword": "handy",
+    "japaneseMeaning": "便利"
+  },
+  {
+    "number": 189,
+    "headword": "ain't",
+    "japaneseMeaning": "〜ではない"
+  },
+  {
+    "number": 190,
+    "headword": "salty",
+    "japaneseMeaning": "イライラしてる"
+  },
+  {
+    "number": 191,
+    "headword": "nosy",
+    "japaneseMeaning": "知りたがり"
+  },
+  {
+    "number": 192,
+    "headword": "kinda",
+    "japaneseMeaning": "なんか"
+  },
+  {
+    "number": 193,
+    "headword": "sup",
+    "japaneseMeaning": "やっほー"
+  },
+  {
+    "number": 194,
+    "headword": "no cap",
+    "japaneseMeaning": "ガチで"
+  },
+  {
+    "number": 195,
+    "headword": "vibe",
+    "japaneseMeaning": "雰囲気"
+  },
+  {
+    "number": 196,
+    "headword": "extra",
+    "japaneseMeaning": "やりすぎ"
+  },
+  {
+    "number": 197,
+    "headword": "pushy",
+    "japaneseMeaning": "しつこい"
+  },
+  {
+    "number": 198,
+    "headword": "oops",
+    "japaneseMeaning": "おっと"
+  },
+  {
+    "number": 199,
+    "headword": "chubby",
+    "japaneseMeaning": "ぼっちゃり"
+  },
+  {
+    "number": 200,
+    "headword": "wannabe",
+    "japaneseMeaning": "気取り"
+  },
+  {
+    "number": 201,
+    "headword": "sick",
+    "japaneseMeaning": "かっこいい"
+  },
+  {
+    "number": 202,
+    "headword": "nerve",
+    "japaneseMeaning": "図々しさ"
+  },
+  {
+    "number": 203,
+    "headword": "grab",
+    "japaneseMeaning": "軽く飲食する"
+  },
+  {
+    "number": 204,
+    "headword": "fire",
+    "japaneseMeaning": "激アツ"
+  },
+  {
+    "number": 205,
+    "headword": "walk the talk",
+    "japaneseMeaning": "有言実行"
+  },
+  {
+    "number": 206,
+    "headword": "outing",
+    "japaneseMeaning": "お出かけ"
+  },
+  {
+    "number": 207,
+    "headword": "know-it-all",
+    "japaneseMeaning": "知ったかぶり"
+  },
+  {
+    "number": 208,
+    "headword": "make it up",
+    "japaneseMeaning": "埋め合わせする"
+  },
+  {
+    "number": 209,
+    "headword": "punch in",
+    "japaneseMeaning": "打ち込む"
+  },
+  {
+    "number": 210,
+    "headword": "picky",
+    "japaneseMeaning": "好き嫌いが多い"
+  },
+  {
+    "number": 211,
+    "headword": "I feel you",
+    "japaneseMeaning": "わかるよ"
+  },
+  {
+    "number": 212,
+    "headword": "catch-22",
+    "japaneseMeaning": "ジレンマ"
+  },
+  {
+    "number": 213,
+    "headword": "night owl",
+    "japaneseMeaning": "夜型人間"
+  },
+  {
+    "number": 214,
+    "headword": "savege",
+    "japaneseMeaning": "半端ない"
+  },
+  {
+    "number": 215,
+    "headword": "spoil",
+    "japaneseMeaning": "甘やかす"
+  },
+  {
+    "number": 216,
+    "headword": "touchy",
+    "japaneseMeaning": "ベタベタ"
+  },
+  {
+    "number": 217,
+    "headword": "very funny",
+    "japaneseMeaning": "つまんな"
+  },
+  {
+    "number": 218,
+    "headword": "on the fence",
+    "japaneseMeaning": "決められない"
+  },
+  {
+    "number": 219,
+    "headword": "basic",
+    "japaneseMeaning": "ダサい"
+  },
+  {
+    "number": 220,
+    "headword": "told ya",
+    "japaneseMeaning": "言ったでしょ"
+  },
+  {
+    "number": 221,
+    "headword": "you're telling me",
+    "japaneseMeaning": "その通りだよ"
+  },
+  {
+    "number": 222,
+    "headword": "no wonder",
+    "japaneseMeaning": "だからか"
+  },
+  {
+    "number": 223,
+    "headword": "All thumbs",
+    "japaneseMeaning": "不器用"
+  },
+  {
+    "number": 224,
+    "headword": "whatnot",
+    "japaneseMeaning": "とか"
+  },
+  {
+    "number": 225,
+    "headword": "not a chance",
+    "japaneseMeaning": "ありえない"
+  },
+  {
+    "number": 226,
+    "headword": "truce",
+    "japaneseMeaning": "仲直り"
+  },
+  {
+    "number": 227,
+    "headword": "taken",
+    "japaneseMeaning": "恋人持ち"
+  },
+  {
+    "number": 228,
+    "headword": "depends",
+    "japaneseMeaning": "場面による"
+  },
+  {
+    "number": 229,
+    "headword": "guns",
+    "japaneseMeaning": "腕の筋肉"
+  },
+  {
+    "number": 230,
+    "headword": "typo",
+    "japaneseMeaning": "誤字"
+  },
+  {
+    "number": 231,
+    "headword": "who cares",
+    "japaneseMeaning": "知るか"
+  },
+  {
+    "number": 232,
+    "headword": "copy cat",
+    "japaneseMeaning": "真似する人"
+  },
+  {
+    "number": 233,
+    "headword": "holy cow",
+    "japaneseMeaning": "うそー"
+  },
+  {
+    "number": 234,
+    "headword": "wasted",
+    "japaneseMeaning": "酔った"
+  },
+  {
+    "number": 235,
+    "headword": "fly",
+    "japaneseMeaning": "上手くいく"
+  },
+  {
+    "number": 236,
+    "headword": "bottom line",
+    "japaneseMeaning": "つまり"
+  },
+  {
+    "number": 237,
+    "headword": "or else",
+    "japaneseMeaning": "そうじゃないと"
+  },
+  {
+    "number": 238,
+    "headword": "goosehumps",
+    "japaneseMeaning": "鳥肌"
+  },
+  {
+    "number": 239,
+    "headword": "hook up",
+    "japaneseMeaning": "紹介する"
+  },
+  {
+    "number": 240,
+    "headword": "I'm sold",
+    "japaneseMeaning": "納得する"
+  },
+  {
+    "number": 241,
+    "headword": "I know right",
+    "japaneseMeaning": "それな"
+  },
+  {
+    "number": 242,
+    "headword": "lemon",
+    "japaneseMeaning": "故障品"
+  },
+  {
+    "number": 243,
+    "headword": "I'm moved",
+    "japaneseMeaning": "感動した"
+  },
+  {
+    "number": 244,
+    "headword": "screw up",
+    "japaneseMeaning": "失敗した"
+  },
+  {
+    "number": 245,
+    "headword": "mess",
+    "japaneseMeaning": "いじる"
+  },
+  {
+    "number": 246,
+    "headword": "comfy",
+    "japaneseMeaning": "気持ちいい"
+  },
+  {
+    "number": 247,
+    "headword": "tea",
+    "japaneseMeaning": "噂話"
+  },
+  {
+    "number": 248,
+    "headword": "go viral",
+    "japaneseMeaning": "バズる"
+  },
+  {
+    "number": 249,
+    "headword": "bee",
+    "japaneseMeaning": "働き者"
+  },
+  {
+    "number": 250,
+    "headword": "blow it",
+    "japaneseMeaning": "やらかす"
+  },
+  {
+    "number": 251,
+    "headword": "on read",
+    "japaneseMeaning": "既読"
+  },
+  {
+    "number": 252,
+    "headword": "classic",
+    "japaneseMeaning": "ウケる"
+  },
+  {
+    "number": 253,
+    "headword": "chillax",
+    "japaneseMeaning": "ゆっくりする"
+  },
+  {
+    "number": 254,
+    "headword": "sweet",
+    "japaneseMeaning": "やった"
+  },
+  {
+    "number": 255,
+    "headword": "pet",
+    "japaneseMeaning": "撫でる"
+  },
+  {
+    "number": 256,
+    "headword": "bear",
+    "japaneseMeaning": "我慢する"
+  },
+  {
+    "number": 257,
+    "headword": "good taste",
+    "japaneseMeaning": "センスがいい"
+  },
+  {
+    "number": 258,
+    "headword": "kill time",
+    "japaneseMeaning": "時間を潰す"
+  },
+  {
+    "number": 259,
+    "headword": "crash out",
+    "japaneseMeaning": "寝落ち"
+  },
+  {
+    "number": 260,
+    "headword": "hot potato",
+    "japaneseMeaning": "厄介な事"
+  },
+  {
+    "number": 261,
+    "headword": "TRUE",
+    "japaneseMeaning": "確かに"
+  },
+  {
+    "number": 262,
+    "headword": "heads up",
+    "japaneseMeaning": "警告"
+  },
+  {
+    "number": 263,
+    "headword": "you know what",
+    "japaneseMeaning": "やっぱり"
+  },
+  {
+    "number": 264,
+    "headword": "AC",
+    "japaneseMeaning": "クーラー"
+  },
+  {
+    "number": 265,
+    "headword": "second-hand",
+    "japaneseMeaning": "中古"
+  },
+  {
+    "number": 266,
+    "headword": "same page",
+    "japaneseMeaning": "共通認識"
+  },
+  {
+    "number": 267,
+    "headword": "jam",
+    "japaneseMeaning": "お気に入りの曲"
+  },
+  {
+    "number": 268,
+    "headword": "old school",
+    "japaneseMeaning": "昔ながらの"
+  },
+  {
+    "number": 269,
+    "headword": "I mean it",
+    "japaneseMeaning": "本気だよ"
+  },
+  {
+    "number": 270,
+    "headword": "I can't",
+    "japaneseMeaning": "やってられない"
+  },
+  {
+    "number": 271,
+    "headword": "white lie",
+    "japaneseMeaning": "お世辞"
+  },
+  {
+    "number": 272,
+    "headword": "yeah right",
+    "japaneseMeaning": "よく言うよ"
+  },
+  {
+    "number": 273,
+    "headword": "tell you what",
+    "japaneseMeaning": "あのね"
+  },
+  {
+    "number": 274,
+    "headword": "I bet",
+    "japaneseMeaning": "だろうね"
+  },
+  {
+    "number": 275,
+    "headword": "fishy",
+    "japaneseMeaning": "怪しい"
+  },
+  {
+    "number": 276,
+    "headword": "hands down",
+    "japaneseMeaning": "簡単に"
+  },
+  {
+    "number": 277,
+    "headword": "poor you",
+    "japaneseMeaning": "かわいそうに"
+  },
+  {
+    "number": 278,
+    "headword": "pull your leg",
+    "japaneseMeaning": "からかう"
+  },
+  {
+    "number": 279,
+    "headword": "take 5",
+    "japaneseMeaning": "休憩する"
+  },
+  {
+    "number": 280,
+    "headword": "keep your word",
+    "japaneseMeaning": "約束を守る"
+  },
+  {
+    "number": 281,
+    "headword": "you name it",
+    "japaneseMeaning": "何でも"
+  },
+  {
+    "number": 282,
+    "headword": "have a thing",
+    "japaneseMeaning": "気がある"
+  },
+  {
+    "number": 283,
+    "headword": "top dog",
+    "japaneseMeaning": "勝ち組"
+  },
+  {
+    "number": 284,
+    "headword": "in the know",
+    "japaneseMeaning": "詳しい"
+  },
+  {
+    "number": 285,
+    "headword": "cup of tea",
+    "japaneseMeaning": "好きなもの"
+  },
+  {
+    "number": 286,
+    "headword": "hot water",
+    "japaneseMeaning": "面倒な事"
+  },
+  {
+    "number": 287,
+    "headword": "cut the cheese",
+    "japaneseMeaning": "おならをする"
+  },
+  {
+    "number": 288,
+    "headword": "hit the books",
+    "japaneseMeaning": "猛勉強する"
+  },
+  {
+    "number": 289,
+    "headword": "out of hand",
+    "japaneseMeaning": "手に負えない"
+  },
+  {
+    "number": 290,
+    "headword": "play games",
+    "japaneseMeaning": "もて遊ぶ"
+  },
+  {
+    "number": 291,
+    "headword": "peach",
+    "japaneseMeaning": "素敵な人"
+  },
+  {
+    "number": 292,
+    "headword": "nuts",
+    "japaneseMeaning": "狂っている"
+  },
+  {
+    "number": 293,
+    "headword": "good for you",
+    "japaneseMeaning": "あっそう"
+  },
+  {
+    "number": 294,
+    "headword": "you wish",
+    "japaneseMeaning": "だといいね（皮肉）"
+  },
+  {
+    "number": 295,
+    "headword": "homebody",
+    "japaneseMeaning": "インドア派"
+  },
+  {
+    "number": 296,
+    "headword": "stone cold",
+    "japaneseMeaning": "とても冷たい"
+  },
+  {
+    "number": 297,
+    "headword": "you know",
+    "japaneseMeaning": "ほら"
+  },
+  {
+    "number": 298,
+    "headword": "make a face",
+    "japaneseMeaning": "しかめっ面をする"
+  },
+  {
+    "number": 299,
+    "headword": "or something",
+    "japaneseMeaning": "とか"
+  },
+  {
+    "number": 300,
+    "headword": "pretty",
+    "japaneseMeaning": "かなり",
+    "examples": {
+      "B": "料理はかなり得意だよ。"
+    }
+  },
+  {
+    "number": 301,
+    "headword": "so you",
+    "japaneseMeaning": "あなたらしい",
+    "examples": {
+      "B": "また寝坊しちゃった。/ それがあなたらしいね。"
+    }
+  },
+  {
+    "number": 302,
+    "headword": "I'm off",
+    "japaneseMeaning": "もう行くね",
+    "examples": {
+      "B": "もう行くね。また今夜。"
+    }
+  },
+  {
+    "number": 303,
+    "headword": "oh yeah",
+    "japaneseMeaning": "そうなんだ",
+    "examples": {
+      "B": "明日は早起きするつもり。/ そうなんだ？"
+    }
+  },
+  {
+    "number": 304,
+    "headword": "say what",
+    "japaneseMeaning": "なんて",
+    "examples": {
+      "B": "スマホ落としちゃった。/ なんて！？"
+    }
+  },
+  {
+    "number": 305,
+    "headword": "great",
+    "japaneseMeaning": "最悪だ",
+    "examples": {
+      "B": "2時間遅れるよ。/ 最悪だ！"
+    }
+  },
+  {
+    "number": 306,
+    "headword": "time files",
+    "japaneseMeaning": "あっという間だ",
+    "examples": {
+      "B": "もう行かなきゃ。あっという間だね。"
+    }
+  },
+  {
+    "number": 307,
+    "headword": "in your face",
+    "japaneseMeaning": "ざまあみろ",
+    "examples": {
+      "B": "やっと勝った！ざまあみろ！"
+    }
+  },
+  {
+    "number": 308,
+    "headword": "thanks to you",
+    "japaneseMeaning": "あなたのせいで",
+    "examples": {
+      "B": "あなたのせいで、ここめちゃくちゃじゃん。"
+    }
+  },
+  {
+    "number": 309,
+    "headword": "buy time",
+    "japaneseMeaning": "時間を稼ぐ",
+    "examples": {
+      "B": "彼女、今来るって言ってた。時間を稼がないと。"
+    }
+  },
+  {
+    "number": 310,
+    "headword": "nice try",
+    "japaneseMeaning": "残念でしたー",
+    "examples": {
+      "B": "授業落ちたと思ってたの？残念でしたー！"
+    }
+  },
+  {
+    "number": 311,
+    "headword": "old hand",
+    "japaneseMeaning": "ベテラン",
+    "examples": {
+      "B": "彼女はベテランだから、あれについて聞いてみよう。"
+    }
+  },
+  {
+    "number": 312,
+    "headword": "what on earth",
+    "japaneseMeaning": "一体なに",
+    "examples": {
+      "B": "一体何の話をしてるの？"
+    }
+  },
+  {
+    "number": 313,
+    "headword": "A to Z",
+    "japaneseMeaning": "一から十まで",
+    "examples": {
+      "B": "日本史を一から十まで全部知ってるんだよ。"
+    }
+  },
+  {
+    "number": 314,
+    "headword": "here you go",
+    "japaneseMeaning": "はい、どうぞ",
+    "examples": {
+      "B": "キャンディ欲しいんでしょ？はい、どうぞ！"
+    }
+  },
+  {
+    "number": 315,
+    "headword": "my thing",
+    "japaneseMeaning": "好み",
+    "examples": {
+      "B": "ホラー映画を観るのが好みなんだ。"
+    }
+  },
+  {
+    "number": 316,
+    "headword": "take it",
+    "japaneseMeaning": "耐える",
+    "examples": {
+      "B": "やめて！もう耐えられない。"
+    }
+  },
+  {
+    "number": 317,
+    "headword": "I'm good",
+    "japaneseMeaning": "結構です",
+    "examples": {
+      "B": "袋はいりますか？/ 結構です。"
+    }
+  },
+  {
+    "number": 318,
+    "headword": "hair-do",
+    "japaneseMeaning": "髪型",
+    "examples": {
+      "B": "新しい髪型、いいね。"
+    }
+  },
+  {
+    "number": 319,
+    "headword": "dead end",
+    "japaneseMeaning": "行き止まり",
+    "examples": {
+      "B": "そっち行けないよ。行き止まりだから。"
+    }
+  },
+  {
+    "number": 320,
+    "headword": "bring it on",
+    "japaneseMeaning": "かかって来い",
+    "examples": {
+      "B": "一緒にゲームしよう。/ かかって来い。"
+    }
+  },
+  {
+    "number": 321,
+    "headword": "way off",
+    "japaneseMeaning": "全然違う",
+    "examples": {
+      "B": "テスト満点取ったと思ったんだけど、全然違ったね。"
+    }
+  },
+  {
+    "number": 322,
+    "headword": "on the table",
+    "japaneseMeaning": "検討中",
+    "examples": {
+      "B": "彼の提案はまだ検討中だよ。"
+    }
+  },
+  {
+    "number": 323,
+    "headword": "keep it up",
+    "japaneseMeaning": "その調子",
+    "examples": {
+      "B": "走ってめっちゃ疲れた。/ その調子！"
+    }
+  },
+  {
+    "number": 324,
+    "headword": "kill it",
+    "japaneseMeaning": "よくやった",
+    "examples": {
+      "B": "スピーチすごかったよ。よくやった！"
+    }
+  },
+  {
+    "number": 325,
+    "headword": "buy it",
+    "japaneseMeaning": "信じる",
+    "examples": {
+      "B": "良すぎる話だよ。信じないね。"
+    }
+  },
+  {
+    "number": 326,
+    "headword": "I'm over you",
+    "japaneseMeaning": "未練はない",
+    "examples": {
+      "B": "エマが明日来ても気にしないよ。もう未練はないし。"
+    }
+  },
+  {
+    "number": 327,
+    "headword": "back off",
+    "japaneseMeaning": "口出ししないで",
+    "examples": {
+      "B": "うざいんだよ、口出ししないで！"
+    }
+  },
+  {
+    "number": 328,
+    "headword": "done with you",
+    "japaneseMeaning": "うんざり",
+    "examples": {
+      "B": "行かないで。/ うんざりだよ、もう。"
+    }
+  },
+  {
+    "number": 329,
+    "headword": "thanks a lot",
+    "japaneseMeaning": "余計なことを",
+    "examples": {
+      "B": "元カノ誘ってきたよ。/ 余計なことするのね。"
+    }
+  },
+  {
+    "number": 330,
+    "headword": "I'm out",
+    "japaneseMeaning": "やめておくよ",
+    "examples": {
+      "B": "彼女、来ないの？だったらやめておくよ。"
+    }
+  },
+  {
+    "number": 331,
+    "headword": "in the bag",
+    "japaneseMeaning": "バッチリ",
+    "examples": {
+      "B": "プレゼンもうすぐだね。/ うん、バッチリだよ。"
+    }
+  },
+  {
+    "number": 332,
+    "headword": "catfish",
+    "japaneseMeaning": "なりすまし",
+    "examples": {
+      "B": "あいつなりすましだよ。俳優の写真じゃん。"
+    }
+  },
+  {
+    "number": 333,
+    "headword": "tell on",
+    "japaneseMeaning": "チクる",
+    "examples": {
+      "B": "チクらないで！お母さん怒るよ。"
+    }
+  },
+  {
+    "number": 334,
+    "headword": "up and coming",
+    "japaneseMeaning": "有望な",
+    "examples": {
+      "B": "見て！彼女、有望なモデルなんだ。"
+    }
+  },
+  {
+    "number": 335,
+    "headword": "small talk",
+    "japaneseMeaning": "雑談",
+    "examples": {
+      "B": "ちょっと雑談しよう。"
+    }
+  },
+  {
+    "number": 336,
+    "headword": "off the wall",
+    "japaneseMeaning": "奇抜な",
+    "examples": {
+      "B": "彼女はいつも奇抜なアイデアを出してくる。"
+    }
+  },
+  {
+    "number": 337,
+    "headword": "make it big",
+    "japaneseMeaning": "大成功する",
+    "examples": {
+      "B": "ケン、大成功したんだって知ってた？"
+    }
+  },
+  {
+    "number": 338,
+    "headword": "not at all",
+    "japaneseMeaning": "どういたしまして",
+    "examples": {
+      "B": "来てくれてありがとう！/ どういたしまして。"
+    }
+  },
+  {
+    "number": 339,
+    "headword": "first-hand",
+    "japaneseMeaning": "直接の",
+    "examples": {
+      "B": "彼女に聞いてみて。直接の目撃者なんだから。"
+    }
+  },
+  {
+    "number": 340,
+    "headword": "hello?",
+    "japaneseMeaning": "聞ている？",
+    "examples": {
+      "B": "聞いてる？待って、寝てない？"
+    }
+  },
+  {
+    "number": 341,
+    "headword": "fruit",
+    "japaneseMeaning": "結果",
+    "examples": {
+      "B": "毎日サボってたら、結果が出ないよ。"
+    }
+  },
+  {
+    "number": 342,
+    "headword": "cute",
+    "japaneseMeaning": "かっこいい",
+    "examples": {
+      "B": "新入りのあの子、めっちゃかっこいいって聞いた。"
+    }
+  },
+  {
+    "number": 343,
+    "headword": "big time",
+    "japaneseMeaning": "めっちゃ",
+    "examples": {
+      "B": "めっちゃ感謝してるよ。"
+    }
+  },
+  {
+    "number": 344,
+    "headword": "hot",
+    "japaneseMeaning": "辛い",
+    "examples": {
+      "B": "辛いものは得意じゃないんだ。"
+    }
+  },
+  {
+    "number": 345,
+    "headword": "excuse me?",
+    "japaneseMeaning": "失礼な",
+    "examples": {
+      "B": "疲れてるね。/ 失礼な！"
+    }
+  },
+  {
+    "number": 346,
+    "headword": "good sport",
+    "japaneseMeaning": "サバサバしてる人",
+    "examples": {
+      "B": "彼女はサバサバしてるから、気にしないよ。"
+    }
+  },
+  {
+    "number": 347,
+    "headword": "so bad",
+    "japaneseMeaning": "どうしても",
+    "examples": {
+      "B": "グッチのバッグがどうしても欲しいんだ。"
+    }
+  },
+  {
+    "number": 348,
+    "headword": "use up",
+    "japaneseMeaning": "使い切る",
+    "examples": {
+      "B": "ギャンブルするときは気をつけて。お金使い切っちゃダメだよ！"
+    }
+  },
+  {
+    "number": 349,
+    "headword": "by the book",
+    "japaneseMeaning": "正確に",
+    "examples": {
+      "B": "これは正確にマニュアル通りにやってね。"
+    }
+  },
+  {
+    "number": 350,
+    "headword": "cry baby",
+    "japaneseMeaning": "泣き虫",
+    "examples": {
+      "B": "あいつ泣き虫だから、もううんざりだよ。"
+    }
+  },
+  {
+    "number": 351,
+    "headword": "beef up",
+    "japaneseMeaning": "強化する",
+    "examples": {
+      "B": "このデータでレポートを強化して。"
+    }
+  },
+  {
+    "number": 352,
+    "headword": "fancy",
+    "japaneseMeaning": "派手な",
+    "examples": {
+      "B": "いい靴だね。すごく派手だ！"
+    }
+  },
+  {
+    "number": 353,
+    "headword": "see red",
+    "japaneseMeaning": "激怒する",
+    "examples": {
+      "B": "テーブルにゴミ置いてく人がいると、激怒しちゃうんだよね。"
+    }
+  },
+  {
+    "number": 354,
+    "headword": "vanilla",
+    "japaneseMeaning": "つまらない",
+    "examples": {
+      "B": "この映画つまらないね。何も特別なところない。"
+    }
+  },
+  {
+    "number": 355,
+    "headword": "word of mouth",
+    "japaneseMeaning": "口コミ",
+    "examples": {
+      "B": "口コミで聞いたんだ。"
+    }
+  },
+  {
+    "number": 356,
+    "headword": "inside out",
+    "japaneseMeaning": "裏返し",
+    "examples": {
+      "B": "やばい！シャツ裏返しで着てる。"
+    }
+  },
+  {
+    "number": 357,
+    "headword": "work out",
+    "japaneseMeaning": "上手くいく",
+    "examples": {
+      "B": "全部うまくいきますように！"
+    }
+  },
+  {
+    "number": 358,
+    "headword": "see",
+    "japaneseMeaning": "付き合う",
+    "examples": {
+      "B": "彼女、誰かと付き合ってる？"
+    }
+  },
+  {
+    "number": 359,
+    "headword": "kick back",
+    "japaneseMeaning": "くつろぐ",
+    "examples": {
+      "B": "家族とくつろいでリラックスするのに最高の場所だよ。"
+    }
+  },
+  {
+    "number": 360,
+    "headword": "trip",
+    "japaneseMeaning": "つまずく",
+    "examples": {
+      "B": "妹につまずいちゃった。"
+    }
+  },
+  {
+    "number": 361,
+    "headword": "stand up",
+    "japaneseMeaning": "すっぽかす",
+    "examples": {
+      "B": "どうしたの？/ 友達にすっぽかされたんだ。"
+    }
+  },
+  {
+    "number": 362,
+    "headword": "no picnic",
+    "japaneseMeaning": "キツい",
+    "examples": {
+      "B": "こんな天気で登校するのはキツいよね。"
+    }
+  },
+  {
+    "number": 363,
+    "headword": "get the picture",
+    "japaneseMeaning": "わかる",
+    "examples": {
+      "B": "説明してくれてありがとう。わかった。"
+    }
+  },
+  {
+    "number": 364,
+    "headword": "sleep on",
+    "japaneseMeaning": "じっくり考える",
+    "examples": {
+      "B": "今は決められない。じっくり考えていい？"
+    }
+  },
+  {
+    "number": 365,
+    "headword": "about time",
+    "japaneseMeaning": "そろそろ",
+    "examples": {
+      "B": "そろそろ試験勉強しなよ。"
+    }
+  },
+  {
+    "number": 366,
+    "headword": "put down",
+    "japaneseMeaning": "けなす",
+    "examples": {
+      "B": "あいつ、いつも弟のことをけなすんだ。"
+    }
+  },
+  {
+    "number": 367,
+    "headword": "green light",
+    "japaneseMeaning": "許可",
+    "examples": {
+      "B": "上司がそのプロジェクトに取り組む許可をくれたよ。"
+    }
+  },
+  {
+    "number": 368,
+    "headword": "the you go",
+    "japaneseMeaning": "やったね",
+    "examples": {
+      "B": "慶応に受かった！/ やったね！"
+    }
+  },
+  {
+    "number": 369,
+    "headword": "class",
+    "japaneseMeaning": "気品",
+    "examples": {
+      "B": "オードリー・ヘップバーンが好きなんだ。彼女は気品があるよね。"
+    }
+  },
+  {
+    "number": 370,
+    "headword": "party animal",
+    "japaneseMeaning": "パリピ",
+    "examples": {
+      "B": "あいついつも酔っぱらってる。/ うん、完全にパリピだよ。"
+    }
+  },
+  {
+    "number": 371,
+    "headword": "in my book",
+    "japaneseMeaning": "私的には",
+    "examples": {
+      "B": "私的には、彼女は信頼できる友達だよ。"
+    }
+  },
+  {
+    "number": 372,
+    "headword": "piece of work",
+    "japaneseMeaning": "面倒くらい人",
+    "examples": {
+      "B": "あいつ、本当に面倒くさい人だよ。"
+    }
+  },
+  {
+    "number": 373,
+    "headword": "I knew it",
+    "japaneseMeaning": "やっぱりね",
+    "examples": {
+      "B": "彼の誕生日、今日なの？やっぱりね！"
+    }
+  },
+  {
+    "number": 374,
+    "headword": "It's no use",
+    "japaneseMeaning": "意味がない",
+    "examples": {
+      "B": "言い合っても意味がないよ。あいつ頑固すぎるんだから。"
+    }
+  },
+  {
+    "number": 375,
+    "headword": "already",
+    "japaneseMeaning": "いい加減に",
+    "examples": {
+      "B": "いい加減に仕事に取りかかりなさい。"
+    }
+  },
+  {
+    "number": 376,
+    "headword": "that's life",
+    "japaneseMeaning": "仕方ない",
+    "examples": {
+      "B": "英語の授業落ちた。/ 仕方ないね。"
+    }
+  },
+  {
+    "number": 377,
+    "headword": "man",
+    "japaneseMeaning": "うわー",
+    "examples": {
+      "B": "うわー、あいつら別れるなんて信じられない！"
+    }
+  },
+  {
+    "number": 378,
+    "headword": "It's not like",
+    "japaneseMeaning": "別に",
+    "examples": {
+      "B": "別に彼のことが好きとかじゃないでしょ。それともそうなの？"
+    }
+  },
+  {
+    "number": 379,
+    "headword": "so-called",
+    "japaneseMeaning": "いわゆる",
+    "examples": {
+      "B": "このいわゆる健康食品、体にいいのかな？"
+    }
+  },
+  {
+    "number": 380,
+    "headword": "I hear you",
+    "japaneseMeaning": "分かるけどさ",
+    "examples": {
+      "B": "分かるけどさ、それでも学校に行かなきゃ。"
+    }
+  },
+  {
+    "number": 381,
+    "headword": "minutes",
+    "japaneseMeaning": "議事録",
+    "examples": {
+      "B": "今日の議事録、誰が取るの？"
+    }
+  },
+  {
+    "number": 382,
+    "headword": "ghost",
+    "japaneseMeaning": "連絡を断つ",
+    "examples": {
+      "B": "3ヶ月毎日メッセージしてたのに、今度は連絡を断とうとしてるみたい。"
+    }
+  },
+  {
+    "number": 383,
+    "headword": "fly",
+    "japaneseMeaning": "チャック",
+    "examples": {
+      "B": "チャック開いてるよ。/ あっ！"
+    }
+  },
+  {
+    "number": 384,
+    "headword": "you bet",
+    "japaneseMeaning": "もちろん",
+    "examples": {
+      "B": "彼の結婚式、行くの？/ もちろん！"
+    }
+  },
+  {
+    "number": 385,
+    "headword": "fit",
+    "japaneseMeaning": "健康的",
+    "examples": {
+      "B": "ジム通ってるの？健康そうなのも納得だね！"
+    }
+  },
+  {
+    "number": 386,
+    "headword": "well then",
+    "japaneseMeaning": "だったら",
+    "examples": {
+      "B": "家にいてもいい？/ だったらお皿洗って。"
+    }
+  },
+  {
+    "number": 387,
+    "headword": "news to me",
+    "japaneseMeaning": "初耳",
+    "examples": {
+      "B": "田中さんの奥さんは…/ 結婚したの！？初耳だよ。"
+    }
+  },
+  {
+    "number": 388,
+    "headword": "that said",
+    "japaneseMeaning": "まあでも",
+    "examples": {
+      "B": "料理は下手なんだけど、まあでも味噌汁は本当にうまいんだ。"
+    }
+  },
+  {
+    "number": 389,
+    "headword": "fat chance",
+    "japaneseMeaning": "まさか",
+    "examples": {
+      "B": "今度こそ宝くじ当たるよ。/ まさか。"
+    }
+  },
+  {
+    "number": 390,
+    "headword": "go south",
+    "japaneseMeaning": "悪くなる",
+    "examples": {
+      "B": "授業サボり始めたら、そこから成績が悪くなり始めたんだ。"
+    }
+  },
+  {
+    "number": 391,
+    "headword": "chin up",
+    "japaneseMeaning": "元気出して",
+    "examples": {
+      "B": "元気出して！そんな男のために泣く必要ないよ。"
+    }
+  },
+  {
+    "number": 392,
+    "headword": "in the mood",
+    "japaneseMeaning": "〜な気分",
+    "examples": {
+      "B": "なんだか勉強したい気分だな。"
+    }
+  },
+  {
+    "number": 393,
+    "headword": "fox",
+    "japaneseMeaning": "セクシーな女性",
+    "examples": {
+      "B": "彼女、かなりセクシーな女性だよね。"
+    }
+  },
+  {
+    "number": 394,
+    "headword": "yada yada yada",
+    "japaneseMeaning": "とか何とか",
+    "examples": {
+      "B": "お母さんがいつもの注意、遅くまで外出しないで、終わったら電話して、とか何とか言ってたよ。"
+    }
+  },
+  {
+    "number": 395,
+    "headword": "la-la land",
+    "japaneseMeaning": "夢の世界",
+    "examples": {
+      "B": "あんなデタラメ言い続けたら、夢の世界にいるよ。"
+    }
+  },
+  {
+    "number": 396,
+    "headword": "beauty mark",
+    "japaneseMeaning": "ほくろ",
+    "examples": {
+      "B": "目の下のほくろ、好きだよ。"
+    }
+  },
+  {
+    "number": 397,
+    "headword": "let's say",
+    "japaneseMeaning": "例えば",
+    "examples": {
+      "B": "例えば負けたとしたら、どうする？"
+    }
+  },
+  {
+    "number": 398,
+    "headword": "you don't say",
+    "japaneseMeaning": "知らなかった",
+    "examples": {
+      "B": "地面濡れてる…昨夜雨降ったんじゃない！/ へえ、知らなかった。"
+    }
+  },
+  {
+    "number": 399,
+    "headword": "hear me out",
+    "japaneseMeaning": "最後まで聞いて",
+    "examples": {
+      "B": "質問あるのは分かってるけど、最後まで聞いて。"
+    }
+  },
+  {
+    "number": 400,
+    "headword": "bucks",
+    "japaneseMeaning": "ドル",
+    "examples": {
+      "B": "テイラー・スウィフトの新アルバム、20ドルだよ。"
+    }
+  },
+  {
+    "number": 401,
+    "headword": "on my way",
+    "japaneseMeaning": "向かってる",
+    "examples": {
+      "B": "彼、来る？/ うん、向かってるよ。"
+    }
+  },
+  {
+    "number": 402,
+    "headword": "go on",
+    "japaneseMeaning": "続けて",
+    "examples": {
+      "B": "やっぱりそうか。とにかく、続けて。"
+    }
+  },
+  {
+    "number": 403,
+    "headword": "in a way",
+    "japaneseMeaning": "ある意味",
+    "examples": {
+      "B": "これバカなアイデアだと思わない？/ うん、ある意味そうだね。"
+    }
+  },
+  {
+    "number": 404,
+    "headword": "hit it off",
+    "japaneseMeaning": "意気投合する",
+    "examples": {
+      "B": "二人は意気投合するって思ってたよ！"
+    }
+  },
+  {
+    "number": 405,
+    "headword": "something else",
+    "japaneseMeaning": "別格",
+    "examples": {
+      "B": "別れは何度も経験したけど、今回は別格だった。"
+    }
+  },
+  {
+    "number": 406,
+    "headword": "on the go",
+    "japaneseMeaning": "忙しい",
+    "examples": {
+      "B": "彼女はいつも忙しいんだ。"
+    }
+  },
+  {
+    "number": 407,
+    "headword": "hit on",
+    "japaneseMeaning": "ナンパする",
+    "examples": {
+      "B": "私にナンパしてるの？"
+    }
+  },
+  {
+    "number": 408,
+    "headword": "we'll see",
+    "japaneseMeaning": "どうかな",
+    "examples": {
+      "B": "今夜パーティー来て！/ どうかな。"
+    }
+  },
+  {
+    "number": 409,
+    "headword": "last resort",
+    "japaneseMeaning": "最終手段",
+    "examples": {
+      "B": "最終手段として警察に行くつもりだよ。"
+    }
+  },
+  {
+    "number": 410,
+    "headword": "in the way",
+    "japaneseMeaning": "邪魔",
+    "examples": {
+      "B": "邪魔だよ。"
+    }
+  },
+  {
+    "number": 411,
+    "headword": "pretty please",
+    "japaneseMeaning": "一生のお願い",
+    "examples": {
+      "B": "お父さん、車買って？一生のお願い！"
+    }
+  },
+  {
+    "number": 412,
+    "headword": "hit the road",
+    "japaneseMeaning": "出発する",
+    "examples": {
+      "B": "門限があるんだ。出発しよう。"
+    }
+  },
+  {
+    "number": 413,
+    "headword": "thick skin",
+    "japaneseMeaning": "メンタルが強い",
+    "examples": {
+      "B": "CEOになるにはメンタルが強くないとね。"
+    }
+  },
+  {
+    "number": 414,
+    "headword": "look at you",
+    "japaneseMeaning": "その格好いいね",
+    "examples": {
+      "B": "その格好いいね！緑色似合うって思ってたよ！"
+    }
+  },
+  {
+    "number": 415,
+    "headword": "turn down",
+    "japaneseMeaning": "断る",
+    "examples": {
+      "B": "やめて。今プロポーズしたら、断られるよ。"
+    }
+  },
+  {
+    "number": 416,
+    "headword": "you'll see",
+    "japaneseMeaning": "今にわかるよ",
+    "examples": {
+      "B": "みんな何でここにいるの？/ 今にわかるよ。"
+    }
+  },
+  {
+    "number": 417,
+    "headword": "what do you say",
+    "japaneseMeaning": "どう思う？",
+    "examples": {
+      "B": "夏休みは静岡に行こうよ。どう思う？"
+    }
+  },
+  {
+    "number": 418,
+    "headword": "catch you later",
+    "japaneseMeaning": "また後でね",
+    "examples": {
+      "B": "7時に会おう。/ わかった、また後でね。"
+    }
+  },
+  {
+    "number": 419,
+    "headword": "I can tell",
+    "japaneseMeaning": "だと思った",
+    "examples": {
+      "B": "髪切ったんだ。/ うん、だと思った。"
+    }
+  },
+  {
+    "number": 420,
+    "headword": "okay",
+    "japaneseMeaning": "まあまあ",
+    "examples": {
+      "B": "映画どうだった？/ まあまあだったよ。"
+    }
+  },
+  {
+    "number": 421,
+    "headword": "click",
+    "japaneseMeaning": "ピンとくる",
+    "examples": {
+      "B": "その瞬間、全部ピンと来た。"
+    }
+  },
+  {
+    "number": 422,
+    "headword": "I swear",
+    "japaneseMeaning": "絶対に",
+    "examples": {
+      "B": "絶対に、今UFO見たんだ！"
+    }
+  },
+  {
+    "number": 423,
+    "headword": "full of beans",
+    "japaneseMeaning": "元気いっぱい",
+    "examples": {
+      "B": "ケン、長い昼寝のあとで元気いっぱいだね。"
+    }
+  },
+  {
+    "number": 424,
+    "headword": "gum",
+    "japaneseMeaning": "歯茎",
+    "examples": {
+      "B": "歯茎、すごくピンクだね。"
+    }
+  },
+  {
+    "number": 425,
+    "headword": "like what?",
+    "japaneseMeaning": "例えば何？",
+    "examples": {
+      "B": "あなたのこと何か言ってたよ。/ 例えば何？"
+    }
+  },
+  {
+    "number": 426,
+    "headword": "picture perfect",
+    "japaneseMeaning": "完璧",
+    "examples": {
+      "B": "完璧な夢の家だね。"
+    }
+  },
+  {
+    "number": 427,
+    "headword": "bad apple",
+    "japaneseMeaning": "ダメなやつ",
+    "examples": {
+      "B": "あいつダメなやつだよ。一緒に遊んじゃダメ。"
+    }
+  },
+  {
+    "number": 428,
+    "headword": "clean cut",
+    "japaneseMeaning": "清潔感がある",
+    "examples": {
+      "B": "礼儀正しくて、清潔感のある若い男性だよ。"
+    }
+  },
+  {
+    "number": 429,
+    "headword": "lucky you",
+    "japaneseMeaning": "いいな",
+    "examples": {
+      "B": "宝くじ当たったの？いいな！"
+    }
+  },
+  {
+    "number": 430,
+    "headword": "tag along",
+    "japaneseMeaning": "ついていく",
+    "examples": {
+      "B": "静かにしてるなら、ついてきてもいいよ。"
+    }
+  },
+  {
+    "number": 431,
+    "headword": "whatchamacallit",
+    "japaneseMeaning": "なんていうんだっけ",
+    "examples": {
+      "B": "あれ取ってきてくれる？…なんていうんだっけ、あれ。"
+    }
+  },
+  {
+    "number": 432,
+    "headword": "duh",
+    "japaneseMeaning": "当たり前じゃん",
+    "examples": {
+      "B": "地面濡れてる。/ 5分前に雨降ってたじゃん。当たり前じゃん。"
+    }
+  },
+  {
+    "number": 433,
+    "headword": "in the cards",
+    "japaneseMeaning": "ありえる",
+    "examples": {
+      "B": "彼女が賞を取るのはありえるよ。"
+    }
+  },
+  {
+    "number": 434,
+    "headword": "retweet",
+    "japaneseMeaning": "めっちゃ同意",
+    "examples": {
+      "B": "今日は何もしたくないな。/ めっちゃ同意。"
+    }
+  },
+  {
+    "number": 435,
+    "headword": "top banana",
+    "japaneseMeaning": "リーダー",
+    "examples": {
+      "B": "彼はこの支店のトップ（リーダー）になろうとしてるんだ。",
+      "C": "もちろん"
+    }
+  },
+  {
+    "number": 436,
+    "headword": "get this",
+    "japaneseMeaning": "聞いてよ",
+    "examples": {
+      "B": "聞いてよ、コンサート実は今夜なんだって！"
+    }
+  },
+  {
+    "number": 437,
+    "headword": "saga",
+    "japaneseMeaning": "長話",
+    "examples": {
+      "B": "そして長話は続く…"
+    }
+  },
+  {
+    "number": 438,
+    "headword": "food baby",
+    "japaneseMeaning": "お腹パンパン",
+    "examples": {
+      "B": "見て、お腹パンパンだよ。"
+    }
+  },
+  {
+    "number": 439,
+    "headword": "over the moon",
+    "japaneseMeaning": "めっちゃ嬉しい",
+    "examples": {
+      "B": "新しい仕事のことでめっちゃ嬉しいみたい。"
+    }
+  },
+  {
+    "number": 440,
+    "headword": "social chameleon",
+    "japaneseMeaning": "社交的な人",
+    "examples": {
+      "B": "彼女、かなり社交的な人だね。"
+    }
+  },
+  {
+    "number": 441,
+    "headword": "long shot",
+    "japaneseMeaning": "可能性がある",
+    "examples": {
+      "B": "可能性は低いけど、できるって信じてる。"
+    }
+  },
+  {
+    "number": 442,
+    "headword": "that's that",
+    "japaneseMeaning": "もうこれで良い",
+    "examples": {
+      "B": "彼と結婚する。もうこれで良い。"
+    }
+  },
+  {
+    "number": 443,
+    "headword": "drag",
+    "japaneseMeaning": "だるい",
+    "examples": {
+      "B": "英語の勉強だるいよね。/ いや、楽しいよ！"
+    }
+  },
+  {
+    "number": 444,
+    "headword": "GOAT",
+    "japaneseMeaning": "史上最強の",
+    "examples": {
+      "B": "彼女は永遠に史上最強の選手として記憶されるだろう。"
+    }
+  },
+  {
+    "number": 445,
+    "headword": "sorta",
+    "japaneseMeaning": "まあね",
+    "examples": {
+      "B": "お腹空いてる？/ まあね。"
+    }
+  },
+  {
+    "number": 446,
+    "headword": "goofy",
+    "japaneseMeaning": "バカっぽい",
+    "examples": {
+      "B": "バカっぽい子だね。"
+    }
+  },
+  {
+    "number": 447,
+    "headword": "do you feel me?",
+    "japaneseMeaning": "わかる？",
+    "examples": {
+      "B": "鍋食べに行くには暑すぎるよね。わかる？"
+    }
+  },
+  {
+    "number": 448,
+    "headword": "long face",
+    "japaneseMeaning": "悲しい顔",
+    "examples": {
+      "B": "ケンが悲しい顔してこっちに来たんだ。"
+    }
+  },
+  {
+    "number": 449,
+    "headword": "curve",
+    "japaneseMeaning": "無視する",
+    "examples": {
+      "B": "ケンにいつも無視されるんだよね。"
+    }
+  },
+  {
+    "number": 450,
+    "headword": "wrap up",
+    "japaneseMeaning": "終わらせる",
+    "examples": {
+      "B": "みんな、終わらせよう！"
+    }
+  },
+  {
+    "number": 451,
+    "headword": "like I care",
+    "japaneseMeaning": "どうでもいい",
+    "examples": {
+      "B": "お母さんに言うからね。／知るもんか！"
+    }
+  },
+  {
+    "number": 452,
+    "headword": "word?",
+    "japaneseMeaning": "ほんとに？",
+    "examples": {
+      "B": "宝くじ当たったよ！／マジで？"
+    }
+  },
+  {
+    "number": 453,
+    "headword": "crash",
+    "japaneseMeaning": "寝る",
+    "examples": {
+      "B": "もう寝るよ。"
+    }
+  },
+  {
+    "number": 454,
+    "headword": "deep water",
+    "japaneseMeaning": "やばい状況",
+    "examples": {
+      "B": "彼、携帯なくしちゃって、今やばい状況なんだ。"
+    }
+  },
+  {
+    "number": 455,
+    "headword": "milk it",
+    "japaneseMeaning": "調子にのる",
+    "examples": {
+      "B": "調子に乗りすぎだよ。"
+    }
+  },
+  {
+    "number": 456,
+    "headword": "no end",
+    "japaneseMeaning": "非常に",
+    "examples": {
+      "B": "二人の別れ話を聞いて、めちゃくちゃ驚いた。"
+    }
+  },
+  {
+    "number": 457,
+    "headword": "by all means",
+    "japaneseMeaning": "ぜひ",
+    "examples": {
+      "B": "ここで歌ってもいいですか？／どうぞ、ぜひ。"
+    }
+  },
+  {
+    "number": 458,
+    "headword": "anyhoo",
+    "japaneseMeaning": "ところで",
+    "examples": {
+      "B": "ところで、うちの犬どうなった？"
+    }
+  },
+  {
+    "number": 459,
+    "headword": "let's bounce",
+    "japaneseMeaning": "帰ろうぜ",
+    "examples": {
+      "B": "迎えが来たよ。／よし、帰ろうぜ。"
+    }
+  },
+  {
+    "number": 460,
+    "headword": "fed up",
+    "japaneseMeaning": "うんざり",
+    "examples": {
+      "B": "彼女、彼にはもううんざりなんだ。"
+    }
+  },
+  {
+    "number": 461,
+    "headword": "at it again",
+    "japaneseMeaning": "またやってるよ",
+    "examples": {
+      "B": "喧嘩は止めたんだけど、またやってるよ。"
+    }
+  },
+  {
+    "number": 462,
+    "headword": "what do I know?",
+    "japaneseMeaning": "まあ知らないけど",
+    "examples": {
+      "B": "たぶん彼女の言うことが正しいのかも。まあ、私にわかることじゃないけど。"
+    }
+  },
+  {
+    "number": 463,
+    "headword": "toasty",
+    "japaneseMeaning": "暖かい",
+    "examples": {
+      "B": "コテージの外は寒いけど、暖炉の前だとすごく暖かくて気持ちいい。"
+    }
+  },
+  {
+    "number": 464,
+    "headword": "just because",
+    "japaneseMeaning": "なんとなく",
+    "examples": {
+      "B": "どうしてチョコくれたの？／なんとなく。"
+    }
+  },
+  {
+    "number": 465,
+    "headword": "slap",
+    "japaneseMeaning": "めっちゃいい",
+    "examples": {
+      "B": "ジャスティンの新曲、めっちゃいい！"
+    }
+  },
+  {
+    "number": 466,
+    "headword": "you tell me",
+    "japaneseMeaning": "こっちが聞きたいよ",
+    "examples": {
+      "B": "こっちが聞きたいよ。先生なんだから。"
+    }
+  },
+  {
+    "number": 467,
+    "headword": "sus",
+    "japaneseMeaning": "怪しい",
+    "examples": {
+      "B": "彼、仕事来なかったの？怪しいね。"
+    }
+  },
+  {
+    "number": 468,
+    "headword": "count me out",
+    "japaneseMeaning": "遠慮します",
+    "examples": {
+      "B": "明日ハイキング行くんだ。／じゃあ僕は遠慮するよ。"
+    }
+  },
+  {
+    "number": 469,
+    "headword": "sleep in",
+    "japaneseMeaning": "遅くまで眠る",
+    "examples": {
+      "B": "今朝遅くまで寝てて、すごく気持ちいい！"
+    }
+  },
+  {
+    "number": 470,
+    "headword": "keep company",
+    "japaneseMeaning": "一緒にいる",
+    "examples": {
+      "B": "一緒にいるよ。"
+    }
+  },
+  {
+    "number": 471,
+    "headword": "now we're talking",
+    "japaneseMeaning": "そうでなくっちゃ",
+    "examples": {
+      "B": "そうでなくっちゃ！映画に行くのいいね！"
+    }
+  },
+  {
+    "number": 472,
+    "headword": "play it by ear",
+    "japaneseMeaning": "即興で",
+    "examples": {
+      "B": "その場の流れでやってみよう。どうなるか見よう。"
+    }
+  },
+  {
+    "number": 473,
+    "headword": "up-front",
+    "japaneseMeaning": "正直",
+    "examples": {
+      "B": "彼は自分の気持ちをはっきり言うタイプだ。"
+    }
+  },
+  {
+    "number": 474,
+    "headword": "cringey",
+    "japaneseMeaning": "イタい",
+    "examples": {
+      "B": "中学のときかっこつけてる僕の写真見て。めっちゃイタい。"
+    }
+  },
+  {
+    "number": 475,
+    "headword": "think twice",
+    "japaneseMeaning": "よく考える",
+    "examples": {
+      "B": "辞める前にもう一度よく考えた方がいいよ。"
+    }
+  },
+  {
+    "number": 476,
+    "headword": "flex",
+    "japaneseMeaning": "見せびらかす",
+    "examples": {
+      "B": "彼、インスタで彼女を見せびらかしてる。"
+    }
+  },
+  {
+    "number": 477,
+    "headword": "shook",
+    "japaneseMeaning": "ビックリ",
+    "examples": {
+      "B": "好きな芸能人カップルが別れちゃったって知って、びっくりしてる。"
+    }
+  },
+  {
+    "number": 478,
+    "headword": "pig out",
+    "japaneseMeaning": "食べ過ぎる",
+    "examples": {
+      "B": "ビュッフェだとだいたい食べ過ぎちゃうよね。"
+    }
+  },
+  {
+    "number": 479,
+    "headword": "that's nothing",
+    "japaneseMeaning": "大したことないよ",
+    "examples": {
+      "B": "マラソン1時間で走ったの？大したことないよ。僕なら30分で走れるもん。"
+    }
+  },
+  {
+    "number": 480,
+    "headword": "it hit me",
+    "japaneseMeaning": "ピンと来た",
+    "examples": {
+      "B": "自分にとって一番大事なことは何か考えてたら、ふとピンと来た。"
+    }
+  },
+  {
+    "number": 481,
+    "headword": "in no time",
+    "japaneseMeaning": "あっという間に",
+    "examples": {
+      "B": "彼女、宿題をあっという間に終わらせた。"
+    }
+  },
+  {
+    "number": 482,
+    "headword": "more or less",
+    "japaneseMeaning": "大体は",
+    "examples": {
+      "B": "彼、本はだいたい読み終えた。"
+    }
+  },
+  {
+    "number": 483,
+    "headword": "lose it",
+    "japaneseMeaning": "爆笑する",
+    "examples": {
+      "B": "さっき大笑いしちゃった。抑えられなかった。"
+    }
+  },
+  {
+    "number": 484,
+    "headword": "never better",
+    "japaneseMeaning": "絶好調です",
+    "examples": {
+      "B": "仕事どう？／絶好調だよ。"
+    }
+  },
+  {
+    "number": 485,
+    "headword": "join the club",
+    "japaneseMeaning": "私も",
+    "examples": {
+      "B": "道に迷った？／私もよ、同じだよ。"
+    }
+  },
+  {
+    "number": 486,
+    "headword": "bug",
+    "japaneseMeaning": "イライラさせる",
+    "examples": {
+      "B": "ハエは本当にイライラする。"
+    }
+  },
+  {
+    "number": 487,
+    "headword": "natural",
+    "japaneseMeaning": "才能がある人",
+    "examples": {
+      "B": "彼女、才能あるよ。5歳なのにこんなに歌えるんだから。"
+    }
+  },
+  {
+    "number": 488,
+    "headword": "vice versa",
+    "japaneseMeaning": "逆も同じ",
+    "examples": {
+      "B": "男子は女子と遊びたくなかったし、逆も同じだった。"
+    }
+  },
+  {
+    "number": 489,
+    "headword": "get real",
+    "japaneseMeaning": "冗談はやめな",
+    "examples": {
+      "B": "冗談はやめな。彼が車を渡すわけないでしょ。"
+    }
+  },
+  {
+    "number": 490,
+    "headword": "so long",
+    "japaneseMeaning": "さようなら",
+    "examples": {
+      "B": "さようなら、友達よ。"
+    }
+  },
+  {
+    "number": 491,
+    "headword": "sue me",
+    "japaneseMeaning": "知るか",
+    "examples": {
+      "B": "ここにいるのが嫌なの？／知るもんか、どうせ。"
+    }
+  },
+  {
+    "number": 492,
+    "headword": "it's your funeral",
+    "japaneseMeaning": "勝手にすれば",
+    "examples": {
+      "B": "やればいいさ。後は自分の責任だよ。"
+    }
+  },
+  {
+    "number": 493,
+    "headword": "No.1",
+    "japaneseMeaning": "小さい方",
+    "examples": {
+      "B": "トイレ行きたい。／小さい方？大きい方？"
+    }
+  },
+  {
+    "number": 494,
+    "headword": "you do you",
+    "japaneseMeaning": "やりたい様にやりなよ",
+    "examples": {
+      "B": "犬に話しかけて解決するかはわからないけど、やりたいようにやりなよ。"
+    }
+  },
+  {
+    "number": 495,
+    "headword": "over the top",
+    "japaneseMeaning": "やりすぎ",
+    "examples": {
+      "B": "彼女の反応はいつもやりすぎだ。"
+    }
+  },
+  {
+    "number": 496,
+    "headword": "fix",
+    "japaneseMeaning": "料理する",
+    "examples": {
+      "B": "彼女、自分の食事を自分で作った。"
+    }
+  },
+  {
+    "number": 497,
+    "headword": "downtime",
+    "japaneseMeaning": "暇な時",
+    "examples": {
+      "B": "最近、あまり暇な時間がないんだ。"
+    }
+  },
+  {
+    "number": 498,
+    "headword": "pretty much",
+    "japaneseMeaning": "大体",
+    "examples": {
+      "B": "その写真たち、だいたい同じに見えるね。"
+    }
+  },
+  {
+    "number": 499,
+    "headword": "that way",
+    "japaneseMeaning": "そうすれば",
+    "examples": {
+      "B": "バッグに入れて。そうすれば誰にも気づかれないよ。"
+    }
+  },
+  {
+    "number": 500,
+    "headword": "spot",
+    "japaneseMeaning": "見つける",
+    "examples": {
+      "B": "写真の中の白鳥、見つけられる？"
+    }
+  },
+  {
+    "number": 501,
+    "headword": "under the table",
+    "japaneseMeaning": "こっそりと",
+    "examples": {
+      "B": "その取引はこっそり行われた。"
+    }
+  },
+  {
+    "number": 502,
+    "headword": "jump the gum",
+    "japaneseMeaning": "早とちりする",
+    "examples": {
+      "B": "早とちりするな。まだ情報が足りないよ。"
+    }
+  },
+  {
+    "number": 503,
+    "headword": "on the dot",
+    "japaneseMeaning": "ちょうど",
+    "examples": {
+      "B": "バスは10時ちょうどに着いた。"
+    }
+  },
+  {
+    "number": 504,
+    "headword": "rusty",
+    "japaneseMeaning": "下手",
+    "examples": {
+      "B": "運転、ちょっと下手になっちゃった。"
+    }
+  },
+  {
+    "number": 505,
+    "headword": "stretch",
+    "japaneseMeaning": "無理があること",
+    "examples": {
+      "B": "1年でこの目標を達成するのは、ちょっと無理があると思う。"
+    }
+  },
+  {
+    "number": 506,
+    "headword": "loaded",
+    "japaneseMeaning": "お金持ち",
+    "examples": {
+      "B": "あの女性、お金持ちみたいだね。"
+    }
+  },
+  {
+    "number": 507,
+    "headword": "on second thought",
+    "japaneseMeaning": "やっぱり",
+    "examples": {
+      "B": "でもよく考えたら、行かないことにした。"
+    }
+  },
+  {
+    "number": 508,
+    "headword": "or so",
+    "japaneseMeaning": "くらい",
+    "examples": {
+      "B": "10人くらいいた。"
+    }
+  },
+  {
+    "number": 509,
+    "headword": "chop chop",
+    "japaneseMeaning": "早く早く",
+    "examples": {
+      "B": "遅いよ。早く早く！"
+    }
+  },
+  {
+    "number": 510,
+    "headword": "cut out",
+    "japaneseMeaning": "向いている",
+    "examples": {
+      "B": "君は看護師には向いてないよ。"
+    }
+  },
+  {
+    "number": 511,
+    "headword": "could care less",
+    "japaneseMeaning": "どうでもいい",
+    "examples": {
+      "B": "ケンが話したいって。／知ったことじゃない。"
+    }
+  },
+  {
+    "number": 512,
+    "headword": "hang on",
+    "japaneseMeaning": "ちょっと待って",
+    "examples": {
+      "B": "ちょっと待って。彼、今なんて言った？"
+    }
+  },
+  {
+    "number": 513,
+    "headword": "tart",
+    "japaneseMeaning": "酸っぱい",
+    "examples": {
+      "B": "このケーキ、すごく酸っぱい。"
+    }
+  },
+  {
+    "number": 514,
+    "headword": "speak of the devil",
+    "japaneseMeaning": "噂をすれば",
+    "examples": {
+      "B": "噂をすれば、彼来たよ。"
+    }
+  },
+  {
+    "number": 515,
+    "headword": "knock it off",
+    "japaneseMeaning": "やめなよ",
+    "examples": {
+      "B": "みんな、やめなよ！喧嘩はやめて。"
+    }
+  },
+  {
+    "number": 516,
+    "headword": "laid-back",
+    "japaneseMeaning": "のんびりしている",
+    "examples": {
+      "B": "ジェイドはすごくのんびりしてて、何があってもイライラしない。"
+    }
+  },
+  {
+    "number": 517,
+    "headword": "ballin'",
+    "japaneseMeaning": "クールな人",
+    "examples": {
+      "B": "あのジャケット見て。彼女、クールだね。"
+    }
+  },
+  {
+    "number": 518,
+    "headword": "sketchy",
+    "japaneseMeaning": "怪しい",
+    "examples": {
+      "B": "怪しい場所には近づかないで。"
+    }
+  },
+  {
+    "number": 519,
+    "headword": "puzzled",
+    "japaneseMeaning": "困惑している",
+    "examples": {
+      "B": "彼の返事がよくわからなくて困惑してる。"
+    }
+  },
+  {
+    "number": 520,
+    "headword": "cut it out",
+    "japaneseMeaning": "やめて",
+    "examples": {
+      "B": "やめてよ。勉強してるんだから。"
+    }
+  },
+  {
+    "number": 521,
+    "headword": "come again",
+    "japaneseMeaning": "なんていった？",
+    "examples": {
+      "B": "なんていった？聞こえなかった。"
+    }
+  },
+  {
+    "number": 522,
+    "headword": "long story short",
+    "japaneseMeaning": "手短に言うと",
+    "examples": {
+      "B": "手短に言うと、私たち仲良くなった。"
+    }
+  },
+  {
+    "number": 523,
+    "headword": "pain in the neck",
+    "japaneseMeaning": "面倒な人",
+    "examples": {
+      "B": "トムって本当に面倒な人だ。"
+    }
+  },
+  {
+    "number": 524,
+    "headword": "chit-chat",
+    "japaneseMeaning": "おしゃべり",
+    "examples": {
+      "B": "おしゃべり楽しかった！"
+    }
+  },
+  {
+    "number": 525,
+    "headword": "crave",
+    "japaneseMeaning": "めっちゃ欲しい",
+    "examples": {
+      "B": "愛がめっちゃ欲しい。"
+    }
+  },
+  {
+    "number": 526,
+    "headword": "TGIF",
+    "japaneseMeaning": "豪華",
+    "examples": {
+      "B": "華金だ！週末が待ちきれない！"
+    }
+  },
+  {
+    "number": 527,
+    "headword": "ASAP",
+    "japaneseMeaning": "なる早",
+    "examples": {
+      "B": "なるべく早く返事ください。"
+    }
+  },
+  {
+    "number": 528,
+    "headword": "dream on",
+    "japaneseMeaning": "ふざけるな",
+    "examples": {
+      "B": "トム・クルーズになりたいな。／ふざけるなよ。"
+    }
+  },
+  {
+    "number": 529,
+    "headword": "binge-watch",
+    "japaneseMeaning": "一気見",
+    "examples": {
+      "B": "一番好きな暇つぶしは韓ドラの一気見だ。"
+    }
+  },
+  {
+    "number": 530,
+    "headword": "call it even",
+    "japaneseMeaning": "これでチャラね",
+    "examples": {
+      "B": "これでチャラね！"
+    }
+  },
+  {
+    "number": 531,
+    "headword": "get over",
+    "japaneseMeaning": "乗り超える",
+    "examples": {
+      "B": "彼のこと、あっという間に乗り越えられるよ。"
+    }
+  },
+  {
+    "number": 532,
+    "headword": "turn the tables",
+    "japaneseMeaning": "形成逆転する",
+    "examples": {
+      "B": "彼は形勢を逆転させたかったんだと思う。"
+    }
+  },
+  {
+    "number": 533,
+    "headword": "man up",
+    "japaneseMeaning": "しっかりしろ",
+    "examples": {
+      "B": "しっかりしろ！何を待ってるんだ？"
+    }
+  },
+  {
+    "number": 534,
+    "headword": "but me no buts",
+    "japaneseMeaning": "言い訳しないで",
+    "examples": {
+      "B": "でも、お母さん！／言い訳はやめなさい！"
+    }
+  },
+  {
+    "number": 535,
+    "headword": "doze off",
+    "japaneseMeaning": "うとうとする",
+    "examples": {
+      "B": "授業中うとうとしてた。"
+    }
+  },
+  {
+    "number": 536,
+    "headword": "jack up",
+    "japaneseMeaning": "値上げする",
+    "examples": {
+      "B": "航空会社は正月休みに運賃を値上げする。"
+    }
+  },
+  {
+    "number": 537,
+    "headword": "trick",
+    "japaneseMeaning": "コツ",
+    "examples": {
+      "B": "実はコツがあるんだ。"
+    }
+  },
+  {
+    "number": 538,
+    "headword": "we're square",
+    "japaneseMeaning": "おあいだね",
+    "examples": {
+      "B": "アイス買ってくれたらこれでおあいこだ、いい？"
+    }
+  },
+  {
+    "number": 539,
+    "headword": "tips",
+    "japaneseMeaning": "アドバイス",
+    "examples": {
+      "B": "LA旅行のアドバイスくれる？"
+    }
+  },
+  {
+    "number": 540,
+    "headword": "smart cookie",
+    "japaneseMeaning": "頭が切れる人",
+    "examples": {
+      "B": "あの小さい男の子、頭が切れるよ。"
+    }
+  },
+  {
+    "number": 541,
+    "headword": "in a pickle",
+    "japaneseMeaning": "困っている",
+    "examples": {
+      "B": "教科書忘れた！困った！"
+    }
+  },
+  {
+    "number": 542,
+    "headword": "boo",
+    "japaneseMeaning": "彼氏・彼女",
+    "examples": {
+      "B": "ねえ、ダーリン、明日どこ行きたい？"
+    }
+  },
+  {
+    "number": 543,
+    "headword": "off my face",
+    "japaneseMeaning": "酔っ払っている",
+    "examples": {
+      "B": "彼、酔っ払ってた。"
+    }
+  },
+  {
+    "number": 544,
+    "headword": "out of style",
+    "japaneseMeaning": "時代遅れ",
+    "examples": {
+      "B": "その服、もう時代遅れだよ。"
+    }
+  },
+  {
+    "number": 545,
+    "headword": "no-show",
+    "japaneseMeaning": "すっぽかす人",
+    "examples": {
+      "B": "メアリーはいつも約束をすっぽかすんだ。"
+    }
+  },
+  {
+    "number": 546,
+    "headword": "spill the beans",
+    "japaneseMeaning": "秘密をばらす",
+    "examples": {
+      "B": "ついにメアリーが秘密をばらしちゃった。"
+    }
+  },
+  {
+    "number": 547,
+    "headword": "the last straw",
+    "japaneseMeaning": "我慢の限界",
+    "examples": {
+      "B": "もう我慢の限界。彼の謝罪なんか受け入れない。"
+    }
+  },
+  {
+    "number": 548,
+    "headword": "straight face",
+    "japaneseMeaning": "真顔",
+    "examples": {
+      "B": "冗談を言われても真顔を保つのが苦手なんだ。"
+    }
+  },
+  {
+    "number": 549,
+    "headword": "bite my tongue",
+    "japaneseMeaning": "言いたいことを我慢する",
+    "examples": {
+      "B": "言いたいことを我慢した方がいいときもある。"
+    }
+  },
+  {
+    "number": 550,
+    "headword": "busybody",
+    "japaneseMeaning": "おせっかい",
+    "examples": {
+      "B": "おせっかいするなよ。"
+    }
+  },
+  {
+    "number": 551,
+    "headword": "find my feet",
+    "japaneseMeaning": "慣れる",
+    "examples": {
+      "B": "新しい場所に慣れるには時間がかかる。"
+    }
+  },
+  {
+    "number": 552,
+    "headword": "blow up",
+    "japaneseMeaning": "大人気になる",
+    "examples": {
+      "B": "あのYouTube動画、大人気になってる。"
+    }
+  },
+  {
+    "number": 553,
+    "headword": "come around",
+    "japaneseMeaning": "受け入れる",
+    "examples": {
+      "B": "彼のことをもっと知って、結局納得した。"
+    }
+  },
+  {
+    "number": 554,
+    "headword": "lose face",
+    "japaneseMeaning": "恥をかく",
+    "examples": {
+      "B": "クラス全体の前で恥かいちゃった。"
+    }
+  },
+  {
+    "number": 555,
+    "headword": "over my head",
+    "japaneseMeaning": "理解ができない",
+    "examples": {
+      "B": "信じられない！彼の話、理解できない！"
+    }
+  },
+  {
+    "number": 556,
+    "headword": "keep it real",
+    "japaneseMeaning": "自分らしくいる",
+    "examples": {
+      "B": "自分らしくいる人って尊敬する。"
+    }
+  },
+  {
+    "number": 557,
+    "headword": "runner-up",
+    "japaneseMeaning": "2位",
+    "examples": {
+      "B": "彼女、ミスコンで2位だった。"
+    }
+  },
+  {
+    "number": 558,
+    "headword": "round up",
+    "japaneseMeaning": "集める",
+    "examples": {
+      "B": "みんな集まって、お泊まりパーティーしよう！"
+    }
+  },
+  {
+    "number": 559,
+    "headword": "kiss teeth",
+    "japaneseMeaning": "舌打ちをする",
+    "examples": {
+      "B": "彼、舌打ちするのがカッコいいと思ってる。"
+    }
+  },
+  {
+    "number": 560,
+    "headword": "keen on",
+    "japaneseMeaning": "夢中だ",
+    "examples": {
+      "B": "彼、最近ビデオゲームに夢中なんだ。"
+    }
+  },
+  {
+    "number": 561,
+    "headword": "hit the spot",
+    "japaneseMeaning": "大満足",
+    "examples": {
+      "B": "あのワイン、本当にピッタリだった。"
+    }
+  },
+  {
+    "number": 562,
+    "headword": "the one",
+    "japaneseMeaning": "運命の人",
+    "examples": {
+      "B": "他の誰でもない、君こそ僕の運命の人だ。",
+      "C": "夢見てなよ。"
+    }
+  },
+  {
+    "number": 563,
+    "headword": "watch it",
+    "japaneseMeaning": "気をつけて",
+    "examples": {
+      "B": "気をつけて！怪我するところだったよ。"
+    }
+  },
+  {
+    "number": 564,
+    "headword": "meant to be",
+    "japaneseMeaning": "運命",
+    "examples": {
+      "B": "トムと私は運命だと思ってる。"
+    }
+  },
+  {
+    "number": 565,
+    "headword": "jaded",
+    "japaneseMeaning": "うんざり",
+    "examples": {
+      "B": "この仕事にもうちょっとうんざりしてる。"
+    }
+  },
+  {
+    "number": 566,
+    "headword": "glow up",
+    "japaneseMeaning": "垢抜ける",
+    "examples": {
+      "B": "彼女、高校卒業後すごく垢抜けた。"
+    }
+  },
+  {
+    "number": 567,
+    "headword": "change of pace",
+    "japaneseMeaning": "気分転換",
+    "examples": {
+      "B": "気分転換にハイキング行こう。"
+    }
+  },
+  {
+    "number": 568,
+    "headword": "dull",
+    "japaneseMeaning": "退屈な",
+    "examples": {
+      "B": "君といると退屈なときがないね。"
+    }
+  },
+  {
+    "number": 569,
+    "headword": "come what may",
+    "japaneseMeaning": "何が起ころうと",
+    "examples": {
+      "B": "何が起ころうとも、そばにいるよ。"
+    }
+  },
+  {
+    "number": 570,
+    "headword": "dig in",
+    "japaneseMeaning": "召し上がれ",
+    "examples": {
+      "B": "すごくおいしそう！召し上がれ！"
+    }
+  },
+  {
+    "number": 571,
+    "headword": "promise the moon",
+    "japaneseMeaning": "無理な約束をする",
+    "examples": {
+      "B": "無理な約束する男には気をつけて。"
+    }
+  },
+  {
+    "number": 572,
+    "headword": "cramp",
+    "japaneseMeaning": "つる事",
+    "examples": {
+      "B": "何時間も絵を描いてたら手がつった。"
+    }
+  },
+  {
+    "number": 573,
+    "headword": "come upon",
+    "japaneseMeaning": "偶然出会う",
+    "examples": {
+      "B": "先日、偶然一年生のときの先生に会った。"
+    }
+  },
+  {
+    "number": 574,
+    "headword": "no time flat",
+    "japaneseMeaning": "あっという間に",
+    "examples": {
+      "B": "試験、あっという間に終わった。"
+    }
+  },
+  {
+    "number": 575,
+    "headword": "have a cow",
+    "japaneseMeaning": "怒る",
+    "examples": {
+      "B": "今やらないと彼、すごく怒るよ。"
+    }
+  },
+  {
+    "number": 576,
+    "headword": "rocket science",
+    "japaneseMeaning": "難しいこと",
+    "examples": {
+      "B": "Zoomミーティングの設定なんて、そんな難しくないよ。"
+    }
+  },
+  {
+    "number": 577,
+    "headword": "piggyback",
+    "japaneseMeaning": "便乗する",
+    "examples": {
+      "B": "トムの言ったことに便乗させてもらうね。"
+    }
+  },
+  {
+    "number": 578,
+    "headword": "drop-dead",
+    "japaneseMeaning": "ハッとするほど",
+    "examples": {
+      "B": "ダンサー全員、ハッとするほど美人だった。"
+    }
+  },
+  {
+    "number": 579,
+    "headword": "rock bottom",
+    "japaneseMeaning": "どん底",
+    "examples": {
+      "B": "そのとき、どん底だとわかった。"
+    }
+  },
+  {
+    "number": 580,
+    "headword": "stuffy nose",
+    "japaneseMeaning": "鼻詰まり",
+    "examples": {
+      "B": "アレルギーで鼻が詰まってる。"
+    }
+  },
+  {
+    "number": 581,
+    "headword": "impossible",
+    "japaneseMeaning": "ありえない",
+    "examples": {
+      "B": "彼とは一緒に仕事するのが本当に無理。"
+    }
+  },
+  {
+    "number": 582,
+    "headword": "word up",
+    "japaneseMeaning": "その通り",
+    "examples": {
+      "B": "イチローは史上最強の野球選手だ。その通り！"
+    }
+  },
+  {
+    "number": 583,
+    "headword": "crush",
+    "japaneseMeaning": "好きな人",
+    "examples": {
+      "B": "好きな人はハンサムで頭もいいし、スポーツも得意。"
+    }
+  },
+  {
+    "number": 584,
+    "headword": "gucci",
+    "japaneseMeaning": "いいじゃん",
+    "examples": {
+      "B": "まずモール行こう。／いいじゃん。"
+    }
+  },
+  {
+    "number": 585,
+    "headword": "glitch",
+    "japaneseMeaning": "バグ",
+    "examples": {
+      "B": "技術的な不具合で申し訳ございません。"
+    }
+  },
+  {
+    "number": 586,
+    "headword": "sing the blues",
+    "japaneseMeaning": "不満を言う",
+    "examples": {
+      "B": "クビになってから、毎日不満ばかり言ってる。"
+    }
+  },
+  {
+    "number": 587,
+    "headword": "epic",
+    "japaneseMeaning": "最高",
+    "examples": {
+      "B": "彼のパフォーマンス見た？最高だった！"
+    }
+  },
+  {
+    "number": 588,
+    "headword": "apple of my eye",
+    "japaneseMeaning": "大事な人",
+    "examples": {
+      "B": "孫は私のかけがえのない存在だ。"
+    }
+  },
+  {
+    "number": 589,
+    "headword": "I'm in",
+    "japaneseMeaning": "参加するよ",
+    "examples": {
+      "B": "今週末ドライブ行く人いる？／参加するよ！"
+    }
+  },
+  {
+    "number": 590,
+    "headword": "pull off",
+    "japaneseMeaning": "成功させる",
+    "examples": {
+      "B": "医者になるのはなかなか成功させるのが難しい。"
+    }
+  },
+  {
+    "number": 591,
+    "headword": "if anything",
+    "japaneseMeaning": "むしろ",
+    "examples": {
+      "B": "彼女は、むしろクラスで頭がいい方だった。"
+    }
+  },
+  {
+    "number": 592,
+    "headword": "takeaway",
+    "japaneseMeaning": "教訓",
+    "examples": {
+      "B": "ここから得た教訓は、大丈夫じゃなくてもいいってこと。"
+    }
+  },
+  {
+    "number": 593,
+    "headword": "per se",
+    "japaneseMeaning": "正直に言えばそうではない",
+    "examples": {
+      "B": "正直に言えばそうではないけど、嫌いだとは言ってない。ただ……"
+    }
+  },
+  {
+    "number": 594,
+    "headword": "jazz up",
+    "japaneseMeaning": "飾りつける",
+    "examples": {
+      "B": "このカップケーキ、トッピングで飾りつけよう！"
+    }
+  },
+  {
+    "number": 595,
+    "headword": "touch base",
+    "japaneseMeaning": "連絡を取る",
+    "examples": {
+      "B": "イベントの件で連絡を取りたいんですが。"
+    }
+  },
+  {
+    "number": 596,
+    "headword": "tame",
+    "japaneseMeaning": "言うことを聞かせる",
+    "examples": {
+      "B": "うちの猫、言うことを聞かせるの本当に難しい。"
+    }
+  },
+  {
+    "number": 597,
+    "headword": "calling",
+    "japaneseMeaning": "天職",
+    "examples": {
+      "B": "彼は教師という天職に人生を捧げた。"
+    }
+  },
+  {
+    "number": 598,
+    "headword": "square one",
+    "japaneseMeaning": "はじめ",
+    "examples": {
+      "B": "また最初からやり直しみたい。"
+    }
+  },
+  {
+    "number": 599,
+    "headword": "no biggie",
+    "japaneseMeaning": "気にしないで",
+    "examples": {
+      "B": "気にしないで、時間あるから。"
+    }
+  },
+  {
+    "number": 600,
+    "headword": "fill in",
+    "japaneseMeaning": "詳細を教える",
+    "examples": {
+      "B": "ケンから新しい課題の詳細、聞いた？"
+    }
+  },
+  {
+    "number": 601,
+    "headword": "scaredy cat",
+    "japaneseMeaning": "ビビり",
+    "examples": {
+      "B": "ほんとビビりだね！"
+    }
+  },
+  {
+    "number": 602,
+    "headword": "straight up",
+    "japaneseMeaning": "ガチで",
+    "examples": {
+      "B": "あの新作映画、ガチで最高だった！"
+    }
+  },
+  {
+    "number": 603,
+    "headword": "get a clue",
+    "japaneseMeaning": "空気を読め",
+    "examples": {
+      "B": "バレバレだったじゃん。空気読んでよ！"
+    }
+  },
+  {
+    "number": 604,
+    "headword": "eat it up",
+    "japaneseMeaning": "鵜呑みする",
+    "examples": {
+      "B": "彼に嘘の話をしたら、そのまま鵜呑みにしちゃった。"
+    }
+  },
+  {
+    "number": 605,
+    "headword": "corny",
+    "japaneseMeaning": "ベタな",
+    "examples": {
+      "B": "お父さんは自分が面白いと思ってるけど、ジョークがマジでベタなんだよね。"
+    }
+  },
+  {
+    "number": 606,
+    "headword": "crush it",
+    "japaneseMeaning": "大成功",
+    "examples": {
+      "B": "どうだった？ / 大成功だったよ！"
+    }
+  },
+  {
+    "number": 607,
+    "headword": "bloody",
+    "japaneseMeaning": "めっちゃ",
+    "examples": {
+      "B": "あのパスタ、めっちゃうまかったよ！"
+    }
+  },
+  {
+    "number": 608,
+    "headword": "keeper",
+    "japaneseMeaning": "いい男・女",
+    "examples": {
+      "B": "彼女はいい人だよ。絶対に逃すなよ！"
+    }
+  },
+  {
+    "number": 609,
+    "headword": "props",
+    "japaneseMeaning": "尊敬",
+    "examples": {
+      "B": "自分のために立ち上がった彼女、尊敬するわ。"
+    }
+  },
+  {
+    "number": 610,
+    "headword": "cliché",
+    "japaneseMeaning": "決まり文句",
+    "examples": {
+      "B": "決まり文句だけど、万事には意味があるってことなんだよ。"
+    }
+  },
+  {
+    "number": 611,
+    "headword": "ditto",
+    "japaneseMeaning": "私も同じく",
+    "examples": {
+      "B": "疲れた。もう帰りたい。 / 私も。"
+    }
+  },
+  {
+    "number": 612,
+    "headword": "wear the pants",
+    "japaneseMeaning": "主導権を握る",
+    "examples": {
+      "B": "その関係で、どっちが主導権握ってるの？"
+    }
+  },
+  {
+    "number": 613,
+    "headword": "cooped up",
+    "japaneseMeaning": "閉じこもる",
+    "examples": {
+      "B": "一日中オフィスに閉じこもるなんて、私には向いてないよ。"
+    }
+  },
+  {
+    "number": 614,
+    "headword": "take a hint",
+    "japaneseMeaning": "それくらい分かってよ",
+    "examples": {
+      "B": "帰りたかったんだよ！ それくらい察してよ！"
+    }
+  },
+  {
+    "number": 615,
+    "headword": "bop",
+    "japaneseMeaning": "良い歌",
+    "examples": {
+      "B": "エド・シーランは名曲しか作らないよね。"
+    }
+  },
+  {
+    "number": 616,
+    "headword": "flop",
+    "japaneseMeaning": "失敗",
+    "examples": {
+      "B": "あの映画、大コケだったね。"
+    }
+  },
+  {
+    "number": 617,
+    "headword": "stunning",
+    "japaneseMeaning": "綺麗",
+    "examples": {
+      "B": "赤いドレス、めっちゃ似合ってるよ。"
+    }
+  },
+  {
+    "number": 618,
+    "headword": "stocked",
+    "japaneseMeaning": "嬉しい",
+    "examples": {
+      "B": "あの男の子、お兄ちゃんになれるのをすごく嬉しがってる。"
+    }
+  },
+  {
+    "number": 619,
+    "headword": "all mouth",
+    "japaneseMeaning": "口先だけ",
+    "examples": {
+      "B": "彼なんか怖がらなくていいよ。口だけだから。"
+    }
+  },
+  {
+    "number": 620,
+    "headword": "book smart",
+    "japaneseMeaning": "世間知らず",
+    "examples": {
+      "B": "彼は本の知識はあるけど、世間知らずなんだよね。"
+    }
+  },
+  {
+    "number": 621,
+    "headword": "All wet",
+    "japaneseMeaning": "全然違う",
+    "examples": {
+      "B": "全然違うでしょ！ なんでわかってくれないの？"
+    }
+  },
+  {
+    "number": 622,
+    "headword": "itchy",
+    "japaneseMeaning": "かゆい",
+    "examples": {
+      "B": "このセーター、チクチクしてかゆい。"
+    }
+  },
+  {
+    "number": 623,
+    "headword": "easy-going",
+    "japaneseMeaning": "のんきな",
+    "examples": {
+      "B": "私、すごくのんきで、誰とでもすぐ仲良くなれるタイプだよ。"
+    }
+  },
+  {
+    "number": 624,
+    "headword": "can you not",
+    "japaneseMeaning": "やめてくれない？",
+    "examples": {
+      "B": "やめてくれない？ めっちゃ気が散るんだけど。"
+    }
+  },
+  {
+    "number": 625,
+    "headword": "same here",
+    "japaneseMeaning": "私も",
+    "examples": {
+      "B": "コーヒーにする。 / 私も。"
+    }
+  },
+  {
+    "number": 626,
+    "headword": "excel",
+    "japaneseMeaning": "優れる",
+    "examples": {
+      "B": "彼はいろんなスポーツが得意なんだ。"
+    }
+  },
+  {
+    "number": 627,
+    "headword": "override",
+    "japaneseMeaning": "優先する",
+    "examples": {
+      "B": "新しい規則が古いものより優先されるんだ。"
+    }
+  },
+  {
+    "number": 628,
+    "headword": "be smitten",
+    "japaneseMeaning": "ベタ惚れ",
+    "examples": {
+      "B": "彼女が旦那さんにベタ惚れなの、ひと目でわかるよ。"
+    }
+  },
+  {
+    "number": 629,
+    "headword": "green",
+    "japaneseMeaning": "未熟な",
+    "examples": {
+      "B": "彼はとても未熟な若者だった。"
+    }
+  },
+  {
+    "number": 630,
+    "headword": "too forward",
+    "japaneseMeaning": "でしゃばる",
+    "examples": {
+      "B": "気をつけて。でしゃばりすぎだよ。"
+    }
+  },
+  {
+    "number": 631,
+    "headword": "as if",
+    "japaneseMeaning": "ありえない",
+    "examples": {
+      "B": "宿題終わった？ / ありえない！ 多すぎるよ！"
+    }
+  },
+  {
+    "number": 632,
+    "headword": "not that",
+    "japaneseMeaning": "別に〜って訳ではないけど",
+    "examples": {
+      "B": "別に簡単だったってわけじゃないけど、テストはそんなに難しくなかったよ。"
+    }
+  },
+  {
+    "number": 633,
+    "headword": "carried away",
+    "japaneseMeaning": "調子に乗る",
+    "examples": {
+      "B": "成功に調子乗りすぎるなよ。"
+    }
+  },
+  {
+    "number": 634,
+    "headword": "slay",
+    "japaneseMeaning": "最高",
+    "examples": {
+      "B": "そのコーデ、最高にキマってるよ！"
+    }
+  },
+  {
+    "number": 635,
+    "headword": "catch some Zs",
+    "japaneseMeaning": "ちょっと寝る",
+    "examples": {
+      "B": "家に帰ってちょっと寝るね。"
+    }
+  },
+  {
+    "number": 636,
+    "headword": "weary",
+    "japaneseMeaning": "疲れた",
+    "examples": {
+      "B": "彼の顔、すごく疲れて見えた。"
+    }
+  },
+  {
+    "number": 637,
+    "headword": "heart of gold",
+    "japaneseMeaning": "とても優しい",
+    "examples": {
+      "B": "彼はトラブルばかり起こすけど、根はとても優しい人なんだ。"
+    }
+  },
+  {
+    "number": 638,
+    "headword": "see the elephant",
+    "japaneseMeaning": "人生経験が豊富",
+    "examples": {
+      "B": "息子よ、父さんだって若い頃はいろいろ経験したものさ。"
+    }
+  },
+  {
+    "number": 639,
+    "headword": "All set",
+    "japaneseMeaning": "準備完了",
+    "examples": {
+      "B": "準備できた？ 行こう。 / うん、バッチリ。"
+    }
+  },
+  {
+    "number": 640,
+    "headword": "sit well",
+    "japaneseMeaning": "しっくりくる",
+    "examples": {
+      "B": "彼の説明、なんかしっくりこなかったんだよね。"
+    }
+  },
+  {
+    "number": 641,
+    "headword": "flying colors",
+    "japaneseMeaning": "見事に",
+    "examples": {
+      "B": "トムはそのプログラムを見事に修了したよ。"
+    }
+  },
+  {
+    "number": 642,
+    "headword": "live it up",
+    "japaneseMeaning": "楽しむ",
+    "examples": {
+      "B": "たまには仕事から解放されて、思いっきり楽しむことも大事だよ。"
+    }
+  },
+  {
+    "number": 643,
+    "headword": "wicked",
+    "japaneseMeaning": "すごい",
+    "examples": {
+      "B": "すごい！ そこからどうやってバク転したの？"
+    }
+  },
+  {
+    "number": 644,
+    "headword": "bags",
+    "japaneseMeaning": "クマ（顔の）",
+    "examples": {
+      "B": "私の目の下のクマ、見てよ。"
+    }
+  },
+  {
+    "number": 645,
+    "headword": "XYZ",
+    "japaneseMeaning": "チャック見て",
+    "examples": {
+      "B": "おい、チャック見て！ / え？ うわ、やばい！！"
+    }
+  },
+  {
+    "number": 646,
+    "headword": "chow down",
+    "japaneseMeaning": "ガツガツ食べる",
+    "examples": {
+      "B": "お腹ペコペコで、パスタをがつがつ食べちゃった。"
+    }
+  },
+  {
+    "number": 647,
+    "headword": "zip it",
+    "japaneseMeaning": "静かにする",
+    "examples": {
+      "B": "静かにして！ アナウンスが聞こえないでしょ！"
+    }
+  },
+  {
+    "number": 648,
+    "headword": "minted",
+    "japaneseMeaning": "お金持ち",
+    "examples": {
+      "B": "このCEOたち、とんでもない金持ちだよね。"
+    }
+  },
+  {
+    "number": 649,
+    "headword": "take a rain check",
+    "japaneseMeaning": "また今度にする",
+    "examples": {
+      "B": "今回はちょっと無理。もう予定が入ってるんだ。"
+    }
+  },
+  {
+    "number": 650,
+    "headword": "veg out",
+    "japaneseMeaning": "ダラダラする",
+    "examples": {
+      "B": "今夜はテレビの前でダラダラしたいな。"
+    }
+  },
+  {
+    "number": 651,
+    "headword": "take a hike",
+    "japaneseMeaning": "あっち行って",
+    "examples": {
+      "B": "あっち行って！ もう顔も見たくない。"
+    }
+  },
+  {
+    "number": 652,
+    "headword": "looker",
+    "japaneseMeaning": "美男・美女",
+    "examples": {
+      "B": "ケンのお兄さん、マジでイケメンだよね。"
+    }
+  },
+  {
+    "number": 653,
+    "headword": "damp",
+    "japaneseMeaning": "湿っている",
+    "examples": {
+      "B": "シャツ、まだ湿ってる。"
+    }
+  },
+  {
+    "number": 654,
+    "headword": "move on",
+    "japaneseMeaning": "移る",
+    "examples": {
+      "B": "次に進む前に、質問ある人いますか？"
+    }
+  },
+  {
+    "number": 655,
+    "headword": "sulk",
+    "japaneseMeaning": "すねる",
+    "examples": {
+      "B": "スマホを取り上げたから、息子がすねてるんだ。"
+    }
+  },
+  {
+    "number": 656,
+    "headword": "peek",
+    "japaneseMeaning": "覗く",
+    "examples": {
+      "B": "目を閉じて、のぞいちゃダメだよ！"
+    }
+  },
+  {
+    "number": 657,
+    "headword": "baggy",
+    "japaneseMeaning": "ぶかぶかの",
+    "examples": {
+      "B": "彼女、スキニージーンズにぶかぶかのTシャツ着てるね。"
+    }
+  },
+  {
+    "number": 658,
+    "headword": "errand",
+    "japaneseMeaning": "用事",
+    "examples": {
+      "B": "彼、済ませなきゃいけない用事がいくつかあった。"
+    }
+  },
+  {
+    "number": 659,
+    "headword": "in that",
+    "japaneseMeaning": "なので",
+    "examples": {
+      "B": "欠点がひとつもないので、そのプログラムは完璧だよ。"
+    }
+  },
+  {
+    "number": 660,
+    "headword": "besides",
+    "japaneseMeaning": "しかも",
+    "examples": {
+      "B": "しかも、あなたそこにいなかったでしょ。"
+    }
+  },
+  {
+    "number": 661,
+    "headword": "by any chance",
+    "japaneseMeaning": "もしかして",
+    "examples": {
+      "B": "もしかして、私のお母さん見なかった？"
+    }
+  },
+  {
+    "number": 662,
+    "headword": "which means",
+    "japaneseMeaning": "てことは",
+    "examples": {
+      "B": "それで？ / つまり、あなたのせいってこと。"
+    }
+  },
+  {
+    "number": 663,
+    "headword": "aka",
+    "japaneseMeaning": "別名",
+    "examples": {
+      "B": "ニューヨーク出身なんだ。別名「ビッグ・アップル」ってね。"
+    }
+  },
+  {
+    "number": 664,
+    "headword": "bingo",
+    "japaneseMeaning": "正解",
+    "examples": {
+      "B": "ビンゴ！ その通りだよ。"
+    }
+  },
+  {
+    "number": 665,
+    "headword": "give in",
+    "japaneseMeaning": "諦める",
+    "examples": {
+      "B": "あんなに頼み込まれて、ついに折れちゃった。"
+    }
+  },
+  {
+    "number": 666,
+    "headword": "tackle",
+    "japaneseMeaning": "取り組む",
+    "examples": {
+      "B": "まずこの問題から取り組もう。"
+    }
+  },
+  {
+    "number": 667,
+    "headword": "brush off",
+    "japaneseMeaning": "スルーする",
+    "examples": {
+      "B": "彼女が言おうとしたけど、彼はスルーしちゃった。"
+    }
+  },
+  {
+    "number": 668,
+    "headword": "go cold turkey",
+    "japaneseMeaning": "キッパリやめる",
+    "examples": {
+      "B": "彼はタバコをキッパリやめたんだ。"
+    }
+  },
+  {
+    "number": 669,
+    "headword": "tall order",
+    "japaneseMeaning": "無理難題",
+    "examples": {
+      "B": "上司が今日中に終わらせろって。 / 無理難題だよ。"
+    }
+  },
+  {
+    "number": 670,
+    "headword": "pull strings",
+    "japaneseMeaning": "コネを使う",
+    "examples": {
+      "B": "彼は私にコネを使ってほしくないみたい。"
+    }
+  },
+  {
+    "number": 671,
+    "headword": "epic fail",
+    "japaneseMeaning": "大失敗",
+    "examples": {
+      "B": "なんて大失敗なんだ！"
+    }
+  },
+  {
+    "number": 672,
+    "headword": "go overboard",
+    "japaneseMeaning": "やりすぎる",
+    "examples": {
+      "B": "彼女、アイメイクやりすぎだったね。"
+    }
+  },
+  {
+    "number": 673,
+    "headword": "bigwig",
+    "japaneseMeaning": "お偉いさん",
+    "examples": {
+      "B": "お偉いさんたちとミーティングがあったんだ。"
+    }
+  },
+  {
+    "number": 674,
+    "headword": "crew",
+    "japaneseMeaning": "仲間",
+    "examples": {
+      "B": "ほら、君の仲間が来たよ。"
+    }
+  },
+  {
+    "number": 675,
+    "headword": "judge",
+    "japaneseMeaning": "批判する",
+    "examples": {
+      "B": "批判してるわけじゃないよ、ただ言ってるだけ。"
+    }
+  },
+  {
+    "number": 676,
+    "headword": "big head",
+    "japaneseMeaning": "自惚れ屋",
+    "examples": {
+      "B": "調子に乗るなよ。"
+    }
+  },
+  {
+    "number": 677,
+    "headword": "so to speak",
+    "japaneseMeaning": "言わば",
+    "examples": {
+      "B": "まあ言わば、入試みたいなもんさ。"
+    }
+  },
+  {
+    "number": 678,
+    "headword": "great",
+    "japaneseMeaning": "最悪だ",
+    "examples": {
+      "B": "彼女、3時間遅れるって。 / 最悪だね。"
+    }
+  },
+  {
+    "number": 679,
+    "headword": "I'm out",
+    "japaneseMeaning": "やめておくよ",
+    "examples": {
+      "B": "やめとくわ。この暑さで公園なんて無理。"
+    }
+  },
+  {
+    "number": 680,
+    "headword": "no picnic",
+    "japaneseMeaning": "キツイ",
+    "examples": {
+      "B": "高校教師なんて、楽な仕事じゃないよ。"
+    }
+  },
+  {
+    "number": 681,
+    "headword": "work out",
+    "japaneseMeaning": "うまくいく",
+    "examples": {
+      "B": "結局、うまくいったんだ。"
+    }
+  },
+  {
+    "number": 682,
+    "headword": "already",
+    "japaneseMeaning": "いい加減に",
+    "examples": {
+      "B": "いい加減に寝なさい。"
+    }
+  },
+  {
+    "number": 683,
+    "headword": "ghost",
+    "japaneseMeaning": "連絡を断つ",
+    "examples": {
+      "B": "去年の夏、元カレがいきなり音信不通になったんだ。"
+    }
+  },
+  {
+    "number": 684,
+    "headword": "nice try",
+    "japaneseMeaning": "残念でしたー",
+    "examples": {
+      "B": "残念でしたー。もう騙されないよ。"
+    }
+  },
+  {
+    "number": 685,
+    "headword": "try on",
+    "japaneseMeaning": "試着する",
+    "examples": {
+      "B": "このズボンと靴、試着してもいいですか？"
+    }
+  },
+  {
+    "number": 686,
+    "headword": "All along",
+    "japaneseMeaning": "初めからずっと",
+    "examples": {
+      "B": "彼は最初から、彼女が嘘ついてるってわかってたんだ。"
+    }
+  },
+  {
+    "number": 687,
+    "headword": "back to back",
+    "japaneseMeaning": "連続で",
+    "examples": {
+      "B": "彼ら、バスケの試合を立て続けにやったんだ。"
+    }
+  },
+  {
+    "number": 688,
+    "headword": "let's roll",
+    "japaneseMeaning": "さあ行こう",
+    "examples": {
+      "B": "よし、準備OK。行こう！"
+    }
+  },
+  {
+    "number": 689,
+    "headword": "by way of",
+    "japaneseMeaning": "経由して",
+    "examples": {
+      "B": "彼らはドバイ経由でスペインに旅行した。"
+    }
+  },
+  {
+    "number": 690,
+    "headword": "ask for it",
+    "japaneseMeaning": "自業自得",
+    "examples": {
+      "B": "私のせいにしないで。自業自得だよ。"
+    }
+  },
+  {
+    "number": 691,
+    "headword": "ish",
+    "japaneseMeaning": "頃",
+    "examples": {
+      "B": "だいたい9時頃に家を出るんだ。"
+    }
+  },
+  {
+    "number": 692,
+    "headword": "cloud 9",
+    "japaneseMeaning": "有頂点",
+    "examples": {
+      "B": "お気に入りの歌手に会えて、彼は有頂天だった。"
+    }
+  },
+  {
+    "number": 693,
+    "headword": "drive me nuts",
+    "japaneseMeaning": "気がおかしくなる",
+    "examples": {
+      "B": "たまに子どもたちにイラッとして気が狂いそうになるよ。"
+    }
+  },
+  {
+    "number": 694,
+    "headword": "smell a rat",
+    "japaneseMeaning": "胡散臭い",
+    "examples": {
+      "B": "なんか胡散臭い気がしてきた。"
+    }
+  },
+  {
+    "number": 695,
+    "headword": "drama queen",
+    "japaneseMeaning": "大袈裟な人",
+    "examples": {
+      "B": "そんな大げさな人にならないでよ。"
+    }
+  },
+  {
+    "number": 696,
+    "headword": "put off",
+    "japaneseMeaning": "延期する",
+    "examples": {
+      "B": "修学旅行は悪天候で延期になった。"
+    }
+  },
+  {
+    "number": 697,
+    "headword": "muffin top",
+    "japaneseMeaning": "お腹の贅肉",
+    "examples": {
+      "B": "お腹の贅肉を落とすの、思ってるより大変だよ。"
+    }
+  },
+  {
+    "number": 698,
+    "headword": "marvel",
+    "japaneseMeaning": "驚く",
+    "examples": {
+      "B": "彼女はあまりにも美しい景色に見とれていた。"
+    }
+  },
+  {
+    "number": 699,
+    "headword": "birthday suit",
+    "japaneseMeaning": "裸",
+    "examples": {
+      "B": "私、だいたい裸で寝てるんだよね。"
+    }
+  },
+  {
+    "number": 700,
+    "headword": "tell off",
+    "japaneseMeaning": "叱る",
+    "examples": {
+      "B": "遅刻したせいで彼女は叱られた。"
+    }
+  },
+  {
+    "number": 701,
+    "headword": "break a leg",
+    "japaneseMeaning": "頑張れ",
+    "examples": {
+      "B": "よし、頑張れよ！"
+    }
+  },
+  {
+    "number": 702,
+    "headword": "apples and oranges",
+    "japaneseMeaning": "比べられないよ",
+    "examples": {
+      "B": "比べものにならないよ。フレンチと和食を比べるなんて無理でしょ。"
+    }
+  },
+  {
+    "number": 703,
+    "headword": "finsta",
+    "japaneseMeaning": "インスタの裏アカ",
+    "examples": {
+      "B": "親しい友達だけの裏アカを作ったんだ。"
+    }
+  },
+  {
+    "number": 704,
+    "headword": "tired of",
+    "japaneseMeaning": "うんざりしている",
+    "examples": {
+      "B": "この厳しすぎるルールにもううんざりだよ。"
+    }
+  },
+  {
+    "number": 705,
+    "headword": "double standard",
+    "japaneseMeaning": "矛盾",
+    "examples": {
+      "B": "息子はデートOKなのに娘はダメなんて、矛盾してるよね。"
+    }
+  },
+  {
+    "number": 706,
+    "headword": "see eye to eye",
+    "japaneseMeaning": "意見が合う",
+    "examples": {
+      "B": "政治の話になると、私たちは意見が合わないんだ。"
+    }
+  },
+  {
+    "number": 707,
+    "headword": "backfire",
+    "japaneseMeaning": "裏目に出る",
+    "examples": {
+      "B": "優しくしようとしただけなのに、裏目に出ちゃった。"
+    }
+  },
+  {
+    "number": 708,
+    "headword": "crooked",
+    "japaneseMeaning": "歪んだ",
+    "examples": {
+      "B": "彼はにやっとした、少し歪んだ笑みを浮かべていた。"
+    }
+  },
+  {
+    "number": 709,
+    "headword": "catch feelings",
+    "japaneseMeaning": "好きになる",
+    "examples": {
+      "B": "彼のこと、好きになっちゃダメなんだ。"
+    }
+  },
+  {
+    "number": 710,
+    "headword": "pay off",
+    "japaneseMeaning": "報われる",
+    "examples": {
+      "B": "何週間も勉強した甲斐があったよ。"
+    }
+  },
+  {
+    "number": 711,
+    "headword": "a thing",
+    "japaneseMeaning": "そういうもの",
+    "examples": {
+      "B": "信じてよ、本当にそういうの流行ってるんだから！"
+    }
+  },
+  {
+    "number": 712,
+    "headword": "banger",
+    "japaneseMeaning": "名曲",
+    "examples": {
+      "B": "彼らの新曲、マジで名曲だよ！"
+    }
+  },
+  {
+    "number": 713,
+    "headword": "in a huff",
+    "japaneseMeaning": "ムッとして",
+    "examples": {
+      "B": "彼女、私が言ったことにムッとしてた。"
+    }
+  },
+  {
+    "number": 714,
+    "headword": "walk in the park",
+    "japaneseMeaning": "楽勝",
+    "examples": {
+      "B": "早起きは、彼にとって楽勝だよ。"
+    }
+  },
+  {
+    "number": 715,
+    "headword": "puffy",
+    "japaneseMeaning": "腫れている",
+    "examples": {
+      "B": "泣いたせいで、目がまだ腫れてる。"
+    }
+  },
+  {
+    "number": 716,
+    "headword": "sink in",
+    "japaneseMeaning": "しっくる来る",
+    "examples": {
+      "B": "やっと実感わいてきたね。"
+    }
+  },
+  {
+    "number": 717,
+    "headword": "sit on the fence",
+    "japaneseMeaning": "決めかねている",
+    "examples": {
+      "B": "それについて、ずっと決めかねてたんだ。"
+    }
+  },
+  {
+    "number": 718,
+    "headword": "serves you right",
+    "japaneseMeaning": "ざまあみろ",
+    "examples": {
+      "B": "ざまあみろ！ 浮気すればそうなるのよ！"
+    }
+  },
+  {
+    "number": 719,
+    "headword": "geek out",
+    "japaneseMeaning": "夢中になる",
+    "examples": {
+      "B": "彼、新しいApple製品に夢中になってたよ。"
+    }
+  },
+  {
+    "number": 720,
+    "headword": "peace out",
+    "japaneseMeaning": "じゃあね",
+    "examples": {
+      "B": "もう行かなきゃ。じゃあね！"
+    }
+  },
+  {
+    "number": 721,
+    "headword": "it's a plan",
+    "japaneseMeaning": "決まり",
+    "examples": {
+      "B": "今週末カラオケ行こう。 / 決まり！"
+    }
+  },
+  {
+    "number": 722,
+    "headword": "in the long run",
+    "japaneseMeaning": "長期的には",
+    "examples": {
+      "B": "質のいいものを買った方が、長い目で見れば安上がりだよ。"
+    }
+  },
+  {
+    "number": 723,
+    "headword": "piggy bank",
+    "japaneseMeaning": "貯金箱",
+    "examples": {
+      "B": "貯金箱にたくさん貯めたんだ。"
+    }
+  },
+  {
+    "number": 724,
+    "headword": "step up",
+    "japaneseMeaning": "レベルアップ",
+    "examples": {
+      "B": "彼らのパフォーマンス、本当にレベルアップしたね。"
+    }
+  },
+  {
+    "number": 725,
+    "headword": "still",
+    "japaneseMeaning": "じっとする",
+    "examples": {
+      "B": "靴ひも結ぶから、じっとしてて。",
+      "C": "えっ、マジで？ ここにいるなんて信じられない！",
+      "D": "彼はベッドでじっと横になっていた。",
+      "E": "お腹を蚊に刺された。"
+    }
+  },
+  {
+    "number": 726,
+    "headword": "tiptoe",
+    "japaneseMeaning": "つま先",
+    "examples": {
+      "B": "彼女はつま先立ちで部屋にそっと入った。",
+      "C": "問題は十分理解してます。",
+      "D": "彼の手が天井に届く。",
+      "E": "腕と脚は長いんだけど、胴体はちょっと短めかな。"
+    }
+  },
+  {
+    "number": 727,
+    "headword": "feel blue",
+    "japaneseMeaning": "落ち込む",
+    "examples": {
+      "B": "失敗したからって、落ち込まないで。",
+      "C": "どうしたの？ ゾンビみたいだよ。",
+      "D": "私の新しい髪型に気づかなかったの？",
+      "E": "また自転車盗られたの？ かわいそうに。"
+    }
+  },
+  {
+    "number": 728,
+    "headword": "eons ago",
+    "japaneseMeaning": "ずっと前",
+    "examples": {
+      "B": "彼に会ったの、ずっと前のことだよ。",
+      "C": "ビヨンセの新曲、マジで名曲だね。",
+      "D": "あら、なんてかわいい犬なの！",
+      "E": "悪い、皿洗いするの忘れちゃった！"
+    }
+  },
+  {
+    "number": 729,
+    "headword": "out of it",
+    "japaneseMeaning": "ボーッとする",
+    "examples": {
+      "B": "彼、昨日ずっとボーッとしてたよ。",
+      "C": "彼女、その知らせ聞いて喜ぶだろうね。",
+      "D": "うまくいかないよ。 / なんでそう思うの？",
+      "E": "あいつ、真面目に受け止められないんだよね。"
+    }
+  },
+  {
+    "number": 730,
+    "headword": "pass out",
+    "japaneseMeaning": "気絶する",
+    "examples": {
+      "B": "彼、熱中症で倒れたんだ。",
+      "C": "あの子どうしたの？ 泣いてるみたいだけど。",
+      "D": "梅雨の時期って、なんか気が沈むんだよね。",
+      "E": "外が暑いときは、ちゃんと水分補給してね！"
+    }
+  },
+  {
+    "number": 731,
+    "headword": "read into",
+    "japaneseMeaning": "深読みする",
+    "examples": {
+      "B": "彼、人の言うことを深読みしすぎなんだよ。",
+      "C": "彼、彼女がいるのに浮気したらしいよ。 / うそでしょ！",
+      "D": "彼、完全にフレンドゾーンだね。",
+      "E": "ビジネスメールのタイプミスで彼女、叱られたんだって。"
+    }
+  },
+  {
+    "number": 732,
+    "headword": "can't help it",
+    "japaneseMeaning": "やめられない",
+    "examples": {
+      "B": "映画見る前にネタバレ見ちゃダメなのはわかってるんだけど、やめられないんだよね。",
+      "C": "彼、痩せるためにジムに通ってるんだ。",
+      "D": "アリアナ・グランデの新曲すごくない？ / うん、マジで最高！",
+      "E": "あのスーパーでは、トイレットペーパーやタオルみたいな日用品も売ってるよ。"
+    }
+  },
+  {
+    "number": 733,
+    "headword": "itch to",
+    "japaneseMeaning": "〜したくてむずむずする",
+    "examples": {
+      "B": "クリスマスツリーの下のプレゼント、開けたくてうずうずするんだ。",
+      "C": "いい知らせ聞いたよ。期末試験が中止になったって！",
+      "D": "マラソンで1位だったんでしょ？ おめでとう！",
+      "E": "ここに住んでどれくらい？ / 3年くらいかな。"
+    }
+  },
+  {
+    "number": 734,
+    "headword": "wear off",
+    "japaneseMeaning": "効果が切れる",
+    "examples": {
+      "B": "シンデレラのお話だと、真夜中になると魔法の効果が切れるんだ。",
+      "C": "彼女かわいそう。婚約者に振られたらしいよ。",
+      "D": "頭痛したから、鎮痛剤飲んだ。",
+      "E": "生魚食べるの、ちょっと怖いんだよね。"
+    }
+  },
+  {
+    "number": 735,
+    "headword": "dump",
+    "japaneseMeaning": "振る",
+    "examples": {
+      "B": "あの子、振られたばっかりらしいよ。",
+      "C": "もういい。帰るわ。",
+      "D": "男は浮気していいって思ってるなんて、信じられない！",
+      "E": "そんなに早くは食べられないって。"
+    }
+  },
+  {
+    "number": 736,
+    "headword": "small talk",
+    "japaneseMeaning": "雑談",
+    "examples": {
+      "B": "雑談が苦手なんだよね。",
+      "C": "よし、本題に入ろう。",
+      "D": "髪どうしたの？ / 長い話になるよ。",
+      "E": "ちょっと！ その態度、やめてよ。"
+    }
+  },
+  {
+    "number": 737,
+    "headword": "bring it on",
+    "japaneseMeaning": "かかって来い",
+    "examples": {
+      "B": "うちと勝負したいの？ / かかってこい！",
+      "C": "彼女、まだ寝てるだろうね。",
+      "D": "うちの学校、体育館すごい大きいよ。",
+      "E": "1年間、運転禁止になっちゃったんだ。"
+    }
+  },
+  {
+    "number": 738,
+    "headword": "kill it",
+    "japaneseMeaning": "よくやった",
+    "examples": {
+      "B": "すごいじゃん、その調子！",
+      "C": "行きたくない。 / なんで？",
+      "D": "土砂降りってわけじゃないし。ハイキング行けるでしょ。",
+      "E": "彼女、口パクしてる？"
+    }
+  },
+  {
+    "number": 739,
+    "headword": "jam",
+    "japaneseMeaning": "お気に入りの曲",
+    "examples": {
+      "B": "曲変えないで。これ私のお気に入りなの！",
+      "C": "「イマジン」流してるの？ いいね。",
+      "D": "すごいね。 / でしょ？",
+      "E": "今日はあつまれどうぶつの森やりたいな。"
+    }
+  },
+  {
+    "number": 740,
+    "headword": "cop of tea",
+    "japaneseMeaning": "好きなもの",
+    "examples": {
+      "B": "ハイキングはちょっと苦手なんだよね。",
+      "C": "元カノのこと、忘れられないんだ。",
+      "D": "このプロジェクト、君にリードしてほしいんだ。",
+      "E": "確か、色を選んだのは彼女だったよね。"
+    }
+  },
+  {
+    "number": 741,
+    "headword": "social chameleon",
+    "japaneseMeaning": "社交的な人",
+    "examples": {
+      "B": "彼女、だいぶ社交的なタイプだよね。",
+      "C": "週末、遊ぼうよ。",
+      "D": "これぞ真の愛だね。",
+      "E": "お腹すいてる？ / まあ、すいてるかも。"
+    }
+  },
+  {
+    "number": 742,
+    "headword": "check up on",
+    "japaneseMeaning": "様子を見る",
+    "examples": {
+      "B": "様子見に来てくれてありがとう。",
+      "C": "もう寝た方がいいんじゃない。",
+      "D": "昨日の夜すごく疲れてたけど、今はどう？ 具合は？",
+      "E": "休めるうちに休んどきな。"
+    }
+  },
+  {
+    "number": 743,
+    "headword": "wear out",
+    "japaneseMeaning": "使い古す",
+    "examples": {
+      "B": "お気に入りのシャツ、すっかりボロボロだ。",
+      "C": "JALじゃ行けないよ。予算がギリギリなんだから。",
+      "D": "じゃあ、皿洗いはあなたがやってよ。",
+      "E": "二次会には行きたいんだけど、疲れちゃってて。"
+    }
+  },
+  {
+    "number": 744,
+    "headword": "shape up",
+    "japaneseMeaning": "しっかりする",
+    "examples": {
+      "B": "もっとしっかりしないと、クビにされるよ。",
+      "C": "えー、またテストか！",
+      "D": "彼、刑務所から逃げ出したんだって。",
+      "E": "チームから追い出されちゃったんだ。"
+    }
+  },
+  {
+    "number": 745,
+    "headword": "yeet",
+    "japaneseMeaning": "放り投げる",
+    "examples": {
+      "B": "彼、私のペットボトルを掴んでゴミ箱に放り投げたんだ。",
+      "C": "なにこれ！？ 誰がこんなに散らかしたの！",
+      "D": "うそでしょ。そんな大金なの？",
+      "E": "虫が本当に苦手なんだよね。"
+    }
+  },
+  {
+    "number": 746,
+    "headword": "dilly-dally",
+    "japaneseMeaning": "だらだらする",
+    "examples": {
+      "B": "だらだらしないで、もう行こうよ！"
+    }
+  }
+]

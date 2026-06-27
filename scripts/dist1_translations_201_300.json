@@ -1,0 +1,1002 @@
+{
+  "201": {
+    "nativeDefinition": "Small items or parts of different kinds; scattered pieces rather than a whole.",
+    "japaneseMeaning": "断片的なもの、あちこちの小さな部分",
+    "etymology": "bit（小片）と piece（部分）を並べた表現で、ばらばらの小さなものを指す。",
+    "examples": {
+      "B": "いろいろ少しずつ試したいから、お弁当にしよう。",
+      "C": "記事が長くて退屈だったので、断片的にしか読まなかった。",
+      "D": "さまざまな種類の小さなもの、小さな部分"
+    }
+  },
+  "202": {
+    "nativeDefinition": "A positive aspect or hopeful side in an otherwise difficult or negative situation.",
+    "japaneseMeaning": "一筋の光明、良い面",
+    "etymology": "「暗い雲の銀の縁」というイディオムから、悪い状況の中の希望を表す。",
+    "examples": {
+      "B": "足を骨折したことの良い面は、来週は仕事に行かなくていいことだ。",
+      "C": "大恐慌にも一筋の光明があった。その時期、食生活の変化で米国の平均寿命は伸びた。",
+      "D": "ポジティブな側面"
+    }
+  },
+  "203": {
+    "nativeDefinition": "To take something seriously and be deeply affected by it, especially criticism or comments.",
+    "japaneseMeaning": "（何かを）深く受け止める、心に留める",
+    "etymology": "heart（心）に取り込むという比喩で、言葉を真剣に受け止めることを表す。",
+    "examples": {
+      "B": "マットは今日イライラしているだけだから、彼のコメントを深く受け止めない方がいい。",
+      "C": "レイはエリックのフィードバックを深く受け止めたようだ。かなり動揺している。",
+      "D": "何かを真剣に受け止める"
+    }
+  },
+  "204": {
+    "nativeDefinition": "To set aside a topic or task temporarily and deal with it later.",
+    "japaneseMeaning": "（話題・作業を）保留にする、脇に置く",
+    "etymology": "車を駐車場に停める park から、話題を一旦脇に置くビジネス慣用句。",
+    "examples": {
+      "B": "この質問は今は保留にできない？今、他に片付けたい問題がいくつかあって。",
+      "C": "この記事は今日中に終わらせなくていいから、一旦脇に置いて、まずこっちをやって。",
+      "D": "何かを後回しにする"
+    }
+  },
+  "205": {
+    "nativeDefinition": "By any means necessary, whether fair or unfair, to achieve a goal.",
+    "japaneseMeaning": "何としてでも、手段を選ばずに",
+    "etymology": "hook（鉤）と crook（曲がった棒）という道具を使うという古い表現から、手段を問わないことを表す。",
+    "examples": {
+      "B": "金曜日までに何としてでも本の執筆を終わらせる。",
+      "C": "アダムはいつも何としてでもタイムシートを期限内に提出する。",
+      "D": "どんな手段を使ってでも"
+    }
+  },
+  "206": {
+    "nativeDefinition": "A quick review to verify that something is reasonable, logical, or roughly correct.",
+    "japaneseMeaning": "妥当性チェック、大まかな確認",
+    "etymology": "sense（常識・意味）を check（確認する）したビジネス用語。",
+    "examples": {
+      "B": "会社の業績の妥当性チェックをしよう。直近の売上を過去の傾向と比較して。",
+      "C": "計算の妥当性チェックをしてもらえる？だいたい合っているか確認したい。",
+      "D": "見直す"
+    }
+  },
+  "207": {
+    "nativeDefinition": "Completely unable to answer or solve something; baffled.",
+    "japaneseMeaning": "途方に暮れる、答えが出ない",
+    "etymology": "stump（切り株）にぶつかって行き詰まるイメージから、難問に困ることを表す。",
+    "examples": {
+      "B": "あの数学の問題には本当に途方に暮れた。",
+      "C": "ジョンはロビンの質問に答えられず、予想外だった。",
+      "D": "混乱している"
+    }
+  },
+  "208": {
+    "nativeDefinition": "To return to a topic or person later in a discussion or follow up with someone.",
+    "japaneseMeaning": "（話題・人に）戻る、後でフォローする",
+    "etymology": "circle（円）で話題を一周して戻るというビジネス会議の表現。",
+    "examples": {
+      "B": "先ほどヘンリーが言った点に戻ってもいい？",
+      "C": "チャールズと話してから、あなたの質問に改めて返事するね。",
+      "D": "何かや誰かに戻る"
+    }
+  },
+  "209": {
+    "nativeDefinition": "A person who demands a lot from others and is difficult to please as a boss or leader.",
+    "japaneseMeaning": "厳しい上司、手のかかる人",
+    "etymology": "taskmaster（作業監督者）に hard（厳しい）を付け、過度に要求する人を表す。",
+    "examples": {
+      "B": "グレンの上司は厳しい人だ。",
+      "C": "彼女の下で働くのは嫌だ。本当に手がかかる上司なんだ。",
+      "D": "過度に要求する人"
+    }
+  },
+  "210": {
+    "nativeDefinition": "Completely different; like two opposites.",
+    "japaneseMeaning": "まるで別人のようだ、正反対",
+    "etymology": "夜と昼という対極から、全く異なることを比喩的に表す。",
+    "examples": {
+      "B": "ケリーは仕事中と仕事後ではまるで別人だ。",
+      "C": "兄と僕は正反対だ。",
+      "D": "全く違う"
+    }
+  },
+  "211": {
+    "nativeDefinition": "To destroy someone's happy illusion or overly optimistic belief.",
+    "japaneseMeaning": "（人の）夢や期待を打ち砕く",
+    "etymology": "泡（bubble）を割るという比喩で、楽観的な幻想を壊すことを表す。",
+    "examples": {
+      "B": "夢を打ち砕くようで申し訳ないけど、次の昇給は思っていたほど大きくないよ。",
+      "C": "泡を割りたくないけど、誰かが彼にインスタの自撮りに誰も興味ないって伝える必要がある。",
+      "D": "人の前向きな見方を突然変える"
+    }
+  },
+  "212": {
+    "nativeDefinition": "To damage someone's reputation by saying bad things about them publicly.",
+    "japaneseMeaning": "（人の）評判を貶す、名前を汚す",
+    "etymology": "泥の中に名前を引きずるという比喩で、名誉を傷つけることを表す。",
+    "examples": {
+      "B": "会議中、フランクの名前を本当に汚したね。",
+      "C": "チーム全体の失敗だったのに、誰かの名前を汚すのはやりすぎだと思う。",
+      "D": "誰かの評判を傷つける"
+    }
+  },
+  "213": {
+    "nativeDefinition": "A thorough, detailed investigation or analysis of a topic.",
+    "japaneseMeaning": "徹底的な調査・分析、深掘り",
+    "etymology": "deep（深い）＋ dive（潜る）で、表面ではなく深く掘り下げることを表すビジネス用語。",
+    "examples": {
+      "B": "デザイン部門がここ数年でなぜこんなに人が辞めているのか、深掘りすべきだ。",
+      "C": "マットはエラスターの電気代を深掘りして、異常に高い原因を突き止めた。",
+      "D": "詳細な分析"
+    }
+  },
+  "214": {
+    "nativeDefinition": "To be reducible to one essential factor or conclusion.",
+    "japaneseMeaning": "（結局は）～に帰する、要するに～だ",
+    "etymology": "煮詰めて（boil down）本質だけが残るイメージから、要点に集約されることを表す。",
+    "examples": {
+      "B": "このプロジェクトの成功は、コストを効果的に管理できるかどうかにかかっている。",
+      "C": "負け続けているのは、チームがゴールを十分に決められていないからだ。",
+      "D": "何かに要約される"
+    }
+  },
+  "215": {
+    "nativeDefinition": "To start something energetically and make immediate progress without delay.",
+    "japaneseMeaning": "すぐに全力で取りかかる、好調にスタートする",
+    "etymology": "地面に着地してすぐ走り出すイメージから、準備万端で始めることを表す。",
+    "examples": {
+      "B": "講義の前にノートを復習しておくと、講義にすぐ取りかかれる。",
+      "C": "パットは前夜の準備のおかげで、すぐに全力で取りかかれた。",
+      "D": "うまく始める"
+    }
+  },
+  "216": {
+    "nativeDefinition": "To be in a bad mood from the moment you wake up, for no clear reason.",
+    "japaneseMeaning": "寝起きが悪い、機嫌が悪い",
+    "etymology": "ベッドの「悪い方の側」から起きたという古い迷信に由来するイディオム。",
+    "examples": {
+      "B": "ティニーは今朝、寝起きが悪かったに違いない。",
+      "C": "今日の態度は申し訳ない。ただ寝起きが悪かっただけだ。",
+      "D": "不機嫌である"
+    }
+  },
+  "217": {
+    "nativeDefinition": "Something easy to achieve or obtain with little effort; an obvious target.",
+    "japaneseMeaning": "手軽に取れる成果、簡単なターゲット",
+    "etymology": "低い位置の実（low-hanging fruit）を簡単に摘めるという比喩から転じたビジネス用語。",
+    "examples": {
+      "B": "このプラットフォーム上の大多数のウェブサイトは、何年もハッカーにとって格好の標的だった。",
+      "C": "暗号資産への投資で儲けるのは難しくなってきた。手軽に取れる果実はもうほとんど摘み取られた。",
+      "D": "簡単に達成できる目標"
+    }
+  },
+  "218": {
+    "nativeDefinition": "An activity or conversation starter that helps people relax and get to know each other.",
+    "japaneseMeaning": "アイスブレイク、場を和ませるもの",
+    "etymology": "氷（ice）を割る（break）という直訳的な成り立ちで、緊張をほぐすことを表す。",
+    "examples": {
+      "B": "チームでランチに行くのはいいアイスブレイクになる。",
+      "C": "参加者がリラックスできるよう、アイスブレイクのゲームを企画しよう。",
+      "D": "知らない人同士が一緒にいるときに場を和ませる活動"
+    }
+  },
+  "219": {
+    "nativeDefinition": "To create a rough draft or model of something to show how it will look.",
+    "japaneseMeaning": "（何かの）試作品・たたきを作る",
+    "etymology": "mock（模擬の）＋ up（作り上げる）で、本番前の試作を表す。",
+    "examples": {
+      "B": "ライアンがプレゼンの試作版を作って、どう見えるか見せてくれる。",
+      "C": "間取り図の試作をいくつか作ってもらえる？",
+      "D": "何かの草案を作る"
+    }
+  },
+  "220": {
+    "nativeDefinition": "Approximately; about that amount or time.",
+    "japaneseMeaning": "～くらい、～ほど",
+    "etymology": "or so は「それくらい」という意味の口語的な付加表現。",
+    "examples": {
+      "B": "彼、30歳くらいだと思う。",
+      "C": "5時くらいに会える？",
+      "D": "およそ"
+    }
+  },
+  "221": {
+    "nativeDefinition": "A person who is competent in many different skills or areas rather than specializing in one.",
+    "japaneseMeaning": "何でも屋、多芸な人",
+    "etymology": "「あらゆる仕事のジャック（男）」という古い表現から、何でもこなす人を指す。",
+    "examples": {
+      "B": "アレックスは特定のポジションにこだわらず、何でも屋としてプレーする。",
+      "C": "彼は何でも屋として知られている。会計士からサッカーコーチ、さらにはコメディアンまでやってきた。",
+      "D": "多くの分野で能力のある人"
+    }
+  },
+  "222": {
+    "nativeDefinition": "Plain, ordinary, and unexciting; lacking distinctive character.",
+    "japaneseMeaning": "ありきたりの、地味な、無難な",
+    "etymology": "バニラ味が最も標準的で無難なフレーバーであることから、平凡さを表すスラング。",
+    "examples": {
+      "B": "天気はとてもありきたりな会話の話題だ。",
+      "C": "マイクはとても地味な人だ。",
+      "D": "退屈で平凡な"
+    }
+  },
+  "223": {
+    "nativeDefinition": "Stubborn and unwilling to change one's opinion or listen to others.",
+    "japaneseMeaning": "頑固な、意見を曲げない",
+    "etymology": "hard（硬い）＋ headed（頭の）で、頭が固くて融通が利かないことを表す。",
+    "examples": {
+      "B": "リディアは時々とても頑固だ。",
+      "C": "エイミーとの付き合いは難しい。すごく頑固なんだ。",
+      "D": "頑固な"
+    }
+  },
+  "224": {
+    "nativeDefinition": "To argue an opposing viewpoint for the sake of discussion, not because you believe it.",
+    "japaneseMeaning": "あえて反対意見を述べる、悪魔の代弁者をする",
+    "etymology": "カトリック教会の悪魔の代弁者（devil's advocate）の役から、議論のために反対側を演じることを表す。",
+    "examples": {
+      "B": "資金調達の一番早い方法はデイビッドに頼むって言ったよね？悪魔の代弁者をするけど、もっと信頼できる人はいないの？",
+      "C": "賢いことは良いことだと言うけど、あえて反対すると、賢いのがいいのにバカはダメと言えるのはなぜ？",
+      "D": "議論のために反対の立場を取る"
+    }
+  },
+  "225": {
+    "nativeDefinition": "To make something clear, definite, and well-formed in one's mind or plan.",
+    "japaneseMeaning": "（考え・計画を）明確にする、具体化する",
+    "etymology": "crystal（水晶）のように透明ではっきりさせるという比喩的用法。",
+    "examples": {
+      "B": "ディズニーランドに行くなら、いつも混んでいるから、どのアトラクションに行くか計画を具体化した方がいい。",
+      "C": "最終的な建物の姿を明確にするには、設計が実現可能かエンジニアに確認してもらう必要がある。",
+      "D": "何かを最終決定する"
+    }
+  },
+  "226": {
+    "nativeDefinition": "A deep and meaningful conversation about serious personal topics.",
+    "japaneseMeaning": "深い話、本音の会話（D&M）",
+    "etymology": "Deep and Meaningful（深くて意味のある）の頭文字 D&M から来たオーストラリア英語のスラング。",
+    "examples": {
+      "B": "ジャックと人生の進め方について深い話をした。",
+      "C": "昨日マークと彼の新しい彼女について深い話をした。",
+      "D": "深くて意味のある会話"
+    }
+  },
+  "227": {
+    "nativeDefinition": "A person who is outgoing, friendly, and enjoys interacting with others.",
+    "japaneseMeaning": "人付き合いがうまい人、社交的な人",
+    "etymology": "people（人々）＋ person（人）で、人と関わるのが得意な人を表す。",
+    "examples": {
+      "B": "ジリアンは本当に人付き合いがうまい。誰とでも会話を始められる。",
+      "C": "オリバーは間違いなく社交的な人だ。今日初めて会った同僚と何時間も話している。",
+      "D": "社交的な人"
+    }
+  },
+  "228": {
+    "nativeDefinition": "To successfully complete and deliver something, especially under pressure.",
+    "japaneseMeaning": "（仕事を）なんとか完了させる、ゴールまで持っていく",
+    "etymology": "ラグビーでボールをゴールライン越えに持っていくイメージから、仕事を完了させることを表す。",
+    "examples": {
+      "B": "この仕事をなんとか完了させて、今日は早く帰ろう。",
+      "C": "タルムは催促しないと課題を完了させられない。",
+      "D": "何かを完了する"
+    }
+  },
+  "229": {
+    "nativeDefinition": "To expand into new areas, markets, or activities beyond one's current scope.",
+    "japaneseMeaning": "（活動・事業を）拡大する、分野を広げる",
+    "etymology": "木の枝（branch）が広がるイメージから、事業や活動範囲を広げることを表す。",
+    "examples": {
+      "B": "そのシネマソフトウェア会社は、バーチャルリアリティなど他の市場にも進出し始めた。",
+      "C": "財務以外の経験を積むために、他の部署にも広げている。",
+      "D": "拡大する"
+    }
+  },
+  "230": {
+    "nativeDefinition": "Paid from one's own money rather than reimbursed; also temporarily unavailable.",
+    "japaneseMeaning": "自己負担で、自腹を切る",
+    "etymology": "pocket（ポケット）から自分のお金を出すという直訳的な成り立ち。",
+    "examples": {
+      "B": "保険証があれば、診察に来たとき自己負担は一切ない。",
+      "C": "会社がタクシー代を払ってくれなかったので、50ドル自腹になった。",
+      "D": "自分のお金を使う"
+    }
+  },
+  "231": {
+    "nativeDefinition": "To carefully refine and improve the wording of a text or document.",
+    "japaneseMeaning": "（文章を）推敲する、言葉を磨く",
+    "etymology": "wordsmith（言葉の職人）を動詞化し、文章を巧みに整えることを表す。",
+    "examples": {
+      "B": "送る前にレポートの文章をもう少し推敲する必要がある。",
+      "C": "明日このブログ記事を推敲すれば、公開できる。",
+      "D": "何かの言葉遣いを洗練する"
+    }
+  },
+  "232": {
+    "nativeDefinition": "Weakened, diluted, or made less intense or authentic than the original.",
+    "japaneseMeaning": "薄められた、力の抜けた",
+    "etymology": "水で薄める（water down）の過去分詞形から、本来の強さや本質が弱まったことを表す。",
+    "examples": {
+      "B": "iPhoneのOSは、Mac OS Xの力の抜けた版のようなものだ。",
+      "C": "Twitterが本当の僕で、Facebookは力の抜けた版の僕だと言える。",
+      "D": "薄められた"
+    }
+  },
+  "233": {
+    "nativeDefinition": "To try to get compliments from others indirectly, without asking directly.",
+    "japaneseMeaning": "褒め言葉をほのめかして求める",
+    "etymology": "釣り（fish）のように、間接的に褒め言葉を引き出すという比喩。",
+    "examples": {
+      "B": "自分の写真をたくさんアップするのは、褒め言葉を求めているんだよね？",
+      "C": "褒め言葉をほのめかして求めるのは人をイラつかせるかもしれないが、自信を高めるのには効果的なことも多い。",
+      "D": "間接的に褒め言葉を求める"
+    }
+  },
+  "234": {
+    "nativeDefinition": "To compromise by each side giving up part of what they want.",
+    "japaneseMeaning": "（人と）歩み寄る、妥協する",
+    "etymology": "halfway（中間地点）で会うという比喩で、互いに譲り合うことを表す。",
+    "examples": {
+      "B": "歩み寄ってくれれば、二人にとって良い結果にたどり着けると思う。",
+      "C": "ジェームズとキャンは歩み寄れずに苦労している。提案の多くの点で意見が対立している。",
+      "D": "誰かと妥協する"
+    }
+  },
+  "235": {
+    "nativeDefinition": "To remove unwanted people or things from a group through careful selection.",
+    "japaneseMeaning": "（不要なものを）ふるいにかける、排除する",
+    "etymology": "雑草（weed）を取り除く（weed out）イメージから、不要なものを選別して除去することを表す。",
+    "examples": {
+      "B": "履歴書のスクリーニングの目的は、基本的に不適格な候補者をふるいにかけることだ。",
+      "C": "政府は日本に入国する潜在的なテロリストを排除しようとしている。",
+      "D": "何かや誰かを隔離して除去する"
+    }
+  },
+  "236": {
+    "nativeDefinition": "One's spouse or romantic partner, used affectionately.",
+    "japaneseMeaning": "配偶者、パートナー（愛称）",
+    "etymology": "better half（より良い半分）という愛称で、自分の伴侶を指す。",
+    "examples": {
+      "B": "紹介させて。サム、僕のパートナーだ。",
+      "C": "彼女はパートナーが車を回しに行くのを待っている。",
+      "D": "大切な人"
+    }
+  },
+  "237": {
+    "nativeDefinition": "To pause or stop an activity temporarily before continuing.",
+    "japaneseMeaning": "一旦ストップする、一時停止する",
+    "etymology": "再生ボタンの pause（一時停止）を比喩的に使った口語表現。",
+    "examples": {
+      "B": "勉強しすぎて疲れたら、一旦ストップして少し休もう。",
+      "C": "この議論は一旦ストップしよう。続ける前にもう少し情報を集める必要がある。",
+      "D": "一時停止する"
+    }
+  },
+  "238": {
+    "nativeDefinition": "To gradually slow down, relax, or bring something to an end.",
+    "japaneseMeaning": "（活動を）落ち着かせる、ゆっくり終わらせる",
+    "etymology": "時計のゼンマイがゆるむ（wind down）イメージから、徐々にペースを落とすことを表す。",
+    "examples": {
+      "B": "家の建設は落ち着きつつあるから、来週からは騒音がかなり減るはずだ。",
+      "C": "来週は仕事を休んで、少し落ち着こうと思う。",
+      "D": "徐々にリラックスする"
+    }
+  },
+  "239": {
+    "nativeDefinition": "To make a large profit, especially quickly or unexpectedly.",
+    "japaneseMeaning": "大もうけする、ひと稼ぎする",
+    "etymology": "make a killing で「大儲けする」という口語表現。kill に「大成功する」の意味がある。",
+    "examples": {
+      "B": "テレサはラビットショーの南のキャロットで大もうけしている。",
+      "C": "スーは先月始めた副業で大もうけしている。",
+      "D": "たくさんのお金を稼ぐ"
+    }
+  },
+  "240": {
+    "nativeDefinition": "To make a guess when you have little or no information to go on.",
+    "japaneseMeaning": "当てずっぽうで答える、推測する",
+    "etymology": "暗闇の中で突き刺す（stab in the dark）イメージから、根拠なく推測することを表す。",
+    "examples": {
+      "B": "答えがわからなかったので、当てずっぽうで答えた。",
+      "C": "答えがわからなければ、当てずっぽうで答えた方がいい。何も言わないよりマシだ。",
+      "D": "完全に推測する"
+    }
+  },
+  "241": {
+    "nativeDefinition": "To regard something as possibly exaggerated or not fully trustworthy.",
+    "japaneseMeaning": "（話を）鵜呑みにしない、話半分に聞く",
+    "etymology": "塩（grain of salt）を加えて味を和らげるという古い比喩から、話を疑って受け止めることを表す。",
+    "examples": {
+      "B": "ジェフは片手で車を持ち上げられると言ったけど、僕は話半分に聞いた。",
+      "C": "ジョンはトレントの話を鵜呑みにしなかった。正しくなさそうだったから。",
+      "D": "懐疑的に見る"
+    }
+  },
+  "242": {
+    "nativeDefinition": "A custom or norm that everyone follows even though it is not officially written down.",
+    "japaneseMeaning": "暗黙のルール、不文律",
+    "etymology": "unwritten（書かれていない）＋ rule（規則）で、文書化されていない慣習を表す。",
+    "examples": {
+      "B": "電車では、空席が他にあるとき隣の席に座らないという暗黙のルールがある。",
+      "C": "日本には部屋に入るとき靴を脱ぐという暗黙のルールがある。",
+      "D": "誰もが従うが文書化されていない慣習"
+    }
+  },
+  "243": {
+    "nativeDefinition": "Making no real progress; staying in the same place without advancing.",
+    "japaneseMeaning": "足踏み状態、停滞している",
+    "etymology": "水の中で足踏み（tread water）するように、場所を動かずにがんばっている状態を表す。",
+    "examples": {
+      "B": "日本経済は20年以上足踏み状態が続いている。",
+      "C": "ネヴィルは次のステップがわからず、足踏み状態だ。",
+      "D": "進歩していない"
+    }
+  },
+  "244": {
+    "nativeDefinition": "Routine, unglamorous work that requires effort but little skill or creativity.",
+    "japaneseMeaning": "雑用、単純作業",
+    "etymology": "grunt（うめき声）＋ work（仕事）で、地味で骨の折れる作業を表す。",
+    "examples": {
+      "B": "このプロジェクトの雑用はもっと下の人にやってもらう必要がある。他にもいくつか仕事を抱えているから。",
+      "C": "雑用を他の誰かにやってもらえない？もっと複雑なことで手伝ってほしいんだ。",
+      "D": "単調な仕事"
+    }
+  },
+  "245": {
+    "nativeDefinition": "To keep one's plans, thoughts, or intentions secret and not reveal them.",
+    "japaneseMeaning": "（考え・計画を）秘密にする、カードを伏せる",
+    "etymology": "トランプでカードを胸（chest）に近づけて隠すイメージから、情報を秘匿することを表す。",
+    "examples": {
+      "B": "キムが何を考えているかは決してわからない。カードをとても伏せているから。",
+      "C": "次に誰が昇進するかみんな気になっているけど、上司はカードを伏せている。",
+      "D": "秘密主義である"
+    }
+  },
+  "246": {
+    "nativeDefinition": "So rare or unusual that it has never been known or experienced before.",
+    "japaneseMeaning": "前例のない、聞いたことがない",
+    "etymology": "un-（ない）＋ heard of（聞いたことがある）で、聞いたこともないほど稀なことを表す。",
+    "examples": {
+      "B": "ピンクのトラは前例がない。",
+      "C": "1年に100本のホームランを打つなんて前例がない。",
+      "D": "前例のない"
+    }
+  },
+  "247": {
+    "nativeDefinition": "To nominate or volunteer oneself as a candidate for a position or opportunity.",
+    "japaneseMeaning": "（候補として）名を挙げる、立候補する",
+    "etymology": "帽子（hat）に名前を入れて抽選に参加するという古い慣習に由来する。",
+    "examples": {
+      "B": "君は素晴らしい候補だと思うから、名を挙げるべきだよ。",
+      "C": "チャンスが面白そうだから、自分の名を挙げることにする。",
+      "D": "候補に名を挙げる"
+    }
+  },
+  "248": {
+    "nativeDefinition": "Too good, talented, or expensive for someone to realistically attain or deserve.",
+    "japaneseMeaning": "（自分には）高嶺の花、手が届かない",
+    "etymology": "スポーツのリーグ（league）から、自分のレベルを超えていることを表す。",
+    "examples": {
+      "B": "あの子が好きなんだけど、全然高嶺の花だ。",
+      "C": "あの一眼レフカメラは僕には高嶺の花だ。",
+      "D": "誰かには良すぎる、高すぎる"
+    }
+  },
+  "249": {
+    "nativeDefinition": "To recall and reflect on something from the past.",
+    "japaneseMeaning": "（過去のことを）振り返る、思い出す",
+    "etymology": "think（考える）＋ back（後ろへ）で、過去に意識を戻すことを表す。",
+    "examples": {
+      "B": "彼女は経済学の試験に遅刻したときのことを振り返った。",
+      "C": "先週の会議を振り返ってもらえれば、これはもう話し合ったはずだ。",
+      "D": "何かを思い出す"
+    }
+  },
+  "250": {
+    "nativeDefinition": "To abandon someone in a difficult situation without help or support.",
+    "japaneseMeaning": "（人を）見捨てる、困ったまま放り出す",
+    "etymology": "干上がった場所（high and dry）に置き去りにするという比喩から、助けずに見捨てることを表す。",
+    "examples": {
+      "B": "首相は、政府はホームレスの人々を見捨てないと言っている。",
+      "C": "クライアントに謝罪に行くから一緒に来て。一人で困ったまま放り出したくない。",
+      "D": "支援もなく見捨てる"
+    }
+  },
+  "251": {
+    "nativeDefinition": "A fortunate event or opportunity that happens by chance.",
+    "japaneseMeaning": "幸運な出来事、思いがけない好機",
+    "etymology": "lucky（幸運な）＋ break（チャンス）で、運よく訪れる好機を表す。",
+    "examples": {
+      "B": "成功したキャリアを築くには、どこかで幸運な出来事が必要だ。",
+      "C": "レストランは幸運な出来事があった。誰かが直前にキャンセルして、テーブルを予約できた。",
+      "D": "幸運な出来事"
+    }
+  },
+  "252": {
+    "nativeDefinition": "To make one's best effort and present oneself in the most favorable way.",
+    "japaneseMeaning": "全力を尽くす、ベストを尽くす",
+    "etymology": "best foot（良い足）を前に出すという古い表現から、最善を尽くすことを表す。",
+    "examples": {
+      "B": "ガブリエルは面接で全力を尽くした。",
+      "C": "全力を尽くさなければ試合に勝てない。",
+      "D": "最善を尽くす"
+    }
+  },
+  "253": {
+    "nativeDefinition": "To have the ultimate authority to make the final decision.",
+    "japaneseMeaning": "最終決定権を持つ",
+    "etymology": "final say（最終的な発言権）で、最後の決定を下す権限を表す。",
+    "examples": {
+      "B": "上司は重要な決定の前にいつも相談してくれるが、結局のところ最終決定権は彼にある。",
+      "C": "人は自分の未来を決める最終決定権を持つべきだと思う。",
+      "D": "最終決定を下す権限を持つ"
+    }
+  },
+  "254": {
+    "nativeDefinition": "To fail badly at an important opportunity through one's own mistake.",
+    "japaneseMeaning": "（チャンスを）台無しにする、失敗する",
+    "etymology": "blow it で「チャンスを吹き飛ばす」という口語表現。",
+    "examples": {
+      "B": "うちのチームは昨夜本当に台無しにした。ハーフタイムで大差をつけていたのに負けた。",
+      "C": "エミリーは面接で本当に台無しにした。",
+      "D": "チャンスを逃す"
+    }
+  },
+  "255": {
+    "nativeDefinition": "To fit perfectly in size, shape, or suitability.",
+    "japaneseMeaning": "ぴったり合う、手に馴染む",
+    "etymology": "手袋（glove）のように完璧にフィットするという比喩。",
+    "examples": {
+      "B": "この新しいジャケットはぴったり合う。",
+      "C": "食洗機はキッチンの隅にぴったり収まる。",
+      "D": "完璧に合う"
+    }
+  },
+  "256": {
+    "nativeDefinition": "To stop while you are still ahead, before luck turns against you.",
+    "japaneseMeaning": "勝っているうちにやめる、好調のうちに止める",
+    "etymology": "勝っている（ahead）うちにやめるというギャンブル由来の知恵。",
+    "examples": {
+      "B": "トムはカジノで100ドル勝っていたので、勝っているうちにやめた。",
+      "C": "事業を売却しよう。好調のうちにやめることが大事だ。",
+      "D": "有利な状況のうちにやめる"
+    }
+  },
+  "257": {
+    "nativeDefinition": "To reverse a negative situation and make it positive or successful.",
+    "japaneseMeaning": "（状況を）好転させる、立て直す",
+    "etymology": "turn around（方向を変える）で、悪い状況を逆転させることを表す。",
+    "examples": {
+      "B": "会社には多くの問題があったが、新CEOがなんとか立て直した。",
+      "C": "自信を失っているけど、なんとか立て直すよう最善を尽くす。",
+      "D": "マイナス状況を逆転させる"
+    }
+  },
+  "258": {
+    "nativeDefinition": "To reveal one's plans, intentions, or strategy, especially too early.",
+    "japaneseMeaning": "（手の内・計画を）明かす、カードを見せる",
+    "etymology": "トランプで手札（hand）を見せることから、戦略を明かすことを表す。",
+    "examples": {
+      "B": "ビジネス交渉では、すぐに手の内を明かしてはいけない。",
+      "C": "新製品の発表はまだ控えよう。競合に早く手の内を明かすのは賢くない。",
+      "D": "計画や意図を明かす"
+    }
+  },
+  "259": {
+    "nativeDefinition": "Approximately; used especially for dates and numbers.",
+    "japaneseMeaning": "およそ、～頃（年代・数値）",
+    "etymology": "ラテン語 circa（およそ）がそのまま英語に入った語。",
+    "examples": {
+      "B": "マクドナルドは1960年頃に設立された。",
+      "C": "昨年の利益はおよそ200万ドルだった。",
+      "D": "およそ"
+    }
+  },
+  "260": {
+    "nativeDefinition": "To make something more lively, attractive, or exciting.",
+    "japaneseMeaning": "（何かを）華やかにする、味付けする",
+    "etymology": "ジャズ音楽のように華やかにするという比喩的用法。",
+    "examples": {
+      "B": "壁をライトグリーンに塗って家を華やかにするつもりだ。",
+      "C": "ブレットはLEDライトを付けて車を華やかにした。",
+      "D": "何かをもっと魅力的にする"
+    }
+  },
+  "261": {
+    "nativeDefinition": "To be very noticeable and out of place in an awkward or unwanted way.",
+    "japaneseMeaning": "目立ちすぎる、場違いで浮いている",
+    "etymology": "痛い親指（sore thumb）のように目立つという比喩。",
+    "examples": {
+      "B": "明るい色の車に汚れがあると、目立ちすぎる。",
+      "C": "ブラックタイのイベントで明るいスーツを着たので、マットは場違いで浮いていた。",
+      "D": "悪い意味でとても目立つ"
+    }
+  },
+  "262": {
+    "nativeDefinition": "Born into a wealthy family and having had privileges from birth.",
+    "japaneseMeaning": "生まれながらの金持ち、恵まれた環境で育った",
+    "etymology": "銀のスプーンを口にくわえて生まれたという比喩で、裕福な家系に生まれたことを表す。",
+    "examples": {
+      "B": "ウィルは生まれながらの金持ちだから、あまり働く必要がない。",
+      "C": "トレントは挫折への対処が苦手で、恵まれた環境で育ったように見える。",
+      "D": "裕福な家庭に生まれた"
+    }
+  },
+  "263": {
+    "nativeDefinition": "Uncertain; not yet decided whether something will succeed or happen.",
+    "japaneseMeaning": "あやふやだ、どうなるかわからない",
+    "etymology": "一瞬触れてすぐ離れる（touch and go）イメージから、不安定で結果がわからないことを表す。",
+    "examples": {
+      "B": "パーティーに行けるかはあやふやだ。その夜は他にも予定がある。",
+      "C": "資金調達が確保できるまで、プロジェクトはあやふやな状態が続く。",
+      "D": "不確実な"
+    }
+  },
+  "264": {
+    "nativeDefinition": "To leave a place quickly (informal).",
+    "japaneseMeaning": "（場所から）さっさと帰る、出る",
+    "etymology": "弾む（bounce）ように素早く立ち去るというスラング。",
+    "examples": {
+      "B": "遅くなってきたから、そろそろ帰ろう。",
+      "C": "ここつまらない。帰ろう。",
+      "D": "去る"
+    }
+  },
+  "265": {
+    "nativeDefinition": "Operating and ready to use after setup or repair.",
+    "japaneseMeaning": "稼働している、正常に動いている",
+    "etymology": "起動して走り出す（up and running）イメージから、正常に機能していることを表す。",
+    "examples": {
+      "B": "今朝、車を稼働させるのに数時間かかった。",
+      "C": "数週間の修理を経て、飛行機はついに稼働した。",
+      "D": "稼働中の"
+    }
+  },
+  "266": {
+    "nativeDefinition": "Private, embarrassing, or scandalous personal matters that should not be made public.",
+    "japaneseMeaning": "家の汚れ、恥ずべき秘密",
+    "etymology": "洗濯物（laundry）を外に干す（air）ことから、家庭の内情を公にすることを表す。",
+    "examples": {
+      "B": "父が実はコストプレイヤーだとは言わなかった。家の汚れを晒したくなかったから。",
+      "C": "その政治家は多くの汚点を隠している。",
+      "D": "非常に私的で個人的な事柄"
+    }
+  },
+  "267": {
+    "nativeDefinition": "To cause trouble or disturb the status quo by challenging how things are done.",
+    "japaneseMeaning": "波風を立てる、現状を揺さぶる",
+    "etymology": "ボートを揺らして転覆させる（rock the boat）イメージから、平穏を乱すことを表す。",
+    "examples": {
+      "B": "波風を立てたいわけじゃないけど、僕たちのアプローチは間違っていると思う。",
+      "C": "一度に人を雇いすぎると、不必要に波風が立つと思う。",
+      "D": "混乱を招く"
+    }
+  },
+  "268": {
+    "nativeDefinition": "To give official permission or approval to proceed with something.",
+    "japaneseMeaning": "ゴーサインを出す、許可を与える",
+    "etymology": "交通の青信号（green light）から、進行の許可を表す。",
+    "examples": {
+      "B": "ミシェルがゴーサインを出したので、プロジェクトの調査フェーズを始めた。",
+      "C": "クライアントが待ちきれないので、建設開始のゴーサインを出すべきだ。",
+      "D": "許可を与える"
+    }
+  },
+  "269": {
+    "nativeDefinition": "Fixed and impossible to change; permanently decided.",
+    "japaneseMeaning": "確定している、覆せない",
+    "etymology": "石（stone）に刻む（set）イメージから、変更不可能なことを表す。",
+    "examples": {
+      "B": "結婚式の日付は確定している。ゲストはもう航空券を予約済みで、デポジットも払った。",
+      "C": "ディスコの2日目はまだ確定していない。何も予約していないから。",
+      "D": "変更できない"
+    }
+  },
+  "270": {
+    "nativeDefinition": "A compliment that sounds positive but actually contains an insult or criticism.",
+    "japaneseMeaning": "嫌味な褒め言葉、皮肉なお世辞",
+    "etymology": "テニスのバックハンドのように、褒め言葉の裏に否定的な意味が隠れていることから。",
+    "examples": {
+      "B": "あの女性が「その髪型好き、刈りたての芝みたい」と言ったよね。これって嫌味な褒め言葉じゃない？",
+      "C": "キャシーが彼女に「低身長の子はサイハイブーツ履けないと思ってたけど、君は素敵」と言った。嫌味な褒め言葉だ。",
+      "D": "否定的な含みもある褒め言葉"
+    }
+  },
+  "271": {
+    "nativeDefinition": "To praise someone enthusiastically to others.",
+    "japaneseMeaning": "（人の）ことを褒めちぎる、絶賛する",
+    "etymology": "歌うように（sing）人の良さを称える（praises）という表現。",
+    "examples": {
+      "B": "ジョンはあなたと働くのが本当に好きみたいだ。彼女のことを褒めちぎっている。",
+      "C": "採用担当にあなたのことを褒めちぎっているから、仕事は簡単に取れるはずだ。",
+      "D": "熱心に誰かを褒める"
+    }
+  },
+  "272": {
+    "nativeDefinition": "Credit or recognition given to someone for their achievement (informal).",
+    "japaneseMeaning": "（人に）敬意を表す、称賛する",
+    "etymology": "proper respect（正当な敬意）を短縮したスラング。ヒップホップ文化から広まった。",
+    "examples": {
+      "B": "結婚式の準備を手伝ってくれたダニーに敬意を表する。",
+      "C": "ITの問題を手伝ってくれたジェイミーに称賛を送る。",
+      "D": "誰かへの評価"
+    }
+  },
+  "273": {
+    "nativeDefinition": "Starting fresh without being affected by past mistakes or history.",
+    "japaneseMeaning": "白紙の状態で、過去のしがらみなく",
+    "etymology": "clean slate（きれいな石板）から、過去の記録のない新しいスタートを表す。",
+    "examples": {
+      "B": "海外に移住すれば、キャリアを白紙の状態から始められる。",
+      "C": "このプレゼンは白紙の状態から作り直そう。",
+      "D": "過去の影響を受けない状態で"
+    }
+  },
+  "274": {
+    "nativeDefinition": "A persistent feeling of resentment or grievance that makes someone easily offended.",
+    "japaneseMeaning": "負い目、いつも不満を抱えている態度",
+    "etymology": "肩に木片（chip）を乗せているイメージから、古い恨みを抱え続けることを表す。",
+    "examples": {
+      "B": "ジェームズはトップ5に入れなかった後、負い目を抱えていると言う。",
+      "C": "マイケルはいつも負い目を抱えながらプレーする選手だ。",
+      "D": "怒りや不満を抱えた態度"
+    }
+  },
+  "275": {
+    "nativeDefinition": "Hurry up; move quickly (informal, often playful).",
+    "japaneseMeaning": "早く早く、急いで",
+    "etymology": "中国語の「速速（すくすく）」に由来するとされる、英語に取り入れられた表現。",
+    "examples": {
+      "B": "早く早く。1時間後に飛行機だよ。",
+      "C": "さあ、早く早く、行こう。",
+      "D": "急いで"
+    }
+  },
+  "276": {
+    "nativeDefinition": "Very calm and composed, especially under pressure.",
+    "japaneseMeaning": "冷静沈着な、動じない",
+    "etymology": "きゅうり（cucumber）が冷たくて落ち着いていることから、冷静さを表すイディオム。",
+    "examples": {
+      "B": "一日中お客から厳しい質問を受けていたが、ライアンは冷静沈着だった。",
+      "C": "その選手は大きなプレッシャーの下でも冷静沈着だった。",
+      "D": "とても冷静な"
+    }
+  },
+  "277": {
+    "nativeDefinition": "To start working hard and seriously on something.",
+    "japaneseMeaning": "本気で取り組む、腰を据えてやる",
+    "etymology": "こぶし（knuckle）をついて真剣に作業するイメージから、本気で取り組むことを表す。",
+    "examples": {
+      "B": "イアンは腰を据えて試験勉強を始めた。",
+      "C": "腰を据えてこのプロジェクトを完了させよう。",
+      "D": "真剣になる"
+    }
+  },
+  "278": {
+    "nativeDefinition": "The key point or lesson learned from something.",
+    "japaneseMeaning": "要点、学び",
+    "etymology": "take away（持ち帰る）から、持ち帰るべき要点という意味でビジネス用語化。",
+    "examples": {
+      "B": "この研修から得た3つの要点を教えてもらえる？",
+      "C": "会議の主な学びは、市場がどれほど競争的になったかということだった。",
+      "D": "重要なポイント"
+    }
+  },
+  "279": {
+    "nativeDefinition": "A brief summary of the main points.",
+    "japaneseMeaning": "要約、おさらい",
+    "etymology": "recapitulate（要約する）の短縮形。",
+    "examples": {
+      "B": "始める前に、先週扱った内容を簡単におさらいする。",
+      "C": "シーズン2の前に簡単なおさらいとして、シーズン1で何が起きたか振り返ろう。",
+      "D": "概要"
+    }
+  },
+  "280": {
+    "nativeDefinition": "To sound familiar, as if you have heard or seen it before.",
+    "japaneseMeaning": "聞き覚えがある、ピンと来る",
+    "etymology": "鐘（bell）が鳴るように、記憶に響くという比喩。",
+    "examples": {
+      "B": "クリス・リーという名前は聞き覚えがないかもしれないが、中国ではとても有名な歌手だ。",
+      "C": "その曲は聞き覚えがあるけど、曲名が出てこない。",
+      "D": "聞き覚えがある"
+    }
+  },
+  "281": {
+    "nativeDefinition": "To speak honestly and directly, even if it is uncomfortable.",
+    "japaneseMeaning": "はっきり物を言う、率直に言う",
+    "etymology": "スペードをスペードと呼ぶ（call a spade a spade）古い表現から、遠回しに言わず率直に話すことを表す。",
+    "examples": {
+      "B": "はっきり言おう。リックに彼のプランはうまくいっていないと伝えよう。",
+      "C": "エムのフィードバックはありがたい。彼女ははっきり物を言うから。",
+      "D": "率直にはっきり話す"
+    }
+  },
+  "282": {
+    "nativeDefinition": "To concentrate more work or effort at the beginning of a process.",
+    "japaneseMeaning": "（作業を）前倒しする、序盤に集中させる",
+    "etymology": "front（前）＋ load（負荷）で、初期段階により多くを割り当てることを表す。",
+    "examples": {
+      "B": "ジョンは昼のうちに米を準備して、夕食の調理を前倒しした。",
+      "C": "プロジェクトの初期にもっと人員を割り当てれば、作業を前倒しできる？",
+      "D": "初期段階に多くを集中させる"
+    }
+  },
+  "283": {
+    "nativeDefinition": "To provide something gradually in small amounts over time.",
+    "japaneseMeaning": "（情報などを）少しずつ提供する、滴下させる",
+    "etymology": "点滴（drip-feed）のように、少しずつ時間をかけて与えることを表す。",
+    "examples": {
+      "B": "完成した文書から順に少しずつ送っていくね。",
+      "C": "編集が終わるたびに、写真を1日1枚ずつ送っていくよ。",
+      "D": "徐々に少しずつ提供する"
+    }
+  },
+  "284": {
+    "nativeDefinition": "A pointless search or pursuit that wastes time and effort.",
+    "japaneseMeaning": "無駄な追いかけ、はずれの探し物",
+    "etymology": "野生のガチョウを追いかける無意味な狩りの話に由来するイディオム。",
+    "examples": {
+      "B": "今朝は無料Wi-Fiを探してはずれの探し物をしていた。",
+      "C": "ランチのレストランを予約しておこう。食べる場所を探して無駄に歩き回るのは嫌だ。",
+      "D": "無意味な活動"
+    }
+  },
+  "285": {
+    "nativeDefinition": "To make something or someone look neater, cleaner, or more attractive.",
+    "japaneseMeaning": "（見た目を）きれいにする、おしゃれに整える",
+    "etymology": "spruce（トウヒ）を整えることから、身なりや見た目を整えることを表す。",
+    "examples": {
+      "B": "送る前にプレゼンスライドの見た目を整える。",
+      "C": "人を招く前に家をきれいに整えよう。",
+      "D": "何かや誰かを見た目よくする"
+    }
+  },
+  "286": {
+    "nativeDefinition": "To imagine oneself in another person's situation to understand their feelings.",
+    "japaneseMeaning": "（人の）立場になって考える、相手の気持ちを理解する",
+    "etymology": "相手の靴（shoes）を履いて歩くイメージから、相手の視点で考えることを表す。",
+    "examples": {
+      "B": "顧客のニーズを理解するには、彼らの立場になって考える必要がある。",
+      "C": "サイモンの立場になって、今何を感じているか理解してみて。",
+      "D": "誰かの視点から見る"
+    }
+  },
+  "287": {
+    "nativeDefinition": "To expend effort without making any real progress.",
+    "japaneseMeaning": "空回りする、進展がない",
+    "etymology": "車輪（wheels）が空転（spin）するように、努力しても前に進まないことを表す。",
+    "examples": {
+      "B": "明確な計画がないので、チームは先週から空回りしている。",
+      "C": "リーダーシップがないと、空回りするだけだ。",
+      "D": "努力しても進展しない"
+    }
+  },
+  "288": {
+    "nativeDefinition": "To speak to someone as if they are inferior or less intelligent.",
+    "japaneseMeaning": "（人を）見下した口調で話す、小馬鹿にする",
+    "etymology": "上から下（down）に向かって話すイメージから、見下した態度で話すことを表す。",
+    "examples": {
+      "B": "セレナはいつも僕を見下した口調で話す気がする。",
+      "C": "ブライアンは見下した口調で話すから、人を不快にさせる。",
+      "D": "見下した態度で話す"
+    }
+  },
+  "289": {
+    "nativeDefinition": "Excessively self-confident and believing oneself to be superior to others.",
+    "japaneseMeaning": "うぬぼれている、自己陶酔している",
+    "etymology": "full of oneself で「自分自身でいっぱい」、つまり自己中心でうぬぼれていることを表す。",
+    "examples": {
+      "B": "アキはとてもうぬぼれていて、自分だけは他の人ほど頑張らなくていいと思っている。",
+      "C": "レオンはチームにいらない。ちょっとうぬぼれているから、他のメンバーを不快にさせるかもしれない。",
+      "D": "自己中心的な"
+    }
+  },
+  "290": {
+    "nativeDefinition": "A brief overview or quick summary of a situation or data.",
+    "japaneseMeaning": "概要、スナップショット",
+    "etymology": "snapshot（瞬間写真）から、ある時点の概要を表すビジネス用語。",
+    "examples": {
+      "B": "PowerPointプレゼンは、複雑なデータの概要を示すのに適している。",
+      "C": "その図は日本の人口統計のとても良い概要を示していた。",
+      "D": "要約"
+    }
+  },
+  "291": {
+    "nativeDefinition": "Extremely difficult and frustrating, as if pulling teeth one by one.",
+    "japaneseMeaning": "骨が折れる、非常に困難",
+    "etymology": "歯を1本ずつ抜くほど大変という比喩から、非常に困難なことを表す。",
+    "examples": {
+      "B": "銀行からわずか10ドルのローンを借りるのは骨が折れる。",
+      "C": "グレッグを時間通りに来させるのは骨が折れる。いつも遅刻する。",
+      "D": "非常に難しい"
+    }
+  },
+  "292": {
+    "nativeDefinition": "To finally make an important decision and take action.",
+    "japaneseMeaning": "（決断して）実行に移す、引き金を引く",
+    "etymology": "銃の引き金（trigger）を引くイメージから、決断して行動に移すことを表す。",
+    "examples": {
+      "B": "値段は高かったが、リズは決断してボートを買った。",
+      "C": "決断して家を買おう。",
+      "D": "決断する"
+    }
+  },
+  "293": {
+    "nativeDefinition": "Seeming unreliable, suspicious, or of questionable quality.",
+    "japaneseMeaning": "怪しい、あやしい",
+    "etymology": "sketch（素描）のように未完成で粗いことから、怪しい・不安な印象を表すスラング。",
+    "examples": {
+      "B": "怪しいセールスマンと付き合うのはうんざりだ。",
+      "C": "ノートPCのカメラにテープを貼っている人を見るたび、すごく怪しいと思う。",
+      "D": "疑わしい"
+    }
+  },
+  "294": {
+    "nativeDefinition": "Every possible thing; a very wide range of things.",
+    "japaneseMeaning": "ありとあらゆるもの、世の中のすべて",
+    "etymology": "太陽の下（under the sun）にあるすべてという聖書的な表現から。",
+    "examples": {
+      "B": "スーパーですべてを買わないで。二人分の夕食を作るだけだよ。",
+      "C": "アーロンのスピーチは長すぎた。ありとあらゆることをカバーしようとしたから。",
+      "D": "さまざまな多くのもの"
+    }
+  },
+  "295": {
+    "nativeDefinition": "Official permission or approval to proceed with something.",
+    "japaneseMeaning": "ゴーサイン、許可",
+    "etymology": "go ahead（先に進め）から名詞化し、正式な許可を表す。",
+    "examples": {
+      "B": "彼女が新しいポルシェを買うゴーサインをくれた。",
+      "C": "マネージャーからゴーサインが出れば、新製品の開発を始められる。",
+      "D": "許可"
+    }
+  },
+  "296": {
+    "nativeDefinition": "To increase something significantly, especially activity, production, or effort.",
+    "japaneseMeaning": "（何かを）大幅に増やす、強化する",
+    "etymology": "ramp（傾斜路）を上るように、段階的に増加させることを表す。",
+    "examples": {
+      "B": "OPECが石油生産を大幅に増やせば、通常は価格が下がる。しかし今回は予想外に跳ね上がった。",
+      "C": "警察はNYCマラソンのために警備を強化する予定だ。",
+      "D": "何かを増やす"
+    }
+  },
+  "297": {
+    "nativeDefinition": "To decide what to do as you go along, without a fixed plan.",
+    "japaneseMeaning": "臨機応変にやる、状況を見ながら進める",
+    "etymology": "楽譜なしで耳で聴いて演奏する（play by ear）ことから、即興で対応することを表す。",
+    "examples": {
+      "B": "臨機応変にやって、様子を見るしかない。",
+      "C": "パーティーに何を持っていけばいいかわからない。まあ、臨機応変にやるよ。",
+      "D": "即興で対応する"
+    }
+  },
+  "298": {
+    "nativeDefinition": "To make something unpleasant sound more pleasant or acceptable than it really is.",
+    "japaneseMeaning": "（悪いことを）お世辞を言ってごまかす、美化する",
+    "etymology": "砂糖（sugar）でコーティングするように、厳しい内容を甘く包むことを表す。",
+    "examples": {
+      "B": "ネガティブなフィードバックをお世辞でごまかす方法はいくつかある。",
+      "C": "悪い知らせは正直に伝えた方がいい。お世辞でごまかそうとするより。",
+      "D": "何かをより受け入れやすく見せる"
+    }
+  },
+  "299": {
+    "nativeDefinition": "Obsessive-Compulsive Disorder; also used informally to describe excessive neatness or fixation on details.",
+    "japaneseMeaning": "強迫性障害（OCD）、細部にこだわりすぎる",
+    "etymology": "Obsessive-Compulsive Disorder（強迫性障害）の略称。",
+    "examples": {
+      "B": "レポート全体でフォントを統一しよう。クライアントは細部にこだわりすぎる人だから。",
+      "C": "強迫性障害があるので、エレベーターのボタンやエスカレーターの手すりには触れられない。",
+      "D": "潔癖、きれい好きの異常なこだわり"
+    }
+  },
+  "300": {
+    "nativeDefinition": "Two things that seem different but are closely related aspects of the same underlying idea.",
+    "japaneseMeaning": "表裏一体、同じコインの両面",
+    "etymology": "同じコイン（coin）の両面（two sides）という比喩で、一見異なっても本質的に結びついていることを表す。",
+    "examples": {
+      "B": "思いやりのある人であることと、良い聞き手であることは表裏一体だ。",
+      "C": "成功と失敗は表裏一体だ。",
+      "D": "同じものの二つの見方"
+    }
+  }
+}

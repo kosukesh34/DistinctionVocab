@@ -19,4 +19,8 @@ struct ExampleSentence: Identifiable, Hashable, Sendable {
         guard let japaneseTranslation, !japaneseTranslation.isEmpty else { return nil }
         return japaneseTranslation
     }
+
+    var isParaphrase: Bool {
+        label.uppercased() == "D"
+    }
 }

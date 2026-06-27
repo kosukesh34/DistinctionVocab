@@ -1,0 +1,502 @@
+{
+  "101": {
+    "nativeDefinition": "Very detailed; broken down into small specific parts.",
+    "japaneseMeaning": "細かい、詳細な",
+    "etymology": "grain（粒）から派生。粒のように細かく分解された詳細を表す。",
+    "examples": {
+      "B": "この統計は細かすぎて使い物にならない。みんなが住んでる通りの名前まで知る必要はない、都市名だけでいい。",
+      "C": "僕が大切にしている仕事の原則は、全体像と細かい部分の両方を考え、それらがどう関わるかを理解することだ。",
+      "D": "詳細"
+    }
+  },
+  "102": {
+    "nativeDefinition": "What is your current progress or situation?",
+    "japaneseMeaning": "（進捗は）どうなってる？、今どの段階？",
+    "etymology": "where are you at で「今どの地点にいるか」、進捗状況を尋ねる口語表現。",
+    "examples": {
+      "B": "プレゼンの進捗どう？火曜までに終わらせないと。うちの会社の未来にとってどれだけ重要か、強調しても強調しきれない。",
+      "C": "「ゲーム・オブ・スローンズ」の読書進捗どう？僕はまだ半分も読んでない。先週よりページ数は少ないけど、すごくゆっくり進んでる。",
+      "D": "どのくらい進んでいる？"
+    }
+  },
+  "103": {
+    "nativeDefinition": "When you consider it more carefully.",
+    "japaneseMeaning": "よく考えてみると、考えてみれば",
+    "etymology": "think about it で「それについて考える」、深く考えるとというニュアンス。",
+    "examples": {
+      "B": "よく考えてみると、赤ちゃんって小さな酔っ払いみたいだよね。家の中を歩き回って転んで泣いてる。",
+      "C": "よく考えてみると、「OK」って横を向いた人に見えるよね。ごめん、想像力豊かすぎるかも。",
+      "D": "もっと注意深く考えると"
+    }
+  },
+  "104": {
+    "nativeDefinition": "Be quiet; stop talking.",
+    "japaneseMeaning": "黙れ、口を閉じて",
+    "etymology": "zip（ファスナーを閉める）it で、口をぱちっと閉じろという口語。",
+    "examples": {
+      "B": "黙って。もう文句は聞きたくない。あと一言でもネガティブなこと言ったら、ただじゃ済まないよ。",
+      "C": "イライラしたときは、頭の中のくだらないことを口に出さないよう黙っておいたほうがいい。",
+      "D": "静かにして"
+    }
+  },
+  "105": {
+    "nativeDefinition": "Easy to understand what someone is thinking or feeling.",
+    "japaneseMeaning": "（感情が）すぐわかる、読みやすい",
+    "etymology": "easy to read で「読みやすい」、人の気持ちが表情に出てわかりやすいこと。",
+    "examples": {
+      "B": "疲れてるときとかお腹空いてるとき、顔に全部出てるから読みやすいよね。まるでオープンブック。",
+      "C": "怒ってるときもすぐわかる。返信に何時間もかかるんだから。",
+      "D": "理解しやすい"
+    }
+  },
+  "106": {
+    "nativeDefinition": "A sudden dramatic increase or explosion in something.",
+    "japaneseMeaning": "（急激な）増加、ブーム",
+    "etymology": "擬音語 boom（ドーン）から、急激な増加を表す。",
+    "examples": {
+      "B": "この町への観光客の急増がすごい。レストランも対応しきれてない。",
+      "C": "フラッシュセール週の売上急増は、間違いなくSNS広告のおかげ。TwitterとInstagramが今の市場でかなり影響力ある。",
+      "D": "急増する"
+    }
+  },
+  "107": {
+    "nativeDefinition": "To have an important part or function in something.",
+    "japaneseMeaning": "（〜において）重要な役割を果たす",
+    "etymology": "have a role to play で「果たすべき役割がある」という表現。",
+    "examples": {
+      "B": "この会社の未来には、一人ひとりが果たすべき役割がある。目指す成功に到達するには総力戦が必要だ。",
+      "C": "スマホ依存の問題において、SNSは大きな役割を果たしている。",
+      "D": "責任がある"
+    }
+  },
+  "108": {
+    "nativeDefinition": "To have a strong liking for sweet foods.",
+    "japaneseMeaning": "甘いものが好きだ、甘党",
+    "etymology": "sweet tooth（甘い歯）で、甘いものへの欲求を表す慣用表現。",
+    "examples": {
+      "B": "今日すごく甘いものが食べたい。クリスピー・クリームのドーナツ買いに行かない？",
+      "C": "ダニーは本当の甘党で、パントリーがキャンディだらけ。毎日午後3時、まるで時計みたいにキッチンに行って糖分補給してる。",
+      "D": "甘いものが大好き"
+    }
+  },
+  "109": {
+    "nativeDefinition": "Skeptical until one sees proof.",
+    "japaneseMeaning": "見るまで信じない、本当かどうか疑ってる",
+    "etymology": "believe it when I see it で「見てからでないと信じない」という懐疑の表現。",
+    "examples": {
+      "B": "数学のテスト100点取ったの？見るまで信じないよ。",
+      "C": "宿題全部やって、ベッドメイクして、家も掃除した？見るまで信じないよ。",
+      "D": "信じない"
+    }
+  },
+  "110": {
+    "nativeDefinition": "Used to ask for someone's opinion on a suggestion.",
+    "japaneseMeaning": "それでどう？、いい感じ？",
+    "etymology": "how does that sound で「それはどう聞こえる？」、提案への反応を求める表現。",
+    "examples": {
+      "B": "あのピザ屋で夕飯食べて、映画館でアバターを見よう。それでどう？",
+      "C": "レポート遅れたから70%の評価にするね。それでどう？かなり甘くしてるよ、わかってる？",
+      "D": "それについてどう思う？"
+    }
+  },
+  "111": {
+    "nativeDefinition": "To stop bothering or pressuring someone.",
+    "japaneseMeaning": "（しつこくするのを）やめて、引いて",
+    "etymology": "back（後ろへ）＋ off（離れる）で、距離を取る・干渉をやめること。",
+    "examples": {
+      "B": "引いて、放っておいて。",
+      "C": "母親への電話、そろそろやめたほうがいいよ。35歳なんだから、大人になれ。",
+      "D": "やめる"
+    }
+  },
+  "112": {
+    "nativeDefinition": "To withdraw from participation; to quit.",
+    "japaneseMeaning": "（参加を）やめる、抜ける",
+    "etymology": "I'm out で「もう関わらない」「参加しない」という口語表現。",
+    "examples": {
+      "B": "今夜の夕飯に行くの？ごめん、行けない。残念だけど仕事が山積みなんだ。",
+      "C": "上司、伝えておきたいんだけど、もうやめる。この会社も理不尽な要求もうんざり。追い込まれたんだ。",
+      "D": "関わらないつもり"
+    }
+  },
+  "113": {
+    "nativeDefinition": "To resolve problems or smooth out difficulties.",
+    "japaneseMeaning": "（問題を）解決する、うまく調整する",
+    "etymology": "iron out はアイロンでしわを伸ばす比喩から、問題を解消すること。",
+    "examples": {
+      "B": "奥さんとのこと、うまく解決した？離婚が答えじゃないと思うよ。一緒にいるべきだ。",
+      "C": "このゲーム最高なんだけど、残念ながらバグがちらほらある。早く修正してほしい。",
+      "D": "何かを直す"
+    }
+  },
+  "114": {
+    "nativeDefinition": "From a different perspective or approach.",
+    "japaneseMeaning": "別の角度から、違う視点で",
+    "etymology": "angle（角度）で、物事を見る視点やアプローチのこと。",
+    "examples": {
+      "B": "この問題の解決に時間かかりすぎ。別のアプローチが必要だと思う。",
+      "C": "子どもができてから、人生を違う角度から見るようになった。",
+      "D": "別の視点から"
+    }
+  },
+  "115": {
+    "nativeDefinition": "To do something unacceptable that goes too far.",
+    "japaneseMeaning": "一線を越える、やりすぎる",
+    "etymology": "cross the line で「許容の一線を越える」という比喩。",
+    "examples": {
+      "B": "ジムが顔を殴ったとき、一線を越えた。その場ですぐノックアウトした。",
+      "C": "職場での不適切な発言の深刻さを軽視しちゃダメ。一線を越えたら戻れない。",
+      "D": "遠くまで行く"
+    }
+  },
+  "116": {
+    "nativeDefinition": "Sometimes you must do what is necessary, even if unpleasant.",
+    "japaneseMeaning": "やるしかない、必要ならやるしかない",
+    "etymology": "gotta do what you gotta do で「やるべきことをやるしかない」という表現。",
+    "examples": {
+      "B": "シミュレーションは明日締め切りだから、今日一晩中かけないといけないかも。最悪だけど、やるしかない。",
+      "C": "暴力は決して賛成しないけど、彼は君の彼女にキスしたんだ。スルーできないでしょ。時にはやるしかないこともある。",
+      "D": "必要なことをしなければならない"
+    }
+  },
+  "117": {
+    "nativeDefinition": "In theory; according to the written plan.",
+    "japaneseMeaning": "理論上は、書面上では",
+    "etymology": "on paper で「紙の上では」、理論と現実の対比で使われる。",
+    "examples": {
+      "B": "経済政策は理論上は素晴らしかったけど、現実ではうまくいかなかった。",
+      "C": "民主主義は理論上はいいけど、問題もある。たとえば意思決定が遅くなることがある。",
+      "D": "書類上"
+    }
+  },
+  "118": {
+    "nativeDefinition": "What do you mean by that? (often offended or confused)",
+    "japaneseMeaning": "それどういう意味？、皮肉でしょ？",
+    "etymology": "supposed to mean で「〜するはずの意味」、意図を問い詰める表現。",
+    "examples": {
+      "B": "もっと優しくしなきゃ？それどういう意味？僕は知ってる中で一番優しい人だよ。",
+      "C": "オリビアが「知ってる中で一番ハンサムな低身長の男」って。それどういう意味？曖昧なメッセージが大嫌い。",
+      "D": "侮辱された"
+    }
+  },
+  "119": {
+    "nativeDefinition": "Cannot risk doing something because the consequences would be too severe.",
+    "japaneseMeaning": "（〜する）余裕がない、〜できない",
+    "etymology": "can't afford to で「〜する余裕がない」、金銭以外にもリスクの意味で使う。",
+    "examples": {
+      "B": "この会社は赤字だから、バカなミスはする余裕がない。",
+      "C": "見逃せないお得なセールをやってる。詳細はウェブサイトをチェックして。",
+      "D": "してはいけない"
+    }
+  },
+  "120": {
+    "nativeDefinition": "To make someone feel uneasy or creeped out.",
+    "japaneseMeaning": "（人を）ぞっとさせる、気味悪くさせる",
+    "etymology": "the creeps は「ぞっとする感じ」、不快な違和感を表す。",
+    "examples": {
+      "B": "あいつの作り笑い、いつもぞっとする。バレバレなんだよね。",
+      "C": "ゴキブリってマジで気味悪い。好きじゃない。それは自明でしょ？",
+      "D": "誰かを不安にさせる"
+    }
+  },
+  "121": {
+    "nativeDefinition": "The truth is often painful to accept.",
+    "japaneseMeaning": "真実は辛い、耳が痛い",
+    "etymology": "the truth hurts で「真実は傷つく」、受け入れがたい現実を表す。",
+    "examples": {
+      "B": "真実は辛いけど、あいつは詐欺師だよ。まだお金送ってなくてよかった。",
+      "C": "去年コーヒーにいくら使ったか計算した。真実は辛いでしょ？",
+      "D": "現実は苦痛だ"
+    }
+  },
+  "122": {
+    "nativeDefinition": "Used when one has lost track of what they were saying.",
+    "japaneseMeaning": "何の話してたっけ、さっき何言ってた？",
+    "etymology": "what was I saying で話の途中で途切れたときに使う表現。",
+    "examples": {
+      "B": "何の話してたっけ？ああそう、ヨガよりログロープのほうがずっといい。あの子たちの体、マジでやばい。",
+      "C": "玄関開けて、待って電話来た。…よし、何の話してたっけ？ああ、両親の部屋で、ウシャーみたいに踊ってた。",
+      "D": "何を言っていたか忘れた"
+    }
+  },
+  "123": {
+    "nativeDefinition": "Not matching someone's personal preferences.",
+    "japaneseMeaning": "（人の）好みじゃない、趣味に合わない",
+    "etymology": "not to one's taste で「好みに合わない」という表現。",
+    "examples": {
+      "B": "あの絵、僕の好みじゃない。個人的な意見だけど、ゴッホのコピーに見える。",
+      "C": "ウィンタースポーツは僕の好みじゃない。あの重い服とブーツを着るのが大嫌い。",
+      "D": "誰かの好みではない"
+    }
+  },
+  "124": {
+    "nativeDefinition": "A person who pursues a relationship for money.",
+    "japaneseMeaning": "金目当ての人、ゴールドディガー",
+    "etymology": "gold（金）＋ digger（掘る人）で、金を狙う人を表す。",
+    "examples": {
+      "B": "元妻は本物のゴールドディガーだった。フェラーリ、豪邸、ブランド服、全部彼女のために買った。",
+      "C": "ジョン、スージーから離れなよ。確かに美人だけど、金目当てだよ。お金があるから好きなんだ。",
+      "D": "金銭的な利益のために関係を築く人"
+    }
+  },
+  "125": {
+    "nativeDefinition": "To try to catch up after falling behind.",
+    "japaneseMeaning": "（遅れを）取り戻そうとする、キャッチアップする",
+    "etymology": "play catch-up で「追いつこうとする」、スポーツ用語から転じた。",
+    "examples": {
+      "B": "最悪なスタートのせいで、チームはシーズン中ずっとキャッチアップしてる。",
+      "C": "今日バーベキュー行けない。オフィスで遅れを取り戻さないと。上司の代わりだから、仕方ない。",
+      "D": "追いつこうとする"
+    }
+  },
+  "126": {
+    "nativeDefinition": "To be very eager or impatient to do something.",
+    "japaneseMeaning": "（〜したくて）うずうずしている、じれじれする",
+    "etymology": "itch（かゆい）で、体がうずうずするほどやりたい気持ちを表す。",
+    "examples": {
+      "B": "今夜カラオケに行きたくてうずうずしてる。歌ってるときはネガティブな考えを全部ブロックできる。",
+      "C": "今朝からチーズバーガーが食べたくてたまらない。ナチョスで我慢するけど。",
+      "D": "とてもやりたがっている"
+    }
+  },
+  "127": {
+    "nativeDefinition": "Available for anyone to take or win.",
+    "japaneseMeaning": "（誰でも）獲得できる、争奪戦の状態",
+    "etymology": "up for grabs で「取りに行ける状態」、誰でも手に入れられること。",
+    "examples": {
+      "B": "スーパーボウルのチケットはまだ争奪戦だけど、値段がどんどん上がってる。",
+      "C": "昨夜パブクイズに参加したんだけど、すごく楽しかった。素晴らしい賞品も争奪戦だった。",
+      "D": "入手可能な"
+    }
+  },
+  "128": {
+    "nativeDefinition": "Don't misunderstand me; I don't disagree entirely.",
+    "japaneseMeaning": "誤解しないで、悪い意味じゃないけど",
+    "etymology": "don't get me wrong で「誤解しないでほしい」、反論の前置きに使う。",
+    "examples": {
+      "B": "誤解しないで。ChatGPTはすごいけど、まだ改善の余地はたくさんある。",
+      "C": "誤解しないで。バニラが嫌いなわけじゃない。ただチョコのほうが好き。たまにはバニラにするけど。",
+      "D": "反対しているわけではない"
+    }
+  },
+  "129": {
+    "nativeDefinition": "Time passes surprisingly quickly.",
+    "japaneseMeaning": "時間が経つのは早い",
+    "etymology": "time flies は「時の過ぎゆくは早し」という直訳的な慣用表現。",
+    "examples": {
+      "B": "友達になって15年か。時間が経つのは早いね。いろいろあったけど、友情は間違いなく素晴らしい経験だった。",
+      "C": "もう午後10時？時間経つの早い。12時間勉強してたなんて信じられない。",
+      "D": "時間はあっという間に過ぎる"
+    }
+  },
+  "130": {
+    "nativeDefinition": "Please repeat what you just said.",
+    "japaneseMeaning": "もう一度言って、え？",
+    "etymology": "come again で「もう一度来て」→「もう一度言って」という聞き返し。",
+    "examples": {
+      "B": "もう一度？1000ドル負けたって？デッキが完全に不利だったね（ダジャレ）。",
+      "C": "もう一度？まだ家出てないの？おい、自分の葬式に遅刻しそうって言ったのに。",
+      "D": "繰り返してください"
+    }
+  },
+  "131": {
+    "nativeDefinition": "To sound appealing or pleasant to the ear.",
+    "japaneseMeaning": "（響きが）いい、耳心地がいい",
+    "etymology": "have a ring to it で「響きがいい」、名前や言葉の音が気に入ること。",
+    "examples": {
+      "B": "次のニンテンドーコンソールの名前？スーパー・ニンテンドー・スイッチとか？響きいいでしょ？",
+      "C": "Distinctionって響きがすごくいいし、コンテンツも最高。きっと時代を超えて愛されるよ。",
+      "D": "響きが良い"
+    }
+  },
+  "132": {
+    "nativeDefinition": "To exceed or beat a previous record or achievement.",
+    "japaneseMeaning": "（記録を）更新する、上回る",
+    "etymology": "top は「頂点に立つ」から、記録を上回る意味に使われる。",
+    "examples": {
+      "B": "今日ついにボウリングの自己ベストを更新した。最高の気分だ。",
+      "C": "友達とマリオパーティやるの、マジで楽しい。",
+      "D": "何かである"
+    }
+  },
+  "133": {
+    "nativeDefinition": "During the course of a process or journey.",
+    "japaneseMeaning": "（過程の）途中で、その過程で",
+    "etymology": "along the way で「道の途中で」、過程の中でという意味。",
+    "examples": {
+      "B": "俳優は大変だけど、その過程でたくさん学んだ。何百回も演じてようやく殻を破れた。今は楽勝。",
+      "C": "柔術を何年もやってて、その過程で強くなった。最初は大変だけど、乗り越えれば身につく。",
+      "D": "過程の中で"
+    }
+  },
+  "134": {
+    "nativeDefinition": "To want or be seeking something.",
+    "japaneseMeaning": "（〜を）求めている、狙っている",
+    "etymology": "be after で「〜を追い求めている」という表現。",
+    "examples": {
+      "B": "結局何を求めてるの？お金？地位？両方は無理だと確信してる。",
+      "C": "このエクササイズで目指してるのは体脂肪を落とすこと。それが目的。筋肉をつけるんじゃないよ、いい？",
+      "D": "密かな欲望"
+    }
+  },
+  "135": {
+    "nativeDefinition": "A casual word for an object whose name one cannot recall.",
+    "japaneseMeaning": "（名前が出てこない）あれ、何とか",
+    "etymology": "thing（もの）＋ -y（愛称）で、名前が思い出せないものを指す。",
+    "examples": {
+      "B": "顎に何かついてるよ、拭いて。",
+      "C": "バッグの中のあれ何？歯ブラシ？",
+      "D": "物"
+    }
+  },
+  "136": {
+    "nativeDefinition": "When you have a moment of free time.",
+    "japaneseMeaning": "時間ができたら、暇なときに",
+    "etymology": "get a chance で「機会を得る」、暇な時間ができること。",
+    "examples": {
+      "B": "時間ができたら電話してくれる？ごめん、最近連絡できてなかった。",
+      "C": "暇なときに、昨日撮った写真送ってくれる？インスタに載せたいんだ。",
+      "D": "暇なときに"
+    }
+  },
+  "137": {
+    "nativeDefinition": "To continue from that point onward.",
+    "japaneseMeaning": "（そこから）引き継ぐ、あとは任せて",
+    "etymology": "take it from there で「そこから引き継ぐ」、続きを担当すること。",
+    "examples": {
+      "B": "ノートPCが昨日壊れた。5年使ってたから新しいの買ってもいいけど、まず修理見積もり取ってから考える。",
+      "C": "ベラ、お疲れ様。フォルダは机の上に置いといて、あとは僕に任せて。大丈夫、ちゃんと扱うから。",
+      "D": "その時点から主導権を取る"
+    }
+  },
+  "138": {
+    "nativeDefinition": "To listen to someone until they finish speaking.",
+    "japaneseMeaning": "（最後まで）話を聞く、耳を傾ける",
+    "etymology": "hear someone out で「最後まで聞く」、途中で遮らないこと。",
+    "examples": {
+      "B": "クレイジーに聞こえるけど、最後まで聞いて。みんな3000ドルずつ出せば、Hは2050年にイーロンの船の座席買える。ついてくる？",
+      "C": "最後まで聞いてくれない人に時間を使うな。人生は短い。",
+      "D": "最後まで聞く"
+    }
+  },
+  "139": {
+    "nativeDefinition": "Existing in the world; unconventional or extreme.",
+    "japaneseMeaning": "（世の中に）いる、（変わった人が）いる",
+    "etymology": "out there で「そこにある」、世の中に存在する・常識外れの意味。",
+    "examples": {
+      "B": "世の中には本当に怖い人がいる。気のせいかもしれないけど、誰かに尾行されてる気がする。",
+      "C": "世の中においしいものが多すぎて、お気に入りが選べない。",
+      "D": "世界中に"
+    }
+  },
+  "140": {
+    "nativeDefinition": "To avoid taking risks; to be cautious.",
+    "japaneseMeaning": "安全策を取る、リスクを避ける",
+    "etymology": "play it safe で「安全にプレイする」、慎重に行動すること。",
+    "examples": {
+      "B": "待って。11時までに空港に着かなきゃ。安全策取って9時に家を出よう。",
+      "C": "安全策取ってレポートのバックアップ作ったほうがいいよ。もう作った？ナイス！",
+      "D": "リスクを避ける"
+    }
+  },
+  "141": {
+    "nativeDefinition": "What is someone doing wrong in relation to something?",
+    "japaneseMeaning": "（〜で）何が間違ってる？、どこがダメ？",
+    "etymology": "go wrong で「うまくいかない」、何が問題かを尋ねる表現。",
+    "examples": {
+      "B": "カロリー計算、何が間違ってるんだろう？2ヶ月以上ダイエットしてるのに全然痩せない。",
+      "C": "発音、何が間違ってる？遠慮なく正直に言って。",
+      "D": "何かに関して何を間違えている？"
+    }
+  },
+  "142": {
+    "nativeDefinition": "An alternative plan if the main one fails.",
+    "japaneseMeaning": "バックアッププラン、予備の策",
+    "etymology": "backup（予備）＋ plan（計画）で、本命がダメなときの代替案。",
+    "examples": {
+      "B": "勇気は認めるけど、学校辞めてコメディアンになるなんて安易に決められない。失敗したときのバックアッププランも考えなよ。",
+      "C": "ジュディの予備プランになるのうんざり。電話してきたら、他に誰もいないからってわかってる。",
+      "D": "電源を切る"
+    }
+  },
+  "143": {
+    "nativeDefinition": "To keep someone uncertain or in suspense.",
+    "japaneseMeaning": "（人を）わからせない、サプライズを残す",
+    "etymology": "keep guessing で「推測させ続ける」、結末を明かさないこと。",
+    "examples": {
+      "B": "あの映画、最後まで結末がわからなくて最高だった。スピルバーグ作品はいつもハラハラする。",
+      "C": "教授が次のテストいつか教えてくれないのうざい。最低でも1ヶ月前には知らせてほしい。",
+      "D": "誰かを不安にさせる"
+    }
+  },
+  "144": {
+    "nativeDefinition": "Usually; more than half the time.",
+    "japaneseMeaning": "たいていは、多くの場合",
+    "etymology": "more often than not で「否むこと多く」、通常はという意味。",
+    "examples": {
+      "B": "週50〜80時間働くことが多い。それ普通だと思う？",
+      "C": "たいてい家を出るとき鍵を忘れる。首にかけたほうがいいかも。",
+      "D": "通常"
+    }
+  },
+  "145": {
+    "nativeDefinition": "Somewhat small or large compared to expectations.",
+    "japaneseMeaning": "（やや）小さめ／大きめ",
+    "etymology": "on the small/large side で「小さい／大きい方」、やや〜寄りという意味。",
+    "examples": {
+      "B": "料理の量はやや少なめだけど、味は最高。良いものは小さいパッケージに入ってる、ってね。",
+      "C": "このベッド、部屋にはやや大きめかも。ルームメイトにも意見聞いてみる。",
+      "D": "かなり小さい／大きい"
+    }
+  },
+  "146": {
+    "nativeDefinition": "Deeply involved or absorbed in something.",
+    "japaneseMeaning": "（〜に）夢中になる、巻き込まれる",
+    "etymology": "caught up で「巻き込まれる」、深く関わって抜け出せない状態。",
+    "examples": {
+      "B": "自分が何をしたいかわからないと、他人を喜ばせることに夢中になっちゃう。それは他人の人生を生きてるのと同じ。",
+      "C": "レッドラースの思考に巻き込まれたら、抜け出すのは本当に難しい。",
+      "D": "深く関わっている"
+    }
+  },
+  "147": {
+    "nativeDefinition": "Accept this offer or reject it; no negotiation.",
+    "japaneseMeaning": "受け取るか断るか、これが最終条件",
+    "etymology": "take it or leave it で「取るか置いていくか」、これ以上の交渉なし。",
+    "examples": {
+      "B": "残ってるのこの色だけだから、受け取るか断るか。",
+      "C": "この物件への最終オファーは50万ドル。失礼だけど、受け取るか断るか。",
+      "D": "これが唯一の選択肢"
+    }
+  },
+  "148": {
+    "nativeDefinition": "Emotional worth beyond monetary value.",
+    "japaneseMeaning": "思い出の価値、感情的な価値",
+    "etymology": "sentimental（感傷的な）＋ value（価値）で、思い出による価値。",
+    "examples": {
+      "B": "このギターには思い出の価値がある。初めて買ったギターだから。バカみたいだけど、何かに愛着を感じることってあるよね。",
+      "C": "その時計に思い出の価値があるなら、売らないほうがいい。高く売れるかどうかは別問題だ。",
+      "D": "感情的な結びつきから生まれる価値"
+    }
+  },
+  "149": {
+    "nativeDefinition": "To have an extremely enjoyable time.",
+    "japaneseMeaning": "最高に楽しむ、人生最高の時間を過ごす",
+    "etymology": "time of one's life で「人生で最高の時間」、非常に楽しい経験。",
+    "examples": {
+      "B": "ハワイで人生最高の時間を過ごした。帰りの飛行機で荷物なくされたけど、まあそういうこともあるよね。",
+      "C": "あそこでは人生最高の時間を過ごすよ。最高の人たちと一緒に勉強できる。",
+      "D": "とても楽しむ"
+    }
+  },
+  "150": {
+    "nativeDefinition": "An excessive amount of something.",
+    "japaneseMeaning": "（〜の）過剰、オーバーロード",
+    "etymology": "overload（過負荷）で、何かが多すぎる状態。",
+    "examples": {
+      "B": "この飲み物、糖分の過剰摂取だよ。誤解しないで、砂糖は好きだけど、適度にね。",
+      "C": "Netflix、Spotify、Amazon Prime、Hulu全部払ってる。合計すごい。このサブスク過剰、どうにかしたい。",
+      "D": "何かが多すぎる"
+    }
+  }
+}

@@ -7,6 +7,14 @@ struct DistinctionWordPanel: View {
     var alignment: HorizontalAlignment = .leading
     @Environment(AVAudioPlaybackService.self) private var audioPlaybackService
 
+    private var frameAlignment: Alignment {
+        alignment == .center ? .center : .leading
+    }
+
+    private var textAlignment: TextAlignment {
+        alignment == .center ? .center : .leading
+    }
+
     var body: some View {
         VStack(alignment: alignment, spacing: 0) {
             headwordSection
@@ -26,64 +34,109 @@ struct DistinctionWordPanel: View {
     }
 
     private var headwordSection: some View {
-        VStack(alignment: alignment, spacing: 10) {
+        VStack(alignment: alignment, spacing: DistinctionTheme.Spacing.md) {
             Text(String(format: "%03d", word.entryNumber))
-                .font(.caption.monospacedDigit().weight(.semibold))
-                .foregroundStyle(.secondary)
+                .font(DistinctionTheme.entryNumberFont)
+                .foregroundStyle(DistinctionTheme.accent)
+                .padding(.horizontal, 10)
+                .padding(.vertical, 4)
+                .background(Capsule().fill(DistinctionTheme.accentSoft))
+                .frame(maxWidth: .infinity, alignment: frameAlignment)
 
             Button {
                 audioPlaybackService.toggle(resource: word.headwordAudioResource)
             } label: {
-                HStack(alignment: .center, spacing: 10) {
+                HStack(alignment: .firstTextBaseline, spacing: DistinctionTheme.Spacing.md) {
                     Text(word.headword)
                         .font(DistinctionTheme.headwordFont)
                         .foregroundStyle(.primary)
-                        .multilineTextAlignment(alignment == .center ? .center : .leading)
+                        .multilineTextAlignment(textAlignment)
                         .fixedSize(horizontal: false, vertical: true)
 
-                    Image(systemName: headwordIsPlaying ? "speaker.wave.3.fill" : "speaker.wave.2")
+                    Image(systemName: headwordIsPlaying ? "speaker.wave.3.fill" : "speaker.wave.2.fill")
                         .font(.title3)
-                        .foregroundStyle(headwordIsPlaying ? DistinctionTheme.accent : .secondary)
+                        .foregroundStyle(headwordIsPlaying ? DistinctionTheme.accent : Color(.tertiaryLabel))
+                        .symbolEffect(.variableColor.iterative, isActive: headwordIsPlaying)
                 }
-                .frame(maxWidth: .infinity, alignment: alignment == .center ? .center : .leading)
+                .frame(maxWidth: .infinity, alignment: frameAlignment)
             }
             .buttonStyle(.plain)
         }
-        .padding(.bottom, showsDetails ? 16 : 0)
+        .padding(.bottom, showsDetails ? DistinctionTheme.Spacing.xl : 0)
     }
 
     private var detailsSection: some View {
-        VStack(alignment: alignment, spacing: 10) {
+        VStack(alignment: alignment, spacing: DistinctionTheme.Spacing.xl) {
             if let phonetic = word.displayPhonetic {
-                PhoneticText(phonetic: phonetic)
-                    .frame(maxWidth: .infinity, alignment: alignment == .center ? .center : .leading)
+                PhoneticText(phonetic: phonetic, alignment: textAlignment)
+                    .frame(maxWidth: .infinity, alignment: frameAlignment)
             }
 
             if let japaneseMeaning = word.displayJapaneseMeaning {
-                Text(japaneseMeaning)
-                    .font(DistinctionTheme.meaningFont)
-                    .foregroundStyle(.primary)
-                    .multilineTextAlignment(alignment == .center ? .center : .leading)
-                    .fixedSize(horizontal: false, vertical: true)
-                    .frame(maxWidth: .infinity, alignment: alignment == .center ? .center : .leading)
+                VStack(alignment: alignment, spacing: DistinctionTheme.Spacing.sm) {
+                    DistinctionSectionLabel(title: "意味", systemImage: "character.book.closed", alignment: alignment)
+                    Text(japaneseMeaning)
+                        .font(DistinctionTheme.meaningFont)
+                        .foregroundStyle(DistinctionTheme.accent)
+                        .multilineTextAlignment(textAlignment)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .frame(maxWidth: .infinity, alignment: frameAlignment)
+                }
+            }
+
+            if let nativeDefinition = word.displayNativeDefinition {
+                VStack(alignment: alignment, spacing: DistinctionTheme.Spacing.sm) {
+                    DistinctionSectionLabel(title: "Definition", systemImage: "text.quote", alignment: alignment)
+                    Text(nativeDefinition)
+                        .font(DistinctionTheme.nativeDefinitionFont)
+                        .foregroundStyle(.primary)
+                        .multilineTextAlignment(textAlignment)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .frame(maxWidth: .infinity, alignment: frameAlignment)
+                }
+            }
+
+            if let etymology = word.displayEtymology {
+                VStack(alignment: alignment, spacing: DistinctionTheme.Spacing.sm) {
+                    DistinctionSectionLabel(title: "語源", systemImage: "leaf", alignment: alignment)
+                    Text(etymology)
+                        .font(DistinctionTheme.etymologyFont)
+                        .foregroundStyle(.secondary)
+                        .multilineTextAlignment(textAlignment)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(DistinctionTheme.Spacing.md)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .background(
+                            RoundedRectangle(cornerRadius: DistinctionTheme.Radius.sm, style: .continuous)
+                                .fill(DistinctionTheme.subtleSurface)
+                        )
+                }
             }
         }
-        .padding(.bottom, showsExamples && !word.exampleSentences.isEmpty ? 12 : 0)
+        .padding(.bottom, showsExamples && !word.exampleSentences.isEmpty ? DistinctionTheme.Spacing.xl : 0)
     }
 
     private var examplesSection: some View {
-        VStack(alignment: .leading, spacing: 0) {
-            Divider()
-                .padding(.bottom, 8)
+        VStack(alignment: .leading, spacing: DistinctionTheme.Spacing.md) {
+            DistinctionSectionLabel(title: "例文", systemImage: "text.alignleft")
 
-            ForEach(word.exampleSentences) { exampleSentence in
-                DistinctionExampleRow(exampleSentence: exampleSentence)
+            VStack(alignment: .leading, spacing: 0) {
+                ForEach(word.exampleSentences) { exampleSentence in
+                    DistinctionExampleRow(
+                        exampleSentence: exampleSentence,
+                        headword: word.headword
+                    )
 
-                if exampleSentence.id != word.exampleSentences.last?.id {
-                    Divider()
-                        .padding(.leading, 40)
+                    if exampleSentence.id != word.exampleSentences.last?.id {
+                        Rectangle()
+                            .fill(DistinctionTheme.hairline)
+                            .frame(height: 0.5)
+                            .padding(.leading, 58)
+                    }
                 }
             }
+            .distinctionCard(background: DistinctionTheme.cardBackground)
         }
     }
 

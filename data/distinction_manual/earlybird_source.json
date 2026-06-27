@@ -1,0 +1,3602 @@
+[
+  {
+    "number": 1,
+    "headword": "early bird",
+    "examples": {
+      "B": "George is a real early bird. He's always at the gym before I even wake up. I can do the same as a one-off, but not consistently.",
+      "C": "This research shows that early birds are more likely to succeed in their careers, but I don't think that's the case.",
+      "D": "Early Riser"
+    }
+  },
+  {
+    "number": 2,
+    "headword": "gut feeling",
+    "examples": {
+      "B": "You don't have to believe what I'm saying, but my gut feeling always turns out to be true.",
+      "C": "While I haven't checked the weather forecast, my gut feeling is that it'll rain tomorrow.",
+      "D": "Instinct"
+    }
+  },
+  {
+    "number": 3,
+    "headword": "up to snuff",
+    "examples": {
+      "B": "I just replied in French to my friend and Paris. I hope my friend is up to snuff. It should be close enough to be understandable.",
+      "C": "I need to make sure that Mark's work is up to snuff before I send it to the client. His attention to details pretty poor.",
+      "D": "Up to the required standard."
+    }
+  },
+  {
+    "number": 4,
+    "headword": "on fire",
+    "examples": {
+      "B": "Kevin's been on fire lately. New girlfriend, promotion at work, and going on holidays next week.",
+      "C": "Naomi's on fire right now. It seems like she's gonna win the match every time she steps on court.",
+      "D": "Doing exceptionally well."
+    }
+  },
+  {
+    "number": 5,
+    "headword": "couldn't care less",
+    "examples": {
+      "B": "At the end of the day, I couldn't care less about anyone else's opinion. I believe in myself.",
+      "C": "I like working for Mike. He couldn't care less what time I got home as long as I meet my deadlines.",
+      "D": "Be unconcerned."
+    }
+  },
+  {
+    "number": 6,
+    "headword": "life-saver",
+    "examples": {
+      "B": "Wayne was an absolute life-saver yesterday. I had no idea how to tell Sean that I broke his favorite watch and he just did it for me",
+      "C": "Thanks for picking up the kids on Monday. Here in absolute life, Sabre.",
+      "D": "Great help."
+    }
+  },
+  {
+    "number": 7,
+    "headword": "get ahead of oneself",
+    "examples": {
+      "B": "I think it's problem is getting way ahead of myself sometimes. I need to stop jumping again.",
+      "C": "Let's not get ahead of ourselves. We haven't bought the house yet, so we shouldn't buy any furniture right now.",
+      "D": "Act 2 early."
+    }
+  },
+  {
+    "number": 8,
+    "headword": "luck of the draw",
+    "examples": {
+      "B": "Success is partly luck of the draw, but whether you can think and make an effort is way more important than that.",
+      "C": "The quality of your taxi drivers usually lack of the draw.",
+      "D": "The result of chance."
+    }
+  },
+  {
+    "number": 9,
+    "headword": "can't stand sth",
+    "examples": {
+      "B": "I can't stand dogs barking in the middle of the night.",
+      "C": "I can't stand people being late to meetings. It really gets me fired up.",
+      "D": "Really hate something."
+    }
+  },
+  {
+    "number": 10,
+    "headword": "bump into sb",
+    "examples": {
+      "B": "A bump into a friend at lunch that I haven't seen in years. The only thing that's changed about him is his haircut.",
+      "C": "I always bump into people that I now at this park because I grew up around here.",
+      "D": "Meet somebody unexpectedly."
+    }
+  },
+  {
+    "number": 11,
+    "headword": "chip in",
+    "examples": {
+      "B": "I'll chip in $5 for that present or buying for John. FYI, this is all the money I have.",
+      "C": "If we all chip in an hour more tonight, we can get the job done earlier and go home on time tomorrow.",
+      "D": "contribute."
+    }
+  },
+  {
+    "number": 12,
+    "headword": "work (sth) out",
+    "examples": {
+      "B": "I'm pretty stressed at the moment. I'm trying to work out this math problem my teacher gave me.",
+      "C": "I finally got a job. I'm so glad things finally worked out. hindsight is 2020, but I should have started my job search earlier.",
+      "D": "Solve something. Go well."
+    }
+  },
+  {
+    "number": 13,
+    "headword": "simple as that",
+    "examples": {
+      "B": "I need you to finish this report by tomorrow. Simple as that.",
+      "C": "To upload this document, you just need to click on this button three times. Simple as that.",
+      "D": "Very straightforward."
+    }
+  },
+  {
+    "number": 14,
+    "headword": "wanna do or sth",
+    "examples": {
+      "B": "I really don't want to get a work today. I'm feeling a bit down in the dumps right now.",
+      "C": "This computer is very slow. I want a new one. Something cutting edge.",
+      "D": "Want to do or want a something?"
+    }
+  },
+  {
+    "number": 15,
+    "headword": "drag on",
+    "examples": {
+      "B": "The construction of that building keeps dragging on. I thought they were supposed to be done months ago.",
+      "C": "This meeting is dragged on for a while. Do you know if it's gonna finish soon?",
+      "D": "Progress slowly."
+    }
+  },
+  {
+    "number": 16,
+    "headword": "who knows",
+    "examples": {
+      "B": "I know you want me to tell you if it's gonna rain tomorrow, but who knows?",
+      "C": "Who knows what happened, but your hair is exploding. Her cuts are a bit pricey, but you should consider getting one soon.",
+      "D": "I don't know."
+    }
+  },
+  {
+    "number": 17,
+    "headword": "still early days",
+    "examples": {
+      "B": "Let's rethink if we really need to make a company. It still early days, so we don't need a rush into it.",
+      "C": "It's still early days, so we haven't finished planning our entire itinerary yet. I've also been slammed at work, so haven't had time.",
+      "D": "Still early in the process."
+    }
+  },
+  {
+    "number": 18,
+    "headword": "no chance",
+    "examples": {
+      "B": "He told me there's no chance that my axe would ever message me back. I sent her a message just to prove you wrong. And yep, you were right.",
+      "C": "Sean asked me if I could help him out with something, but I told him no chance, even though he kept nagging me.",
+      "D": "No possibility."
+    }
+  },
+  {
+    "number": 19,
+    "headword": "just because",
+    "examples": {
+      "B": "I'm gonna have a party at my house on Saturday just because I'm not normally a party animal.",
+      "C": "A studied English for eight hours today, just because I didn't find it my numbing at all.",
+      "D": "for now particular reason."
+    }
+  },
+  {
+    "number": 20,
+    "headword": "I'm off",
+    "examples": {
+      "B": "I'm off. I'll speak to you about this tomorrow after I think it through a bit more.",
+      "C": "I need to wind down a bit before sleeping, so I'm off for the night. Enjoy the rest of the party.",
+      "D": "I'm leaving."
+    }
+  },
+  {
+    "number": 21,
+    "headword": "get on with sth",
+    "examples": {
+      "B": "I can't convince myself to get on with my homework. I'm having difficulty finding any motivation.",
+      "C": "Let's just get on with it. We have a lot of work to get through and can afford to spend wheels.",
+      "D": "Continue doing something."
+    }
+  },
+  {
+    "number": 22,
+    "headword": "duh",
+    "examples": {
+      "B": "Did I find her gorgeous? duh. I asked her for a date as soon as I met her. She might be a bit out of my league though.",
+      "C": "Do I like free food? duh. You just need to watch out for surprises in your food.",
+      "D": "Of course."
+    }
+  },
+  {
+    "number": 23,
+    "headword": "small talk",
+    "examples": {
+      "B": "I'm not very good at making small talk because I find it very boring and vanilla. It's also really hard to come up with things to say on the fly.",
+      "C": "A recently married female friend messaged me, and after some small talk, she asked me why I'm not married yet. That's a touchy subject.",
+      "D": "Chit chat"
+    }
+  },
+  {
+    "number": 24,
+    "headword": "cut back on sth",
+    "examples": {
+      "B": "A lot of tax accountans know how to cut back on spending, but most don't know how to make more money.",
+      "C": "It's going to be a bit tricky, but I should cut back on my coffee intake. It's costing me a lot each week.",
+      "D": "reduce something."
+    }
+  },
+  {
+    "number": 25,
+    "headword": "none of sb's business",
+    "examples": {
+      "B": "It's not of my business, but you should really get a new girlfriend. Her behavior is so fishy.",
+      "C": "It's none of my company's business, what I do in my own free time. I like to keep what I do in my downtime private.",
+      "D": "Not somebody's concern."
+    }
+  },
+  {
+    "number": 26,
+    "headword": "stand sb up",
+    "examples": {
+      "B": "I'm so sick of Matt. He stood me up so many times before, so I'm not going to wait for him any longer.",
+      "C": "I got stit up twice by the same girl, but I haven't given up yet. It does weigh in my mind a bit though.",
+      "D": "Leave somebody waiting."
+    }
+  },
+  {
+    "number": 27,
+    "headword": "pain in the neck",
+    "examples": {
+      "B": "Why am I angry again? It's because you're being such a pain in the neck.",
+      "C": "Don't you think Luke is a pain in the neck? I always seem bugging you in the office.",
+      "D": "Ennoience"
+    }
+  },
+  {
+    "number": 28,
+    "headword": "under control",
+    "examples": {
+      "B": "It's amazing how you keep your emotions under control even when you're under extreme pressure.",
+      "C": "Just chill out, man. Everything is under control. We just need to spruce up the assignment a bit and we're done.",
+      "D": "Managed well."
+    }
+  },
+  {
+    "number": 29,
+    "headword": "get over sth",
+    "examples": {
+      "B": "Andrew is just starting to get over his breakup with his girlfriend. It's only been a month or so.",
+      "C": "I got over losing my wallet fairly quickly, as it didn't have a lot of money. Bit of a silver lining.",
+      "D": "recover from something."
+    }
+  },
+  {
+    "number": 30,
+    "headword": "need to be somewhere",
+    "examples": {
+      "B": "I tried to book John for lunch tomorrow, but he needs to be somewhere. It's disappointing because I moved heaven and earth to fit him in.",
+      "C": "I can't come out for a drink tonight because I need to be somewhere by 6.",
+      "D": "Have an appointment to make."
+    }
+  },
+  {
+    "number": 31,
+    "headword": "think outside the box",
+    "examples": {
+      "B": "Sorry to burst your bubble, but to get this spaceship to fly at light speed, we'll need to think outside the box.",
+      "C": "Masayoshi always comes on put the innovative ideas by thinking outside the box. That's why I really look up to him.",
+      "D": "Thank you creatively or differently."
+    }
+  },
+  {
+    "number": 32,
+    "headword": "correct me if I'm wrong",
+    "examples": {
+      "B": "What the... Corrects me if I'm wrong. But I thought we were going to paint the wall white. Not this flashy gold.",
+      "C": "Correct me if I'm wrong, but I'm fairly certain your calculation has an error. It might be a bit fiddly to fix up, so I'll help you out with it.",
+      "D": "I think this is correct."
+    }
+  },
+  {
+    "number": 33,
+    "headword": "on sb's plate",
+    "examples": {
+      "B": "I have a lot on my plate at the moment, so I won't be able to help you move house tomorrow.",
+      "C": "Does Liz have much on her plate today? I'd like her to look after the dog this afternoon.",
+      "D": "On somebody's to do list."
+    }
+  },
+  {
+    "number": 34,
+    "headword": "in the middle of something",
+    "examples": {
+      "B": "Sorry, I'm in the middle of something at the moment. Can I call you back in about half an hour?",
+      "C": "I get low key upset when someone calls me while I'm watching something on my phone. Like, damn, I was in the middle of something.",
+      "D": "busy doing something."
+    }
+  },
+  {
+    "number": 35,
+    "headword": "sb's thinking is (that)",
+    "examples": {
+      "B": "My thinking is that we should leave school a bit early to avoid traffic. John says it'll only take 10 minutes, but I'm taking that with a grain of salt.",
+      "C": "Julie's thinking is that we should buy rather than rent a house, as it would be more cost-effective in the long run.",
+      "D": "Somebody's opinion is that"
+    }
+  },
+  {
+    "number": 36,
+    "headword": "push it",
+    "examples": {
+      "B": "I was going to ask my boss for a pay raise, but I thought that might be pushing it. I've only been here for a few months.",
+      "C": "I think I have enough time to read one more chapter, but I don't want to push it, so I'm going to leave it for now.",
+      "D": "Push the limits."
+    }
+  },
+  {
+    "number": 37,
+    "headword": "worst-case scenario",
+    "examples": {
+      "B": "I wouldn't worry too much about booking for dinner tonight. Worst case scenario, we'll just get McDonald's.",
+      "C": "A successful business person always prepares for a best case scenario and a worst case scenario.",
+      "D": "First possible outcome."
+    }
+  },
+  {
+    "number": 38,
+    "headword": "cut sb some slack",
+    "examples": {
+      "B": "Cut me some slack man. I know I outstrowed on a date, but that was because I didn't know she was your girlfriend.",
+      "C": "This is the first time I've played soccer in a long time, so cut me some slack. I'm Rusty.",
+      "D": "Go easy on somebody."
+    }
+  },
+  {
+    "number": 39,
+    "headword": "pack up",
+    "examples": {
+      "B": "I'm going home in a few minutes, so I'm going to pack up. You guys should make a move as well.",
+      "C": "I'm starting to pack up my room at the apartment and it's actually so sad. I don't want to leave.",
+      "D": "Gather once belongings together."
+    }
+  },
+  {
+    "number": 40,
+    "headword": "back to square one",
+    "examples": {
+      "B": "All my saved games vanished into thin air, so I'm completely back to square one. I'm shattered.",
+      "C": "I took a break from working out now and back to square one. I wish I could buy muscles instead of having to pump iron all the time.",
+      "D": "Back to where one started."
+    }
+  },
+  {
+    "number": 41,
+    "headword": "pull sth off",
+    "examples": {
+      "B": "The Christmas party was a success. Thank you for all your support. We couldn't have pulled it off without you.",
+      "C": "I didn't think that Hamish would be able to pull it off, but he managed to get us a few tickets to the concert tonight.",
+      "D": "succeed in something."
+    }
+  },
+  {
+    "number": 42,
+    "headword": "hard to please",
+    "examples": {
+      "B": "I knew Boss is so hard to please. Nothing I do ever seems to make him happy. He's always talking down to me as well.",
+      "C": "My parents are very hard to please. Anything less than full marks upsets them. I'm usually stoked if I pass.",
+      "D": "Difficult to impress."
+    }
+  },
+  {
+    "number": 43,
+    "headword": "give sb a second",
+    "examples": {
+      "B": "Can you give me a second to grab my coat before we head outside?",
+      "C": "Give me a second and I'll walk the dog for you. I just need to wrap up my cooking first.",
+      "D": "Wait for somebody for a moment."
+    }
+  },
+  {
+    "number": 44,
+    "headword": "stick up for sb",
+    "examples": {
+      "B": "Your girlfriend is an adult. She doesn't need you sticking up for her all the time.",
+      "C": "Thank you for sticking up for me. It means a lot.",
+      "D": "Protect somebody."
+    }
+  },
+  {
+    "number": 45,
+    "headword": "let it slide",
+    "examples": {
+      "B": "The form is missing a couple of details, but I'm going to let it slide this time and process it anyway because you're my friend.",
+      "C": "I'll let it slide this time, but I won't let you in next time you're late.",
+      "D": "Negligently allow."
+    }
+  },
+  {
+    "number": 46,
+    "headword": "look into sth",
+    "examples": {
+      "B": "I still haven't received the refund I requested a month ago. Can you please look into this?",
+      "C": "I'll look into why that department's not making any money after this meeting. I'll have to do a bit of a deep dive.",
+      "D": "Investigate something."
+    }
+  },
+  {
+    "number": 47,
+    "headword": "Google sth",
+    "examples": {
+      "B": "When you have a question, always make sure you Google it first before you ask.",
+      "C": "During high school, my go-to research method was to Google things. Actually, come to think of it. That's still what I do.",
+      "D": "Search the internet for something."
+    }
+  },
+  {
+    "number": 48,
+    "headword": "full-on",
+    "examples": {
+      "B": "The work that you've given me is pretty full on. I might need you to give me a hand with it later.",
+      "C": "This is going to be another full-on week. I'm still at work trying to get on top of the inbox.",
+      "D": "Overwhelming."
+    }
+  },
+  {
+    "number": 49,
+    "headword": "throw shade",
+    "examples": {
+      "B": "A girl was sitting down at some kitchen and the mean lady said to her, Oh my god, I just love that you eat whatever you want. Surely she was throwing shade.",
+      "C": "I really hate when people throw shade at each other on Twitter. They must have too much free time.",
+      "D": "Insult subtly are indirectly."
+    }
+  },
+  {
+    "number": 50,
+    "headword": "axe sth",
+    "examples": {
+      "B": "I finally asked my Facebook account, although this people have never met in real life are gone.",
+      "C": "The TV show is acts due to low viewer numbers. Bit of a shame. I really enjoyed it.",
+      "D": "Terminate something."
+    }
+  },
+  {
+    "number": 51,
+    "headword": "any minute",
+    "examples": {
+      "B": "I always think that the train will be arriving any minute, but it's usually late. I might be better off walking.",
+      "C": "I just can't trust people who don't swear. They could explode at any minute.",
+      "D": "Very soon."
+    }
+  },
+  {
+    "number": 52,
+    "headword": "business as usual",
+    "examples": {
+      "B": "People are driving in GoCarts dressed up like video game characters on public roads. This is Tokyo. Just business is usual.",
+      "C": "Today is Easter Sunday, but its business is usual here since Japan doesn't celebrate Easter.",
+      "D": "Nothing out of the ordinary."
+    }
+  },
+  {
+    "number": 53,
+    "headword": "give sb a hand",
+    "examples": {
+      "B": "Can you please give me a hand with hanging this painting? I think it'll really jazz up the room.",
+      "C": "I need to give Luca hand with moving the couch.",
+      "D": "Help somebody."
+    }
+  },
+  {
+    "number": 54,
+    "headword": "kick oneself",
+    "examples": {
+      "B": "I'm really kicking myself for not buying shares in that company. The share price is doubled over the last month.",
+      "C": "Kenny is really kicking himself for traveling to Tokyo and June, as it was the rainy season.",
+      "D": "Feel regret."
+    }
+  },
+  {
+    "number": 55,
+    "headword": "in person",
+    "examples": {
+      "B": "I'll probably attend the meeting in person. There's all be close by. Besides, it'd be good to get some FaceTime with the team.",
+      "C": "Look at this picture. She's my girlfriend. She's even more beautiful and person.",
+      "D": "physically in reality."
+    }
+  },
+  {
+    "number": 56,
+    "headword": "back sth",
+    "examples": {
+      "B": "Don't worry, Kevin will definitely back this plan as he came up with it. We should go ahead and mock up a presentation about it.",
+      "C": "I'm back your decision to get a Tokyo during spring. It's the best time of the year to visit.",
+      "D": "Support something."
+    }
+  },
+  {
+    "number": 57,
+    "headword": "blow off some steam",
+    "examples": {
+      "B": "I wouldn't take Matt to comments too seriously because I think he's just blowing up some steam.",
+      "C": "I'll just place them all nine games to blow off some steam this afternoon.",
+      "D": "Release stress."
+    }
+  },
+  {
+    "number": 58,
+    "headword": "keep sb on sb's toes",
+    "examples": {
+      "B": "I need to check in with this new grad everyday to keep them on as toes. What a pain.",
+      "C": "Being in a competitive environment keeps me on my toes.",
+      "D": "Keep somebody alert."
+    }
+  },
+  {
+    "number": 59,
+    "headword": "mess sth up",
+    "examples": {
+      "B": "The air conditioning on the train really messed up my hair.",
+      "C": "I forgot all my lines and messed up at the presentation yesterday.",
+      "D": "Make something untidy. Make a mistake."
+    }
+  },
+  {
+    "number": 60,
+    "headword": "sit on the fence",
+    "examples": {
+      "B": "You can't keep sitting on the fence. A decision needs to be made in the next week.",
+      "C": "I'm sitting on the fence at the moment. I need to look at a few more before deciding which restaurant to go to.",
+      "D": "Be undecided."
+    }
+  },
+  {
+    "number": 61,
+    "headword": "I guess so",
+    "examples": {
+      "B": "John asked if it's gonna be sunny today. So I said to him, I guess so, because I never checked the weather forecast.",
+      "C": "My wife said to me that we should move to Australia. So I said, I guess so, because I'm still not sure about it.",
+      "D": "I suppose."
+    }
+  },
+  {
+    "number": 62,
+    "headword": "not that I know of",
+    "examples": {
+      "B": "Am I getting fired next week? Not that I know of, but a lot can happen in a few days in this kind of environment.",
+      "C": "Has mom bought a new handbag with my credit card again? I know of, but it wouldn't surprise me. She's done that before.",
+      "D": "To the best of my knowledge, now."
+    }
+  },
+  {
+    "number": 63,
+    "headword": "shady",
+    "examples": {
+      "B": "I got food poisoning from a shady cafe lunch. Just wanted to give you a heads up.",
+      "C": "People who lurk outside convenience stores in night always seem a bit shady to me.",
+      "D": "Suspicious."
+    }
+  },
+  {
+    "number": 64,
+    "headword": "what's the deal with sth",
+    "examples": {
+      "B": "What's the deal with the new haircut? Do you have a job interview or something?",
+      "C": "What's the deal with you? Why do I have to pay you extra for soy milk?",
+      "D": "What's the reason for something?"
+    }
+  },
+  {
+    "number": 65,
+    "headword": "have a hunch (that)",
+    "examples": {
+      "B": "Although I literally have no money, I have a hunch my girlfriend is expecting a big birthday present.",
+      "C": "This YouTuber keeps saying this is the best product ever, but I have a strong hunch he's just saying that because he's getting money from advertising it.",
+      "D": "Have a feeling that."
+    }
+  },
+  {
+    "number": 66,
+    "headword": "sneaky",
+    "examples": {
+      "B": "Stealing your friends assignment is very sneaky.",
+      "C": "Tony is a very sneaky person. He always overcharges his customers.",
+      "D": "Slide."
+    }
+  },
+  {
+    "number": 67,
+    "headword": "big call",
+    "examples": {
+      "B": "I love this young coach because he's never afraid to make a big call.",
+      "C": "MS says she is the prettiest girl in the club, but I think that's a big call.",
+      "D": "Bold statement."
+    }
+  },
+  {
+    "number": 68,
+    "headword": "on sb's mind",
+    "examples": {
+      "B": "What's on your mind? Let me know if you have any concerns.",
+      "C": "You are always on my mind. I hope you thank me the same way.",
+      "D": "In somebody's thoughts."
+    }
+  },
+  {
+    "number": 69,
+    "headword": "housekeeping matters",
+    "examples": {
+      "B": "Each day at work, I have to take care of so many housekeeping matters, like booking restaurants and making calls.",
+      "C": "I need someone to help me out with some housekeeping matters, such as organizing meetings and coordinating schedules.",
+      "D": "Tasks that are not the main purpose of the activity."
+    }
+  },
+  {
+    "number": 70,
+    "headword": "on autopilot",
+    "examples": {
+      "B": "I resigned from my job a few weeks ago, and I've been on autopilot ever since. It's been pretty hard not to slack off.",
+      "C": "I'm going on holidays tomorrow, so I've been on autopilot over the last couple of days.",
+      "D": "Living life without thinking."
+    }
+  },
+  {
+    "number": 71,
+    "headword": "drop sth",
+    "examples": {
+      "B": "If you don't like what you're doing, drop it right now and do something you're passionate about. You'll only live once.",
+      "C": "I want to drop everything and just travel the world, but I don't think I'd get the go ahead from my girlfriend.",
+      "D": "Quit something."
+    }
+  },
+  {
+    "number": 72,
+    "headword": "play to one's strengths",
+    "examples": {
+      "B": "As James was very talented at math, he decided to teach math to play to his strengths.",
+      "C": "I recommend that you play to your strengths, rather than try and improve on everything that you're about at.",
+      "D": "Take advantage of what one is good at."
+    }
+  },
+  {
+    "number": 73,
+    "headword": "out of action",
+    "examples": {
+      "B": "I broke my arm last week, so I'll be out of action until at least next Wednesday.",
+      "C": "The mechanics just told me that there's an issue with my car's engine, so it's going to be out of action for a little while longer.",
+      "D": "Non-operational."
+    }
+  },
+  {
+    "number": 74,
+    "headword": "keep up with sth",
+    "examples": {
+      "B": "This lecture speaks too quickly. I'm struggling to keep up with what he's talking about. It's like he's speaking gibberish sometimes.",
+      "C": "Kids these days speak with so much new slang that I can't keep up with. I feel so old now.",
+      "D": "maintain pace with something"
+    }
+  },
+  {
+    "number": 75,
+    "headword": "sort sth out",
+    "examples": {
+      "B": "I need to spend some time sorting out my holiday plans. I've been so busy with work that I haven't had any time to thank.",
+      "C": "I know that you want to buy the tickets now, but can we sort it out later? Just in the middle of something.",
+      "D": "Finalize or resolve something."
+    }
+  },
+  {
+    "number": 76,
+    "headword": "have a lot to do with sth",
+    "examples": {
+      "B": "I think Tom's rapid rise in the company has a lot to do with his father being the CEO of the company.",
+      "C": "Georgia's fear of birds has a lot to do with bad experiences in this childhood.",
+      "D": "be mainly due to something."
+    }
+  },
+  {
+    "number": 77,
+    "headword": "grill sb",
+    "examples": {
+      "B": "The new Prime Minister was getting absolutely grilled by the journalists because of his new immigration policies.",
+      "C": "I know Joe hasn't been doing his work properly, but I don't think there's any need to grill him in front of everybody.",
+      "D": "Question somebody harshly."
+    }
+  },
+  {
+    "number": 78,
+    "headword": "sit back and relax",
+    "examples": {
+      "B": "We'll go to the bar, order a drink, and sit back and relax.",
+      "C": "After the busy week that I've had, I just really want to go home and sit back and relax.",
+      "D": "Unwind."
+    }
+  },
+  {
+    "number": 79,
+    "headword": "jump ship",
+    "examples": {
+      "B": "You can't just jump ship every time things get slightly difficult.",
+      "C": "If I get any more work, I think I'm going to jump ship to a new job. I'm at the end of my rope.",
+      "D": "Leave."
+    }
+  },
+  {
+    "number": 80,
+    "headword": "find one's feet",
+    "examples": {
+      "B": "It took me a while to find my feet at this new school, but now that I have, I love it.",
+      "C": "I finally found my goal. I'm not one of those guys trying to find their feet anymore.",
+      "D": "Find one's place."
+    }
+  },
+  {
+    "number": 81,
+    "headword": "from scratch",
+    "examples": {
+      "B": "I didn't like the design of the website he created, so I decided to make one from scratch by myself.",
+      "C": "Collin accidentally deleted the report, so we'll have to write it again from scratch.",
+      "D": "From the start."
+    }
+  },
+  {
+    "number": 82,
+    "headword": "get exposure to sth",
+    "examples": {
+      "B": "I haven't gotten much exposure to Japanese culture before, but I'm keen to learn more.",
+      "C": "To improve on my English, I think I need to get more exposure to English TV shows.",
+      "D": "Get experience and something."
+    }
+  },
+  {
+    "number": 83,
+    "headword": "what's going on with sth",
+    "examples": {
+      "B": "What's going on with the weather lately? It's been so warm.",
+      "C": "What's going on with these demanding customers? They're driving me up the wall.",
+      "D": "What's happening with something?"
+    }
+  },
+  {
+    "number": 84,
+    "headword": "get up to speed",
+    "examples": {
+      "B": "Are you curious about what will happen to the accounting industry? If so, you can get up to speed in three minutes with this quick recap course.",
+      "C": "I'm wanting to get up to speed on modern marketing. I know there's a lot I don't know.",
+      "D": "Get updated."
+    }
+  },
+  {
+    "number": 85,
+    "headword": "something's up with sth",
+    "examples": {
+      "B": "Something's up with my computer. I haven't been able to use it all morning. I should buy the bullet and get a new one.",
+      "C": "I think something's up with Clyde. He hasn't stopped crying all week.",
+      "D": "Something's wrong with something."
+    }
+  },
+  {
+    "number": 86,
+    "headword": "catch you later",
+    "examples": {
+      "B": "I'm off the go of dinner with my friend. Catch you later.",
+      "C": "Catch you later, Bill. See you tomorrow morning.",
+      "D": "See you!"
+    }
+  },
+  {
+    "number": 87,
+    "headword": "vanish into thin air",
+    "examples": {
+      "B": "My hearted money just vanished into thin air. I hate gambling.",
+      "C": "Oh God Twitter, it took me like 30 minutes to write that long tweet and as soon as I press tweet, it vanished in the thin air.",
+      "D": "Disappear suddenly and completely."
+    }
+  },
+  {
+    "number": 88,
+    "headword": "stuck",
+    "examples": {
+      "B": "I've been stuck on this task for ages. I've never done anything this hard before.",
+      "C": "Every five minutes, my grandma tells me she's never been stuck in a crossword before. She's like a broken record.",
+      "D": "At a standstill."
+    }
+  },
+  {
+    "number": 89,
+    "headword": "hang on",
+    "examples": {
+      "B": "Tell him to hang on while I put my shoes on. Hopefully it's not in a rush.",
+      "C": "Can you hang on for a couple of minutes? I just need to grab my lunch.",
+      "D": "Wait."
+    }
+  },
+  {
+    "number": 90,
+    "headword": "let one's hair down",
+    "examples": {
+      "B": "Now that the busy period has ended, I can finally let my hair down.",
+      "C": "Even though your boss isn't around right now, you shouldn't let your hair down. You never know who's watching.",
+      "D": "Relax."
+    }
+  },
+  {
+    "number": 91,
+    "headword": "go-to",
+    "examples": {
+      "B": "When it comes to studying English, distinction is my go-to book.",
+      "C": "My go-to karaoke song is Yellow Submarine by the Beatles. It's an oldie, but a good song.",
+      "D": "preferred or favorite."
+    }
+  },
+  {
+    "number": 92,
+    "headword": "get along with sb",
+    "examples": {
+      "B": "He's not my friend, but we definitely get along with each other.",
+      "C": "Joe doesn't seem to get along with Kelly. They never say hello to each other.",
+      "D": "Have a good relationship with somebody."
+    }
+  },
+  {
+    "number": 93,
+    "headword": "brush up on sth",
+    "examples": {
+      "B": "I need to brush up on my passing before the game on the weekend. To give some context, I rarely practice my passing.",
+      "C": "I really need to brush up on my English. I haven't studied for a long time.",
+      "D": "Renew somebody's skill and something."
+    }
+  },
+  {
+    "number": 94,
+    "headword": "speak up",
+    "examples": {
+      "B": "I wish Vince would speak up more at meetings because his opinions are generally very legit.",
+      "C": "Speak up if you have a problem. Otherwise you'll have a war inside yourself.",
+      "D": "Express one's opinion."
+    }
+  },
+  {
+    "number": 95,
+    "headword": "anytime soon",
+    "examples": {
+      "B": "We're not going to be home anytime soon. The plane's been delayed by four hours.",
+      "C": "Do you think the ad will be back at many times soon? I need about some investment on the usoth him.",
+      "D": "in the near future."
+    }
+  },
+  {
+    "number": 96,
+    "headword": "good stuff",
+    "examples": {
+      "B": "You've already finished your homework. Good stuff.",
+      "C": "Did you change the iPhone language from Japanese to English? Good stuff!",
+      "D": "Well done!"
+    }
+  },
+  {
+    "number": 97,
+    "headword": "prep for sth",
+    "examples": {
+      "B": "I can't go out tonight. I have to prep for this meeting tomorrow.",
+      "C": "Can you get Chris prepped for his presentation tomorrow?",
+      "D": "Prepare for something."
+    }
+  },
+  {
+    "number": 98,
+    "headword": "put up a fight",
+    "examples": {
+      "B": "I didn't really put up a fight when Michelle told me I was wrong since it was pretty obvious.",
+      "C": "If I put up a fight I'd be feeling the fire, so I just took the high road and apologized.",
+      "D": "Resist."
+    }
+  },
+  {
+    "number": 99,
+    "headword": "reach out to sb",
+    "examples": {
+      "B": "I'm going to be on holidays for the next month, so reach out to James if you have any questions all the way.",
+      "C": "Apologies for the delay in the delivery of your order. Kindly reach out to our support team so we can assist you right away.",
+      "D": "Contact somebody."
+    }
+  },
+  {
+    "number": 100,
+    "headword": "I would do",
+    "examples": {
+      "B": "This problem seems pretty complicated. I'd probably ask Tim about that because I'm stumped.",
+      "C": "Are you gonna put the picture on the Instagram? I wouldn't do that. It might not go down well with your younger followers.",
+      "D": "You should do."
+    }
+  },
+  {
+    "number": 101,
+    "headword": "in one ear out the other",
+    "examples": {
+      "B": "When I'm showing him the ropes, it seems to be in one ear out the other.",
+      "C": "When Chris starts complaining about work, it's in one ear, out the other.",
+      "D": "heard but not remembered."
+    }
+  },
+  {
+    "number": 102,
+    "headword": "drop the ball",
+    "examples": {
+      "B": "I really dropped the ball in this assignment. It's five weeks late.",
+      "C": "We can't afford to drop the ball during this presentation. It's our last chance to speak to the client.",
+      "D": "Make a mistake."
+    }
+  },
+  {
+    "number": 103,
+    "headword": "crunch time",
+    "examples": {
+      "B": "The next two weeks are going to be nothing but studying for the exam. It's crunch time.",
+      "C": "It's going to be crunch time over the next month because a few big projects have to be finalised. So I might be a bit slow, replying to messages.",
+      "D": "The Critical Period."
+    }
+  },
+  {
+    "number": 104,
+    "headword": "cut it out",
+    "examples": {
+      "B": "Cut it out, man. That sound of nails scratching a blackboard really makes me cringe.",
+      "C": "Can you please cut it out? I don't enjoy people throwing toilet paper at my head.",
+      "D": "Stop."
+    }
+  },
+  {
+    "number": 105,
+    "headword": "bittersweet",
+    "examples": {
+      "B": "Whisper of the Heart is a film that depicts a surprisingly bitter sweet story.",
+      "C": "The first time I left home was a bittersweet moment for me.",
+      "D": "Happy and sad."
+    }
+  },
+  {
+    "number": 106,
+    "headword": "on the ball",
+    "examples": {
+      "B": "I didn't sleep very well last night, so I'm not really on the ball right now.",
+      "C": "Kevin should be able to answer all your questions. He's pretty on the ball.",
+      "D": "Alert, aware of what is happening."
+    }
+  },
+  {
+    "number": 107,
+    "headword": "put on a brave face",
+    "examples": {
+      "B": "Despite my putting on a brave face, I know that Skydiving was a traumatic experience for him.",
+      "C": "I think he's under a lot of stress, despite putting on a brave face.",
+      "D": "Try to appear calm."
+    }
+  },
+  {
+    "number": 108,
+    "headword": "make a fuss",
+    "examples": {
+      "B": "You should stop making a fuss about every little noise that's made when you're in the library. It just indicates your lack of concentration.",
+      "C": "I wonder why people didn't make a fuss when the politician made a discriminatory comment in public. A smell of rat.",
+      "D": "Become angry and complain."
+    }
+  },
+  {
+    "number": 109,
+    "headword": "off the top of one's head",
+    "examples": {
+      "B": "My teacher told me I will never, ever regret being kind to someone, but I can think of at least three people off the top of my head that I regret being nice to.",
+      "C": "Off the top of my head, we averaged about 100 car sales a week last year. That's only a ballpark figure, so I'll have to double check to get exact numbers.",
+      "D": "From what one can recall immediately?"
+    }
+  },
+  {
+    "number": 110,
+    "headword": "newbie",
+    "examples": {
+      "B": "I only started playing basketball last month, so I'm still in UB. Can you give me a crash course on shooting?",
+      "C": "I don't know why he's so bad at his job. He's been doing it for months now, so it's not exactly a newbie.",
+      "D": "Now this."
+    }
+  },
+  {
+    "number": 111,
+    "headword": "dig oneself into a hole",
+    "examples": {
+      "B": "Sean dug himself into a hole by telling the police officer how much money he had stolen last year.",
+      "C": "You should stop making up fake excuses for being late for work as you're just digging yourself into a hole.",
+      "D": "Get oneself into a difficult situation."
+    }
+  },
+  {
+    "number": 112,
+    "headword": "a piece of cake",
+    "examples": {
+      "B": "This assignment is such a piece of cake. It's doing a week and I've already finished most of it.",
+      "C": "This new job is a piece of cake. Everything is straightforward.",
+      "D": "Easy thing."
+    }
+  },
+  {
+    "number": 113,
+    "headword": "have high standards",
+    "examples": {
+      "B": "I always get disappointed by Japanese restaurants and foreign countries because I have high standards.",
+      "C": "Don't take this the wrong way, but I think the reason you're still singles because you have really high standards",
+      "D": "have big expectations."
+    }
+  },
+  {
+    "number": 114,
+    "headword": "on the house",
+    "examples": {
+      "B": "I only got a work of ants if drinks and feed are on the house.",
+      "C": "Don't worry about bringing your wallet tonight. Drinks will be on the house.",
+      "D": "Pre-of-charge."
+    }
+  },
+  {
+    "number": 115,
+    "headword": "out of left field",
+    "examples": {
+      "B": "Emily's resignation came out of left field. I thought she was happy here.",
+      "C": "Bill's purchase of a new watch came out of left field. I thought he was broke.",
+      "D": "Unexpectedly."
+    }
+  },
+  {
+    "number": 116,
+    "headword": "jog sb's memory",
+    "examples": {
+      "B": "Then God for the recap of what the first lecture was about. It had been a while since I reviewed the slides, and I desperately needed it to jog my memory.",
+      "C": "I don't really remember what we discussed at the meeting last month. Can you jog my memory?",
+      "D": "Help somebody recall."
+    }
+  },
+  {
+    "number": 117,
+    "headword": "get away with sth",
+    "examples": {
+      "B": "My daughter knows she can get away with anything at home.",
+      "C": "I don't know how, but Amy always seems to get away with turning up to work late.",
+      "D": "Avoid punishment for something."
+    }
+  },
+  {
+    "number": 118,
+    "headword": "no-brainer",
+    "examples": {
+      "B": "KFC or McDonald's. McDonald's. It's a no-brainer. I had KFC for dinner yesterday.",
+      "C": "If you're on a low-carb diet, it's a no-brainer that you shouldn't drink sugary drinks like soda and fruit juice.",
+      "D": "obvious choice."
+    }
+  },
+  {
+    "number": 119,
+    "headword": "on the same wavelength",
+    "examples": {
+      "B": "My best friend at I are really on the same wavelength.",
+      "C": "I don't think Bob and I are on the same wavelength on this issue, so we can't really work together.",
+      "D": "Similar in thinking."
+    }
+  },
+  {
+    "number": 120,
+    "headword": "away",
+    "examples": {
+      "B": "I'm away over the long weekend so you won't be able to call me.",
+      "C": "Sarah is a way tomorrow, so just let me know if you have any questions.",
+      "D": "on leave."
+    }
+  },
+  {
+    "number": 121,
+    "headword": "kick-start sth",
+    "examples": {
+      "B": "You can't just kick start the economy by pumping more money in. It's not sustainable.",
+      "C": "You don't have to wait to kickstart your future. Let's make the final call today and get the ball rolling.",
+      "D": "Give fresh impetus to something."
+    }
+  },
+  {
+    "number": 122,
+    "headword": "the last straw",
+    "examples": {
+      "B": "I've said I was going to block this guy several times, but these persistent and annoying messages were the last straw. I'm actually doing it now.",
+      "C": "When people unfollow me, I really want to know what the last straw was. That's the only way I'll be able to improve.",
+      "D": "The last of a series of problems that causes a loss of patients."
+    }
+  },
+  {
+    "number": 123,
+    "headword": "almost there",
+    "examples": {
+      "B": "I was almost there, but after I clicked purchase, it froze. It's crystal clear that they need to upgrade their website.",
+      "C": "Are we almost there with this work? It already seems like we've spent ages working on it.",
+      "D": "Nearly finished."
+    }
+  },
+  {
+    "number": 124,
+    "headword": "shoot oneself in the foot",
+    "examples": {
+      "B": "I shot myself in the foot when I kept nodding at my boss because he realized that I wasn't actually listening.",
+      "C": "Let's not shoot ourselves in the foot by spinning all our money at once.",
+      "D": "Cause oneself difficulty."
+    }
+  },
+  {
+    "number": 125,
+    "headword": "keep track of sth",
+    "examples": {
+      "B": "Can you please keep track of our spending for this month? I'm concerned that we're wasting too much money on food.",
+      "C": "I haven't received any updates from George for ages, so I've been keeping track of him. I found that he's not actually working most of the time.",
+      "D": "Monitor something."
+    }
+  },
+  {
+    "number": 126,
+    "headword": "keep sb posted",
+    "examples": {
+      "B": "I'm glad to hear you're having a great time in New York. Keep me posted.",
+      "C": "We are going to launch a new campaign, select forward to it. We will keep you all posted.",
+      "D": "Keep somebody updated."
+    }
+  },
+  {
+    "number": 127,
+    "headword": "get straight to the point",
+    "examples": {
+      "B": "I was a bit pressed for time, so I got straight to the point during our meeting.",
+      "C": "I like when people get straight to the point and tell me what they want. Otherwise, we just end up going in circles.",
+      "D": "Talk about the main topic immediately."
+    }
+  },
+  {
+    "number": 128,
+    "headword": "I don't know about that",
+    "examples": {
+      "B": "James told me that the boss will definitely get us to the airport quicker, but I don't know about that. I still think that the train will get us there earlier.",
+      "C": "He told me that we should roll out this product as soon as possible, but I don't know about that. We should be more careful here.",
+      "D": "I'm doubtful about that."
+    }
+  },
+  {
+    "number": 129,
+    "headword": "bounce off the walls.mp",
+    "examples": {
+      "B": "I literally bounce off the walls when I drink Red Bull. I always feel like I have wings on my back.",
+      "C": "I think my children had too much sugar at lunch. They've been bouncing off the walls all afternoon.",
+      "D": "be energetic."
+    }
+  },
+  {
+    "number": 130,
+    "headword": "gather one's thoughts",
+    "examples": {
+      "B": "I need a moment to gather my thoughts before giving a speech this afternoon.",
+      "C": "I find it easier to gather my thoughts when I'm driving with the windows down on cool nights like these.",
+      "D": "Put one's ideas together."
+    }
+  },
+  {
+    "number": 131,
+    "headword": "ground rules",
+    "examples": {
+      "B": "We need to set some ground rules around attendance at meetings as some people don't turn up when they're supposed to.",
+      "C": "To have a healthy relationship, there needs to be respect and ground rules, and you need to be able to clearly say how you feel. It's as simple as that.",
+      "D": "Basic printables"
+    }
+  },
+  {
+    "number": 132,
+    "headword": "for real",
+    "examples": {
+      "B": "When the creepy guy sat right next to me and there were still so many available seats in the restaurant, I was like, is this guy for real?",
+      "C": "Is he thinking about driving that weather for real? It looks like a storm is brewing.",
+      "D": "Sirius, Sirius Lee."
+    }
+  },
+  {
+    "number": 133,
+    "headword": "long story short",
+    "examples": {
+      "B": "Long story short, I found a surefire way to make a video viral. I'm gonna keep it to myself for now.",
+      "C": "So many things happened yesterday, the long story short I got dumped.",
+      "D": "in summary."
+    }
+  },
+  {
+    "number": 134,
+    "headword": "one-size-fits-all",
+    "examples": {
+      "B": "There's no one size fits all approach for English studies, so always ask yourself if the method you are being taught suits your style.",
+      "C": "Acne treatment aren't one size fits all, so it's important to determine the right treatment based on your type of acne.",
+      "D": "Generic."
+    }
+  },
+  {
+    "number": 135,
+    "headword": "on top of sth",
+    "examples": {
+      "B": "I'd ask Lisa, as I think she's probably on top of this issue.",
+      "C": "I've just come back from holidays, so I'll need to spend a day or two getting on top of things.",
+      "D": "fully informed of something."
+    }
+  },
+  {
+    "number": 136,
+    "headword": "sb's thing",
+    "examples": {
+      "B": "Going to karaoke alone is my thing.",
+      "C": "Being late to events is Jacob's thing, so I wouldn't expect him to show up on time tonight.",
+      "D": "What somebody likes? What somebody usually does?"
+    }
+  },
+  {
+    "number": 137,
+    "headword": "think on sth",
+    "examples": {
+      "B": "Peter needs time to think on his decision before committing to purchasing a house.",
+      "C": "It seems my boss wants me to move the event nom with them for work, but I've told them I need to think on it.",
+      "D": "Content plates something."
+    }
+  },
+  {
+    "number": 138,
+    "headword": "switched on",
+    "examples": {
+      "B": "The new starter learns things really quickly. He's very switched on.",
+      "C": "I want someone who's sharp, modest, and switched on for my junior. I know that I'm asking for the world, but it would be nice.",
+      "D": "Clever."
+    }
+  },
+  {
+    "number": 139,
+    "headword": "ease into sth",
+    "examples": {
+      "B": "In my experience, drinking plenty of water is one of the best ways to ease into a healthy diet.",
+      "C": "You should find a mentor who can show you the ropes to ease into a new job. That's how I normally hit the ground running in my new job.",
+      "D": "be slowly introduced to something."
+    }
+  },
+  {
+    "number": 140,
+    "headword": "true that",
+    "examples": {
+      "B": "We won't die even if we miss the deadline? True that.",
+      "C": "A lot of Americans seem to think that Japanese people eat sushi like every day. True that.",
+      "D": "I agree."
+    }
+  },
+  {
+    "number": 141,
+    "headword": "head",
+    "examples": {
+      "B": "Where you head and after work today, want to grab some dinner?",
+      "C": "Don't worry, I'm heading home now.",
+      "D": "Go."
+    }
+  },
+  {
+    "number": 142,
+    "headword": "slip sb's mind",
+    "examples": {
+      "B": "Sorry I forgot to buy milk. It completely slipped my mind.",
+      "C": "It's been half an hour and I haven't heard from Alex. Do you think this meeting is slipped as mind?",
+      "D": "Be forgotten by somebody."
+    }
+  },
+  {
+    "number": 143,
+    "headword": "burn one/s bridges",
+    "examples": {
+      "B": "Mary burned her bridges when she left the company because she's in a very offensive email to her manager.",
+      "C": "I'd rather have one real friend than a bunch of fake ones, so I bit the bullet and burned all my bridges with all of them.",
+      "D": "Eliminate one's possibility of return."
+    }
+  },
+  {
+    "number": 144,
+    "headword": "settle down",
+    "examples": {
+      "B": "It took me a while to settle down after the car crash.",
+      "C": "Can he please tell Sean to settle down? He's making way too much noise.",
+      "D": "Calm down."
+    }
+  },
+  {
+    "number": 145,
+    "headword": "sure thing",
+    "examples": {
+      "B": "I wasn't really listening to what my colleague was saying, but I said, sure thing, to what he was asking anyway.",
+      "C": "Sure thing, I'll pick up the kids after school.",
+      "D": "Of course."
+    }
+  },
+  {
+    "number": 146,
+    "headword": "one-sided",
+    "examples": {
+      "B": "I know I have to stop thinking about my one-sided crush, but it's easier said than done.",
+      "C": "I'm fed up with your one-sided argument. You're completely ignoring any evidence that contradicts your position.",
+      "D": "Unilateral."
+    }
+  },
+  {
+    "number": 147,
+    "headword": "get sth off one's chest.mp",
+    "examples": {
+      "B": "Can I speak to you and private? I've got something I've wanted to get off my chest for a while, but I don't want to do it in front of my family.",
+      "C": "Is there something that you need to get off your chest? You look very guilty.",
+      "D": "Confess something."
+    }
+  },
+  {
+    "number": 148,
+    "headword": "free sth up",
+    "examples": {
+      "B": "I'll free up some time so that we can have lunch tomorrow. I'm really keen to catch up.",
+      "C": "Delete all these files and you can free up some space on your iPhone.",
+      "D": "Make something available to be used."
+    }
+  },
+  {
+    "number": 149,
+    "headword": "catch sb off guard",
+    "examples": {
+      "B": "My best female friend suddenly asked me if I liked her. It caught me off guard.",
+      "C": "Let's better understand the tactics of the opposition so that we're not caught off guard.",
+      "D": "Surprise somebody."
+    }
+  },
+  {
+    "number": 150,
+    "headword": "buy sth",
+    "examples": {
+      "B": "Shinya told me he was late for work because this dog broke his phone and they alarmed and go off. Do you buy that?",
+      "C": "I don't think Emma will buy your story. You lie to her all the time.",
+      "D": "Believe something."
+    }
+  },
+  {
+    "number": 151,
+    "headword": "cheap shot",
+    "examples": {
+      "B": "The hamburger shop making fun of vegans is a cheap shot.",
+      "C": "Telling lies about competitors on social media is a cheap shot.",
+      "D": "Unfair Attack."
+    }
+  },
+  {
+    "number": 152,
+    "headword": "out of nowhere",
+    "examples": {
+      "B": "Oh man, this 19-year-old Forex trader became a billionaire out of nowhere. What are we doing here?",
+      "C": "Carl's bad mood came out of nowhere. He was really happy this morning.",
+      "D": "Suddenly and unexpectedly."
+    }
+  },
+  {
+    "number": 153,
+    "headword": "go on (and on) about sth",
+    "examples": {
+      "B": "He kept going on about the importance of understanding the forgetting curve when it comes to realizing effective vocabulary memorization.",
+      "C": "Today I met a tiny boy and he went on and on about what Pokemon means to him. So I gave him a Pikachu plush. He was walking on sunshine.",
+      "D": "Continuously talk about something."
+    }
+  },
+  {
+    "number": 154,
+    "headword": "put one's heads together",
+    "examples": {
+      "B": "We should put our heads together as a team to come up with a solution. We need to solve this sooner rather than later.",
+      "C": "We all decided to drop out of college and put our heads together to start a new business.",
+      "D": "Collaborate."
+    }
+  },
+  {
+    "number": 155,
+    "headword": "the reality is (that)",
+    "examples": {
+      "B": "I told my manager that I was working from home, but the reality is that I was basking in the sun at the beach.",
+      "C": "Often the fear of what others thank Colz's back from doing what we want to do, but the reality is that people don't care about others.",
+      "D": "In fact."
+    }
+  },
+  {
+    "number": 156,
+    "headword": "back and forth",
+    "examples": {
+      "B": "After a lot of back and forth with Sean, we finally agreed on his new salary. It was a bit touching go for a while.",
+      "C": "I had a lot of back and forth with my friend about whether there is life on other planets, but at the end of the day, only God knows.",
+      "D": "Discussion."
+    }
+  },
+  {
+    "number": 157,
+    "headword": "lose track of time",
+    "examples": {
+      "B": "I'd last track of time because the movie I was watching was just fantastic.",
+      "C": "Damn, I lost track of time playing Mario Kart. It's already 3am.",
+      "D": "Be unaware of what time it is."
+    }
+  },
+  {
+    "number": 158,
+    "headword": "across the board",
+    "examples": {
+      "B": "The knees software will be implemented across the board.",
+      "C": "I think there will be job cuts across the board in the near. It won't be limited to any specific departments.",
+      "D": "affecting everything or everybody."
+    }
+  },
+  {
+    "number": 159,
+    "headword": "big picture",
+    "examples": {
+      "B": "A school should start caring about actual problems like bullying, and stop making a big deal about things like hair dying. They need to see the big picture.",
+      "C": "If things aren't going right for you in life, take a step back, look at the big picture, and make changes.",
+      "D": "Overall view."
+    }
+  },
+  {
+    "number": 160,
+    "headword": "fly under the radar",
+    "examples": {
+      "B": "Norman likes to fly under the radar at work so that he doesn't get given more tasks.",
+      "C": "I have no clue why this song has flown so far under the radar. It's a masterpiece and down.",
+      "D": "Go unnoticed."
+    }
+  },
+  {
+    "number": 161,
+    "headword": "for all intents and purposes",
+    "examples": {
+      "B": "For all intents and purposes, Nick and James are best friends.",
+      "C": "For all intents and purposes, the largest Chinese search engine by-do is China's version of Google.",
+      "D": "Essentially."
+    }
+  },
+  {
+    "number": 162,
+    "headword": "upbeat",
+    "examples": {
+      "B": "Kelly remained upbeat to spite her broken leg.",
+      "C": "He ends a very upbeat person, isn't he? Nothing ever seems to upset him.",
+      "D": "Positive"
+    }
+  },
+  {
+    "number": 163,
+    "headword": "change it up",
+    "examples": {
+      "B": "I didn't really need to move house, but I decided to move to a new place just to change it up.",
+      "C": "Let's change it up today and have our meeting standing up rather than sitting down.",
+      "D": "Fresh and things up."
+    }
+  },
+  {
+    "number": 164,
+    "headword": "play one's cards right",
+    "examples": {
+      "B": "If I play my cards right, I should be able to get M and go out to dinner with me next week.",
+      "C": "Bill got promoted to CEO in record time because he played his cards right from the first day he joined the company.",
+      "D": "Act correctly."
+    }
+  },
+  {
+    "number": 165,
+    "headword": "cream of the crop",
+    "examples": {
+      "B": "Is this band really the cream of the crop in Tokyo? My child plays better than they do.",
+      "C": "We only recruit the cream of the crop. That's why we pay above market salaries.",
+      "D": "Best."
+    }
+  },
+  {
+    "number": 166,
+    "headword": "in good shape",
+    "examples": {
+      "B": "The house that we just bought isn't pretty good shape, so we shouldn't have to spend a lot on renovations.",
+      "C": "Testing whether you can hold a plank per about a minute or longer is a good way to check if you're in good shape.",
+      "D": "in a good condition, in a good state of health."
+    }
+  },
+  {
+    "number": 167,
+    "headword": "wouldn't hurt to do",
+    "examples": {
+      "B": "You want to apply for the maid cafe, but you doubt the take-ease sensor at guy? It wouldn't hurt to try since you have nothing to lose.",
+      "C": "It wouldn't hurt to bring a laptop to the meeting, but I don't think it's really necessary.",
+      "D": "Might be worthwhile doing."
+    }
+  },
+  {
+    "number": 168,
+    "headword": "down the road",
+    "examples": {
+      "B": "Right now, you can only score 400 on the towic exam. Down the road, you'll reach 900 easily if you continue to put in the hard yards.",
+      "C": "I would like to say that I'll love you forever, but I can't. I'm not sure how I'll feel down the road.",
+      "D": "in the future."
+    }
+  },
+  {
+    "number": 169,
+    "headword": "thick-skinned",
+    "examples": {
+      "B": "John is very thick-skinned. Even when people criticize him a lot, he doesn't seem to feel anything.",
+      "C": "Working in the hospitality industry makes you thick-skinned.",
+      "D": "In sensitive to criticism."
+    }
+  },
+  {
+    "number": 170,
+    "headword": "life of the party",
+    "examples": {
+      "B": "I'm a very shy person, but when I do karaoke with my friends, my switch gets turned on. I become the life of the party.",
+      "C": "He is definitely the life of the party for our team. He always hipes us up.",
+      "D": "Very lively and amusing person."
+    }
+  },
+  {
+    "number": 171,
+    "headword": "quality over quantity",
+    "examples": {
+      "B": "I prefer quality over quantity in friendships. You don't need a thousand friends to be happy. Deal you?",
+      "C": "What makes this brand so strong in the market is their focus on quality over quantity.",
+      "D": "Quality more than volume."
+    }
+  },
+  {
+    "number": 172,
+    "headword": "make a call",
+    "examples": {
+      "B": "I need somebody else to make a call about how many copies of distinction were printing. It's not my area of specialty.",
+      "C": "I've gotta ask my manager first because I don't have the authority to make a call on this kind of stuff.",
+      "D": "Make a decision."
+    }
+  },
+  {
+    "number": 173,
+    "headword": "for argument's sake",
+    "examples": {
+      "B": "You've just said playing Devils Outdricot makes people smarter. But for argument sake, let's say it doesn't.",
+      "C": "For argument sake, say it's an hour to your workplace and an hour back. That's two hours out of a day. Don't you think that's a lot?",
+      "D": "for the purpose of debate."
+    }
+  },
+  {
+    "number": 174,
+    "headword": "plan of attack",
+    "examples": {
+      "B": "Let's work out a plan of attack so that we know what each person is responsible for delivering.",
+      "C": "My plan of attack for tomorrow's exam is to try my very hardest not to do anything stupid, like marking a wrong answer by mistake.",
+      "D": "Detailed Plan"
+    }
+  },
+  {
+    "number": 175,
+    "headword": "get off to a rough start",
+    "examples": {
+      "B": "My English studies got off to a rough start, but I started enjoying it more once I learned more about the language.",
+      "C": "The market got off to a rough start today due to the disappointing employment statistics.",
+      "D": "Start off badly."
+    }
+  },
+  {
+    "number": 176,
+    "headword": "open (up) a can of worms",
+    "examples": {
+      "B": "Let's not tell him about what happened yesterday. It might open it can't have worms.",
+      "C": "I know Groupurk has some benefits, but it can also open up a kind of worms when lazy students rely on hardworking peers to pull up their grades.",
+      "D": "Create an issue that leads to more issues."
+    }
+  },
+  {
+    "number": 177,
+    "headword": "pick up the pace",
+    "examples": {
+      "B": "We need to pick up the pace on writing this book a little bit if we want to release it next month.",
+      "C": "You gotta pick up the pace and post more videos on YouTube if you want to be successful.",
+      "D": "Speed up."
+    }
+  },
+  {
+    "number": 178,
+    "headword": "chip away at sth",
+    "examples": {
+      "B": "You just need to keep chipping away at problems and enjoy learning new things. That's all you need in your first year of work.",
+      "C": "I'm chipping away at the book. I've read about half of it so far.",
+      "D": "Progress steadily."
+    }
+  },
+  {
+    "number": 179,
+    "headword": "pick sth up",
+    "examples": {
+      "B": "I've recently picked up playing the guitar. I might need to get lessons at some point.",
+      "C": "Now that I've quit my job, I have so much more spare time. I really need to pick up a new hobby.",
+      "D": "Start something."
+    }
+  },
+  {
+    "number": 180,
+    "headword": "get under sb's skin",
+    "examples": {
+      "B": "Not getting other people's skin is one of the critical skills to succeed in life.",
+      "C": "He's an angel. Nothing gets under his skin. He laughs at everything.",
+      "D": "I know I somebody."
+    }
+  },
+  {
+    "number": 181,
+    "headword": "on board with sth",
+    "examples": {
+      "B": "I finally found a great location that we can all get on board with for this party.",
+      "C": "I'm definitely on board with this plan to have a coffee machine installed in the kitchen, but you'll need the boss to give the green light.",
+      "D": "in agreement with something."
+    }
+  },
+  {
+    "number": 182,
+    "headword": "keep sb in the loop",
+    "examples": {
+      "B": "Can you please keep in the loop with how the project is going?",
+      "C": "I'm going to have a weekly meeting with James to keep him in the loop.",
+      "D": "Keep somebody informed."
+    }
+  },
+  {
+    "number": 183,
+    "headword": "wishful thinking",
+    "examples": {
+      "B": "My wife and I talked about buying a new house in Hawaii, but it's kind of just wishful thinking right now.",
+      "C": "My parents will bail me out when I run out of money. Just wishful thinking. The reality is that they don't have any extra money to give me.",
+      "D": "overly optimistic thinking."
+    }
+  },
+  {
+    "number": 184,
+    "headword": "if it were up to me",
+    "examples": {
+      "B": "If it were up to me, I would spend all my money on clothes and accessories. Unfortunately, my better half calls the shots and spending in my family.",
+      "C": "If it were up to me, I would have at least five more dogs.",
+      "D": "if I could make the decision."
+    }
+  },
+  {
+    "number": 185,
+    "headword": "keep it between us",
+    "examples": {
+      "B": "Keep it between us, but I really hate the way Sam laughs. It sounds like a seal choking on its fish.",
+      "C": "I'll tell you the real reason why I'm traveling to North Korea next week, as long as you promise to keep it between us.",
+      "D": "Keep it secret."
+    }
+  },
+  {
+    "number": 186,
+    "headword": "make sb's day",
+    "examples": {
+      "B": "The Maroon 5 concert was just awesome, it made my day.",
+      "C": "Finally meeting my best internet friend and person really made my day.",
+      "D": "Make somebody very happy."
+    }
+  },
+  {
+    "number": 187,
+    "headword": "book-smart",
+    "examples": {
+      "B": "Patrick's very book smart, but he struggles to complete simple tasks like making lunch reservations.",
+      "C": "He said African slaves were immigrants who came to America with a dream. He's very book smart, but his social awareness is terrible.",
+      "D": "academically intelligent."
+    }
+  },
+  {
+    "number": 188,
+    "headword": "street-smart",
+    "examples": {
+      "B": "I may not be book smart, but I'm street smart, and I'm proud of it.",
+      "C": "My thinking is that being streetsmark comes from experience.",
+      "D": "Good at navigating life."
+    }
+  },
+  {
+    "number": 189,
+    "headword": "backstabber",
+    "examples": {
+      "B": "I treated him as my true friend, but he ended up being a backstabber. I'm a bit shell-shocked.",
+      "C": "I wouldn't trust Jim to keep my secret. He has a reputation of being a backstabber.",
+      "D": "betrayer."
+    }
+  },
+  {
+    "number": 190,
+    "headword": "I'm game",
+    "examples": {
+      "B": "John asked me if I want to join his baseball team, so I said I'm game.",
+      "C": "Sarah said, do you want to come shopping with me next time? So I said, yeah, I'm game.",
+      "D": "I'm King."
+    }
+  },
+  {
+    "number": 191,
+    "headword": "get one's act together",
+    "examples": {
+      "B": "My teacher told me I need to get my act together because my grades have dropped. She should be more specific if she actually wants me to improve.",
+      "C": "I haven't done any work over the last couple days. I gotta get my act together before my boss finds out.",
+      "D": "Organize once of affairs."
+    }
+  },
+  {
+    "number": 192,
+    "headword": "at the end of the day",
+    "examples": {
+      "B": "He went on and on about what colors the best for taxis. At the end of the day, it doesn't matter what color the taxis, as long as it gets you from A to B.",
+      "C": "At the end of the day, you broke the plates in the store, so you should pay for them.",
+      "D": "Ultimately."
+    }
+  },
+  {
+    "number": 193,
+    "headword": "drive a hard bargain",
+    "examples": {
+      "B": "I really want to hire Carl, but I don't think he can afford him. He drives such a hard bargain.",
+      "C": "Liz drives a hard bargain. She said, I'll resign unless I get promoted this year.",
+      "D": "Negotiate strongly."
+    }
+  },
+  {
+    "number": 194,
+    "headword": "might as well (do)",
+    "examples": {
+      "B": "I haven't posted these photos here yet, so mine as well post them now.",
+      "C": "Do I want to grab a beer? Hmm. Yeah, might as well. I've hit a wall anyway.",
+      "D": "Might want to deal."
+    }
+  },
+  {
+    "number": 195,
+    "headword": "high-level",
+    "examples": {
+      "B": "I've only done a very high level review of your work, so won't pick up all the little mistakes.",
+      "C": "I recommend this podcast to anyone who's interested in deep learning in AI. It will give you a high level overview of what they really are.",
+      "D": "Superfessional."
+    }
+  },
+  {
+    "number": 196,
+    "headword": "in the mix",
+    "examples": {
+      "B": "I wonder why Australia has never been in the mix for hosting the World Cup.",
+      "C": "Julia is definitely in the mix to be selected as club president. She's been there for ages.",
+      "D": "Considered for selection."
+    }
+  },
+  {
+    "number": 197,
+    "headword": "stack up",
+    "examples": {
+      "B": "None of your explanations stack up. Is that a fake story?",
+      "C": "Not a story about surfing in the Sahara Desert doesn't stack up. There's no water there.",
+      "D": "Make sense."
+    }
+  },
+  {
+    "number": 198,
+    "headword": "one way or another",
+    "examples": {
+      "B": "Google Maps isn't working, but one way or another, I'll find my way to the park.",
+      "C": "One way or another, we have to finish this group assignment by tomorrow. Let's knuckle down and get it done.",
+      "D": "Sunpal."
+    }
+  },
+  {
+    "number": 199,
+    "headword": "not the end of the world",
+    "examples": {
+      "B": "Don't be a drama queen. Forgetting to bring lunch to work is not the end of the world.",
+      "C": "Calm down, man. One minor mistake in a 15,000-word thesis is not the end of the world.",
+      "D": "Not a major issue."
+    }
+  },
+  {
+    "number": 200,
+    "headword": "hit it off",
+    "examples": {
+      "B": "Yesterday was our first time meeting each other, but we hit it off straight away because we realized our dreams are exactly the same.",
+      "C": "I heard you met the new employee yesterday. Did you hit it off with her?",
+      "D": "Get along."
+    }
+  },
+  {
+    "number": 201,
+    "headword": "have a soft spot for sth",
+    "examples": {
+      "B": "I have a soft spot for limited edition snacks.",
+      "C": "I still have a soft spot for my first girlfriend. What should I do?",
+      "D": "Have a weakness for something."
+    }
+  },
+  {
+    "number": 202,
+    "headword": "for the foreseeable future",
+    "examples": {
+      "B": "I'm leaving Japan for the foreseeable future to grasp more opportunities in the world.",
+      "C": "Carly is not having any more children for the foreseeable future. She said she wants to focus on some other things.",
+      "D": "For the near future at this point in time."
+    }
+  },
+  {
+    "number": 203,
+    "headword": "back-seat driver",
+    "examples": {
+      "B": "The manager always tells people what to do, but I've never actually seen her do any work herself. She's such a backseat driver.",
+      "C": "Don't be a backseat driver. I know what I'm doing.",
+      "D": "MicroManager."
+    }
+  },
+  {
+    "number": 204,
+    "headword": "hard on sb",
+    "examples": {
+      "B": "Brian's been very hard on his team lately as the project deadline is pretty ridiculous.",
+      "C": "I don't want to be too hard on Bill because he's just left the hospital, but he's been a bit slow over the last few days.",
+      "D": "hoar shant zambali"
+    }
+  },
+  {
+    "number": 205,
+    "headword": "pull at sb's heartstrings",
+    "examples": {
+      "B": "Korean drama snow just how to pull up people's heartstrings. They make me burst into tears every time I watch them.",
+      "C": "This scene makes me cry every time. It really pulls up my heartstrings.",
+      "D": "Make somebody emotional."
+    }
+  },
+  {
+    "number": 206,
+    "headword": "foot the bill",
+    "examples": {
+      "B": "If everybody contributes $10 each, I will put the bill.",
+      "C": "In my opinion, a woman should not expect the man to put the bill. However, if the man has invited the woman out on a date, then I think he should pay.",
+      "D": "Pay the remainder. Pay it all."
+    }
+  },
+  {
+    "number": 207,
+    "headword": "on top of the world",
+    "examples": {
+      "B": "You may as boyfriend got her a bunch of flowers for no reason today, so she's in top of the world at the moment.",
+      "C": "I was filling on top of the world after finishing the long project.",
+      "D": "Very happy."
+    }
+  },
+  {
+    "number": 208,
+    "headword": "get back to the basics",
+    "examples": {
+      "B": "The IT team needs to get back to the basics and first make sure the software actually boots up before adding all the bells and whistles.",
+      "C": "Let's get back to the basics and start improving education and classroom on a really fundamental level.",
+      "D": "Return to the fundamentals."
+    }
+  },
+  {
+    "number": 209,
+    "headword": "sit on sth",
+    "examples": {
+      "B": "Stop sitting on that piece of work and send it to me already. I need to review it tomorrow.",
+      "C": "Do you know why George has been sitting on this part of the assignment?",
+      "D": "delay doing something."
+    }
+  },
+  {
+    "number": 210,
+    "headword": "force the issue",
+    "examples": {
+      "B": "He's been dragging his feet about paying my salary, so I've got to force the issue soon.",
+      "C": "I'm confused about whether this girl likes me because she never gives me a straight answer. I think it's about time I force the issue.",
+      "D": "Compela Decision"
+    }
+  },
+  {
+    "number": 211,
+    "headword": "view sth in a certain light",
+    "examples": {
+      "B": "Pued in a certain light, the special solid I just ate was a bowl of salad with some cheese added. It wasn't really anything special.",
+      "C": "Japanese can be better than English as a language when you view it in a certain light.",
+      "D": "Consider something from a particular perspective."
+    }
+  },
+  {
+    "number": 212,
+    "headword": "by and large",
+    "examples": {
+      "B": "By and large, I'm pretty happy with my workplace, even though my boss can be a bit hard-headed.",
+      "C": "By and large, people like sleeping.",
+      "D": "All things considered, generally."
+    }
+  },
+  {
+    "number": 213,
+    "headword": "be killing sb",
+    "examples": {
+      "B": "It seems translating all these documents written in Japanese and the English is killing him, because his mother tongue is neither Japanese nor English.",
+      "C": "Can you stop chewing with your mouth open? It's killing me.",
+      "D": "prostrating somebody."
+    }
+  },
+  {
+    "number": 214,
+    "headword": "live with sth",
+    "examples": {
+      "B": "I can live with failure, but I can't live with not trying.",
+      "C": "My doctor said only one glass about gohola day. I don't think I can live with that.",
+      "D": "Tolerate something."
+    }
+  },
+  {
+    "number": 215,
+    "headword": "go off track",
+    "examples": {
+      "B": "Our conversation went on a bit longer than expected. As Michael went up, bit off track towards the end.",
+      "C": "Our project has gone a bit off track over the past week, so we might have to work a bit harder this week to fix it up.",
+      "D": "Get sidetracked."
+    }
+  },
+  {
+    "number": 216,
+    "headword": "land on one's feet",
+    "examples": {
+      "B": "It's sad we had to fire him, but he will land on his feet and be successful somewhere else.",
+      "C": "I'm impressed by how he landed on his speed after his house burned down.",
+      "D": "Recover while they're quickly."
+    }
+  },
+  {
+    "number": 217,
+    "headword": "fingers crossed",
+    "examples": {
+      "B": "Fingers crossed we get home before it starts raining. It might be a long shot though.",
+      "C": "I studied tofu for two months, so I hope I get a good score. Fingers crossed.",
+      "D": "Hopefully."
+    }
+  },
+  {
+    "number": 218,
+    "headword": "done deal",
+    "examples": {
+      "B": "My transfer to the office in London is a done deal. I'm going to be moving next week.",
+      "C": "Your relationship with him is a done deal. Even if you get him back, it won't be the same anymore. You should move on.",
+      "D": "Thing that's finalized."
+    }
+  },
+  {
+    "number": 219,
+    "headword": "that ship has sailed",
+    "examples": {
+      "B": "We can't get tickets now. That ship is sailed. The tickets sold out yesterday.",
+      "C": "A lot of kids these days say they want to be a YouTuber in the next few years. But that ship will have sailed by then.",
+      "D": "That opportunity has been missed."
+    }
+  },
+  {
+    "number": 220,
+    "headword": "checks and balances",
+    "examples": {
+      "B": "The federal government has checks and balances in place to ensure that the president can't just do what he feels like.",
+      "C": "There are checks and balances within the organization, to make sure that people can't just transfer money to themselves.",
+      "D": "Mechanisms that prevent or identify issues."
+    }
+  },
+  {
+    "number": 221,
+    "headword": "lighten the mood",
+    "examples": {
+      "B": "When people cry, I always crack jokes thinking it will lighten the mood, but everyone always just tells me to shut up.",
+      "C": "It's hard to lighten the mood when someone gets hurt.",
+      "D": "Improve the atmosphere."
+    }
+  },
+  {
+    "number": 222,
+    "headword": "something along those lines",
+    "examples": {
+      "B": "Can you buy me a can of fanta or something along those lines?",
+      "C": "What hobby would you get into if time and money weren't an issue? It'd be world traveler something along those lines for me.",
+      "D": "Something similar."
+    }
+  },
+  {
+    "number": 223,
+    "headword": "do sth for the sake of doing sth",
+    "examples": {
+      "B": "I think one of the reasons I've been a bit unproductive at work these days is that it's starting to feel like I'm doing this job for the sake of doing it.",
+      "C": "Many students study for the sake of studying with no clear goals. That's the biggest problem.",
+      "D": "Do something without a clear purpose."
+    }
+  },
+  {
+    "number": 224,
+    "headword": "on point",
+    "examples": {
+      "B": "Your haircut is very on point.",
+      "C": "Where did you buy that suit? It's Barry on point.",
+      "D": "stylish."
+    }
+  },
+  {
+    "number": 225,
+    "headword": "have a word with sb",
+    "examples": {
+      "B": "I'll have a word with an HR rep about my boss's behavior, because it's very inappropriate.",
+      "C": "Hey, can I have a word with you and private? I've got something to tell you.",
+      "D": "Talk with somebody briefly."
+    }
+  },
+  {
+    "number": 226,
+    "headword": "Insurance policy",
+    "examples": {
+      "B": "I brought no top on stage with me as an insurance policy, in case I forget parts of my speech.",
+      "C": "It baffles me why some girls still want to keep up the image that they are single when they're taken. Is it an insurance policy in case things don't work out?",
+      "D": "Risk Reduction Measure."
+    }
+  },
+  {
+    "number": 227,
+    "headword": "hot-headed",
+    "examples": {
+      "B": "This blog post says hot-headed people tend to have strong personalities, and I think it's kind of true.",
+      "C": "He's pretty hot-headed, so try not to provoke him.",
+      "D": "Quick tempered."
+    }
+  },
+  {
+    "number": 228,
+    "headword": "better safe than sorry",
+    "examples": {
+      "B": "I didn't remember whether you wanted a latte or a cappuccino, so I ordered both. Better safe than sorry.",
+      "C": "I think I ordered too many drinks for the party, but better safe than sorry, right?",
+      "D": "It is wise to be careful rather than be careless."
+    }
+  },
+  {
+    "number": 229,
+    "headword": "put all one's eggs in one basket",
+    "examples": {
+      "B": "I'd like to put all my money on the first tours, but I know I shouldn't put all my eggs in one basket.",
+      "C": "My financial advisor urged me to be careful not to put all my eggs in one basket when making an investment.",
+      "D": "Reliang a single course of action per one success."
+    }
+  },
+  {
+    "number": 230,
+    "headword": "batch sth",
+    "examples": {
+      "B": "Rather than everyone making an order separately, let's batch them together for Tom to take care of.",
+      "C": "I'm a big fan of the idea of baching housework, like doing laundry on set days as opposed to everyday.",
+      "D": "Group something."
+    }
+  },
+  {
+    "number": 231,
+    "headword": "keep things moving",
+    "examples": {
+      "B": "I know you guys sick today, but we still need to keep things moving in as absence.",
+      "C": "The stomach and intestines are organs that think, as anxiety affects the muscles that keep things moving through the digestive system.",
+      "D": "maintain progress."
+    }
+  },
+  {
+    "number": 232,
+    "headword": "hit a roadblock",
+    "examples": {
+      "B": "The long in the short of it is that planning and advance for how you lacked when you hit a roadblock is critical to a successful career.",
+      "C": "If you believe you've hit a roadblock, take a step back and think about the root cause.",
+      "D": "Encounter difficulty."
+    }
+  },
+  {
+    "number": 233,
+    "headword": "that's a first",
+    "examples": {
+      "B": "Evelyn arrived on time. That's a first.",
+      "C": "That's the first. My mom didn't blame me for not getting full marks.",
+      "D": "That's a new jour."
+    }
+  },
+  {
+    "number": 234,
+    "headword": "fed up",
+    "examples": {
+      "B": "My girlfriend is fed up with me turning up late when we have a date. I'll need to smooth things over with her.",
+      "C": "I think my bosses fed up with me always missing deadlines.",
+      "D": "This sound is sad!"
+    }
+  },
+  {
+    "number": 235,
+    "headword": "see eye to eye",
+    "examples": {
+      "B": "My girlfriend and I get into a lot of fights. We don't see IDI on many things.",
+      "C": "We don't always see IDI, but all always love my parents.",
+      "D": "agree with each other."
+    }
+  },
+  {
+    "number": 236,
+    "headword": "stick it out",
+    "examples": {
+      "B": "I know what I've asked you to do is really difficult. But stick it out, and there may be a generous reward for you at the end.",
+      "C": "I want to quit my job, but then I also think I should stick it out. I'm stuck between a rock and a hard place.",
+      "D": "Persist to the end."
+    }
+  },
+  {
+    "number": 237,
+    "headword": "in the grand scheme of things",
+    "examples": {
+      "B": "Stay positive. Challenges are great for a career in the grand scheme of things.",
+      "C": "Don't be such a downer. In the grand scheme of things, your mistake won't matter too much.",
+      "D": "from a holistic point of view."
+    }
+  },
+  {
+    "number": 238,
+    "headword": "in and of itself",
+    "examples": {
+      "B": "This sashimi is really delicious in and of itself. We don't need to add anything else, even soy sauce.",
+      "C": "Working longer hours in and of itself will not fix this problem. We also need to look at where we can cut corners.",
+      "D": "by itself."
+    }
+  },
+  {
+    "number": 239,
+    "headword": "get sth out the door",
+    "examples": {
+      "B": "Let's get this report tidied up and out the door so that we can all go home.",
+      "C": "I'll need to proofread this article before we can get it out the door. I'll get it bright and early tomorrow to do it.",
+      "D": "Get something completed."
+    }
+  },
+  {
+    "number": 240,
+    "headword": "bank on sth",
+    "examples": {
+      "B": "I wouldn't bank on a bonus this year.",
+      "C": "You can bank on Nishikori winning his next match. He's playing amazing tennis right now.",
+      "D": "Count on something."
+    }
+  },
+  {
+    "number": 241,
+    "headword": "blanket term",
+    "examples": {
+      "B": "I really wish people would stop using ramen as a blanket term for needle soups. Udon and Soba are not ramen.",
+      "C": "Asian American is a blanket term for people from various Asian hair tidges that now live in the US.",
+      "D": "Generic phrase"
+    }
+  },
+  {
+    "number": 242,
+    "headword": "have no filter",
+    "examples": {
+      "B": "Kids have no filter. I told my four-year-old daughter that we can't have a dog because Grandpa is allergic, and she said he just needs to move house.",
+      "C": "We shouldn't put Tracy in a client facing role. She has no filter.",
+      "D": "Speak very frankly."
+    }
+  },
+  {
+    "number": 243,
+    "headword": "set the bar high",
+    "examples": {
+      "B": "With a great performance, Michael set the bar high for the rest of the competitors.",
+      "C": "I don't want to set the bar too high, but I think we should at least aim to achieve 5% revenue growth.",
+      "D": "Lift the target."
+    }
+  },
+  {
+    "number": 244,
+    "headword": "get to the bottom of sth",
+    "examples": {
+      "B": "I'm trying to get to the bottom of why my laptop won't start.",
+      "C": "I think it's worth spending time to get to the bottom of why Japan is terrible in terms of gender equality, even though it is a developed country.",
+      "D": "Find the root cause of something."
+    }
+  },
+  {
+    "number": 245,
+    "headword": "can't be helped",
+    "examples": {
+      "B": "The restaurant was fully booked, so I picked a different one. It can't be helped.",
+      "C": "Everyone is a little selfish. It's human nature and it can't be helped.",
+      "D": "Can't be changed."
+    }
+  },
+  {
+    "number": 246,
+    "headword": "back in the day",
+    "examples": {
+      "B": "Back in the day, I used to spend a lot of money on clothes.",
+      "C": "My grandma always goes on about how people were friendly or back in the day. It's exhausting.",
+      "D": "in the past."
+    }
+  },
+  {
+    "number": 247,
+    "headword": "going nowhere",
+    "examples": {
+      "B": "This conversation is going nowhere, so let's pick it up again tomorrow once we've had time to think about the problem a bit more.",
+      "C": "I decided to change jobs because my career was going nowhere. It's been good starting somewhere new with a clean slate.",
+      "D": "Not progressing."
+    }
+  },
+  {
+    "number": 248,
+    "headword": "too littleüC too late",
+    "examples": {
+      "B": "Your apology is too little too late. We've already signed a contract with somebody else.",
+      "C": "It's a shame that people only start to care once someone has passed away. Too little too late. We need to act now.",
+      "D": "Too late to make a difference."
+    }
+  },
+  {
+    "number": 249,
+    "headword": "all hands on deck",
+    "examples": {
+      "B": "We'll need all hands on deck tomorrow. The number of orders will be double what they normally are due to this new product launch.",
+      "C": "We need all hands on deck tonight to finish this group assignment by tomorrow.",
+      "D": "Contributions from everybody."
+    }
+  },
+  {
+    "number": 250,
+    "headword": "hang sb out to dry",
+    "examples": {
+      "B": "A lot of college students hang themselves out to drive by taking on more debt than making a forward.",
+      "C": "I feel like I've been hung out to dry. I got no support from my manager whatsoever.",
+      "D": "Expose somebody to danger, abandoned somebody."
+    }
+  },
+  {
+    "number": 251,
+    "headword": "err on the side of caution",
+    "examples": {
+      "B": "I don't think anyone but parents should ask children if they believe in Santa. When talking to someone else's kids, we should err on the side of caution.",
+      "C": "We should definitely err on the side of caution, rather than release a product that we're not sure is safe.",
+      "D": "Be cautious."
+    }
+  },
+  {
+    "number": 252,
+    "headword": "between a rock and a hard place",
+    "examples": {
+      "B": "I'm between a rock and a hard place at the moment, as my parents want me to stay in Tokyo, but my wife wants to move to Canada.",
+      "C": "I'm caught between a rock and a hard place. If I work late, my girlfriend will get mad. But if I don't, my boss will get it worked up.",
+      "D": "In a dilemma."
+    }
+  },
+  {
+    "number": 253,
+    "headword": "keep one/s head above water",
+    "examples": {
+      "B": "I haven't had much time to do any shopping lately, because I've been trying to keep my head above water at work.",
+      "C": "Can you help me out with a couple things? I'm struggling to keep my head above water at the moment.",
+      "D": "Avoid succumbing to difficulties."
+    }
+  },
+  {
+    "number": 254,
+    "headword": "shaky",
+    "examples": {
+      "B": "My English is still a bit shaky here and there, but it's getting better.",
+      "C": "This is my first attempt at 3D animation. I know it's a bit shaky, but practice makes perfect.",
+      "D": "week."
+    }
+  },
+  {
+    "number": 255,
+    "headword": "drop a bombshell",
+    "examples": {
+      "B": "Brett dropped a bomb shell this morning. He's leaving the company tomorrow.",
+      "C": "My mom dropped a bomb shell on me yesterday. It seems I have a brother I've never met.",
+      "D": "reveal an unexpected piece of news."
+    }
+  },
+  {
+    "number": 256,
+    "headword": "for the record",
+    "examples": {
+      "B": "Did you like my friend that I introduced to you? Just for the record. He's super loaded, but really down to Earth.",
+      "C": "I really enjoy talking with this guy on Facebook. Um, for the record, I've never actually met this person.",
+      "D": "Just so you know."
+    }
+  },
+  {
+    "number": 257,
+    "headword": "stockpile sth",
+    "examples": {
+      "B": "I've been stockpiling good wines for the last few years so that I can enjoy them whenever tire.",
+      "C": "The government has been pressuring corporations to avoid stockpiling profits and instead invest them.",
+      "D": "or something."
+    }
+  },
+  {
+    "number": 258,
+    "headword": "judge a book by its cover",
+    "examples": {
+      "B": "Don't judge a book by its cover. He might actually be a nice person, even though he looks like a gangster.",
+      "C": "Why do I have to get carded again? I may look young, but don't judge a book by its cover. I'm actually 40 years old.",
+      "D": "Judge based on appearance is only."
+    }
+  },
+  {
+    "number": 259,
+    "headword": "on a positive note",
+    "examples": {
+      "B": "It looks like it's gonna be raining all weekend, but on a positive note, we didn't have any outdoor activities planned anyway.",
+      "C": "I'm really tired from working late all week, but on a positive note, there's a 3-day weekend coming up.",
+      "D": "Looking at the positive side."
+    }
+  },
+  {
+    "number": 260,
+    "headword": "take off",
+    "examples": {
+      "B": "I'm taking off in five minutes because I have to pick up the children from school.",
+      "C": "The new car from Toyota is taking off. It's sold out in the first two months.",
+      "D": "Leave, perform well."
+    }
+  },
+  {
+    "number": 261,
+    "headword": "draw the short straw",
+    "examples": {
+      "B": "I've really drawn the short straw this time. I have to work the night shift three days in a row.",
+      "C": "I drew the short-strong how to do the interview with this mean interviewer. He bombarded me with a bunch of tough questions.",
+      "D": "Be unfortunate."
+    }
+  },
+  {
+    "number": 262,
+    "headword": "take it out on sb",
+    "examples": {
+      "B": "You need to stop taking it out on your employees. It's not good for workplace morale.",
+      "C": "I'm sorry for the inconvenience caused, but I have no control over this delivery issue. Please don't take it out on me.",
+      "D": "vent feelings out somebody."
+    }
+  },
+  {
+    "number": 263,
+    "headword": "go through sth w a fine-tooth comb",
+    "examples": {
+      "B": "You can't make changes after you submit your report. So make sure you go through everything with the fine tooth comb before you submit it.",
+      "C": "John is going through the financial statements with a fine tooth comb.",
+      "D": "Review something in detail."
+    }
+  },
+  {
+    "number": 264,
+    "headword": "have free rein",
+    "examples": {
+      "B": "I let my hairdresser have free rain over what color she does my hair because I trust her and it turned out bright vivid green. Thanks happen.",
+      "C": "My life always has free reign of her where we eat because I'm easy.",
+      "D": "Have complete freedom."
+    }
+  },
+  {
+    "number": 265,
+    "headword": "hold off on sth",
+    "examples": {
+      "B": "Don't hold off on asking questions because there's no such thing as a dumb question.",
+      "C": "Can you please tell Peter to hold off on baking the pie? I'm not sure if we need that much food right now.",
+      "D": "defer something"
+    }
+  },
+  {
+    "number": 266,
+    "headword": "in the dark",
+    "examples": {
+      "B": "I'm in the dark about why my girlfriend has two line accounts. It's starting to freak me out.",
+      "C": "The government is deliberately keeping the public in the dark about what the Prime Minister discussed with the U.S. President.",
+      "D": "Ensure."
+    }
+  },
+  {
+    "number": 267,
+    "headword": "unpack sth",
+    "examples": {
+      "B": "Basic income is such a fascinating topic with lots to unpack.",
+      "C": "Let me unpack this concept trio. It is quite complicated.",
+      "D": "deconstruct something."
+    }
+  },
+  {
+    "number": 268,
+    "headword": "hold one/s horses",
+    "examples": {
+      "B": "I was gonna pour all my money into stocks, but my financial advisor told me to hold my horses.",
+      "C": "Wait, what? Hold your horses. We went to the same high school. We never spoke to each other, did we?",
+      "D": "Wait."
+    }
+  },
+  {
+    "number": 269,
+    "headword": "get it over with",
+    "examples": {
+      "B": "I'm going to get it over with and remove these wisdom teeth. They've been bugging me for ages.",
+      "C": "Let's go speak to this guy and get it over with. I don't want to see him again after today.",
+      "D": "Get it done quickly."
+    }
+  },
+  {
+    "number": 270,
+    "headword": "sold on sth",
+    "examples": {
+      "B": "He's got all the necessary skills and knowledge, but I'm not sold on his character.",
+      "C": "I'm not sold on what this out is saying. How would it be possible for a beginner to become fluent in English in two weeks?",
+      "D": "Convinced about something."
+    }
+  },
+  {
+    "number": 271,
+    "headword": "choke",
+    "examples": {
+      "B": "I never win my races because I was choke right before the finish line.",
+      "C": "Cristiana scores a lot of goals because he never chokes when he has the chance to score.",
+      "D": "succumb to pressure."
+    }
+  },
+  {
+    "number": 272,
+    "headword": "fomo",
+    "examples": {
+      "B": "Research shows that Phomo is one of the biggest causes of social media addiction.",
+      "C": "I didn't want to go to the party, but went anyway because I had FOMO.",
+      "D": "A fear of missing out."
+    }
+  },
+  {
+    "number": 273,
+    "headword": "have a change of heart",
+    "examples": {
+      "B": "It's too late to have a change of heart now. We've already told the designer what color we want the wedding invitations to be.",
+      "C": "I just had a change of heart and I decided to quit my job and go on around the world trip. The powers that be didn't take it too well.",
+      "D": "Have a change of mind."
+    }
+  },
+  {
+    "number": 274,
+    "headword": "suck up to sb",
+    "examples": {
+      "B": "It's so obvious that Neo Ge is sucking up to the boss. He's not that nice to anybody else.",
+      "C": "Long story short, the article was saying Japan's Prime Minister loves to suck up to the US president.",
+      "D": "In Gracia, one's self to somebody."
+    }
+  },
+  {
+    "number": 275,
+    "headword": "silver bullet",
+    "examples": {
+      "B": "There's no silver bullet to solve the problem of global warming. We can't just pluck something out of thin air.",
+      "C": "We don't have a silver bullet for depopulation in Japan. This is a complex problem and will require complex policy solutions.",
+      "D": "Magical solution"
+    }
+  },
+  {
+    "number": 276,
+    "headword": "bookworm",
+    "examples": {
+      "B": "Bookworm friends are the best. They love to show off all of their literary knowledge, so I can learn a lot just having a conversation with them.",
+      "C": "I think this ebook reader would be the best birthday present for a bookworm like him.",
+      "D": "Book lover."
+    }
+  },
+  {
+    "number": 277,
+    "headword": "go for broke",
+    "examples": {
+      "B": "We're gonna go for a broke to get this homework done by next week.",
+      "C": "This project is critical, so we're gonna have to go for broke.",
+      "D": "Use maximum effort or resources."
+    }
+  },
+  {
+    "number": 278,
+    "headword": "strong suit",
+    "examples": {
+      "B": "Don't ask me about grammar. It's not really my strong suit.",
+      "C": "Accounting really kills me. It's definitely not my strong suit.",
+      "D": "Strangt."
+    }
+  },
+  {
+    "number": 279,
+    "headword": "pick sb's brain",
+    "examples": {
+      "B": "Can I please pick your brain about this math question? Because here are an expert in this sort of stuff.",
+      "C": "Let's not ask the consulting firm for help. When we ask to pick their brain, they always charge us massive rib-off fees.",
+      "D": "Seek advice from somebody."
+    }
+  },
+  {
+    "number": 280,
+    "headword": "textbook",
+    "examples": {
+      "B": "That was absolutely a textbook pre-kick from Massey. He's really got the mightest touch.",
+      "C": "That slam dunk was textbook.",
+      "D": "Perfect."
+    }
+  },
+  {
+    "number": 281,
+    "headword": "to each their own",
+    "examples": {
+      "B": "You don't like coriander? To me that's the best herb in the world, but well, to each their own.",
+      "C": "I would never want to work for the same company for more than 10 years, but to each their own I suppose.",
+      "D": "People have their own preferences."
+    }
+  },
+  {
+    "number": 282,
+    "headword": "save face",
+    "examples": {
+      "B": "It's a bit too late for Chris to save face. Everybody knows that he messed up.",
+      "C": "I need to show up to dinner to say face. I missed the last one.",
+      "D": "Avoid humiliation."
+    }
+  },
+  {
+    "number": 283,
+    "headword": "get behind sth",
+    "examples": {
+      "B": "We really need to get behind our team tonight. They seem to play a lot better when the crowd is positive.",
+      "C": "It's really good to see that James has gotten behind this project. He's been a massive help.",
+      "D": "Support something."
+    }
+  },
+  {
+    "number": 284,
+    "headword": "as it stands",
+    "examples": {
+      "B": "As it stands, I won't be able to come to lunch. It looks like it's going to be a busy day out work.",
+      "C": "As it stands, I won't be able to afford a new car next year.",
+      "D": "Given the current situation."
+    }
+  },
+  {
+    "number": 285,
+    "headword": "broaden one's horizons",
+    "examples": {
+      "B": "You should broaden your horizons by studying abroad.",
+      "C": "University is a beautiful opportunity to meet people from all different walks of life and broaden your horizons.",
+      "D": "Expand on one's views."
+    }
+  },
+  {
+    "number": 286,
+    "headword": "can't help oneself",
+    "examples": {
+      "B": "I just can't help myself when it comes to dessert. I just love it so much.",
+      "C": "Megan just can't help herself. She has to criticize everything that doesn't go exactly as planned.",
+      "D": "Can't control oneself."
+    }
+  },
+  {
+    "number": 287,
+    "headword": "over the moon",
+    "examples": {
+      "B": "I'm over the moon about getting a new smartphone for Christmas. I wasn't expecting to receive something that expensive from my friends.",
+      "C": "I'm absolutely over the moon to have spent time with you last night.",
+      "D": "Very happy."
+    }
+  },
+  {
+    "number": 288,
+    "headword": "remind me again",
+    "examples": {
+      "B": "Remind me again, how do I get home from here? I'm so wasted.",
+      "C": "Can you please remind me again what we covered in yesterday's mating? I was actually half asleep.",
+      "D": "refresh my memory."
+    }
+  },
+  {
+    "number": 289,
+    "headword": "stumble one's way through sth",
+    "examples": {
+      "B": "Phil stumbled his way through his speech. It was clear that he hadn't practiced it all.",
+      "C": "I was so hyped to learn Japanese before I started, but I stumbled my way through Japanese 101, and through in the towel pretty quickly.",
+      "D": "Progress, alteringly through something."
+    }
+  },
+  {
+    "number": 290,
+    "headword": "panicky",
+    "examples": {
+      "B": "Sam gets a bit panicky when he has to present to a crowd.",
+      "C": "All this uncertain here on my job is making me a bit panicky. It keeps me up at night.",
+      "D": "nervous anxious"
+    }
+  },
+  {
+    "number": 291,
+    "headword": "below the belt",
+    "examples": {
+      "B": "asking a question like, when will you ever get married? Can really hit below the belt.",
+      "C": "I apologize for my mistake a long time ago. Bringing it up now in front of everybody is a bit below the belt, isn't it?",
+      "D": "Cruel and unfair."
+    }
+  },
+  {
+    "number": 292,
+    "headword": "one-in-a-million",
+    "examples": {
+      "B": "Do you seriously think she's 1 and a million and there's no one else like her? Man, the world population is 7 billion.",
+      "C": "The chances of this new song being popular are 1 and a million.",
+      "D": "unique, unlikely."
+    }
+  },
+  {
+    "number": 293,
+    "headword": "an experience",
+    "examples": {
+      "B": "When I was a high school student, I would often study at McDonald's until late at night. It was an experience.",
+      "C": "How did I find Bungie jumping? It's an experience, but I probably won't do it again.",
+      "D": "an interesting experience."
+    }
+  },
+  {
+    "number": 294,
+    "headword": "kill two birds with one stone",
+    "examples": {
+      "B": "Cycling toward kills two birds with one stone. It keeps you fit as well as getting it to work.",
+      "C": "I love reading on the treadmill, killing two birds with one stone.",
+      "D": "Accomplish two things through one action."
+    }
+  },
+  {
+    "number": 295,
+    "headword": "pull the plug",
+    "examples": {
+      "B": "I can't believe they pulled the plug on that TV show. It's only been running for two seasons, and it was so good.",
+      "C": "I'm so sorry, but I'm gonna have to pull the plug on lunch today. I'm a little under the weather.",
+      "D": "Cancel."
+    }
+  },
+  {
+    "number": 296,
+    "headword": "water under the bridge",
+    "examples": {
+      "B": "I'm not angry anymore because it was a very long time ago. It's water under the bridge.",
+      "C": "I broke up with her six months ago. It's water under the bridge now.",
+      "D": "All in the past."
+    }
+  },
+  {
+    "number": 297,
+    "headword": "top dog",
+    "examples": {
+      "B": "Try not to upset Nick too much. He's the top dog around here.",
+      "C": "Just thanks that she's the top dog, but nobody really listens to what she says.",
+      "D": "Most important person."
+    }
+  },
+  {
+    "number": 298,
+    "headword": "no news is good news",
+    "examples": {
+      "B": "I haven't heard anything from my credit card company. No news is good news, right?",
+      "C": "The CEO hasn't said anything about a potential restructure. I think no news is good news.",
+      "D": "Not hearing about something indicates that nothing bad has happened."
+    }
+  },
+  {
+    "number": 299,
+    "headword": "get looks from people",
+    "examples": {
+      "B": "If you speak English in Japan, you might get looks from people, but it's the best way to learn.",
+      "C": "Are you sure you want to wear that T-shirt? Sure, let me get looks from people.",
+      "D": "Be stared at by people."
+    }
+  },
+  {
+    "number": 300,
+    "headword": "slam dunk",
+    "examples": {
+      "B": "I thought it was a slam dunk that my girlfriend would accept my proposal, but reality is harsh.",
+      "C": "The interviewer seems to really like me, so I think the job is a slam dunk.",
+      "D": "Certain success."
+    }
+  },
+  {
+    "number": 301,
+    "headword": "pigeonhole sb/sth",
+    "examples": {
+      "B": "I studied accounting at university, but I didn't want to pigeonhole myself too early in my career, so I started a YouTube channel.",
+      "C": "Now that this smoking rate is falling, it's critical for tobacco companies to diversify their products, to avoid being pigeonholed as purely tobacco companies.",
+      "D": "Place somebody into a restrictive category."
+    }
+  },
+  {
+    "number": 302,
+    "headword": "peace of mind",
+    "examples": {
+      "B": "My health insurance policy gives me peace of mind. I know if anything happens to me. I'll be taking care of financially.",
+      "C": "I bought this monitoring camera so I can view inside my home from the app. I know it's unnecessary, but just to have some peace of mind.",
+      "D": "feelings of security."
+    }
+  },
+  {
+    "number": 303,
+    "headword": "that's the way the cookie crumbles",
+    "examples": {
+      "B": "I don't like that a bird cropped on my head this morning, but that's the way the cookie crumbles.",
+      "C": "I did my facial hair removal treatment last week, and now I've found out that the girl I'm interested in loves furry faces. That's the way the cookie crumbles.",
+      "D": "Unfortunately, things happen sometimes."
+    }
+  },
+  {
+    "number": 304,
+    "headword": "open (up) Pandora's box",
+    "examples": {
+      "B": "I'm sure AI will bring a lot of benefits, but I'm concerned about the threat of weaponized AI. Once we open up this Pandora's box, it will be hard to close it.",
+      "C": "Rewarding my son for getting a good score in his English test has opened Pandora's Pox. Now, all my children want to be rewarded for every little thing.",
+      "D": "Start something that leads to problems."
+    }
+  },
+  {
+    "number": 305,
+    "headword": "music to my ears",
+    "examples": {
+      "B": "My best friend just sent me a message saying he got accepted to the University of Oxford. Music to my ears.",
+      "C": "Ben just told me that the new product is selling well. It's music to my ears.",
+      "D": "Great news."
+    }
+  },
+  {
+    "number": 306,
+    "headword": "showboat",
+    "examples": {
+      "B": "The team was winning 5-0, so they started show-boding, conceded 6 goals, and lost in the end. How stupid?",
+      "C": "The boxer put his guard down to show bow and then got knocked out.",
+      "D": "Shió<|vi|><|vi|><|vi|><|vi|><|vi|><|vi|><|vi|> chips 9 пой cả nơi<|vi|> Ugh<|vi|><|vi|> remarkable l nick đe mọ tâm n punching nấu lớn thicher."
+    }
+  },
+  {
+    "number": 307,
+    "headword": "take shape",
+    "examples": {
+      "B": "After spending eight hours bouncing ideas off each other, our plan is finally starting to take shape.",
+      "C": "My vision only began to take shape after a number of trials and errors. Some advices don't be afraid to make mistakes and keep trying.",
+      "D": "Become crystallized."
+    }
+  },
+  {
+    "number": 308,
+    "headword": "get to the heart of the matter",
+    "examples": {
+      "B": "His talent for getting to the heart of the matter is just stunning. I wish I could be like him.",
+      "C": "These politicians keep asking random questions that never get to the heart of the matter. It drives me up the wall.",
+      "D": "Address the most important matter."
+    }
+  },
+  {
+    "number": 309,
+    "headword": "cut sth in many different ways",
+    "examples": {
+      "B": "We can cut the financial data in many different ways, depending on how you want to look at our business.",
+      "C": "You can cut language learning in many different ways, like grammar, vocabulary, and pronunciation.",
+      "D": "Interpret something in many different ways."
+    }
+  },
+  {
+    "number": 310,
+    "headword": "picture-perfect",
+    "examples": {
+      "B": "I found a picture perfect hotel on this website. Let's book now.",
+      "C": "In America, there's an idea of a typical picture perfect family, a mother, a father, a few kids, and a big house. They call it the American Dream.",
+      "D": "ideal."
+    }
+  },
+  {
+    "number": 311,
+    "headword": "make sb's blood boil",
+    "examples": {
+      "B": "My mom woke me up at 5 a.m. this morning. I really made my blood boil. Today's Sunday!",
+      "C": "Man, it's taken ages. I just don't understand why there's only one guy serving customers. It makes my blood boil.",
+      "D": "Make somebody very angry."
+    }
+  },
+  {
+    "number": 312,
+    "headword": "roll off the tongue",
+    "examples": {
+      "B": "When you name your company, you should make sure the name rolls off the tongue. It impacts its future popularity.",
+      "C": "Squirrel squirrel squirrel. Ah, this word is disgusting. It doesn't roll off the tongue.",
+      "D": "Land itself to being easily said."
+    }
+  },
+  {
+    "number": 313,
+    "headword": "no hard feelings",
+    "examples": {
+      "B": "I've apologized for breaking your leg and I've paid for your hospital bills so I hope there are no hard feelings.",
+      "C": "You don't have to apologize so many times. Don't worry. No hard feelings.",
+      "D": "No grudges."
+    }
+  },
+  {
+    "number": 314,
+    "headword": "kick sb when sb is down",
+    "examples": {
+      "B": "Given the current economic situation, raising tax rates is like kicking consumers when they're down.",
+      "C": "It's typical of the mean manager to kick someone when they're down.",
+      "D": "Make things worse for somebody when somebody is in a bad situation."
+    }
+  },
+  {
+    "number": 315,
+    "headword": "soldier on",
+    "examples": {
+      "B": "I couldn't ride up whole speed during the exam because I'd sprained my wrist, but I kept soldering on.",
+      "C": "I know we're missing a team member, but we don't have any choice but to soldier on.",
+      "D": "Progress in the face of adversity."
+    }
+  },
+  {
+    "number": 316,
+    "headword": "take away from sth",
+    "examples": {
+      "B": "Not to take away from his achievement, but saying I did everything myself is ridiculous. He clearly had people helping him.",
+      "C": "Don't feel jealous about others getting followers more quickly. The success of others doesn't take away from your own.",
+      "D": "Detract from something."
+    }
+  },
+  {
+    "number": 317,
+    "headword": "bet one/s house on sth/(that)",
+    "examples": {
+      "B": "I'll bet my house on me winning this prize. I know I will because I pulled some strings.",
+      "C": "I bet my house that you'll laugh when you watch this video. My friend sent it to me and she has a good eye for identifying good videos.",
+      "D": "guarantee something."
+    }
+  },
+  {
+    "number": 318,
+    "headword": "every man and his dog",
+    "examples": {
+      "B": "Just because every man in his dog is jumping on the decluttering bandwagon, it doesn't mean you have an obligation to do it too.",
+      "C": "Every man in his dog works abroad these days, so I should probably also think about it.",
+      "D": "an excessively large number of people."
+    }
+  },
+  {
+    "number": 319,
+    "headword": "play second fiddle to sb/sth",
+    "examples": {
+      "B": "I'm as good as Mark, so I don't understand why I keep having to play second fiddle to him.",
+      "C": "I can't believe Stuart's been happy to play second fiddle to Chris. He's clearly the more talented of the two.",
+      "D": "Be treated as less important than somebody."
+    }
+  },
+  {
+    "number": 320,
+    "headword": "play with house money",
+    "examples": {
+      "B": "This handbag that I'm selling was given to me for free, so I'm playing with house money.",
+      "C": "Sockies playing with house money right now. Regardless of which box she chooses, she'll win a prize.",
+      "D": "Do this with minimal or no risk."
+    }
+  },
+  {
+    "number": 321,
+    "headword": "fact of life",
+    "examples": {
+      "B": "We all have to pay our taxes. It's just a fact of life.",
+      "C": "Making new friends and losing old ones is a fact of life.",
+      "D": "Un avoidable thing."
+    }
+  },
+  {
+    "number": 322,
+    "headword": "a dime a dozen",
+    "examples": {
+      "B": "People with more than 10,000 followers on Instagram are a dime a dozen nowadays.",
+      "C": "Good ideas are a dime a dozen, but people who put the ideas into action are priceless.",
+      "D": "Very common."
+    }
+  },
+  {
+    "number": 323,
+    "headword": "elephant in the room",
+    "examples": {
+      "B": "We have to fire one of our employees. I know this is the elephant in the room, but unfortunately, it is necessary.",
+      "C": "Education and equality between high and low income students is the elephant in the room.",
+      "D": "sensitive topic."
+    }
+  },
+  {
+    "number": 324,
+    "headword": "few and far between",
+    "examples": {
+      "B": "While arcades are a few and far between in the states, they're still booming in Japan.",
+      "C": "People like Rick are few and far between. He speaks the truth. He has no filter. And he doesn't sugarcoat anything.",
+      "D": "Very rare."
+    }
+  },
+  {
+    "number": 325,
+    "headword": "with a straight face",
+    "examples": {
+      "B": "After John got a few likes on his profile photo, he said, I'm pretty much a model now. I don't know why I'm still here with a straight face.",
+      "C": "How can you tell me that you know a sure fireway to pick up girls with a straight face after you've just failed five times in a row?",
+      "D": "In a serious manner."
+    }
+  },
+  {
+    "number": 326,
+    "headword": "go off the rails",
+    "examples": {
+      "B": "George went off the rails for a little while after his goldfish died. I think he was pretty upset about it.",
+      "C": "The promising student went off the rails after he started hanging out with drug addicts.",
+      "D": "behave crazily or erratically."
+    }
+  },
+  {
+    "number": 327,
+    "headword": "once in a blue moon",
+    "examples": {
+      "B": "Roger Liz is once an obluement. His win last record speaks for itself.",
+      "C": "In New Zealand, the train runs on time once in a blue moon. In Japan, it runs on the dark most of the time.",
+      "D": "Very rarely."
+    }
+  },
+  {
+    "number": 328,
+    "headword": "so far so good",
+    "examples": {
+      "B": "I just started watching this new TV series, so far so good. Also, my crush on this actress is too real.",
+      "C": "It's so far so good in terms of my new job, but there are a few things I still need to get my head around.",
+      "D": "Good up to this point."
+    }
+  },
+  {
+    "number": 329,
+    "headword": "at a loss for words",
+    "examples": {
+      "B": "I told my girlfriend that this is the fifth time this year I've lost my wallet. She was at a loss for words.",
+      "C": "I'm legit at a loss for words at how amazing this movie is. The story gets more and more captivating.",
+      "D": "speechless."
+    }
+  },
+  {
+    "number": 330,
+    "headword": "safety net",
+    "examples": {
+      "B": "The man next to me on the train said to whoever was on the phone, she's my safety net, she just doesn't know it. This kind of person makes me cringe.",
+      "C": "Cloud storage is my safety net, in case my computer hard drive fails. It's a good nice to have.",
+      "D": "Risk Reduction Measure."
+    }
+  },
+  {
+    "number": 331,
+    "headword": "sink or swim",
+    "examples": {
+      "B": "I left my last company because it was a sinker swim environment. It never allows people to stay at the same level for more than two years.",
+      "C": "A lot of countries have been imitating US capitalism for the last 50 years, and are becoming the same Sincerswim unequal society.",
+      "D": "unforgiving."
+    }
+  },
+  {
+    "number": 332,
+    "headword": "get cold feet",
+    "examples": {
+      "B": "This pretty girl agreed to go on a date with me, but then stood me up. She probably got called feet.",
+      "C": "I was going to go bungee jumping yesterday, but I got cold feet when I was on the bridge. It was insane.",
+      "D": "Suddenly become too anxious."
+    }
+  },
+  {
+    "number": 333,
+    "headword": "steal sb/sth/s thunder",
+    "examples": {
+      "B": "This new flagship smartphone that Samsung has just rolled out will surely steal the new iPhone's thunder.",
+      "C": "I'm worried that the bridesmaids being too well dressed will steal the brides thunder.",
+      "D": "Take attention away from somebody."
+    }
+  },
+  {
+    "number": 334,
+    "headword": "in the driver/s seat",
+    "examples": {
+      "B": "Bracels and the driver seat now that their five goals are head. This is a David and Galif game.",
+      "C": "I don't really enjoy following instructions. I'd prefer to be in the driver's seat.",
+      "D": "in control."
+    }
+  },
+  {
+    "number": 335,
+    "headword": "out of the ordinary",
+    "examples": {
+      "B": "That pink car with a huge anime sticker is a bit out of the ordinary.",
+      "C": "I love the sushi restaurant. It's nothing out of the ordinary, but it has a great vibe.",
+      "D": "A逸罩"
+    }
+  },
+  {
+    "number": 336,
+    "headword": "pep talk",
+    "examples": {
+      "B": "When I'm unmotivated, I always give a little pep talk to myself and it's surprisingly effective.",
+      "C": "The team has held goal lists for so long everyone was stressed. So the coach gave a pep talk saying, don't worry, patience, you can do it.",
+      "D": "Short motivational speech."
+    }
+  },
+  {
+    "number": 337,
+    "headword": "get the lay of the land",
+    "examples": {
+      "B": "Wow, Disney starting an eStreaming service. I'm gonna do some research to get the lay of the land, but I'll probably end up subscribing.",
+      "C": "Today I'm going to meet up with the new project team, get the lay of the land, and make a plan of attack for the next few weeks.",
+      "D": "Understand the background."
+    }
+  },
+  {
+    "number": 338,
+    "headword": "barking up the wrong tree",
+    "examples": {
+      "B": "I just heard the politician say that video games lay down in Chris Dweylet's, but I think he's barking up the wrong tree.",
+      "C": "Is that an IT related question? If so, you're barking up the wrong tree. I'm the cleaner.",
+      "D": "Completely wrong in the direction or way of thinking."
+    }
+  },
+  {
+    "number": 339,
+    "headword": "moving target",
+    "examples": {
+      "B": "Solving business problems is like hitting a moving target, so your strategy has to be flexible.",
+      "C": "Human needs are moving target. Maslow's hierarchy of needs explains this very well.",
+      "D": "Constantly moving thing."
+    }
+  },
+  {
+    "number": 340,
+    "headword": "time is of the essence",
+    "examples": {
+      "B": "Time is of the essence, so get going on your dreams right now. You can't keep treading water.",
+      "C": "Time is of the essence, so we can't afford to have any slackers on this project.",
+      "D": "Speed is important."
+    }
+  },
+  {
+    "number": 341,
+    "headword": "wear one's heart on one's sleeve",
+    "examples": {
+      "B": "I never wear my heart on my sleeve at work because I know there's no point and it's unprofessional.",
+      "C": "I can always tell when Jimmy's upset. He wears his heart on his sleeve.",
+      "D": "Be physically emotional."
+    }
+  },
+  {
+    "number": 342,
+    "headword": "highly strung",
+    "examples": {
+      "B": "You shouldn't make too much noise around mom today. She's quite wholly strong.",
+      "C": "The security guards around the stadium are quite highly strong at the moment. Due to a bomb scare last week.",
+      "D": "Tent."
+    }
+  },
+  {
+    "number": 343,
+    "headword": "cost an arm and a leg",
+    "examples": {
+      "B": "Can anyone recommend a video editing app for iPhones that won't cost me an arm in a leg?",
+      "C": "I finally got my first Rolex. It cost me an arm and a leg, but I love it.",
+      "D": "cost a lot of money."
+    }
+  },
+  {
+    "number": 344,
+    "headword": "go (right) down to the wire",
+    "examples": {
+      "B": "Our financial results this year will go down to the wire.",
+      "C": "The basketball game last night went right down to the wire. I really got a kick out of it.",
+      "D": "Be uncertain until the end."
+    }
+  },
+  {
+    "number": 345,
+    "headword": "lose face",
+    "examples": {
+      "B": "We're going to lose space in front of the client if it sounds like we don't know what we're talking about.",
+      "C": "I don't want to take back my comments because I may lose face.",
+      "D": "Be embarrassed."
+    }
+  },
+  {
+    "number": 346,
+    "headword": "get one's wires crossed",
+    "examples": {
+      "B": "Sorry I got my wires crossed. The message wasn't meant for you. It was supposed to be sent to somebody else.",
+      "C": "What? Are you also working on this task? We probably got our wires crossed. I'm working on the same thing.",
+      "D": "Mrs. understand."
+    }
+  },
+  {
+    "number": 347,
+    "headword": "up one's game",
+    "examples": {
+      "B": "We need to up our game to score a goal. The opponent is last year's champion.",
+      "C": "Rebecca needs to up her game if she really wants to finish the report by tonight. She seems a little distracted.",
+      "D": "Raise once level of performance."
+    }
+  },
+  {
+    "number": 348,
+    "headword": "catch-all",
+    "examples": {
+      "B": "In Japan, the word Soki is a catch-all term for any alcoholic liquor, while another country's it normally refers to rice wine.",
+      "C": "Boba T is a catch-all term for a Taiwanese tea-based drink. But these days people often use it to refer to Pearl Milk tea.",
+      "D": "grouping."
+    }
+  },
+  {
+    "number": 349,
+    "headword": "shake sth up",
+    "examples": {
+      "B": "I've started going to the gym in the morning rather than after work. Who knows if it's better, but I just wanted to shake out my daily routine.",
+      "C": "Just to shake things up a bit, I'm gonna move to Russia and teach English for a year.",
+      "D": "Change something up significantly."
+    }
+  },
+  {
+    "number": 350,
+    "headword": "knock on wood",
+    "examples": {
+      "B": "Today wasn't my day, but tomorrow will be great, knock on wood.",
+      "C": "Knock on wood, the internet connection should work this time.",
+      "D": "Hopefully."
+    }
+  },
+  {
+    "number": 351,
+    "headword": "where there's a will there's a way",
+    "examples": {
+      "B": "I strongly believe he'll be able to pass the exam. I now he's been firing on all cylinders the last 12 months. Where there's a will there's a way.",
+      "C": "You don't think we'll be able to catch the next flight? Or there's a will, there's a way.",
+      "D": "A goal will be achieved if enough effort is applied."
+    }
+  },
+  {
+    "number": 352,
+    "headword": "make sb's ears bleed",
+    "examples": {
+      "B": "Don't make that slurping noise when you're drinking coffee. It makes my ears bleed.",
+      "C": "Music that kids listen to these days really makes my ears bleed.",
+      "D": "Sounds unpleasant to somebody."
+    }
+  },
+  {
+    "number": 353,
+    "headword": "pull the wool over sb's eyes",
+    "examples": {
+      "B": "I can't believe the government is still trying to pull the wool over our eyes. It's been all over the news.",
+      "C": "George tried to pull the wool over my eyes, but I already knew what was happening yesterday.",
+      "D": "to see if somebody."
+    }
+  },
+  {
+    "number": 354,
+    "headword": "put one's house in order",
+    "examples": {
+      "B": "Venezuela should put a town's order instead of lashing out at other countries. It has enough problems of its own.",
+      "C": "As soon as we put our house in order, customers will come back to us. Once that happens, we'll make it killing again.",
+      "D": "Organize once a fairs."
+    }
+  },
+  {
+    "number": 355,
+    "headword": "take sth lightly",
+    "examples": {
+      "B": "You shouldn't take that test lightly. A lot of people have failed that subject previously.",
+      "C": "Mom, I know my grades are declining, but it doesn't mean I take my classes lightly. It's just that there's so much harder this year.",
+      "D": "Treat something as unimportant."
+    }
+  },
+  {
+    "number": 356,
+    "headword": "throw sb to the wolves",
+    "examples": {
+      "B": "Tom accidentally dropped an expensive vase in the department store. He threw me to the wolves and said I broke it when the staff came.",
+      "C": "I thought my boss would support me when I got asked the tough questions, but he threw me to the wolves.",
+      "D": "abandoned somebody."
+    }
+  },
+  {
+    "number": 357,
+    "headword": "food for thought",
+    "examples": {
+      "B": "The career coach mentioned there are 18 things that mentally strong people do. I think they're actually really good at spudre thought.",
+      "C": "We just had a DNA with Michael about the meaning of life. It's food for a thought.",
+      "D": "Something worth thinking seriously about."
+    }
+  },
+  {
+    "number": 358,
+    "headword": "a picture is worth a thousand words",
+    "examples": {
+      "B": "I'm going to draw a flow chart so you can better understand how this company works. A picture is worth a thousand words, right?",
+      "C": "You don't know the Tower of Pisa? No way, sure leave, see it? Give me a sec, I'll show you some photos. A picture's worth a thousand words.",
+      "D": "It's easier to show visually than to describe it with words."
+    }
+  },
+  {
+    "number": 359,
+    "headword": "taken care of",
+    "examples": {
+      "B": "The bills already been taken care of, so don't worry about paying anything.",
+      "C": "That issue we had with the delivery company has finally been taking care of. We finally figured out what was going wrong.",
+      "D": "Resolved."
+    }
+  },
+  {
+    "number": 360,
+    "headword": "sneak out",
+    "examples": {
+      "B": "I need to sneak out of the mating for a few minutes this afternoon.",
+      "C": "Oh shoot, I spilled my drink. Let's sneak out of the cinema before somebody notices.",
+      "D": "Quietly, Exit Out."
+    }
+  },
+  {
+    "number": 361,
+    "headword": "reach a tipping point",
+    "examples": {
+      "B": "Global warming has reached a tipping point. We must act now, or the damage may be irreversible.",
+      "C": "We reached an economic tipping point this year, with more than 50% of the global population, classified as middle class or wealthier for the first time.",
+      "D": "Arrived a pivotal moment."
+    }
+  },
+  {
+    "number": 362,
+    "headword": "see for yourself",
+    "examples": {
+      "B": "Hey, there's a huge rat in the corner of my room. I'm serious. See for yourself.",
+      "C": "I think Tokyo these days is much more foreigner friendly, but come and see for yourself.",
+      "D": "Verify yourself."
+    }
+  },
+  {
+    "number": 363,
+    "headword": "blow one/s own horn",
+    "examples": {
+      "B": "Naomi told me a story yesterday about a guy who kept blowing his own horn trying to get her number at the Starbucks. It cracked me up.",
+      "C": "I don't want to blow my own horn, but I'm a very good singer.",
+      "D": "brag about oneself."
+    }
+  },
+  {
+    "number": 364,
+    "headword": "out of the woods",
+    "examples": {
+      "B": "My baby was on oxygen for nearly five months, but she's out of the woods now and doing fine.",
+      "C": "Japan's economy is no longer in a recession, but it's not quite out of the woods yet.",
+      "D": "Out of difficulty."
+    }
+  },
+  {
+    "number": 365,
+    "headword": "ups and downs",
+    "examples": {
+      "B": "People say life has its ups and downs, but I feel I've never experienced the ups. Where are they?",
+      "C": "Last year was a year of ups and downs for car manufacturers, but there's still confident that they can turn it around this year.",
+      "D": "Positive and negative moment."
+    }
+  },
+  {
+    "number": 366,
+    "headword": "up-and-coming",
+    "examples": {
+      "B": "New York always seems to have the best up-and-coming fashion designers. That's why I love New York Fashion Events.",
+      "C": "Be sure to check this guy out. He's an up and coming tech youtuber with great content.",
+      "D": "promising."
+    }
+  },
+  {
+    "number": 367,
+    "headword": "I'll cross that bridge when I get there",
+    "examples": {
+      "B": "I applied for Stanford even though I have no money to pay tuition fees. I haven't even received an offer yet, so I'll cross that bridge when I get there.",
+      "C": "I'm in all across that bridge when I get there, type of person. So you're barking up the wrong tree if you want me to be prepared for everything.",
+      "D": "I'll deal with it when I need to."
+    }
+  },
+  {
+    "number": 368,
+    "headword": "by the skin of one/s teeth",
+    "examples": {
+      "B": "I graduated from college by the skin of my teeth. I barely passed the final exams of the courses I took in the last semester.",
+      "C": "I managed to make it to the meeting on time by the skin of my teeth. If I had missed that meeting, I would be in big trouble now.",
+      "D": "narrowly."
+    }
+  },
+  {
+    "number": 369,
+    "headword": "oddball",
+    "examples": {
+      "B": "Jake's such an oddball. When I asked him what he ate for lunch, he started talking about Newton's loss of motion.",
+      "C": "Everyone was like, let's stay away from Taylor as she's a bit of an odd ball. But I love her because she's different.",
+      "D": "Strange person."
+    }
+  },
+  {
+    "number": 370,
+    "headword": "stick one/s neck out",
+    "examples": {
+      "B": "You don't need to stick your neck out for other people if they don't do the same for you when you're in a similar situation.",
+      "C": "Every time I stick my neck out and stock trading, it gets chopped off. It's hard to know when to pull the trigger.",
+      "D": "Take a risk."
+    }
+  },
+  {
+    "number": 371,
+    "headword": "scramble to get sth done",
+    "examples": {
+      "B": "The reason why we're scrambling to get this work done now is because nobody told they when we had to complete it by.",
+      "C": "Personal assistance on my workplace waste like six hours chatting with each other. Then, they scrambled the last two to get their work done.",
+      "D": "How passively complete something in a rush?"
+    }
+  },
+  {
+    "number": 372,
+    "headword": "honeymoon period",
+    "examples": {
+      "B": "Carlos was seen as a hero after he fixed the company, but that kind of honeymoon period is over. Now the company is trying to house him.",
+      "C": "The government is trying to push through some unpopular legislation during its honeymoon period.",
+      "D": "period of popularity."
+    }
+  },
+  {
+    "number": 373,
+    "headword": "keep sb in line",
+    "examples": {
+      "B": "That teacher is awesome at keeping our students in line.",
+      "C": "If you don't keep yourself in line, I'm going to have to kick you out of this party.",
+      "D": "Make somebody behave well."
+    }
+  },
+  {
+    "number": 374,
+    "headword": "god only knows",
+    "examples": {
+      "B": "God only knows if there's an afterlife. So I'd rather try to enjoy my life than bed on it.",
+      "C": "I'm confident that I can pass the exam, but God only knows what will happen, right?",
+      "D": "I don't know."
+    }
+  },
+  {
+    "number": 375,
+    "headword": "refresher",
+    "examples": {
+      "B": "Oh my god this game is so nostalgic. I need a bit of a refresher on how to play it. I haven't played it since I was about six.",
+      "C": "If you want a quick refresher on what happened in the last episode, you should read this summary.",
+      "D": "Consize Reminder."
+    }
+  },
+  {
+    "number": 376,
+    "headword": "extend an olive branch",
+    "examples": {
+      "B": "Sometimes you have to be the one to extend an olive branch, even if you didn't do anything wrong. Otherwise you'll never be able to build a long lasting relationship.",
+      "C": "When I have a fight with my girlfriend, it's always me who has to extend an all of branch.",
+      "D": "initiate the resolution of the argument."
+    }
+  },
+  {
+    "number": 377,
+    "headword": "count one's chickens before they hatch",
+    "examples": {
+      "B": "We've got a three-go lead, but we shouldn't counter chickens before they hatch. Better teams than us have lost from this position before.",
+      "C": "I know you want to pick your dress for the initiation ceremony, but don't count your chickens before they hatch. You haven't received your exam results yet.",
+      "D": "Be over confident of success before the final outcome."
+    }
+  },
+  {
+    "number": 378,
+    "headword": "trickle in",
+    "examples": {
+      "B": "I told my team to arrive at 9am on the diet, but they all just trickled in from 930. I think we'll need to set up some ground rules to stop this from happening again.",
+      "C": "I was a bit worried that nobody was going to turn up to my show, but people are starting to trickle in now. What a relief.",
+      "D": "arrive gradually in small numbers."
+    }
+  },
+  {
+    "number": 379,
+    "headword": "raise the stakes",
+    "examples": {
+      "B": "The doubling of the prize money for winning the competition has raised the stake significantly.",
+      "C": "My boss has never tried to listen to me, so I decided to raise the stakes by threatening to resign.",
+      "D": "Increase the importance of the topic being discussed."
+    }
+  },
+  {
+    "number": 380,
+    "headword": "no strings attached",
+    "examples": {
+      "B": "I'll say this car for half price with no strings attached. How about that?",
+      "C": "Did you know that every Tuesday, the donut shop around the corner gives a 20% discount on every donut, with those strings attached?",
+      "D": "No conditions attached."
+    }
+  },
+  {
+    "number": 381,
+    "headword": "bury one's head in the sand",
+    "examples": {
+      "B": "You can bury your head in the sand all you like, but the issue of your wife being angry at you won't go away.",
+      "C": "You can't bury your head in the sand about this. Overcrouting on trains is a serious social problem.",
+      "D": "deliberately ignore the unpleasant facts."
+    }
+  },
+  {
+    "number": 382,
+    "headword": "double down",
+    "examples": {
+      "B": "My resolution this year is to double down on my personal investment in health and knowledge.",
+      "C": "Hearing that Netflix is doubling down on anime this year is music to my ears. I think it's a pretty big deal.",
+      "D": "Spend more effort."
+    }
+  },
+  {
+    "number": 383,
+    "headword": "take center stage",
+    "examples": {
+      "B": "This new product will take center stage once it's marketed appropriately. We should go full steam ahead with the advertising.",
+      "C": "I think she's attention-seeking. She tries to take center stage and everything she does.",
+      "D": "Attract a lot of attention."
+    }
+  },
+  {
+    "number": 384,
+    "headword": "fit for a king",
+    "examples": {
+      "B": "The hotel room was fit for a king. It might be a bit over the top, but I love it.",
+      "C": "The banquet the chef served gloss night was fit for a king. I heard through the grapevine that he spent two hours on the soup alone.",
+      "D": "Extravagant."
+    }
+  },
+  {
+    "number": 385,
+    "headword": "achilles heel",
+    "examples": {
+      "B": "The goal is to kill his healers as kicking. He can't seem to keep his cool when he's doing it.",
+      "C": "Honey is Poobear's Achilles heel. So adorable.",
+      "D": "Big weakness."
+    }
+  },
+  {
+    "number": 386,
+    "headword": "play sth up",
+    "examples": {
+      "B": "I think the negativity around children's use of the internet has been played up by the media. Surely there are so many things they can learn from it as well.",
+      "C": "Mark told me the movie he saw on the weekend was the best movie ever, but I think he's playing it up a bit. I thought it was good, but not great.",
+      "D": "exaggerate something."
+    }
+  },
+  {
+    "number": 387,
+    "headword": "slice and dice sth",
+    "examples": {
+      "B": "Ultimately, this world is built on lots of subjective interpretations. So how you slice and dice things in your life really changes your perception of the world.",
+      "C": "I'm trying to map out this complicated strategy, but have had no luck yet. I can slice and dice in so many ways.",
+      "D": "re-arranging to analyze something."
+    }
+  },
+  {
+    "number": 388,
+    "headword": "half-baked",
+    "examples": {
+      "B": "This is just a half-baked idea, but I think it would be cool if we created a database of popular house music, analyze sound patterns, and make songs out of it.",
+      "C": "Collins' excuse for his car crash is pretty half-baked. Who would believe that a kangaroo suddenly appeared in the middle of the road in Tokyo?",
+      "D": "rough."
+    }
+  },
+  {
+    "number": 389,
+    "headword": "urban legend",
+    "examples": {
+      "B": "The existence of alligators in the New York sewers isn't urban legend. Putting two and two together, it's probably something created to increase tourism.",
+      "C": "Human-faced dog is one of the scariest Japanese urban legends I've ever heard. However, real life sightings are unheard of.",
+      "D": "Unsubstantiated story."
+    }
+  },
+  {
+    "number": 390,
+    "headword": "force sb's hand",
+    "examples": {
+      "B": "I was saving this wine for later, but Tom forced my hand to open it. Today's his birthday, so I'll let him do whatever he wants.",
+      "C": "I gave him into joke because his breath smelled. I was just trying to be nice, but he forced my hand when he turned it down. I told him why I needed it.",
+      "D": "Compile somebody."
+    }
+  },
+  {
+    "number": 391,
+    "headword": "where there's smoke there's fire",
+    "examples": {
+      "B": "Some students have been saying that Lisa cheated on the test. Or there's smoke there's fire.",
+      "C": "The suspect says that he hasn't done anything wrong. However, in my experience, where there's smoke there's fire.",
+      "D": "When something seems bad, something is usually wrong."
+    }
+  },
+  {
+    "number": 392,
+    "headword": "smell a rat",
+    "examples": {
+      "B": "This 18-year-old girl is dating a 68-year-old man. Cudos to him, but I smell a rat.",
+      "C": "His profile says he's American, but he calls bangs fringes. I smell a rat. If I had to take an educated guess, I'd say he's British.",
+      "D": "feels suspicious."
+    }
+  },
+  {
+    "number": 393,
+    "headword": "all good things must come to an end",
+    "examples": {
+      "B": "I want this party to go on for another 5 hours. But all good things must come to an end.",
+      "C": "I know all good things must come to an end, but can we stay at Starbucks another half an hour? I don't want to hit pause on our chat.",
+      "D": "Even enjoyable experiences cannot last forever."
+    }
+  },
+  {
+    "number": 394,
+    "headword": "when all's said and done",
+    "examples": {
+      "B": "When all said and done, nobody cares how many hours you worked on the weekend. It's all about what you produced.",
+      "C": "When all said and done, it doesn't matter how you win. By hook or by crook, you just have to win.",
+      "D": "Ultimately."
+    }
+  },
+  {
+    "number": 395,
+    "headword": "play the long game",
+    "examples": {
+      "B": "I thought Tim was just fooling around in Europe, but he was playing the long game all along. Turns out he was doing market research for his new business.",
+      "C": "I'm playing the long game by doing this unpaid internship. I'm not earning anything right now, but it should get me into a great job further down the road.",
+      "D": "Act on a long-term plan."
+    }
+  },
+  {
+    "number": 396,
+    "headword": "devil's in the detail",
+    "examples": {
+      "B": "Mozart's music often seems really easy to play, but the devil's in the detail.",
+      "C": "Surfing looks really easy. When the pros do it. But the devils in the detail. Everything has to be inch perfect.",
+      "D": "Minor details are difficult to get right."
+    }
+  },
+  {
+    "number": 397,
+    "headword": "hold all the cards",
+    "examples": {
+      "B": "Kim holds all the guards when it comes to negotiating her pay rise because she knows that we need her.",
+      "C": "We currently hold all the cards, so we should ask for a better deal. Let's ramp up the negotiations.",
+      "D": "Possess a significant advantage."
+    }
+  },
+  {
+    "number": 398,
+    "headword": "great minds think alike",
+    "examples": {
+      "B": "My brother and I are wearing the same shirt today. Great minds think alike.",
+      "C": "Sarah and I got each other the same Christmas present. Great minds think alike.",
+      "D": "We had the same good idea."
+    }
+  },
+  {
+    "number": 399,
+    "headword": "the good life",
+    "examples": {
+      "B": "I feel so happy when I look at his holiday photos on Instagram. That's definitely the good life.",
+      "C": "It's obvious that Jeremy was born with a silver spoon in his hand. His parents paid for all of his schooling. That's the good life.",
+      "D": "A quality way of living."
+    }
+  },
+  {
+    "number": 400,
+    "headword": "have sb on a leash",
+    "examples": {
+      "B": "Paul's girlfriend has him on a leash. He never comes out to Friday drinks anymore.",
+      "C": "Work has Emily on a leash right now. I haven't seen her for weeks. Her boss is such a hard taskmaster.",
+      "D": "Have somebody under strict control."
+    }
+  }
+]

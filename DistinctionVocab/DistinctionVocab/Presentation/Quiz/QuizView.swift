@@ -83,7 +83,8 @@ struct QuizView: View {
                 if question.mode == .audioToHeadword {
                     AudioPlayButton(
                         audioResource: question.word.headwordAudioResource,
-                        iconSize: 64
+                        iconSize: 64,
+                        tintColor: DistinctionTheme.accent
                     )
                     if let phonetic = question.word.displayPhonetic {
                         PhoneticText(phonetic: phonetic)
@@ -91,7 +92,7 @@ struct QuizView: View {
                     }
                 } else if let promptText = question.promptText {
                     Text(promptText)
-                        .font(.system(.title, design: .serif, weight: .bold))
+                        .font(DistinctionTheme.headwordFont)
                         .multilineTextAlignment(.center)
                         .padding(.horizontal)
 
@@ -112,8 +113,9 @@ struct QuizView: View {
             .padding(24)
             .frame(maxWidth: .infinity)
             .background(
-                RoundedRectangle(cornerRadius: 24, style: .continuous)
-                    .fill(Color(.secondarySystemGroupedBackground))
+                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                    .fill(DistinctionTheme.listBackground)
+                    .shadow(color: .black.opacity(0.04), radius: 8, y: 2)
             )
             .padding(.horizontal)
 
@@ -128,7 +130,7 @@ struct QuizView: View {
                             systemImage: isCorrect ? "checkmark.circle.fill" : "xmark.circle.fill"
                         )
                         .font(.headline)
-                        .foregroundStyle(isCorrect ? .green : .red)
+                        .foregroundStyle(isCorrect ? DistinctionTheme.easy : .red)
 
                         if !isCorrect {
                             Text("正解: \(question.correctChoice)")
@@ -141,12 +143,24 @@ struct QuizView: View {
                         viewModel.advanceToNextQuestion()
                     }
                     .buttonStyle(.borderedProminent)
+                    .tint(DistinctionTheme.accent)
                 }
                 .padding(.horizontal)
                 .padding(.bottom)
             }
         }
-        .background(Color(.systemGroupedBackground))
+        .background(DistinctionTheme.screenBackground)
+        .onAppear {
+            playQuestionAudio(for: question)
+        }
+        .onChange(of: viewModel.currentQuestionIndex) { _, _ in
+            guard let currentQuestion = viewModel.currentQuestion else { return }
+            playQuestionAudio(for: currentQuestion)
+        }
+    }
+
+    private func playQuestionAudio(for question: QuizQuestion) {
+        audioPlaybackService.play(resource: question.word.headwordAudioResource)
     }
 
     private func choiceButton(choice: String, index: Int, question: QuizQuestion) -> some View {
@@ -175,7 +189,7 @@ struct QuizView: View {
         }
 
         if index == question.correctChoiceIndex {
-            return Color.green.opacity(0.2)
+            return DistinctionTheme.easy.opacity(0.2)
         }
         if index == viewModel.selectedChoiceIndex {
             return Color.red.opacity(0.2)
@@ -189,7 +203,7 @@ struct QuizView: View {
         }
 
         if index == question.correctChoiceIndex {
-            return .green
+            return DistinctionTheme.easy
         }
         if index == viewModel.selectedChoiceIndex {
             return .red
@@ -207,6 +221,7 @@ struct QuizView: View {
                 viewModel.resetSession()
             }
             .buttonStyle(.borderedProminent)
+            .tint(DistinctionTheme.accent)
         }
     }
 }

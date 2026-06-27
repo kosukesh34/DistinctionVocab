@@ -1,0 +1,5089 @@
+{
+  "bookId": "dist1",
+  "mismatches": [
+    {
+      "number": 1,
+      "headword": "low-key",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "控えめな；秘密な",
+      "proposedMeaning": "落ち着いた、落ちついた",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "落ち着いた、落ちついた",
+        "examples": null
+      }
+    },
+    {
+      "number": 2,
+      "headword": "drive sb up the wall",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）イライラさせる、気が狂いそうになる",
+      "proposedMeaning": "ひどく怒らせる",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ひどく怒らせる",
+        "examples": null
+      }
+    },
+    {
+      "number": 3,
+      "headword": "black and white",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "白黒はっきりした、単純明快な",
+      "proposedMeaning": "曖昧さのない明確な表現",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "曖昧さのない明確な表現",
+        "examples": null
+      }
+    },
+    {
+      "number": 4,
+      "headword": "sloppy",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ずさんな、いい加減な",
+      "proposedMeaning": "だらしない、大雑把、大ざっぱ",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "だらしない、大雑把、大ざっぱ",
+        "examples": null
+      }
+    },
+    {
+      "number": 5,
+      "headword": "kick sb out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）追い出す、出入り禁止にする",
+      "proposedMeaning": "多くの場合、悪い行為が原因で、誰かをその場所から強制的に退去させること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "多くの場合、悪い行為が原因で、誰かをその場所から強制的に退去させること",
+        "examples": null
+      }
+    },
+    {
+      "number": 6,
+      "headword": "over the top",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "やりすぎの、大げさな",
+      "proposedMeaning": "合理的または適切な範囲を超えた過剰または誇張",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "合理的または適切な範囲を超えた過剰または誇張",
+        "examples": null
+      }
+    },
+    {
+      "number": 7,
+      "headword": "ancient",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "とても古い、ボロボロの",
+      "proposedMeaning": "非常に古い、ユーモアを込めて、または何かがいかに時代遅れであるかを強調するためによく使用されます",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に古い、ユーモアを込めて、または何かがいかに時代遅れであるかを強調するためによく使用されます",
+        "examples": null
+      }
+    },
+    {
+      "number": 8,
+      "headword": "watch out for sth/sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何か／誰かに）注意する、気をつける",
+      "proposedMeaning": "潜在的な危険、問題、人に対して注意したり警戒したりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "潜在的な危険、問題、人に対して注意したり警戒したりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 9,
+      "headword": "figure sth out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）理解する、解き明かす",
+      "proposedMeaning": "考えたり努力したりして何かを理解したり、解決したり、解決したりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "考えたり努力したりして何かを理解したり、解決したり、解決したりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 10,
+      "headword": "slack off",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "サボる、手を抜く",
+      "proposedMeaning": "怠け者または非生産的であること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "怠け者または非生産的であること",
+        "examples": null
+      }
+    },
+    {
+      "number": 11,
+      "headword": "overpaid",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "給料が高すぎる、過払いの",
+      "proposedMeaning": "行われた仕事に対して公正または妥当な額を超える報酬が支払われた",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "行われた仕事に対して公正または妥当な額を超える報酬が支払われた",
+        "examples": null
+      }
+    },
+    {
+      "number": 12,
+      "headword": "better off",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "～した方が得だ、状況がよい",
+      "proposedMeaning": "他の選択肢よりも有利または有利な状況の場合",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "他の選択肢よりも有利または有利な状況の場合",
+        "examples": null
+      }
+    },
+    {
+      "number": 13,
+      "headword": "grab sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）さっと取ってくる、手に入れる",
+      "proposedMeaning": "何か、特に食べ物や飲み物を素早く手に入れたり拾ったりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何か、特に食べ物や飲み物を素早く手に入れたり拾ったりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 14,
+      "headword": "take sth out of context",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）文脈を無視して引用する、断章取義する",
+      "proposedMeaning": "周囲の文脈を無視して何かを引用または解釈し、その意味を変えること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "周囲の文脈を無視して何かを引用または解釈し、その意味を変えること",
+        "examples": null
+      }
+    },
+    {
+      "number": 15,
+      "headword": "freebie",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "タダもらい、無料配布物",
+      "proposedMeaning": "御負け、お負け、景品",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "御負け、お負け、景品",
+        "examples": null
+      }
+    },
+    {
+      "number": 16,
+      "headword": "clear-cut",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "明確な、はっきりした",
+      "proposedMeaning": "皆伐、画然、明快",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "皆伐、画然、明快",
+        "examples": null
+      }
+    },
+    {
+      "number": 17,
+      "headword": "cut sb off",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人の）話を遮る",
+      "proposedMeaning": "誰かが話しているときに中断すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かが話しているときに中断すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 18,
+      "headword": "gray area",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "グレーゾーン、曖昧な領域",
+      "proposedMeaning": "明確に定義または規制されていない領域または状況",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "明確に定義または規制されていない領域または状況",
+        "examples": null
+      }
+    },
+    {
+      "number": 19,
+      "headword": "fiddly",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "扱いにくい、細かくて面倒な",
+      "proposedMeaning": "慎重で面倒な取り扱いが必要",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "慎重で面倒な取り扱いが必要",
+        "examples": null
+      }
+    },
+    {
+      "number": 20,
+      "headword": "crystal-clear",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "水晶のように明確な、はっきりした",
+      "proposedMeaning": "完全に明確で理解しやすい",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "完全に明確で理解しやすい",
+        "examples": null
+      }
+    },
+    {
+      "number": 21,
+      "headword": "downtime",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "自由時間、休憩時間",
+      "proposedMeaning": "停止期間、ダウン・タイム、ダウンタイム",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "停止期間、ダウン・タイム、ダウンタイム",
+        "examples": null
+      }
+    },
+    {
+      "number": 22,
+      "headword": "check sth out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）チェックする、見てみる",
+      "proposedMeaning": "ためす",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ためす",
+        "examples": null
+      }
+    },
+    {
+      "number": 23,
+      "headword": "get it",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "わかる、理解する",
+      "proposedMeaning": "多くの場合、説明や努力を経て何かを理解すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "多くの場合、説明や努力を経て何かを理解すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 24,
+      "headword": "hold sth/sb up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何か／誰かを）遅らせる、引き止める",
+      "proposedMeaning": "誰かまたは何かを遅らせる、または遅らせること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かまたは何かを遅らせる、または遅らせること",
+        "examples": null
+      }
+    },
+    {
+      "number": 25,
+      "headword": "legit",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "本物の、ちゃんとした",
+      "proposedMeaning": "ガチ、がち",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ガチ、がち",
+        "examples": null
+      }
+    },
+    {
+      "number": 26,
+      "headword": "catch up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "近況を話す、久しぶりに会って話す",
+      "proposedMeaning": "きつくする",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "きつくする",
+        "examples": null
+      }
+    },
+    {
+      "number": 27,
+      "headword": "hyped",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ワクワクしている、盛り上がっている",
+      "proposedMeaning": "ハイ・テンション、ハイテンション、テンションが上がる",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ハイ・テンション、ハイテンション、テンションが上がる",
+        "examples": null
+      }
+    },
+    {
+      "number": 28,
+      "headword": "attention-seeking",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "目立ちたがりの、注目を集めようとする",
+      "proposedMeaning": "甘え、派手好み、派手好き",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "甘え、派手好み、派手好き",
+        "examples": null
+      }
+    },
+    {
+      "number": 29,
+      "headword": "gonna do",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "～するつもりだ",
+      "proposedMeaning": "何かをするつもりです (「するつもり」の非公式な短縮形)",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かをするつもりです (「するつもり」の非公式な短縮形)",
+        "examples": null
+      }
+    },
+    {
+      "number": 30,
+      "headword": "get into sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かに）はまる、興味を持つようになる",
+      "proposedMeaning": "何かに興味を持ったり、楽しみ始めたりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かに興味を持ったり、楽しみ始めたりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 31,
+      "headword": "have butteflies in one/s stomach",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "緊張する、お腹がきりきりする",
+      "proposedMeaning": "特にスピーチやデートなどのストレスのかかることの前に緊張する",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "特にスピーチやデートなどのストレスのかかることの前に緊張する",
+        "examples": null
+      }
+    },
+    {
+      "number": 32,
+      "headword": "cut corners",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "手を抜く、いい加減に済ませる",
+      "proposedMeaning": "角に切る",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "角に切る",
+        "examples": null
+      }
+    },
+    {
+      "number": 33,
+      "headword": "pretty much",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ほぼ、だいたい",
+      "proposedMeaning": "非常に",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に",
+        "examples": null
+      }
+    },
+    {
+      "number": 34,
+      "headword": "big deal",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "大事件、大したこと",
+      "proposedMeaning": "または、何かは重要ではないと言うために使用されます",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "または、何かは重要ではないと言うために使用されます",
+        "examples": null
+      }
+    },
+    {
+      "number": 35,
+      "headword": "get the ball rolling",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "物事を始動させる、きっかけを作る",
+      "proposedMeaning": "物事を動かすために",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "物事を動かすために",
+        "examples": null
+      }
+    },
+    {
+      "number": 36,
+      "headword": "spot sth/sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何か／誰かを）見つける、気づく",
+      "proposedMeaning": "何かや誰かに気づいたり、見るには、多くの場合努力が必要です",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かや誰かに気づいたり、見るには、多くの場合努力が必要です",
+        "examples": null
+      }
+    },
+    {
+      "number": 37,
+      "headword": "on the dot",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ぴったり（時間どおり）",
+      "proposedMeaning": "正確に時間通り、正確な分まで",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "正確に時間通り、正確な分まで",
+        "examples": null
+      }
+    },
+    {
+      "number": 38,
+      "headword": "bring sth up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（話題を）持ち出す、提起する",
+      "proposedMeaning": "会話の中で話題に言及したり紹介したりする",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "会話の中で話題に言及したり紹介したりする",
+        "examples": null
+      }
+    },
+    {
+      "number": 39,
+      "headword": "pricey",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "高い、値段が張る",
+      "proposedMeaning": "予想以上に費用がかかる",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "予想以上に費用がかかる",
+        "examples": null
+      }
+    },
+    {
+      "number": 40,
+      "headword": "touchy subject",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "デリケートな話題、触れてはいけない話",
+      "proposedMeaning": "当惑、怒り、不快感を引き起こす可能性のある話題",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "当惑、怒り、不快感を引き起こす可能性のある話題",
+        "examples": null
+      }
+    },
+    {
+      "number": 41,
+      "headword": "one-off",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "一回限りの、単発の",
+      "proposedMeaning": "単発",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "単発",
+        "examples": null
+      }
+    },
+    {
+      "number": 42,
+      "headword": "bug sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）うるさくする、しつこく頼む",
+      "proposedMeaning": "繰り返し何かを要求したり迷惑をかけたりして、誰かを困らせること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "繰り返し何かを要求したり迷惑をかけたりして、誰かを困らせること",
+        "examples": null
+      }
+    },
+    {
+      "number": 43,
+      "headword": "rusty",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "なまっている、腕が落ちている",
+      "proposedMeaning": "羊羹色、ようかん色",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "羊羹色、ようかん色",
+        "examples": null
+      }
+    },
+    {
+      "number": 44,
+      "headword": "bright and early",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "早朝に、朝早く",
+      "proposedMeaning": "とても早朝に",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "とても早朝に",
+        "examples": null
+      }
+    },
+    {
+      "number": 45,
+      "headword": "give sb a buzz",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人に）電話する",
+      "proposedMeaning": "誰かに電話をかける（非公式）",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かに電話をかける（非公式）",
+        "examples": null
+      }
+    },
+    {
+      "number": 46,
+      "headword": "work on sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）改善する、磨く",
+      "proposedMeaning": "自分自身のスキルや側面を改善または発展させようとすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分自身のスキルや側面を改善または発展させようとすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 47,
+      "headword": "in-your-face",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "目立ちすぎる、攻撃的な",
+      "proposedMeaning": "押しの強い",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "押しの強い",
+        "examples": null
+      }
+    },
+    {
+      "number": 48,
+      "headword": "come clean",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "白状する、正直に話す",
+      "proposedMeaning": "真実、特に隠してきたことを認めること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "真実、特に隠してきたことを認めること",
+        "examples": null
+      }
+    },
+    {
+      "number": 49,
+      "headword": "downer",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "気分を落とすもの、陰気な人",
+      "proposedMeaning": "ダウナー",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ダウナー",
+        "examples": null
+      }
+    },
+    {
+      "number": 50,
+      "headword": "packed",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ぎゅうぎゅう詰めの、混んでいる",
+      "proposedMeaning": "１杯、一盃、一杯",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "１杯、一盃、一杯",
+        "examples": null
+      }
+    },
+    {
+      "number": 51,
+      "headword": "bail sb out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）困ったときに助ける、保釈する",
+      "proposedMeaning": "誰かを困難な状況（多くの場合経済的に）から救い出すこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かを困難な状況（多くの場合経済的に）から救い出すこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 52,
+      "headword": "get one/s head around sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）理解する、頭に入れる",
+      "proposedMeaning": "複雑なことやわかりにくいことを理解すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "複雑なことやわかりにくいことを理解すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 53,
+      "headword": "cut to the chase",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "本題に入る、要点だけ話す",
+      "proposedMeaning": "見切りをつける",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "見切りをつける",
+        "examples": null
+      }
+    },
+    {
+      "number": 54,
+      "headword": "flag sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）指摘する、注意を向ける",
+      "proposedMeaning": "何か重要なこと、特に問題に注意を向けさせること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何か重要なこと、特に問題に注意を向けさせること",
+        "examples": null
+      }
+    },
+    {
+      "number": 55,
+      "headword": "old-school",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "オールドスクールの、古風な",
+      "proposedMeaning": "昭和",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "昭和",
+        "examples": null
+      }
+    },
+    {
+      "number": 56,
+      "headword": "get one/s hopes up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "期待を膨らませる、大期待する",
+      "proposedMeaning": "期待する",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "期待する",
+        "examples": null
+      }
+    },
+    {
+      "number": 57,
+      "headword": "behind sb/s back",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人に）内緒で、背後から",
+      "proposedMeaning": "密かに",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "密かに",
+        "examples": null
+      }
+    },
+    {
+      "number": 58,
+      "headword": "get back to sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人に）後で連絡する、返答する",
+      "proposedMeaning": "返信したり、後で誰かに答えを連絡したりするには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "返信したり、後で誰かに答えを連絡したりするには",
+        "examples": null
+      }
+    },
+    {
+      "number": 59,
+      "headword": "freak (sb) out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "パニックになる、ビビる",
+      "proposedMeaning": "人を怒らせる",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人を怒らせる",
+        "examples": null
+      }
+    },
+    {
+      "number": 60,
+      "headword": "put sth together",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）まとめる、組み立てる",
+      "proposedMeaning": "混ぜ合せる",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "混ぜ合せる",
+        "examples": null
+      }
+    },
+    {
+      "number": 61,
+      "headword": "sounds like a plan",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "いいね、その案で行こう",
+      "proposedMeaning": "名案",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "名案",
+        "examples": null
+      }
+    },
+    {
+      "number": 62,
+      "headword": "drop sth/sb off",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人／物を）降ろす、届ける",
+      "proposedMeaning": "誰かまたは何かをある場所に連れて行き、そこに残しておくこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かまたは何かをある場所に連れて行き、そこに残しておくこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 63,
+      "headword": "attention to detail",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "細部へのこだわり、細かいところまで気を配ること",
+      "proposedMeaning": "細部と正確さに注意深く焦点を当てる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "細部と正確さに注意深く焦点を当てる",
+        "examples": null
+      }
+    },
+    {
+      "number": 64,
+      "headword": "sick of",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "～にうんざりしている、飽き飽きしている",
+      "proposedMeaning": "何かに飽きたりうんざりしたりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かに飽きたりうんざりしたりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 65,
+      "headword": "white noise",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "雑音、本題以外の余計な情報",
+      "proposedMeaning": "背景の雑音や要点から逸れる無関係な情報",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "背景の雑音や要点から逸れる無関係な情報",
+        "examples": null
+      }
+    },
+    {
+      "number": 66,
+      "headword": "tricky",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "難しい、扱いにくい",
+      "proposedMeaning": "酷しい、遣り難い、微妙",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "酷しい、遣り難い、微妙",
+        "examples": null
+      }
+    },
+    {
+      "number": 67,
+      "headword": "slammed",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "超忙しい、手いっぱい",
+      "proposedMeaning": "仕事や責任で非常に忙しい",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "仕事や責任で非常に忙しい",
+        "examples": null
+      }
+    },
+    {
+      "number": 68,
+      "headword": "in a rush",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "急いでいる、時間がない",
+      "proposedMeaning": "急いで何かをする必要がある",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "急いで何かをする必要がある",
+        "examples": null
+      }
+    },
+    {
+      "number": 69,
+      "headword": "nice-to-have",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "あれば嬉しい、必須ではない",
+      "proposedMeaning": "必需品ではなくボーナス",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "必需品ではなくボーナス",
+        "examples": null
+      }
+    },
+    {
+      "number": 70,
+      "headword": "tell me about it",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ほんとそれ、わかるよ",
+      "proposedMeaning": "誰かの苦情や観察に強く同意するために使用されます",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かの苦情や観察に強く同意するために使用されます",
+        "examples": null
+      }
+    },
+    {
+      "number": 71,
+      "headword": "take it easy",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "のんびりする、気楽にいく",
+      "proposedMeaning": "または誰かに落ち着くように言うために使用されます",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "または誰かに落ち着くように言うために使用されます",
+        "examples": null
+      }
+    },
+    {
+      "number": 72,
+      "headword": "wing it",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "即興でやる、なんとかなるでしょ精神",
+      "proposedMeaning": "準備をせずに、即興で何かをすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "準備をせずに、即興で何かをすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 73,
+      "headword": "turn sth/sb down",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何か／誰かを）断る、拒否する",
+      "proposedMeaning": "オファー、リクエスト、または招待を拒否するには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "オファー、リクエスト、または招待を拒否するには",
+        "examples": null
+      }
+    },
+    {
+      "number": 74,
+      "headword": "keep one/s cool",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "冷静さを保つ",
+      "proposedMeaning": "ストレスの多い状況でも冷静さを保ち、イライラしないようにする",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ストレスの多い状況でも冷静さを保ち、イライラしないようにする",
+        "examples": null
+      }
+    },
+    {
+      "number": 75,
+      "headword": "sort of/kind of",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "なんとなく、ちょっと",
+      "proposedMeaning": "正確ではないが大まかに言うと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "正確ではないが大まかに言うと",
+        "examples": null
+      }
+    },
+    {
+      "number": 76,
+      "headword": "fill in for sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人の）代わりを務める",
+      "proposedMeaning": "他人が不在の間、一時的にその人の仕事をすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "他人が不在の間、一時的にその人の仕事をすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 77,
+      "headword": "help sb out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）助ける、手伝う",
+      "proposedMeaning": "特に困っているときに誰かを助けるため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "特に困っているときに誰かを助けるため",
+        "examples": null
+      }
+    },
+    {
+      "number": 78,
+      "headword": "make sure (that)",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "必ず～する、確認する",
+      "proposedMeaning": "何かが起こったり完了したりすることを確認すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かが起こったり完了したりすることを確認すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 79,
+      "headword": "keep one/s voice down",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "声を小さくする",
+      "proposedMeaning": "もっと静かに話すために",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "もっと静かに話すために",
+        "examples": null
+      }
+    },
+    {
+      "number": 80,
+      "headword": "FYI",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "参考までに、FYI",
+      "proposedMeaning": "返事を期待せずに情報を共有することに慣れていた",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "返事を期待せずに情報を共有することに慣れていた",
+        "examples": null
+      }
+    },
+    {
+      "number": 81,
+      "headword": "chill",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "のんびりした、ゆるい",
+      "proposedMeaning": "冷やす、冷す、ノンビリ",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "冷やす、冷す、ノンビリ",
+        "examples": null
+      }
+    },
+    {
+      "number": 82,
+      "headword": "bite the bullet",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "覚悟を決める、歯を食いしばってやる",
+      "proposedMeaning": "避けてきた嫌なことや難しいことを自分に強制すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "避けてきた嫌なことや難しいことを自分に強制すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 83,
+      "headword": "look forward to sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）楽しみにする",
+      "proposedMeaning": "これから起こる何かに対して興奮し、喜ぶこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "これから起こる何かに対して興奮し、喜ぶこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 84,
+      "headword": "on the same page",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "認識が一致している、同じ考え",
+      "proposedMeaning": "同じ理解または目標を持っている",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "同じ理解または目標を持っている",
+        "examples": null
+      }
+    },
+    {
+      "number": 85,
+      "headword": "clear sth up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）はっきりさせる、誤解を解く",
+      "proposedMeaning": "何かを明確にすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを明確にすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 86,
+      "headword": "shattered",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "打ちのめされた、がっかりした",
+      "proposedMeaning": "極度に失望した、または精神的に打ちのめされた",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "極度に失望した、または精神的に打ちのめされた",
+        "examples": null
+      }
+    },
+    {
+      "number": 87,
+      "headword": "give credit",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "評価する、功績を認める",
+      "proposedMeaning": "誰かの貢献や功績を認めて称賛すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かの貢献や功績を認めて称賛すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 88,
+      "headword": "close enough",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "だいたい合ってる、十分近い",
+      "proposedMeaning": "すぐそばに",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "すぐそばに",
+        "examples": null
+      }
+    },
+    {
+      "number": 89,
+      "headword": "lock sth down",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）確定する、固める",
+      "proposedMeaning": "変更できないように何かを確定または保護すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "変更できないように何かを確定または保護すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 90,
+      "headword": "deal-breaker",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "譲れない条件、決定的な問題",
+      "proposedMeaning": "取引を拒否したり、関係を終了したりする原因となる特定の問題",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "取引を拒否したり、関係を終了したりする原因となる特定の問題",
+        "examples": null
+      }
+    },
+    {
+      "number": 91,
+      "headword": "loaded",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "金持ちの、お金持ち",
+      "proposedMeaning": "実弾",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "実弾",
+        "examples": null
+      }
+    },
+    {
+      "number": 92,
+      "headword": "double-check sth/(that)",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）再確認する",
+      "proposedMeaning": "何かをもう一度チェックして、それが正しいことを確認すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かをもう一度チェックして、それが正しいことを確認すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 93,
+      "headword": "cutting-edge",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "最先端の、尖った",
+      "proposedMeaning": "先進的",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "先進的",
+        "examples": null
+      }
+    },
+    {
+      "number": 94,
+      "headword": "go in circles",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "堂々巡りになる、進展がない",
+      "proposedMeaning": "進歩せずに同じことを議論し続けること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "進歩せずに同じことを議論し続けること",
+        "examples": null
+      }
+    },
+    {
+      "number": 95,
+      "headword": "chill out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "落ち着く、リラックスする",
+      "proposedMeaning": "落ち着いてリラックスするには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "落ち着いてリラックスするには",
+        "examples": null
+      }
+    },
+    {
+      "number": 96,
+      "headword": "break for lunch",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "昼休みに入る",
+      "proposedMeaning": "昼食をとるために仕事や活動を一時停止すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "昼食をとるために仕事や活動を一時停止すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 97,
+      "headword": "roughly",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "おおよそ、だいたい",
+      "proposedMeaning": "粗、略、大凡",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "粗、略、大凡",
+        "examples": null
+      }
+    },
+    {
+      "number": 98,
+      "headword": "stretch",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "無理がある、言い過ぎ",
+      "proposedMeaning": "信じがたい主張や発言、あるいは誇張されたもの",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "信じがたい主張や発言、あるいは誇張されたもの",
+        "examples": null
+      }
+    },
+    {
+      "number": 99,
+      "headword": "on the right track",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "順調に進んでいる、正しい方向にいる",
+      "proposedMeaning": "通行権",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "通行権",
+        "examples": null
+      }
+    },
+    {
+      "number": 100,
+      "headword": "get one/s hands on sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）手に入れる、入手する",
+      "proposedMeaning": "何か、特に入手が難しいものを入手または獲得すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何か、特に入手が難しいものを入手または獲得すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 101,
+      "headword": "gold standard",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "最高水準、ゴールドスタンダード",
+      "proposedMeaning": "金本位制",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "金本位制",
+        "examples": null
+      }
+    },
+    {
+      "number": 102,
+      "headword": "kick sth off",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）始める、キックオフする",
+      "proposedMeaning": "何か、特に会議やイベントを始めること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何か、特に会議やイベントを始めること",
+        "examples": null
+      }
+    },
+    {
+      "number": 103,
+      "headword": "on one/s last legs",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "寿命が尽きかけている、もうダメになりそう",
+      "proposedMeaning": "寿命、有用性、または生存可能性の終わりに近づいている",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "寿命、有用性、または生存可能性の終わりに近づいている",
+        "examples": null
+      }
+    },
+    {
+      "number": 104,
+      "headword": "pluck sth out of thin air",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "でっち上げる、根拠なく言い出す",
+      "proposedMeaning": "実際に根拠のないことをでっち上げたり発言したりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "実際に根拠のないことをでっち上げたり発言したりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 105,
+      "headword": "make a move",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "そろそろ帰る、席を外す",
+      "proposedMeaning": "場所や社交的な集まりから離れること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "場所や社交的な集まりから離れること",
+        "examples": null
+      }
+    },
+    {
+      "number": 106,
+      "headword": "selling point",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "セールスポイント、売り",
+      "proposedMeaning": "製品や人物を買い手にとって魅力的なものにする特徴や品質",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "製品や人物を買い手にとって魅力的なものにする特徴や品質",
+        "examples": null
+      }
+    },
+    {
+      "number": 107,
+      "headword": "all-in on sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かに）全力で取り組む、オールインする",
+      "proposedMeaning": "そこにすべてを投資する",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "そこにすべてを投資する",
+        "examples": null
+      }
+    },
+    {
+      "number": 108,
+      "headword": "light at the end of the tunnel",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "隧道の先の光、希望の兆し",
+      "proposedMeaning": "困難な状況が終わりつつあるという希望の兆し",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "困難な状況が終わりつつあるという希望の兆し",
+        "examples": null
+      }
+    },
+    {
+      "number": 109,
+      "headword": "party animal",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "パーティー好き、社交的な人",
+      "proposedMeaning": "政党員",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "政党員",
+        "examples": null
+      }
+    },
+    {
+      "number": 110,
+      "headword": "could hear a pin drop",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "針が落ちる音も聞こえるほど静か",
+      "proposedMeaning": "とても静かなので、小さな音も聞こえます",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "とても静かなので、小さな音も聞こえます",
+        "examples": null
+      }
+    },
+    {
+      "number": 111,
+      "headword": "wordy",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "冗長な、くどい",
+      "proposedMeaning": "諄い、クドい、冗長",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "諄い、クドい、冗長",
+        "examples": null
+      }
+    },
+    {
+      "number": 112,
+      "headword": "surefire",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "確実な、間違いない",
+      "proposedMeaning": "必殺技",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "必殺技",
+        "examples": null
+      }
+    },
+    {
+      "number": 113,
+      "headword": "up in the air",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "未定の、宙に浮いた",
+      "proposedMeaning": "まだ決まっていない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "まだ決まっていない",
+        "examples": null
+      }
+    },
+    {
+      "number": 114,
+      "headword": "worth a shot",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "やってみる価値がある",
+      "proposedMeaning": "たとえ成功が保証されなくても、試してみる価値はある",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "たとえ成功が保証されなくても、試してみる価値はある",
+        "examples": null
+      }
+    },
+    {
+      "number": 115,
+      "headword": "character",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "個性的な人、変わり者",
+      "proposedMeaning": "人物、人格、性格",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人物、人格、性格",
+        "examples": null
+      }
+    },
+    {
+      "number": 116,
+      "headword": "sharp",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "頭が切れる、鋭い",
+      "proposedMeaning": "鋭敏、悧巧、悧口",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "鋭敏、悧巧、悧口",
+        "examples": null
+      }
+    },
+    {
+      "number": 117,
+      "headword": "burning desire",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "燃えるような欲求、強い願望",
+      "proposedMeaning": "何かをしたいという強烈で情熱的な欲求",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かをしたいという強烈で情熱的な欲求",
+        "examples": null
+      }
+    },
+    {
+      "number": 118,
+      "headword": "fly on the wall",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "壁にとまったハエ、密かに見ている人",
+      "proposedMeaning": "ひどく怒らせる",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ひどく怒らせる",
+        "examples": null
+      }
+    },
+    {
+      "number": 119,
+      "headword": "gibberish",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "でたらめ、意味不明な話",
+      "proposedMeaning": "珍紛漢紛、珍糞漢糞、チンプンカンプン",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "珍紛漢紛、珍糞漢糞、チンプンカンプン",
+        "examples": null
+      }
+    },
+    {
+      "number": 120,
+      "headword": "egg sb on",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）煽る、悪いことをさせるよう促す",
+      "proposedMeaning": "誰かに愚かなことや危険なことをするよう奨励すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かに愚かなことや危険なことをするよう奨励すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 121,
+      "headword": "face-time",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "対面の時間、直接会って話すこと",
+      "proposedMeaning": "誰かと面と向かって話すのに費やした時間",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かと面と向かって話すのに費やした時間",
+        "examples": null
+      }
+    },
+    {
+      "number": 123,
+      "headword": "leave it there",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ここまでにする、話を終える",
+      "proposedMeaning": "話をやめて発言を終えること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "話をやめて発言を終えること",
+        "examples": null
+      }
+    },
+    {
+      "number": 124,
+      "headword": "down-to-earth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "地に足のついた、飾らない",
+      "proposedMeaning": "実用的、現実的、そして気取らない",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "実用的、現実的、そして気取らない",
+        "examples": null
+      }
+    },
+    {
+      "number": 125,
+      "headword": "jump the gun",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "早まる、時期尚早に動く",
+      "proposedMeaning": "銃を撃つ",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "銃を撃つ",
+        "examples": null
+      }
+    },
+    {
+      "number": 126,
+      "headword": "back sth up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）裏付ける、根拠を示す",
+      "proposedMeaning": "証拠や事実で主張を裏付けるため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "証拠や事実で主張を裏付けるため",
+        "examples": null
+      }
+    },
+    {
+      "number": 127,
+      "headword": "get a kick out of sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かから）楽しみを得る、快感を覚える",
+      "proposedMeaning": "何かから楽しみや喜びを得る",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かから楽しみや喜びを得る",
+        "examples": null
+      }
+    },
+    {
+      "number": 128,
+      "headword": "hands down",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "間違いなく、断然",
+      "proposedMeaning": "疑いもなく",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "疑いもなく",
+        "examples": null
+      }
+    },
+    {
+      "number": 129,
+      "headword": "dumb sth down",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）簡略化する、わかりやすくする",
+      "proposedMeaning": "理解しやすいように何かを単純化すること。時には過度に簡略化すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "理解しやすいように何かを単純化すること。時には過度に簡略化すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 130,
+      "headword": "on the fly",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "即興で、準備なしに",
+      "proposedMeaning": "進行中の",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "進行中の",
+        "examples": null
+      }
+    },
+    {
+      "number": 132,
+      "headword": "give or take",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "おおよそ、前後",
+      "proposedMeaning": "プラスまたはマイナスの少量",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "プラスまたはマイナスの少量",
+        "examples": null
+      }
+    },
+    {
+      "number": 133,
+      "headword": "educated guess",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "根拠のある推測",
+      "proposedMeaning": "知識や経験に基づいた情報に基づいた推測",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "知識や経験に基づいた情報に基づいた推測",
+        "examples": null
+      }
+    },
+    {
+      "number": 134,
+      "headword": "hit a wall",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "行き詰まる、壁にぶつかる",
+      "proposedMeaning": "もう前進できない地点に到達するには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "もう前進できない地点に到達するには",
+        "examples": null
+      }
+    },
+    {
+      "number": 135,
+      "headword": "on sb/s radar",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人の）意識に入っている、予定に入っている",
+      "proposedMeaning": "（誰か）の注意すべきこと、または対処すべきことのリストに載っている",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "（誰か）の注意すべきこと、または対処すべきことのリストに載っている",
+        "examples": null
+      }
+    },
+    {
+      "number": 136,
+      "headword": "broken record",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "同じ話を繰り返す人、しつこい人",
+      "proposedMeaning": "何度も同じことを繰り返す人",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何度も同じことを繰り返す人",
+        "examples": null
+      }
+    },
+    {
+      "number": 137,
+      "headword": "stoked",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "テンション上がってる、超嬉しい",
+      "proposedMeaning": "何かにとても興奮し、幸せになる",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かにとても興奮し、幸せになる",
+        "examples": null
+      }
+    },
+    {
+      "number": 139,
+      "headword": "get one/s story straight",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "話を一致させる、口裏を合わせる",
+      "proposedMeaning": "他の人に話す前に、一貫したバージョンの出来事に同意すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "他の人に話す前に、一貫したバージョンの出来事に同意すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 140,
+      "headword": "reinvent the wheel",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "車輪の再発明をする、既にあるものを一から作る",
+      "proposedMeaning": "すでに存在するものを作成して時間を無駄にする",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "すでに存在するものを作成して時間を無駄にする",
+        "examples": null
+      }
+    },
+    {
+      "number": 141,
+      "headword": "hear through the grapevine",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "噂で聞く、風の便りで聞く",
+      "proposedMeaning": "ゴシップや噂を通じて間接的にニュースを聞くこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ゴシップや噂を通じて間接的にニュースを聞くこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 142,
+      "headword": "fired up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "カッとしてる、燃え上がっている",
+      "proposedMeaning": "怒っている、興奮している、または情熱的なエネルギーに満ちている",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "怒っている、興奮している、または情熱的なエネルギーに満ちている",
+        "examples": null
+      }
+    },
+    {
+      "number": 143,
+      "headword": "crash course",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "短期集中講座、ざっと教える",
+      "proposedMeaning": "主題についての迅速かつ集中的な紹介",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "主題についての迅速かつ集中的な紹介",
+        "examples": null
+      }
+    },
+    {
+      "number": 144,
+      "headword": "settle in",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "慣れる、落ち着く",
+      "proposedMeaning": "新しい場所や状況で快適になること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "新しい場所や状況で快適になること",
+        "examples": null
+      }
+    },
+    {
+      "number": 145,
+      "headword": "worked up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "興奮してる、かっとなってる",
+      "proposedMeaning": "動揺したり、興奮したり、過度に興奮したりする",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "動揺したり、興奮したり、過度に興奮したりする",
+        "examples": null
+      }
+    },
+    {
+      "number": 146,
+      "headword": "control freak",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "完璧主義で支配的な人、コントロール好き",
+      "proposedMeaning": "状況を細部までコントロールする必要がある人",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "状況を細部までコントロールする必要がある人",
+        "examples": null
+      }
+    },
+    {
+      "number": 147,
+      "headword": "needle in a haystack",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "干し草の山から針を探すようなもの",
+      "proposedMeaning": "非常に見つけにくいもの",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に見つけにくいもの",
+        "examples": null
+      }
+    },
+    {
+      "number": 148,
+      "headword": "put up with sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）我慢する、耐える",
+      "proposedMeaning": "変えられない不快なことを我慢すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "変えられない不快なことを我慢すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 149,
+      "headword": "put sb on the spot",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）困らせる、突っ込んだ質問をする",
+      "proposedMeaning": "公の場で難しい質問をして、誰かを厄介な立場に追い込むこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "公の場で難しい質問をして、誰かを厄介な立場に追い込むこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 150,
+      "headword": "wasted",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "酔い潰れている",
+      "proposedMeaning": "とても酔っている（俗語）",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "とても酔っている（俗語）",
+        "examples": null
+      }
+    },
+    {
+      "number": 151,
+      "headword": "ego-boosting",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "自尊心を高める、自信をつける",
+      "proposedMeaning": "誰かの自信や自尊心を高める",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かの自信や自尊心を高める",
+        "examples": null
+      }
+    },
+    {
+      "number": 152,
+      "headword": "carry the team",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "チームを引っ張る、チームの中心になる",
+      "proposedMeaning": "チームの成功に対する責任のほとんどを担う",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "チームの成功に対する責任のほとんどを担う",
+        "examples": null
+      }
+    },
+    {
+      "number": 153,
+      "headword": "down in the dumps",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "落ち込んでいる、元気がない",
+      "proposedMeaning": "悲しくて憂鬱な気分になる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "悲しくて憂鬱な気分になる",
+        "examples": null
+      }
+    },
+    {
+      "number": 154,
+      "headword": "big fan of sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かの）大ファン",
+      "proposedMeaning": "本当に何かが好きな人",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "本当に何かが好きな人",
+        "examples": null
+      }
+    },
+    {
+      "number": 155,
+      "headword": "backfire",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "裏目に出る、逆効果になる",
+      "proposedMeaning": "逆効果、裏目、仇になる",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "逆効果、裏目、仇になる",
+        "examples": null
+      }
+    },
+    {
+      "number": 157,
+      "headword": "go down well",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "好評を得る、うまくいく",
+      "proposedMeaning": "人に好かれたり、好かれたりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人に好かれたり、好かれたりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 158,
+      "headword": "step up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "奮起する、一歩前に出る",
+      "proposedMeaning": "必要に応じて、より多くの責任を引き受けたり、より良いパフォーマンスを発揮したりするため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "必要に応じて、より多くの責任を引き受けたり、より良いパフォーマンスを発揮したりするため",
+        "examples": null
+      }
+    },
+    {
+      "number": 159,
+      "headword": "inch-perfect",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "寸分たがわない、完璧な",
+      "proposedMeaning": "非常に正確で正確",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に正確で正確",
+        "examples": null
+      }
+    },
+    {
+      "number": 160,
+      "headword": "keep one/s head",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "冷静さを保つ",
+      "proposedMeaning": "ストレスの多い状況や危険な状況でも冷静さを保つため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ストレスの多い状況や危険な状況でも冷静さを保つため",
+        "examples": null
+      }
+    },
+    {
+      "number": 161,
+      "headword": "rule of thumb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "経験則、おおよその目安",
+      "proposedMeaning": "鉄則",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "鉄則",
+        "examples": null
+      }
+    },
+    {
+      "number": 162,
+      "headword": "crack (sb) up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）大笑いさせる",
+      "proposedMeaning": "誰かをたくさん笑わせるために",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かをたくさん笑わせるために",
+        "examples": null
+      }
+    },
+    {
+      "number": 163,
+      "headword": "take it the wrong way",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "悪い意味に受け取る、勘違いする",
+      "proposedMeaning": "そんなつもりはなかったのに、何かを攻撃的であると誤解すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "そんなつもりはなかったのに、何かを攻撃的であると誤解すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 164,
+      "headword": "give some context",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "背景を説明する、文脈を与える",
+      "proposedMeaning": "理解を助ける背景情報を提供するため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "理解を助ける背景情報を提供するため",
+        "examples": null
+      }
+    },
+    {
+      "number": 165,
+      "headword": "drama queen",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "大げさな人、お姫様気質",
+      "proposedMeaning": "戯曲",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "戯曲",
+        "examples": null
+      }
+    },
+    {
+      "number": 166,
+      "headword": "go all-out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "全力でやる、思いっきりやる",
+      "proposedMeaning": "最大限の努力や贅沢をして何かをすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "最大限の努力や贅沢をして何かをすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 167,
+      "headword": "cover all bases",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "あらゆる可能性に備える",
+      "proposedMeaning": "起こり得るあらゆる状況や結果に備えるため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "起こり得るあらゆる状況や結果に備えるため",
+        "examples": null
+      }
+    },
+    {
+      "number": 168,
+      "headword": "by the book",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "規則通りの、マニュアル通りの",
+      "proposedMeaning": "本屋",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "本屋",
+        "examples": null
+      }
+    },
+    {
+      "number": 169,
+      "headword": "think it through",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "よく考える、熟考する",
+      "proposedMeaning": "何かを決定する前に慎重に検討すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを決定する前に慎重に検討すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 170,
+      "headword": "heads up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "事前の連絡、注意喚起",
+      "proposedMeaning": "頭を下げる",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "頭を下げる",
+        "examples": null
+      }
+    },
+    {
+      "number": 171,
+      "headword": "call it (a day)",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "今日はここまでにする、仕事を切り上げる",
+      "proposedMeaning": "その日の仕事をやめるには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "その日の仕事をやめるには",
+        "examples": null
+      }
+    },
+    {
+      "number": 172,
+      "headword": "in a roundabout way",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "遠回しに、婉曲的に",
+      "proposedMeaning": "直接何かを言わない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "直接何かを言わない",
+        "examples": null
+      }
+    },
+    {
+      "number": 173,
+      "headword": "under the weather",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "体調が悪い、気分が優れない",
+      "proposedMeaning": "時候",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "時候",
+        "examples": null
+      }
+    },
+    {
+      "number": 174,
+      "headword": "drag one/s feet",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ぐずぐずする、先延ばしにする",
+      "proposedMeaning": "行動を起こすのが遅れる、または遅い",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "行動を起こすのが遅れる、または遅い",
+        "examples": null
+      }
+    },
+    {
+      "number": 175,
+      "headword": "clear the air",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "誤解を解く、すっきりする",
+      "proposedMeaning": "人々の間の緊張や誤解を解決するため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人々の間の緊張や誤解を解決するため",
+        "examples": null
+      }
+    },
+    {
+      "number": 176,
+      "headword": "guesstimate",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "適当な見積もり、勘での推測",
+      "proposedMeaning": "実際の根拠がほとんど、またはまったくないままに作成された推定",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "実際の根拠がほとんど、またはまったくないままに作成された推定",
+        "examples": null
+      }
+    },
+    {
+      "number": 177,
+      "headword": "dig deep",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "本気を出す、踏ん張る",
+      "proposedMeaning": "特に難しいときに一生懸命努力すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "特に難しいときに一生懸命努力すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 178,
+      "headword": "bells and whistles",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "付加機能、豪華な装備",
+      "proposedMeaning": "魅力的だが必須ではない追加機能",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "魅力的だが必須ではない追加機能",
+        "examples": null
+      }
+    },
+    {
+      "number": 179,
+      "headword": "spot-on",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "的確な、ぴったり合っている",
+      "proposedMeaning": "まさに正しい、または正確",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "まさに正しい、または正確",
+        "examples": null
+      }
+    },
+    {
+      "number": 180,
+      "headword": "sb/s cup of tea",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "好み、好きなもの",
+      "proposedMeaning": "人が好きなことや楽しんでいること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人が好きなことや楽しんでいること",
+        "examples": null
+      }
+    },
+    {
+      "number": 181,
+      "headword": "look sharp",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "きちんとした格好をする",
+      "proposedMeaning": "顔つき",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "顔つき",
+        "examples": null
+      }
+    },
+    {
+      "number": 182,
+      "headword": "neck and neck",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "互角、僅差",
+      "proposedMeaning": "うなじ",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "うなじ",
+        "examples": null
+      }
+    },
+    {
+      "number": 183,
+      "headword": "mind-numbing",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "頭が麻痺するほど退屈な",
+      "proposedMeaning": "気の遠くなる",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "気の遠くなる",
+        "examples": null
+      }
+    },
+    {
+      "number": 184,
+      "headword": "tell it like it is",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ありのまま言う、はっきり言う",
+      "proposedMeaning": "たとえ不快であっても、正直に直接話すこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "たとえ不快であっても、正直に直接話すこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 185,
+      "headword": "game-changer",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ゲームチェンジャー、状況を一変させるもの",
+      "proposedMeaning": "物事のやり方を根本的に変える何か",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "物事のやり方を根本的に変える何か",
+        "examples": null
+      }
+    },
+    {
+      "number": 186,
+      "headword": "borrow sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）ちょっと借りる、少し手伝ってもらう",
+      "proposedMeaning": "誰かに助けを求めて短時間だけ頼んでもらうこと（非公式）",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かに助けを求めて短時間だけ頼んでもらうこと（非公式）",
+        "examples": null
+      }
+    },
+    {
+      "number": 187,
+      "headword": "look up to sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）尊敬する、見習う",
+      "proposedMeaning": "誰かを賞賛し、尊敬すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かを賞賛し、尊敬すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 188,
+      "headword": "killing it",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "大活躍している、バリバリやってる",
+      "proposedMeaning": "非常に優れたパフォーマンスを発揮する（俗語）",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に優れたパフォーマンスを発揮する（俗語）",
+        "examples": null
+      }
+    },
+    {
+      "number": 189,
+      "headword": "make it up as one goes along",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "その場の思いつきでやる、計画なしで進める",
+      "proposedMeaning": "計画を立てずに即興で進めること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "計画を立てずに即興で進めること",
+        "examples": null
+      }
+    },
+    {
+      "number": 190,
+      "headword": "bounce ideas off sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人に）アイデアをぶつける、意見を聞く",
+      "proposedMeaning": "フィードバックを得るために誰かとアイデアについて話し合うため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "フィードバックを得るために誰かとアイデアについて話し合うため",
+        "examples": null
+      }
+    },
+    {
+      "number": 191,
+      "headword": "bad influence",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "悪い影響を与える人・もの",
+      "proposedMeaning": "他人に悪いことをさせる人や物",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "他人に悪いことをさせる人や物",
+        "examples": null
+      }
+    },
+    {
+      "number": 192,
+      "headword": "pushy",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "しつこい、押しが強い",
+      "proposedMeaning": "押しの強い、オラオラ、おらおら",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "押しの強い、オラオラ、おらおら",
+        "examples": null
+      }
+    },
+    {
+      "number": 193,
+      "headword": "steal",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "お買い得、激安",
+      "proposedMeaning": "驚くほど安い",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "驚くほど安い",
+        "examples": null
+      }
+    },
+    {
+      "number": 194,
+      "headword": "wrap sth up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）まとめる、終わらせる",
+      "proposedMeaning": "何かを終わらせたり結論づけたりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを終わらせたり結論づけたりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 195,
+      "headword": "not add up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "辻褄が合わない、おかしい",
+      "proposedMeaning": "論理的に意味が通じないこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "論理的に意味が通じないこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 196,
+      "headword": "destroyed",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "打ちのめされている、ショックを受けている",
+      "proposedMeaning": "極度に動揺している、または精神的に打ちのめされている",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "極度に動揺している、または精神的に打ちのめされている",
+        "examples": null
+      }
+    },
+    {
+      "number": 197,
+      "headword": "not too far off (sth)",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かに）だいたい近い、大きく外れていない",
+      "proposedMeaning": "数値または推定値に近いが、正確ではない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "数値または推定値に近いが、正確ではない",
+        "examples": null
+      }
+    },
+    {
+      "number": 198,
+      "headword": "heart and soul",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "心臓部、魂、中心人物",
+      "proposedMeaning": "何かの最も本質的で情熱的な部分",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かの最も本質的で情熱的な部分",
+        "examples": null
+      }
+    },
+    {
+      "number": 199,
+      "headword": "look on the bright side",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "前向きに考える、良い面を見る",
+      "proposedMeaning": "状況のポジティブな側面に焦点を当てる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "状況のポジティブな側面に焦点を当てる",
+        "examples": null
+      }
+    },
+    {
+      "number": 200,
+      "headword": "101",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "入門、基礎",
+      "proposedMeaning": "主題の基本的な導入または基礎",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "主題の基本的な導入または基礎",
+        "examples": null
+      }
+    },
+    {
+      "number": 201,
+      "headword": "bits and pieces",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "あれこれ、細かいもの",
+      "proposedMeaning": "小物や各種パーツ",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "小物や各種パーツ",
+        "examples": null
+      }
+    },
+    {
+      "number": 202,
+      "headword": "silver lining",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "一縷の光明、良い面",
+      "proposedMeaning": "金モール",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "金モール",
+        "examples": null
+      }
+    },
+    {
+      "number": 203,
+      "headword": "take sth to heart",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）深く心に留める、気にする",
+      "proposedMeaning": "何か、しばしば批判に深く影響されること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何か、しばしば批判に深く影響されること",
+        "examples": null
+      }
+    },
+    {
+      "number": 205,
+      "headword": "by hook or by crook",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "何としてでも、手段を選ばず",
+      "proposedMeaning": "公平か不公平かに関わらず、必要な手段を用いて",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "公平か不公平かに関わらず、必要な手段を用いて",
+        "examples": null
+      }
+    },
+    {
+      "number": 206,
+      "headword": "sense check",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "妥当性チェック、大まかな確認",
+      "proposedMeaning": "気のせい",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "気のせい",
+        "examples": null
+      }
+    },
+    {
+      "number": 207,
+      "headword": "stumped",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "わからない、困っている",
+      "proposedMeaning": "閉口、辟易、謝る",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "閉口、辟易、謝る",
+        "examples": null
+      }
+    },
+    {
+      "number": 209,
+      "headword": "hard taskmaster",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "厳しい上司、手のかかる人",
+      "proposedMeaning": "非常に要求が厳しく厳しい人",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に要求が厳しく厳しい人",
+        "examples": null
+      }
+    },
+    {
+      "number": 210,
+      "headword": "night and day",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "まるで別人、正反対",
+      "proposedMeaning": "毎夜",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "毎夜",
+        "examples": null
+      }
+    },
+    {
+      "number": 211,
+      "headword": "burst sb/s bubble",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人の）幻想を打ち砕く、水を差す",
+      "proposedMeaning": "誰かの幸せな幻想や楽観主義を破壊すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かの幸せな幻想や楽観主義を破壊すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 212,
+      "headword": "drag sb/s names through the mud",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人の）名誉を傷つける、悪口を言いふらす",
+      "proposedMeaning": "公の場で人の評判を傷つけること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "公の場で人の評判を傷つけること",
+        "examples": null
+      }
+    },
+    {
+      "number": 213,
+      "headword": "deep dive",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "徹底的な調査、深掘り",
+      "proposedMeaning": "徹底した詳細な調査または分析",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "徹底した詳細な調査または分析",
+        "examples": null
+      }
+    },
+    {
+      "number": 214,
+      "headword": "boil down to sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かに）帰結する、要するに～だ",
+      "proposedMeaning": "本質的に 1 つの重要な要素として要約される",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "本質的に 1 つの重要な要素として要約される",
+        "examples": null
+      }
+    },
+    {
+      "number": 215,
+      "headword": "hit the ground running",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "すぐに全力で取り組む、スムーズに始める",
+      "proposedMeaning": "何かを始めてすぐに全速力で取り組むこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを始めてすぐに全速力で取り組むこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 216,
+      "headword": "wake up on the wrong side of the bed",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "寝起きが悪い、機嫌が悪い",
+      "proposedMeaning": "一日の始まりから機嫌が悪い",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "一日の始まりから機嫌が悪い",
+        "examples": null
+      }
+    },
+    {
+      "number": 217,
+      "headword": "low hanging fruit",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "簡単に手に入るもの、楽な成果",
+      "proposedMeaning": "簡単な目標、またはほとんど努力を必要としない迅速な勝利",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "簡単な目標、またはほとんど努力を必要としない迅速な勝利",
+        "examples": null
+      }
+    },
+    {
+      "number": 218,
+      "headword": "icebreaker",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "アイスブレイク、場を和ませるもの",
+      "proposedMeaning": "人々がリラックスし、お互いを知るのに役立つアクティビティ",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人々がリラックスし、お互いを知るのに役立つアクティビティ",
+        "examples": null
+      }
+    },
+    {
+      "number": 219,
+      "headword": "mock sth up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かの）試作品を作る、モックアップする",
+      "proposedMeaning": "何かの下書きやモデルを作成すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かの下書きやモデルを作成すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 220,
+      "headword": "or so",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "くらい、前後",
+      "proposedMeaning": "或る",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "或る",
+        "examples": null
+      }
+    },
+    {
+      "number": 221,
+      "headword": "jack of all trades",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "何でも屋、多芸な人",
+      "proposedMeaning": "所有品",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "所有品",
+        "examples": null
+      }
+    },
+    {
+      "number": 222,
+      "headword": "vanilla",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ありきたりな、平凡な",
+      "proposedMeaning": "平凡、退屈、刺激がない",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "平凡、退屈、刺激がない",
+        "examples": null
+      }
+    },
+    {
+      "number": 223,
+      "headword": "hard headed",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "頑固な、強情な",
+      "proposedMeaning": "頑固で自分の意見を変えようとしない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "頑固で自分の意見を変えようとしない",
+        "examples": null
+      }
+    },
+    {
+      "number": 224,
+      "headword": "play devil/s advocate",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "あえて反対意見を言う、悪魔の代弁者をする",
+      "proposedMeaning": "議論のために反対の意見を主張すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "議論のために反対の意見を主張すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 225,
+      "headword": "crystalize sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）明確にする、具体化する",
+      "proposedMeaning": "何かを明確かつ明確にすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを明確かつ明確にすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 226,
+      "headword": "D and M",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "深い話、本音の会話",
+      "proposedMeaning": "深くて有意義な会話 (スラングの略語)",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "深くて有意義な会話 (スラングの略語)",
+        "examples": null
+      }
+    },
+    {
+      "number": 227,
+      "headword": "people person",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "人付き合いがうまい人、社交的な人",
+      "proposedMeaning": "社交的で他人との交流を楽しむ人",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "社交的で他人との交流を楽しむ人",
+        "examples": null
+      }
+    },
+    {
+      "number": 228,
+      "headword": "get something over the line",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）完了させる、ゴールに持っていく",
+      "proposedMeaning": "何かを無事に完了して納品すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを無事に完了して納品すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 229,
+      "headword": "branch out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "分野を広げる、多角化する",
+      "proposedMeaning": "分岐する",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "分岐する",
+        "examples": null
+      }
+    },
+    {
+      "number": 230,
+      "headword": "out of pocket",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "自己負担の、自腹の",
+      "proposedMeaning": "自分のお金から支払われ、返金されない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分のお金から支払われ、返金されない",
+        "examples": null
+      }
+    },
+    {
+      "number": 231,
+      "headword": "wordsmith sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（文章を）練る、言葉を磨く",
+      "proposedMeaning": "何かの言葉遣いを注意深く作成したり洗練したりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かの言葉遣いを注意深く作成したり洗練したりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 232,
+      "headword": "watered down",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "薄められた、力が抜けた",
+      "proposedMeaning": "オリジナルより弱体化または強度が低くなりました",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "オリジナルより弱体化または強度が低くなりました",
+        "examples": null
+      }
+    },
+    {
+      "number": 233,
+      "headword": "fish for compliments",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "褒め言葉を求める、お世辞を引き出す",
+      "proposedMeaning": "間接的に褒めてもらおうとする",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "間接的に褒めてもらおうとする",
+        "examples": null
+      }
+    },
+    {
+      "number": 234,
+      "headword": "meet sb halfway",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人と）歩み寄る、妥協する",
+      "proposedMeaning": "双方が何かを諦めて妥協すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "双方が何かを諦めて妥協すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 235,
+      "headword": "weed out sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（不要なものを）ふるいにかける、排除する",
+      "proposedMeaning": "不要な人や物をグループから削除するには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "不要な人や物をグループから削除するには",
+        "examples": null
+      }
+    },
+    {
+      "number": 236,
+      "headword": "better half",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "パートナー、伴侶",
+      "proposedMeaning": "配偶者またはロマンチックなパートナー (ユーモア)",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "配偶者またはロマンチックなパートナー (ユーモア)",
+        "examples": null
+      }
+    },
+    {
+      "number": 237,
+      "headword": "hit pause",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "一旦ストップする、中断する",
+      "proposedMeaning": "終止符を打つ",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "終止符を打つ",
+        "examples": null
+      }
+    },
+    {
+      "number": 238,
+      "headword": "wind down",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "落ち着く、ゆるやかに終わらせる",
+      "proposedMeaning": "ネジを巻く",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ネジを巻く",
+        "examples": null
+      }
+    },
+    {
+      "number": 239,
+      "headword": "make a killing",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "大もうけする、儲ける",
+      "proposedMeaning": "打ち殺す",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "打ち殺す",
+        "examples": null
+      }
+    },
+    {
+      "number": 240,
+      "headword": "take a stab in the dark",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "当てずっぽうで答える、推測する",
+      "proposedMeaning": "答えを知らずに推測すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "答えを知らずに推測すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 241,
+      "headword": "take sth with a grain of salt",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）疑って聞く、鵜呑みにしない",
+      "proposedMeaning": "完全には信じていない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "完全には信じていない",
+        "examples": null
+      }
+    },
+    {
+      "number": 242,
+      "headword": "unwritten rule",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "暗黙のルール、不文律",
+      "proposedMeaning": "誰もが守っているが書き留められていない習慣",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰もが守っているが書き留められていない習慣",
+        "examples": null
+      }
+    },
+    {
+      "number": 243,
+      "headword": "treading water",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "足踏み状態、停滞している",
+      "proposedMeaning": "同じ場所に留まる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "同じ場所に留まる",
+        "examples": null
+      }
+    },
+    {
+      "number": 244,
+      "headword": "grunt work",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "雑用、単純作業",
+      "proposedMeaning": "日常的な仕事、熟練していない仕事、または退屈な仕事",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "日常的な仕事、熟練していない仕事、または退屈な仕事",
+        "examples": null
+      }
+    },
+    {
+      "number": 245,
+      "headword": "hold one/s cards close to one/s chest",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "秘密を持つ、カードを伏せる",
+      "proposedMeaning": "自分の計画や意図を秘密にしておく",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分の計画や意図を秘密にしておく",
+        "examples": null
+      }
+    },
+    {
+      "number": 247,
+      "headword": "put sb/s name in the hat",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（候補に）名前を出す、立候補する",
+      "proposedMeaning": "自分自身または誰かを役職や機会に指名すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分自身または誰かを役職や機会に指名すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 248,
+      "headword": "out of sb/s league",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人にとって）高望みすぎ、手が届かない",
+      "proposedMeaning": "誰かにとって良すぎる、魅力的、または高価すぎる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かにとって良すぎる、魅力的、または高価すぎる",
+        "examples": null
+      }
+    },
+    {
+      "number": 249,
+      "headword": "think back to sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（過去のことを）思い出す",
+      "proposedMeaning": "過去のことを思い出したり思い出したりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "過去のことを思い出したり思い出したりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 250,
+      "headword": "leave sb high and dry",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）見捨てる、困ったままにする",
+      "proposedMeaning": "困難な状況にある人を助けなしに見捨てること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "困難な状況にある人を助けなしに見捨てること",
+        "examples": null
+      }
+    },
+    {
+      "number": 251,
+      "headword": "lucky break",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "幸運な出来事、ラッキーブレイク",
+      "proposedMeaning": "偶然に起こる幸運な出来事",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "偶然に起こる幸運な出来事",
+        "examples": null
+      }
+    },
+    {
+      "number": 252,
+      "headword": "put one/s best foot forward",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ベストを尽くす、全力を出す",
+      "proposedMeaning": "良い印象を与えるために",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "良い印象を与えるために",
+        "examples": null
+      }
+    },
+    {
+      "number": 253,
+      "headword": "have the final say",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "最終決定権を持つ",
+      "proposedMeaning": "最終的な決定を下す権限を持つこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "最終的な決定を下す権限を持つこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 254,
+      "headword": "blow it",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "チャンスを棒に振る、失敗する",
+      "proposedMeaning": "自分のミスによって重要な機会を逃すこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分のミスによって重要な機会を逃すこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 255,
+      "headword": "fit like a glove",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ぴったり合う",
+      "proposedMeaning": "完璧にフィットするように",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "完璧にフィットするように",
+        "examples": null
+      }
+    },
+    {
+      "number": 256,
+      "headword": "quit while sb is ahead",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "勝ち逃げする、調子いいうちにやめる",
+      "proposedMeaning": "優位性を失う前に、先行している間に停止すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "優位性を失う前に、先行している間に停止すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 257,
+      "headword": "turn it around",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "状況を好転させる、立て直す",
+      "proposedMeaning": "ネガティブな状況を逆転させ、改善するために",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ネガティブな状況を逆転させ、改善するために",
+        "examples": null
+      }
+    },
+    {
+      "number": 258,
+      "headword": "show one/s hand",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "手の内を見せる、本音を明かす",
+      "proposedMeaning": "自分の計画、意図、戦略を明らかにすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分の計画、意図、戦略を明らかにすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 259,
+      "headword": "circa",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "およそ、～頃",
+      "proposedMeaning": "around (日付または数字と一緒に使用)",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "around (日付または数字と一緒に使用)",
+        "examples": null
+      }
+    },
+    {
+      "number": 260,
+      "headword": "jazz sth up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）華やかにする、盛り上げる",
+      "proposedMeaning": "何かをより刺激的、魅力的、または活気のあるものにする",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かをより刺激的、魅力的、または活気のあるものにする",
+        "examples": null
+      }
+    },
+    {
+      "number": 261,
+      "headword": "stick out like a sore thumb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "目立ちすぎる、場違いに目立つ",
+      "proposedMeaning": "場違いに見える方法で非常に目立つこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "場違いに見える方法で非常に目立つこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 262,
+      "headword": "born with a silver spoon in one/s hand",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "金持ちの生まれ、恵まれた環境の生まれ",
+      "proposedMeaning": "裕福な家庭に生まれ、働く必要がなかった",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "裕福な家庭に生まれ、働く必要がなかった",
+        "examples": null
+      }
+    },
+    {
+      "number": 263,
+      "headword": "touch and go",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "どうなるかわからない、危うい",
+      "proposedMeaning": "何かが起こるかどうかはまだ決まっていない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かが起こるかどうかはまだ決まっていない",
+        "examples": null
+      }
+    },
+    {
+      "number": 264,
+      "headword": "bounce",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "帰る、出る",
+      "proposedMeaning": "場所を離れる（俗語）",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "場所を離れる（俗語）",
+        "examples": null
+      }
+    },
+    {
+      "number": 265,
+      "headword": "up and running",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "稼働している、動いている",
+      "proposedMeaning": "動作しており、すぐに使用できます",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "動作しており、すぐに使用できます",
+        "examples": null
+      }
+    },
+    {
+      "number": 266,
+      "headword": "dirty laundry",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "家の汚れ、恥ずかしい秘密",
+      "proposedMeaning": "洗濯をする",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "洗濯をする",
+        "examples": null
+      }
+    },
+    {
+      "number": 267,
+      "headword": "rock the boat",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "波風を立てる、現状に挑戦する",
+      "proposedMeaning": "舟をこぐ",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "舟をこぐ",
+        "examples": null
+      }
+    },
+    {
+      "number": 268,
+      "headword": "give the green light",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ゴーサインを出す、許可を与える",
+      "proposedMeaning": "続行する許可を与えるには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "続行する許可を与えるには",
+        "examples": null
+      }
+    },
+    {
+      "number": 269,
+      "headword": "set in stone",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "確定している、変更できない",
+      "proposedMeaning": "石灰石",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "石灰石",
+        "examples": null
+      }
+    },
+    {
+      "number": 270,
+      "headword": "backhanded compliment",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "嫌味な褒め言葉、皮肉な褒め言葉",
+      "proposedMeaning": "実は侮辱である褒め言葉",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "実は侮辱である褒め言葉",
+        "examples": null
+      }
+    },
+    {
+      "number": 271,
+      "headword": "sing sb/s praises",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）褒めちぎる、絶賛する",
+      "proposedMeaning": "誰かを熱心に褒める",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かを熱心に褒める",
+        "examples": null
+      }
+    },
+    {
+      "number": 272,
+      "headword": "props to sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人に）称賛を、リスペクトを",
+      "proposedMeaning": "誰かに与えられた功績または評価 (スラング)",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かに与えられた功績または評価 (スラング)",
+        "examples": null
+      }
+    },
+    {
+      "number": 273,
+      "headword": "with a clean slate",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "白紙の状態で、過去の影響なしに",
+      "proposedMeaning": "過去に影響されずに新たなスタートを切る",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "過去に影響されずに新たなスタートを切る",
+        "examples": null
+      }
+    },
+    {
+      "number": 274,
+      "headword": "chip on one/s shoulder",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "負けん気、恨み、いつも不機嫌な態度",
+      "proposedMeaning": "怒ったり憤慨した態度をとる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "怒ったり憤慨した態度をとる",
+        "examples": null
+      }
+    },
+    {
+      "number": 275,
+      "headword": "chop-chop",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "早く早く、急いで",
+      "proposedMeaning": "急いで！ （非公式）",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "急いで！ （非公式）",
+        "examples": null
+      }
+    },
+    {
+      "number": 276,
+      "headword": "cool as a cucumber",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "冷静沈着な、動じない",
+      "proposedMeaning": "特にプレッシャーの下では非常に冷静",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "特にプレッシャーの下では非常に冷静",
+        "examples": null
+      }
+    },
+    {
+      "number": 277,
+      "headword": "knuckle down",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "本気を出す、集中して取り組む",
+      "proposedMeaning": "一生懸命、真剣に取り組み始めるには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "一生懸命、真剣に取り組み始めるには",
+        "examples": null
+      }
+    },
+    {
+      "number": 278,
+      "headword": "takeaway",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "要点、学び、持ち帰り",
+      "proposedMeaning": "お持ち帰り",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "お持ち帰り",
+        "examples": null
+      }
+    },
+    {
+      "number": 279,
+      "headword": "recap",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "要約、おさらい",
+      "proposedMeaning": "纏め、総括、綜括",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "纏め、総括、綜括",
+        "examples": null
+      }
+    },
+    {
+      "number": 280,
+      "headword": "ring a bell",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "どこかで聞いたことがある、ピンとくる",
+      "proposedMeaning": "鈴を鳴らす",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "鈴を鳴らす",
+        "examples": null
+      }
+    },
+    {
+      "number": 281,
+      "headword": "call a spade a spade",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "はっきり言う、飾らず言う",
+      "proposedMeaning": "飾り気なく、率直に正直に話すこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "飾り気なく、率直に正直に話すこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 282,
+      "headword": "front-load sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（作業を）前倒しする、序盤に集中する",
+      "proposedMeaning": "活動の大部分を最初に集中させるため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "活動の大部分を最初に集中させるため",
+        "examples": null
+      }
+    },
+    {
+      "number": 283,
+      "headword": "drip-feed sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）少しずつ提供する",
+      "proposedMeaning": "何かを少しずつ少しずつ提供すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを少しずつ少しずつ提供すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 284,
+      "headword": "wild goose chase",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "無駄な追跡、時間の無駄",
+      "proposedMeaning": "時間を無駄にする無意味な検索や活動",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "時間を無駄にする無意味な検索や活動",
+        "examples": null
+      }
+    },
+    {
+      "number": 285,
+      "headword": "spruce sth/sb up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何か／誰かを）きれいにする、おしゃれにする",
+      "proposedMeaning": "何かや誰かをよりきれいに、またはより魅力的に見せること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かや誰かをよりきれいに、またはより魅力的に見せること",
+        "examples": null
+      }
+    },
+    {
+      "number": 286,
+      "headword": "walk in sb/s shoes",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人の）立場になって考える、相手の気持ちを理解する",
+      "proposedMeaning": "他人の状況で自分を想像すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "他人の状況で自分を想像すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 287,
+      "headword": "spin wheels",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "空回りする、進展がない",
+      "proposedMeaning": "進歩せずに一生懸命働くこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "進歩せずに一生懸命働くこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 288,
+      "headword": "talk down to sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）見下して話す、小馬鹿にする",
+      "proposedMeaning": "相手が劣っているかのように話すこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "相手が劣っているかのように話すこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 289,
+      "headword": "full of oneself",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "うぬぼれている、自己中心的な",
+      "proposedMeaning": "自分自身に対して過度に高い評価を持つ",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分自身に対して過度に高い評価を持つ",
+        "examples": null
+      }
+    },
+    {
+      "number": 290,
+      "headword": "snapshot",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "概要、スナップショット",
+      "proposedMeaning": "状況の簡単な概要または概要",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "状況の簡単な概要または概要",
+        "examples": null
+      }
+    },
+    {
+      "number": 291,
+      "headword": "like pulling teeth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "歯を抜くような、非常に困難な",
+      "proposedMeaning": "歯を抜くような非常に困難でイライラすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "歯を抜くような非常に困難でイライラすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 292,
+      "headword": "pull the trigger",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "決断する、トリガーを引く",
+      "proposedMeaning": "最終的に決断し、行動に移すには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "最終的に決断し、行動に移すには",
+        "examples": null
+      }
+    },
+    {
+      "number": 293,
+      "headword": "sketchy",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "怪しい、あやしい",
+      "proposedMeaning": "危ない",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "危ない",
+        "examples": null
+      }
+    },
+    {
+      "number": 294,
+      "headword": "everything under the sun",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ありとあらゆるもの",
+      "proposedMeaning": "非常に幅広いもの",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に幅広いもの",
+        "examples": null
+      }
+    },
+    {
+      "number": 295,
+      "headword": "go-ahead",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ゴーサイン、許可",
+      "proposedMeaning": "青信号、許可が出る",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "青信号、許可が出る",
+        "examples": null
+      }
+    },
+    {
+      "number": 296,
+      "headword": "ramp up sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）大幅に増やす、強化する",
+      "proposedMeaning": "何かを大幅に増やすこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを大幅に増やすこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 297,
+      "headword": "play it by ear",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "臨機応変にやる、状況に応じて判断する",
+      "proposedMeaning": "決まった計画を立てずに、その場で決めていくこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "決まった計画を立てずに、その場で決めていくこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 298,
+      "headword": "sugarcoat sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）お世辞を言ってごまかす、美化する",
+      "proposedMeaning": "不快なものを受け入れやすくすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "不快なものを受け入れやすくすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 300,
+      "headword": "two sides of the same coin",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "表裏一体、同じコインの両面",
+      "proposedMeaning": "密接に関連している 2 つの事柄、または同じ問題の 2 つの側面",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "密接に関連している 2 つの事柄、または同じ問題の 2 つの側面",
+        "examples": null
+      }
+    },
+    {
+      "number": 301,
+      "headword": "black sheep",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "厄介者、はずれ者",
+      "proposedMeaning": "不名誉または部外者とみなされている家族の一員",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "不名誉または部外者とみなされている家族の一員",
+        "examples": null
+      }
+    },
+    {
+      "number": 302,
+      "headword": "take sth as gospel",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）絶対の真実として受け入れる、鵜呑みにする",
+      "proposedMeaning": "疑問を持たずに何かを完全に真実として受け入れること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "疑問を持たずに何かを完全に真実として受け入れること",
+        "examples": null
+      }
+    },
+    {
+      "number": 303,
+      "headword": "roll sth out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）展開する、本格始動する",
+      "proposedMeaning": "新しいものを正式に開始または導入する",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "新しいものを正式に開始または導入する",
+        "examples": null
+      }
+    },
+    {
+      "number": 304,
+      "headword": "rough sb up",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）殴る、脅す",
+      "proposedMeaning": "誰かを物理的に攻撃したり脅迫したりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かを物理的に攻撃したり脅迫したりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 305,
+      "headword": "the long and the short of it v2",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "要するに、長い話を短く言えば",
+      "proposedMeaning": "重要な点",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "重要な点",
+        "examples": null
+      }
+    },
+    {
+      "number": 306,
+      "headword": "not an exact science",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "精密科学ではない、確実ではない",
+      "proposedMeaning": "ある程度の不確実性を伴う",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ある程度の不確実性を伴う",
+        "examples": null
+      }
+    },
+    {
+      "number": 307,
+      "headword": "on second thought",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "よく考えたら、考え直すと",
+      "proposedMeaning": "考え直す",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "考え直す",
+        "examples": null
+      }
+    },
+    {
+      "number": 308,
+      "headword": "more art than science",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "科学というより芸術、感覚が重要",
+      "proposedMeaning": "正確なルールよりも直感と経験に基づく",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "正確なルールよりも直感と経験に基づく",
+        "examples": null
+      }
+    },
+    {
+      "number": 309,
+      "headword": "bite one/s own tongue",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "言いたいことをぐっとこらえる",
+      "proposedMeaning": "言いたいことを言わないようにすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "言いたいことを言わないようにすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 310,
+      "headword": "under lock and key",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "厳重に保管されている、鍵のかかった",
+      "proposedMeaning": "安全に施錠して保管",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "安全に施錠して保管",
+        "examples": null
+      }
+    },
+    {
+      "number": 311,
+      "headword": "rough around the edges",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "粗削りの、洗練されていない",
+      "proposedMeaning": "端が粗い",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "端が粗い",
+        "examples": null
+      }
+    },
+    {
+      "number": 312,
+      "headword": "at the eleventh hour",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "土壇場で、ぎりぎりのところで",
+      "proposedMeaning": "締め切り前の最後の瞬間に",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "締め切り前の最後の瞬間に",
+        "examples": null
+      }
+    },
+    {
+      "number": 313,
+      "headword": "over the hill",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "老いた、時代遅れの",
+      "proposedMeaning": "丘の頂上",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "丘の頂上",
+        "examples": null
+      }
+    },
+    {
+      "number": 314,
+      "headword": "settle one/s differences",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（争いを）解決する、和解する",
+      "proposedMeaning": "人々の間の意見の相違を解決するには",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人々の間の意見の相違を解決するには",
+        "examples": null
+      }
+    },
+    {
+      "number": 315,
+      "headword": "put in the hard yards",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "汗を流す、地道に努力する",
+      "proposedMeaning": "たくさんの努力と労力を費やすこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "たくさんの努力と労力を費やすこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 316,
+      "headword": "time-sensitive",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "時間が限られている、緊急の",
+      "proposedMeaning": "タイム・センシティブ、タイムセンシティブ",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "タイム・センシティブ、タイムセンシティブ",
+        "examples": null
+      }
+    },
+    {
+      "number": 317,
+      "headword": "have an eye for identifying sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）見抜く目がある、センスがある",
+      "proposedMeaning": "何かを認識したり特定したりする自然な能力を持つこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "何かを認識したり特定したりする自然な能力を持つこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 318,
+      "headword": "play out of one/s skin",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "超絶プレーする、ベストを出す",
+      "proposedMeaning": "通常のレベルを超えて、非常に優れたパフォーマンスを発揮すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "通常のレベルを超えて、非常に優れたパフォーマンスを発揮すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 319,
+      "headword": "throw in the towel",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "タオルを投げる、諦める",
+      "proposedMeaning": "負けを認めること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "負けを認めること",
+        "examples": null
+      }
+    },
+    {
+      "number": 320,
+      "headword": "diamond in the rough",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "原石、隠れた才能のある人",
+      "proposedMeaning": "ダイヤモンド",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ダイヤモンド",
+        "examples": null
+      }
+    },
+    {
+      "number": 321,
+      "headword": "take the sting out of sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かの）痛みを和らげる、ショックを軽くする",
+      "proposedMeaning": "不快なことの痛みや重さを軽くすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "不快なことの痛みや重さを軽くすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 322,
+      "headword": "shoot for the stars",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "高い目標を目指す、星を狙う",
+      "proposedMeaning": "流れ星",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "流れ星",
+        "examples": null
+      }
+    },
+    {
+      "number": 323,
+      "headword": "at the end of one/s rope",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "限界ギリギリ、もうダメなところまで来ている",
+      "proposedMeaning": "忍耐や我慢の限界で",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "忍耐や我慢の限界で",
+        "examples": null
+      }
+    },
+    {
+      "number": 324,
+      "headword": "keep sth to oneself",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）秘密にしておく、自分だけにしておく",
+      "proposedMeaning": "誰にも言わないでください",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰にも言わないでください",
+        "examples": null
+      }
+    },
+    {
+      "number": 325,
+      "headword": "weigh on sb/s mind",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人の）心を重くする、気になって仕方がない",
+      "proposedMeaning": "誰かに継続的な心配や不安を引き起こすこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かに継続的な心配や不安を引き起こすこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 327,
+      "headword": "straight and narrow",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "正道、まっすぐな道",
+      "proposedMeaning": "縦と横",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "縦と横",
+        "examples": null
+      }
+    },
+    {
+      "number": 328,
+      "headword": "pizzazz",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "華やかさ、派手さ、キラキラ感",
+      "proposedMeaning": "エネルギー、興奮、または魅力的なセンス",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "エネルギー、興奮、または魅力的なセンス",
+        "examples": null
+      }
+    },
+    {
+      "number": 329,
+      "headword": "strike while the iron/s hot",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "好機を逃さない、鉄は熱いうちに打て",
+      "proposedMeaning": "好条件の時にチャンスをものにする",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "好条件の時にチャンスをものにする",
+        "examples": null
+      }
+    },
+    {
+      "number": 330,
+      "headword": "talk shop",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "仕事の話をする",
+      "proposedMeaning": "卸問屋",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "卸問屋",
+        "examples": null
+      }
+    },
+    {
+      "number": 331,
+      "headword": "right under somebody/s nose",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "すぐ目の前なのに気づかない",
+      "proposedMeaning": "とても近くにあるのに気付かなかった",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "とても近くにあるのに気付かなかった",
+        "examples": null
+      }
+    },
+    {
+      "number": 332,
+      "headword": "go Dutch",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "割り勘にする",
+      "proposedMeaning": "気が狂う",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "気が狂う",
+        "examples": null
+      }
+    },
+    {
+      "number": 333,
+      "headword": "long shot",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "可能性は低いが試す価値がある",
+      "proposedMeaning": "成功する可能性は低いが、試してみる価値はある",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "成功する可能性は低いが、試してみる価値はある",
+        "examples": null
+      }
+    },
+    {
+      "number": 334,
+      "headword": "the powers that be",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "権力者、上層部",
+      "proposedMeaning": "重要な決定を下す権威者",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "重要な決定を下す権威者",
+        "examples": null
+      }
+    },
+    {
+      "number": 335,
+      "headword": "keep sb up at night",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人を）夜も眠れないほど心配させる",
+      "proposedMeaning": "誰かを心配させて夜も眠れなくなること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かを心配させて夜も眠れなくなること",
+        "examples": null
+      }
+    },
+    {
+      "number": 336,
+      "headword": "like two peas in a pod",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "うり二つ、そっくり",
+      "proposedMeaning": "ほぼ同じ",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ほぼ同じ",
+        "examples": null
+      }
+    },
+    {
+      "number": 337,
+      "headword": "razor thin",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "紙一重の、僅差の",
+      "proposedMeaning": "非常に狭い、または非常にわずかな差で",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に狭い、または非常にわずかな差で",
+        "examples": null
+      }
+    },
+    {
+      "number": 338,
+      "headword": "punchy",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "キレのある、簡潔で力強い",
+      "proposedMeaning": "簡潔、直接的、そしてインパクトのあるスタイル",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "簡潔、直接的、そしてインパクトのあるスタイル",
+        "examples": null
+      }
+    },
+    {
+      "number": 339,
+      "headword": "lax",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ゆるい、規則が甘い",
+      "proposedMeaning": "ルーズ",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ルーズ",
+        "examples": null
+      }
+    },
+    {
+      "number": 340,
+      "headword": "show face",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "顔を出す、姿を見せる",
+      "proposedMeaning": "社交イベントや集まりに出演する",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "社交イベントや集まりに出演する",
+        "examples": null
+      }
+    },
+    {
+      "number": 341,
+      "headword": "firing on all cyclinders",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "絶好調で動いている、フル稼働",
+      "proposedMeaning": "非常に良いパフォーマンスをしている",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常に良いパフォーマンスをしている",
+        "examples": null
+      }
+    },
+    {
+      "number": 342,
+      "headword": "ignorance is bliss",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "知らない方が幸せ、無知は罪ではない",
+      "proposedMeaning": "知らぬが仏。",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "知らぬが仏。",
+        "examples": null
+      }
+    },
+    {
+      "number": 343,
+      "headword": "steady the ship",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "状況を立て直す、船を安定させる",
+      "proposedMeaning": "困難な状況で安定性とコントロールを回復するため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "困難な状況で安定性とコントロールを回復するため",
+        "examples": null
+      }
+    },
+    {
+      "number": 344,
+      "headword": "collecting dust",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ほこりをかぶっている、使われていない",
+      "proposedMeaning": "座って未使用",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "座って未使用",
+        "examples": null
+      }
+    },
+    {
+      "number": 345,
+      "headword": "be of two minds",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "二つの気持ちがある、迷っている",
+      "proposedMeaning": "2 つの選択肢のどちらかを決定できません",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "2 つの選択肢のどちらかを決定できません",
+        "examples": null
+      }
+    },
+    {
+      "number": 346,
+      "headword": "gas guzzler",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ガソリンを大量に消費する車",
+      "proposedMeaning": "燃料を多く使う車",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "燃料を多く使う車",
+        "examples": null
+      }
+    },
+    {
+      "number": 347,
+      "headword": "so on and so forth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "などなど、その他いろいろ",
+      "proposedMeaning": "より多くの同じタイプを示すために使用されます",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "より多くの同じタイプを示すために使用されます",
+        "examples": null
+      }
+    },
+    {
+      "number": 348,
+      "headword": "bread and butter",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "主力、生計の糧",
+      "proposedMeaning": "パンくず",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "パンくず",
+        "examples": null
+      }
+    },
+    {
+      "number": 349,
+      "headword": "straw that broke the camel/s back",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "限界を超えた最後の一撃、我慢の限界",
+      "proposedMeaning": "すべてを崩壊させる最後の小さな問題",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "すべてを崩壊させる最後の小さな問題",
+        "examples": null
+      }
+    },
+    {
+      "number": 350,
+      "headword": "nag sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人に）うるさく言う、小言を言う",
+      "proposedMeaning": "誰かに対して繰り返し批判したり苦情を言ったりすること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かに対して繰り返し批判したり苦情を言ったりすること",
+        "examples": null
+      }
+    },
+    {
+      "number": 351,
+      "headword": "married to the idea",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（考えに）こだわりすぎている、固執している",
+      "proposedMeaning": "あるアイデアに完全にコミットし、変更することを望まない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "あるアイデアに完全にコミットし、変更することを望まない",
+        "examples": null
+      }
+    },
+    {
+      "number": 352,
+      "headword": "make or break sth/sb",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "成功か失敗かを分ける、運命を分ける",
+      "proposedMeaning": "成功か失敗かの決め手",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "成功か失敗かの決め手",
+        "examples": null
+      }
+    },
+    {
+      "number": 353,
+      "headword": "trailblazer",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "先駆者、道を切り開く人",
+      "proposedMeaning": "他の人のために道を切り開くイノベーター",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "他の人のために道を切り開くイノベーター",
+        "examples": null
+      }
+    },
+    {
+      "number": 354,
+      "headword": "take sth as read",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（何かを）当然として受け入れる、読んだものとする",
+      "proposedMeaning": "議論することなく、すでに理解されているものとして受け入れること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "議論することなく、すでに理解されているものとして受け入れること",
+        "examples": null
+      }
+    },
+    {
+      "number": 355,
+      "headword": "soften the blow",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（ショックを）和らげる、痛みを軽くする",
+      "proposedMeaning": "悪いニュースを少しでも動揺させないようにするため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "悪いニュースを少しでも動揺させないようにするため",
+        "examples": null
+      }
+    },
+    {
+      "number": 356,
+      "headword": "put one/s money where one/s mouth is",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "口だけでなく行動で示す、金を出す",
+      "proposedMeaning": "自分の言葉を行動、特にお金で裏付けること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分の言葉を行動、特にお金で裏付けること",
+        "examples": null
+      }
+    },
+    {
+      "number": 357,
+      "headword": "shell-shocked",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ショックで呆然としている",
+      "proposedMeaning": "ショックを受けたかのように唖然として反応できない",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ショックを受けたかのように唖然として反応できない",
+        "examples": null
+      }
+    },
+    {
+      "number": 358,
+      "headword": "hindsight is 20/20",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "後から見ればわかる、後知恵は完璧",
+      "proposedMeaning": "事後に何をすべきだったかが簡単にわかる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "事後に何をすべきだったかが簡単にわかる",
+        "examples": null
+      }
+    },
+    {
+      "number": 359,
+      "headword": "show sb the ropes",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人に）やり方を教える、ノウハウを伝える",
+      "proposedMeaning": "誰かに仕事や活動のやり方を教えること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かに仕事や活動のやり方を教えること",
+        "examples": null
+      }
+    },
+    {
+      "number": 360,
+      "headword": "put two and two together",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "推測する、いくつかの手がかりからわかる",
+      "proposedMeaning": "手がかりをつなぎ合わせて何かを理解すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "手がかりをつなぎ合わせて何かを理解すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 361,
+      "headword": "red herring",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ミスリード、かまけ",
+      "proposedMeaning": "誤解を招くもの、または本当の問題から目をそらすもの",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誤解を招くもの、または本当の問題から目をそらすもの",
+        "examples": null
+      }
+    },
+    {
+      "number": 362,
+      "headword": "take stock of sth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（状況を）見極める、評価する",
+      "proposedMeaning": "行動する前に状況を注意深く判断する",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "行動する前に状況を注意深く判断する",
+        "examples": null
+      }
+    },
+    {
+      "number": 363,
+      "headword": "pull some strings",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "コネを使う、裏で働きかける",
+      "proposedMeaning": "人形を使う",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人形を使う",
+        "examples": null
+      }
+    },
+    {
+      "number": 364,
+      "headword": "snappy",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "きつい、イライラしている",
+      "proposedMeaning": "イライラしやすい、または短気な",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "イライラしやすい、または短気な",
+        "examples": null
+      }
+    },
+    {
+      "number": 365,
+      "headword": "call the shots",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "主導権を握る、決定する",
+      "proposedMeaning": "相槌を打つ",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "相槌を打つ",
+        "examples": null
+      }
+    },
+    {
+      "number": 366,
+      "headword": "be-all and end-all",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "最重要事項、すべての中心",
+      "proposedMeaning": "心は一つ",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "心は一つ",
+        "examples": null
+      }
+    },
+    {
+      "number": 367,
+      "headword": "a few sandwiches short of a picnic",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ちょっと頭が足りない（冗談めいて）",
+      "proposedMeaning": "あまり知性が高くない（ユーモアたっぷり）",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "あまり知性が高くない（ユーモアたっぷり）",
+        "examples": null
+      }
+    },
+    {
+      "number": 368,
+      "headword": "on cloud nine",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "舞い上がっている、最高に幸せ",
+      "proposedMeaning": "雲の上",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "雲の上",
+        "examples": null
+      }
+    },
+    {
+      "number": 369,
+      "headword": "once-in-a-lifetime",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "一生に一度の、滅多にない",
+      "proposedMeaning": "非常にまれであり、再び起こる可能性は低い",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "非常にまれであり、再び起こる可能性は低い",
+        "examples": null
+      }
+    },
+    {
+      "number": 370,
+      "headword": "ask for the world",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "法外なことを要求する、欲張る",
+      "proposedMeaning": "不合理なことや過剰なことを要求すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "不合理なことや過剰なことを要求すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 371,
+      "headword": "under the table",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "こっそり、裏で",
+      "proposedMeaning": "下の表",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "下の表",
+        "examples": null
+      }
+    },
+    {
+      "number": 372,
+      "headword": "smooth things over",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（関係を）うまく収める、仲直りさせる",
+      "proposedMeaning": "人々の間の緊張や対立を解決するため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "人々の間の緊張や対立を解決するため",
+        "examples": null
+      }
+    },
+    {
+      "number": 373,
+      "headword": "David and Goliath",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ダビとゴリアテ、格の違う対決",
+      "proposedMeaning": "小規模または弱いパーティがはるかに強力な敵に直面する状況",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "小規模または弱いパーティがはるかに強力な敵に直面する状況",
+        "examples": null
+      }
+    },
+    {
+      "number": 374,
+      "headword": "sight for sore eyes",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ありがたい存在、見て安心する",
+      "proposedMeaning": "目の薬",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "目の薬",
+        "examples": null
+      }
+    },
+    {
+      "number": 375,
+      "headword": "tempest in a teapot",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "大げさな騒ぎ、小さなことでの大騒ぎ",
+      "proposedMeaning": "重要ではないことに対する激しい怒りや興奮",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "重要ではないことに対する激しい怒りや興奮",
+        "examples": null
+      }
+    },
+    {
+      "number": 376,
+      "headword": "sick",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "すごい、最高",
+      "proposedMeaning": "とても印象的です（俗語）",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "とても印象的です（俗語）",
+        "examples": null
+      }
+    },
+    {
+      "number": 377,
+      "headword": "all/s well that ends well",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "終わり良ければすべて良し",
+      "proposedMeaning": "終わり良ければ全て良し。",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "終わり良ければ全て良し。",
+        "examples": null
+      }
+    },
+    {
+      "number": 378,
+      "headword": "selective memory",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "都合のいい記憶、選択的記憶",
+      "proposedMeaning": "都合のいいことだけ覚えてあとは忘れる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "都合のいいことだけ覚えてあとは忘れる",
+        "examples": null
+      }
+    },
+    {
+      "number": 379,
+      "headword": "sell oneself short",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "自分を過小評価する、自分に自信がない",
+      "proposedMeaning": "自分の能力や価値を過小評価すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "自分の能力や価値を過小評価すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 380,
+      "headword": "be in for the long haul",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "長期戦覚悟の、長い目で見る",
+      "proposedMeaning": "簡単に諦めないこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "簡単に諦めないこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 381,
+      "headword": "speaks for itself",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "説明不要の、明らかな",
+      "proposedMeaning": "説明するまでもなく明らか",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "説明するまでもなく明らか",
+        "examples": null
+      }
+    },
+    {
+      "number": 382,
+      "headword": "pump iron",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ウェイトトレーニングをする",
+      "proposedMeaning": "重りを使って運動する",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "重りを使って運動する",
+        "examples": null
+      }
+    },
+    {
+      "number": 383,
+      "headword": "move heaven and earth",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "何としてでもやる、全力を尽くす",
+      "proposedMeaning": "天と地",
+      "meaningSource": "weblio",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "天と地",
+        "examples": null
+      }
+    },
+    {
+      "number": 384,
+      "headword": "throw sb a bone",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "（人に）小さな譲歩をする、お情けをかける",
+      "proposedMeaning": "誰かにちょっとした譲歩や形だけのジェスチャーを与えること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かにちょっとした譲歩や形だけのジェスチャーを与えること",
+        "examples": null
+      }
+    },
+    {
+      "number": 385,
+      "headword": "full steam ahead",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "全力前進、フルスピードで",
+      "proposedMeaning": "最大限のエネルギーとスピードで前進する",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "最大限のエネルギーとスピードで前進する",
+        "examples": null
+      }
+    },
+    {
+      "number": 386,
+      "headword": "picture this",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "想像してみて、こういう場面を",
+      "proposedMeaning": "誰かに情景を想像してもらうために使用されます",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かに情景を想像してもらうために使用されます",
+        "examples": null
+      }
+    },
+    {
+      "number": 387,
+      "headword": "ship shape",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "きちんとした、整然とした",
+      "proposedMeaning": "きちんと、整理整頓され、よく整理されている",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "きちんと、整理整頓され、よく整理されている",
+        "examples": null
+      }
+    },
+    {
+      "number": 388,
+      "headword": "run riot",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "暴れる、手に負えない",
+      "proposedMeaning": "乱暴に、あるいは制御不能に行動すること",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "乱暴に、あるいは制御不能に行動すること",
+        "examples": null
+      }
+    },
+    {
+      "number": 389,
+      "headword": "kudos",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "称賛、敬意",
+      "proposedMeaning": "業績に対する賞賛または表彰",
+      "meaningSource": "translate",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "業績に対する賞賛または表彰",
+        "examples": null
+      }
+    },
+    {
+      "number": 390,
+      "headword": "stars are aligned",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "星が揃っている、条件が整っている",
+      "proposedMeaning": "成功に有利な条件が整っている",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "成功に有利な条件が整っている",
+        "examples": null
+      }
+    },
+    {
+      "number": 391,
+      "headword": "carry a tune",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "音程が合う、歌が上手い",
+      "proposedMeaning": "良い歌声を持つこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "良い歌声を持つこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 392,
+      "headword": "the Midas touch",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ミダスの手、何をやっても成功する才能",
+      "proposedMeaning": "あなたが触れたものすべてを成功させる能力",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "あなたが触れたものすべてを成功させる能力",
+        "examples": null
+      }
+    },
+    {
+      "number": 393,
+      "headword": "nothing to sneeze at",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "侮れない、小さくない",
+      "proposedMeaning": "重要ではない",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "重要ではない",
+        "examples": null
+      }
+    },
+    {
+      "number": 394,
+      "headword": "walk on eggshells",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "気を使う、慎重に行動する",
+      "proposedMeaning": "誰かを傷つけないように細心の注意を払うこと",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "誰かを傷つけないように細心の注意を払うこと",
+        "examples": null
+      }
+    },
+    {
+      "number": 395,
+      "headword": "walk on sunshine",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "幸せで浮かれている、上機嫌",
+      "proposedMeaning": "とても幸せで多幸感",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "とても幸せで多幸感",
+        "examples": null
+      }
+    },
+    {
+      "number": 396,
+      "headword": "play on words",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "駄洒落、語呂合わせ",
+      "proposedMeaning": "二重の意味を持つ言葉のユーモラスな使い方",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "二重の意味を持つ言葉のユーモラスな使い方",
+        "examples": null
+      }
+    },
+    {
+      "number": 397,
+      "headword": "scratch the surface",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "表面だけ触れる、ほんの一部に過ぎない",
+      "proposedMeaning": "より大きな問題のほんの一部にのみ対処するため",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "より大きな問題のほんの一部にのみ対処するため",
+        "examples": null
+      }
+    },
+    {
+      "number": 398,
+      "headword": "staycation",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "自宅休暇、近場の休暇",
+      "proposedMeaning": "ホカンス",
+      "meaningSource": "jisho",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "ホカンス",
+        "examples": null
+      }
+    },
+    {
+      "number": 399,
+      "headword": "stretch goal/target",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "ストレッチ目標、高めの目標",
+      "proposedMeaning": "達成可能と思われる範囲を超えた野心的な目標",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "達成可能と思われる範囲を超えた野心的な目標",
+        "examples": null
+      }
+    },
+    {
+      "number": 400,
+      "headword": "on the way out",
+      "issue": "meaning_mismatch",
+      "currentMeaning": "時代遅れになりつつある、廃れつつある",
+      "proposedMeaning": "時代遅れになる、またはファッショナブルではなくなる",
+      "meaningSource": "translate_idiom",
+      "exampleFixes": {},
+      "fixes": {
+        "japaneseMeaning": "時代遅れになる、またはファッショナブルではなくなる",
+        "examples": null
+      }
+    }
+  ],
+  "total": 400
+}

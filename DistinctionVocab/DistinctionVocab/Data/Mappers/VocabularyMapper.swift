@@ -20,7 +20,9 @@ enum VocabularyMapper {
             headword: wordDTO.headword,
             headwordAudioResource: AudioResourceReference(relativePath: wordDTO.headwordAudio),
             phonetic: wordDTO.phonetic,
+            nativeDefinition: wordDTO.nativeDefinition,
             japaneseMeaning: wordDTO.japaneseMeaning,
+            etymology: wordDTO.etymology,
             exampleSentences: wordDTO.examples.map(mapExample)
         )
     }
